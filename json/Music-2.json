@@ -1,0 +1,2645 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 1909,
+        "perPage": 50,
+        "currentPage": 2,
+        "lastPage": 39,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 4720,
+          "title": {
+            "userPreferred": "WHITE ALBUM"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4720.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4720.jpg",
+            "color": "#e4a15d"
+          },
+          "startDate": {
+            "year": 2009,
+            "month": 1,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 3,
+            "day": 29
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4720-kuH3bRSfgnKg.jpg",
+          "season": "WINTER",
+          "description": "Adapted from the Leaf eroge.<br><br>\nThe White Album game centers around Touya Fujii, a college student dating a rising idol singer named Yuki Morikawa. The game deals with the challenges to the couple&rsquo;s relationship from the other people at Fujii's college, Morikawa&rsquo;s work, and elsewhere.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Music",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 17579,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3572,
+          "title": {
+            "userPreferred": "Macross Frontier"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3572-qYJhokKdsnZR.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3572-qYJhokKdsnZR.png",
+            "color": "#e41a0d"
+          },
+          "startDate": {
+            "year": 2008,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2008,
+            "month": 9,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3572.jpg",
+          "season": "SPRING",
+          "description": "After being threatened by extinction at the hands of alien invaders called the Zentradi, humanity undertook the task of guaranteeing itself a future by launching fleets of colony ships into space. On Macross Frontier, one such fleet, high school student Saotome Alto's life is changed forever: the fleet is suddenly attacked by unidentified creatures while he is performing aerial stunts for a concert by the wildly popular idol Sheryl. <br><br>\nAlto quickly finds himself in the cockpit of a new-model fighter struggling to protect Ranka Lee, a young girl he met only hours earlier, from the invaders' swath of destruction. Noting his performance during this incident, the S.M.S. Skull Squadron private military company invites Alto to join their organization, where he continues protecting his friends and Macross Frontier.<br><br>\n(Source: Anime-Planet)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 25,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Music",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 76,
+          "popularity": 17484,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 41,
+                  "name": "Satelight"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 113970,
+          "title": {
+            "userPreferred": "Love Live! Nijigasaki Gakuen School Idol Doukoukai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113970-rm3x90INptov.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113970-rm3x90INptov.png",
+            "color": "#35aee4"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 10,
+            "day": 3
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113970-pGc0E1wBiMhD.jpg",
+          "season": "FALL",
+          "description": "Nijigasaki High School is known for their diverse subjects and the freedom they give to students. Second-year student Yuu Takasaki has been turned on to the charms of school idols, so she knocks on the door of the School Idol Club with her friend, Ayumu Uehara. Sometimes friends, sometimes rivals, the members of this club each contribute their own thoughts and motivations to the group.<br>\n<br>\n(Source: Funimation)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 74,
+          "popularity": 16470,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1088,
+          "title": {
+            "userPreferred": "Choujikuu Yousai Macross"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1088-93Z9LYWcKyZX.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1088-93Z9LYWcKyZX.jpg",
+            "color": "#f1a150"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 10,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1983,
+            "month": 6,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1088-qEDmlgWXrKH3.jpg",
+          "season": "FALL",
+          "description": "In 1999, an alien ship crashes on South Atalia Island and makes the human race aware of other life in space. Ten years later, the ship is reconstructed and christened as the SDF-1 Macross. However, on the day of its maiden voyage, an alien race called the Zentraedi make their appearance on Earth, beginning the UN Spacy/Zentraedi war that would change the history of both races forever.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 36,
+          "duration": 26,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mecha",
+            "Music",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 75,
+          "popularity": 16197,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 103,
+                  "name": "Tatsunoko Production"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 199,
+                  "name": "Studio Nue"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 20693,
+          "title": {
+            "userPreferred": "THE IDOLM@STER Cinderella Girls"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20693-sEsunmlYg95U.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20693-sEsunmlYg95U.jpg",
+            "color": "#e45d78"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 1,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 4,
+            "day": 11
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20693-tJraLfTBezRW.jpg",
+          "season": "WINTER",
+          "description": "There are many idols with long-established talent agency 346 Production. And now the company is starting a new program, the Cinderella Project!<br>\n<br>\nGirls leading normal lives...<br>\n<br>\nThey are chosen to be aspiring idols and see another world for the first time in this Cinderella story. Can they all climb the stairs that lead to the palace?<br>\n<br>\nThe magic begins now...<br>\n<br>\n(Source: Daisuki)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 69,
+          "popularity": 16134,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 561,
+                  "name": "A-1 Pictures"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 109856,
+          "title": {
+            "userPreferred": "LISTENERS"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109856-zDYLvuF4Vuno.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109856-zDYLvuF4Vuno.jpg",
+            "color": "#78aed6"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 6,
+            "day": 20
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109856-rW8JlTsPbjey.jpg",
+          "season": "SPRING",
+          "description": "In a post-apocalyptic future that has been torn apart by shadowy creatures known as the Earless, humanity's heroes are the Players, who pilot mecha known as Equipment to battle their inhuman enemies while earning fame and fortune to boot. Echo is a young tech-head who dreams of working amongst the Players and their Equipment, going so far as to build a makeshift mecha of his own, but he has long since resigned himself to life in the destitute scrap-heaps that cover so much of the world, now. That is, until he discovers an amnesiac named μ (or “Mu”) who has a mechanical port in her back that is the telltale sign of a Player. The pair become fast friends, and they vow to use their skills to fight for the world and defeat The Earless.<br>\n<br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Music",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 16017,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 569,
+                  "name": "MAPPA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 113652,
+          "title": {
+            "userPreferred": "Hypnosis Mic: Division Rap Battle - Rhyme Anima"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113652-7WIsHy0qYgt1.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113652-7WIsHy0qYgt1.png",
+            "color": "#86281a"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 10,
+            "day": 3
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113652-l6CoMFCTlPJq.jpg",
+          "season": "FALL",
+          "description": "After the war, women have taken over ruling politics in the Chuo ward and have banned and destroyed weapons. This has caused men to fight through rap battles using Hypnosis Mics, which can be used to affect people's sympathetic nerves and influence their thought process. However, the legendary rap group, The Dirty Dawg, has split up into four groups, each representing a division of Tokyo, Japan and are engaging in territorial battles using words and the HypMics.\n<br>\n<br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Music",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 15891,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 561,
+                  "name": "A-1 Pictures"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 165,
+          "title": {
+            "userPreferred": "RahXephon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165-9C0TDb0uJJSF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165-9C0TDb0uJJSF.jpg",
+            "color": "#e4865d"
+          },
+          "startDate": {
+            "year": 2002,
+            "month": 1,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 9,
+            "day": 10
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/165-HD5hnoHOeJt0.png",
+          "season": "WINTER",
+          "description": "In the year 2012 Japan was invaded by the Mu. Human-like beings from another dimension with blue blood.<br><br>\nIn the year 2015 Tokyo is attacked by invaders, who are repelled by a humanoid weapon called a Dolem. During the chaos, Ayato Kamina meets Reika Mishima, a classmate.<br><br>\nDuring that same day, he is attacked by government officials but a woman named Haruka comes to his rescue, informing him that she was sent to get him by the Organization TERRA, and that Tokyo had been sealed in a time rift where time flows one third as fast as the outside world.<br><br>\nHe flees from Haruka onto a train where he sees Reika once more. Arriving at the Room of Rah, he follows her to a tremendous egg where the Dolem RahXephon is hatched from, and upon her singing his mother appears atop the Dolem that had stopped the TERRA Invasion. In the battle Ayato's mother is injured, and Ayato flees Tokyo Jupiter with Haruka upon seeing his mother's blue blood. ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Mecha",
+            "Music",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 70,
+          "popularity": 15849,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 4,
+                  "name": "bones"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 20843,
+          "title": {
+            "userPreferred": "SHOW BY ROCK!!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20843-bk5OtUiP8htg.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20843-bk5OtUiP8htg.png",
+            "color": "#e443a1"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 4,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 6,
+            "day": 21
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20843-ghI0sFaPJiQH.jpg",
+          "season": "SPRING",
+          "description": "Metropolis of music, MIDICITY. A kitty girl wearing gothic lolita clothing named Cyan is scouted by Maple Arisugawa, the president of a music agency. From there, she meets Chuchu (a pun off of the sound that rabbits make) the honor student rabbit girl, a net geek dog girl named Retoree (from \"Retriever\"), and an alien sheep (?) girl named Moa. Together, they form the band named \"Plasmagica,\" and aim for the top of the world.<br>\n<br>\nHowever, the path there is long and tough, and keeping in high spirits is important. By battling against other strange bands, Plasmagica slowly grows toward a top-grade band. In the end, they'll be a band that becomes the driving force of MIDICITY's music industry... Maybe?<br>\n<br>\nGonna be a music millionaire!<br>\n<br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 66,
+          "popularity": 15799,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 4,
+                  "name": "bones"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 101992,
+          "title": {
+            "userPreferred": "Hibike! Euphonium: Chikai no Finale"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101992-VZSoKfiRXscs.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101992-VZSoKfiRXscs.jpg",
+            "color": "#f1c95d"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 4,
+            "day": 19
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 4,
+            "day": 19
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101992-ymVmRVjQC1hd.jpg",
+          "season": "SPRING",
+          "description": "The next piece begins! Kumiko is now in her second year at Kitauji High School, and with a new year comes new problems. As if making it to Nationals wasn't hard enough, Kumiko is tasked with mentoring the concert band's troublesome first years – each with their own distinct personality and problems to solve. With Kumiko busy juggling both the concert band and her new role as senpai, how does her relationship with Shuuichi fit into the picture?<br>\n<br>\n(Source: Shout! Factory)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 100,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 77,
+          "popularity": 15677,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 2,
+                  "name": "Kyoto Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21213,
+          "title": {
+            "userPreferred": "Haruchika: Haruta to Chika wa Seishun Suru"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21213-9TdiQ4jB6Jiv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21213-9TdiQ4jB6Jiv.jpg",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 1,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 24
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21213-1z2LH8jQL10D.jpg",
+          "season": "WINTER",
+          "description": "Things look bleak for the school’s Wind Instrument Club until childhood friends Haruta and Chika step in to save the day. When they aren’t practicing to perfect their own playing, they’re working hard to save the club by recruiting new members. After a series of mysteries shock the school, they’ll have to add junior detectives to their already impressive resumes.\n<br>\n<br>\n(Source: FUNimation)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Mystery",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 15492,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 132,
+                  "name": "P.A. Works"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 15793,
+          "title": {
+            "userPreferred": "Senki Zesshou Symphogear G"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15793-CNcrWE9Eqzkg.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15793-CNcrWE9Eqzkg.png",
+            "color": "#e4bb43"
+          },
+          "startDate": {
+            "year": 2013,
+            "month": 6,
+            "day": 24
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 9,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/15793-GoMI0yDfAZfl.jpg",
+          "season": "SUMMER",
+          "description": "The second season of <i>Senki Zesshou Symphogear</i>.<br>\n<br>\nThe sky is waiting.<br>\n<br>\nWith their normal lives secured, the Symphogear wielders join a Japanese-American research initiative. Each, living their own lives, has been given a single order: protect Sacrist S. As a completed relic, it is of upmost importance to both Irregular Threat Response and the American Federal Institute of Sacrists, and now, the wielders must escort it to the American military base in Iwakuni. The operation should have gone smoothly with both sides now cooperating. But a dark storm during the night hid a new threat until it was almost too late: the Noise. And with the doors of Babylon's treasury thrown wide, they have only increased in number. But then, amidst the rising dissonance of a destruction brought on by the Noise's alien anatomy, a girl's voice raised in song thunders out, as though piercing through them. \"This is my Gungnir!\" The cry of the first known human to fuse with a relic, Hibiki Tachibana.<br>\n<br>\nThe Noise flooding in, their movements orchestrated. The specter of the one pulling their strings looming above them. And then, the songs. The curtain rises on a new clash between mere melodies, and songs through which these girls' blood flows.\n<br><br>\n(Source: Discotek Media)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mahou Shoujo",
+            "Music",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 73,
+          "popularity": 14544,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 41,
+                  "name": "Satelight"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 20680,
+          "title": {
+            "userPreferred": "Macross Δ"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20680-kY9PLE1oYArQ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20680-kY9PLE1oYArQ.png",
+            "color": "#5daef1"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 3
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 9,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Macross Delta is set in the year 2067, 8 years after the events of the latest Macross TV series, Macross Frontier. The story focuses on Walküre, a team of talented idols and the Delta Squadron, a team of experienced Valkyrie pilots as they battle against the Var Syndrome, a mysterious phenomena that is consuming the galaxy and there is also the mysterious Aerial Knights Valkyrie fighter team of the Kingdom of Wind.<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Music",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 69,
+          "popularity": 14453,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 41,
+                  "name": "Satelight"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 5690,
+          "title": {
+            "userPreferred": "Nodame Cantabile Finale"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx5690-FEBLLRnlMvlx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx5690-FEBLLRnlMvlx.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2010,
+            "month": 1,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2010,
+            "month": 3,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n5690-9lv3wPkcJmyW.jpg",
+          "season": "WINTER",
+          "description": "The series continues the relationship between two aspiring classical musicians, Megumi \"Nodame\" Noda and Shinichi Chiaki, as students and after graduation.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 11,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 80,
+          "popularity": 13732,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 110857,
+          "title": {
+            "userPreferred": "Aggressive Retsuko Season 3"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110857-wtIzQDLGjGYB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110857-wtIzQDLGjGYB.jpg",
+            "color": "#f18650"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 8,
+            "day": 27
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 8,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110857-LiKgYrux52w7.jpg",
+          "season": "SUMMER",
+          "description": "Retsuko’s rage rises another octave when she finds herself moonlighting with an underground idol group to pay off her debts. \n(Source: Netflix)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 10,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 78,
+          "popularity": 13684,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 866,
+                  "name": "Fanworks"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21376,
+          "title": {
+            "userPreferred": "Hibike! Euphonium: Kakedasu Monaka"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21376-MwAfybEhcdZf.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21376-MwAfybEhcdZf.jpg",
+            "color": "#d6bb6b"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 16
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 16
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21376-XTaG3JNylo4J.png",
+          "season": "FALL",
+          "description": "The 10 members of the concert band club who failed Taki's audition form \"Team Monaka\" to support the club members participating in the Kyoto Concert Band competition. Even as they support the performers, they continue to hone their playing, and make monaka-shaped good-luck charms to hand out to their club mates before the competition. Although they didn't play in the competition, they still had things they had to do. But on the day of the competition, the members on their way to the concert hall receive a shocking message! This is Team Monaka's hot summer story.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 74,
+          "popularity": 13620,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 2,
+                  "name": "Kyoto Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4477,
+          "title": {
+            "userPreferred": "Nodame Cantabile: Paris-hen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx4477-Qg9EwJP1f5NF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx4477-Qg9EwJP1f5NF.jpg",
+            "color": "#0dbbf1"
+          },
+          "startDate": {
+            "year": 2008,
+            "month": 10,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2008,
+            "month": 12,
+            "day": 19
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n4477-t23iFe7Su3Ff.jpg",
+          "season": "FALL",
+          "description": "Having been given the opportunity to study in Paris, Noda accompanies Chiaki to Europe as he strives to become the accomplished conductor he always dreamt to be.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 11,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 78,
+          "popularity": 13476,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 87495,
+          "title": {
+            "userPreferred": "IDOLiSH7"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87495-ARGOIUGZreoN.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87495-ARGOIUGZreoN.jpg",
+            "color": "#e4a143"
+          },
+          "startDate": {
+            "year": 2018,
+            "month": 1,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2018,
+            "month": 5,
+            "day": 19
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/87495-OZlkyUvX36Wc.jpg",
+          "season": "WINTER",
+          "description": "A group of aspiring idols gather at Takanashi Productions and are entrusted with the company's future. The seven men who have just met represent a variety of totally different personalities. However, they each have their own charm and possess unknown potential as idols. Forming a group, they take their first step together as \"IDOLiSH7.\" Their brilliantly shining dancing forms onstage eventually begin captivating the hearts of the people.<br>\n<br>\n(Source: Anime News Network)<br>\n<br>\n<i>Episodes 1-2 were pre-streamed on November 3, 2017.</i>",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 17,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 75,
+          "popularity": 12992,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6068,
+                  "name": "TROYCA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 127271,
+          "title": {
+            "userPreferred": "Ryuu to Sobakasu no Hime"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127271-moau0b6NsMWl.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127271-moau0b6NsMWl.jpg",
+            "color": "#e45086"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 7,
+            "day": 16
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 7,
+            "day": 16
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127271-dRwTUnH3bJOt.jpg",
+          "season": "SUMMER",
+          "description": "The protagonist of this story, Suzu, is a 17-year old high school girl living with her father in a rural town of Kochi — their town is a textbook definition of depopulation in the Japanese countryside. Wounded by the loss of her mother at a young age, Suzu one day discovers the massive online world, “U,” and dives into this alternate reality as her avatar, Belle. Before long, all of U’s eyes are fixed on Belle (Suzu), when one day the mysterious and infamous Dragon-like figure appears before her.\n<br><br>\n(Source: Official Site)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 122,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Music",
+            "Mystery",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 77,
+          "popularity": 12827,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 555,
+                  "name": "Studio Chizu"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 114979,
+          "title": {
+            "userPreferred": "Love Live! Superstar!!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114979-H9anmAB2Z7uo.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114979-H9anmAB2Z7uo.jpg",
+            "color": "#febb50"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 7,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 17
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114979-Y79Nzyxyy65O.jpg",
+          "season": "SUMMER",
+          "description": "Tokyo’s brand-new Yuigaoka Girls’ High School has no history, no upperclassmen, and no reputation—its first students are starting from scratch! A team of five girls led by Kanon Shibuya discover school idols, and their hopes to do something with singing begin to grow. They begin the “School Idol Project” with a blank slate and infinite potential. It’s time for their Love Live to take flight!<br><br>(Source: Funimation)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 79,
+          "popularity": 12762,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 113814,
+          "title": {
+            "userPreferred": "IDOLY PRIDE"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113814-HvgpmDKpgHql.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113814-HvgpmDKpgHql.png",
+            "color": "#fe9328"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 1,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 3,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113814-X3M1HVWQHVIU.jpg",
+          "season": "WINTER",
+          "description": "After a successful audition, high school student Kotono Nagase and her best friend move into a dorm with eight other aspiring idols. They quickly realize it takes more than cute choreography and cute outfits to reach the top—it will take blood, sweat, and tears to advance in the idol-ranking VENUS program, where the top spot is held by superstar Mana Nagase…who happens to be Kotono’s older sister.\n<br><br>(Source: Funimation)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Music",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 70,
+          "popularity": 12758,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 456,
+                  "name": "Lerche"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 20455,
+          "title": {
+            "userPreferred": "SoniAni: Super Sonico The Animation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20455-idVtmB4eERac.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20455-idVtmB4eERac.png",
+            "color": "#f1c90d"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 1,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 3,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Super Sonico is the mascot girl of the \"Nitro Super Sonic\" events held by Nitroplus. In her back story, she is already a photoshoot model, game character, and a musician, even as she studies as a college student.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 12551,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 314,
+                  "name": "White Fox"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 98249,
+          "title": {
+            "userPreferred": "Yoake Tsugeru Lu no Uta"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98249-GGofHwFCZjE0.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98249-GGofHwFCZjE0.jpg",
+            "color": "#e4a135"
+          },
+          "startDate": {
+            "year": 2017,
+            "month": 5,
+            "day": 19
+          },
+          "endDate": {
+            "year": 2017,
+            "month": 5,
+            "day": 19
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98249-DSPzbbx4H87t.jpg",
+          "season": "SPRING",
+          "description": "Kai Ashimoto, a gloomy young middle schooler, lives in Hinashi Town, a lonely fishing village, with his father and his grandfather, a parasol maker. He used to live in Tokyo, but after his parents divorced he moved back to his father's home town. Kai has trouble telling his parents the complicated feelings he has for them, and he's lonely and pessimistic about his school life. One of his joys is uploading songs he writes to the internet.\n\nOne day, his classmates Kunio and Yuuho invite him to join their band, \"SEIREN\". As he reluctantly follows them to Merfolk Island, their practice spot, they meet Lu, the mermaid. Lu sings merrily and dances innocently. As Kai begins to spend time with her, he starts to be able to say what it is that he's really thinking.\n<br></br>(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 112,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy",
+            "Music",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 72,
+          "popularity": 12445,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6145,
+                  "name": "Science SARU"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21512,
+          "title": {
+            "userPreferred": "Ensemble Stars!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21512-I6e1ms2cDpCE.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21512-I6e1ms2cDpCE.png",
+            "color": "#ffd61a"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21512-IsLRLFvi2Amb.jpg",
+          "season": "SUMMER",
+          "description": "An anime adaptation of the idol raising game <i>Ensemble Stars!</i><br><br>\n\nThe \"idol-training game\" takes place at a private boys' idol-training school with a history of turning out many great talents in show business. The protagonist is the school's lone female student who transfers to the school because of a special situation, and enters the school's producer department.<br><br>\n\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 12281,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 287,
+                  "name": "David Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 20560,
+          "title": {
+            "userPreferred": "Senki Zesshou Symphogear GX"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20560-ghaHjE5lfnEt.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20560-ghaHjE5lfnEt.png",
+            "color": "#f1d65d"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 9,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20560-oDqWXO5CXrwy.jpg",
+          "season": "SUMMER",
+          "description": "The third season of <i>Senki Zesshou Symphogear</i>.<br>\n<br>\nFollowing the events of <i>Senki Zesshou Symphogear G</i>, Hibiki Tachibana, Tsubasa Kazanari, and Chris Yukine continue to operate under the command of Genjuurou Kazanari. Meanwhile, Maria Cadenzavna Eve, Kirika Akatsuki, and Shirabe Tsukuyomi are taken into protective custody. With peace restored, everyone returns to their daily lives; however, the appearance of the alchemist Carol Malus Dienheim and her subordinates—the \"Autoscorers\"—threatens to draw everyone back into a conflict.<br>\n<br>\nArmed with a strange and magical power, Carol wishes to initiate the apocalypse and bring destruction to the world... and she is willing to sacrifice everything to do so. Against this mysterious new foe, the six Symphogear wielders must rise to the challenge in order to protect what they hold dear. However, will Carol and her Autoscorers prove to be too much to handle in this fight to protect the fate of the world?<br>\n<br>\n(Source: MAL Rewrite)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mahou Shoujo",
+            "Music",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 73,
+          "popularity": 12114,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 41,
+                  "name": "Satelight"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 99807,
+          "title": {
+            "userPreferred": "22/7"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99807-bkaSfYalAcbf.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99807-bkaSfYalAcbf.jpg",
+            "color": "#aea1e4"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 1,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 3,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99807-DZaDma3xetsL.jpg",
+          "season": "WINTER",
+          "description": "One day, Miu Takigawa suddenly receives a letter notifying her that she has been chosen as a member of a brand-new project. Half in disbelief, she heads over to the location stated on the letter. There, she finds seven other girls summoned there in the same fashion. The girls behold a giant, top-secret facility. They stand in bewilderment as they are told:<br>\n<br>\n\"You are going to debut for a major record label as an idol group.\"<br>\n<br>\nA new kind of idol, never-before-seen, is about to be born here…<br>\n<br>\n(Source: Aniplex of America)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 11945,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 561,
+                  "name": "A-1 Pictures"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 122,
+          "title": {
+            "userPreferred": "Full Moon wo Sagashite"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx122-v7o2GtrjTC6w.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx122-v7o2GtrjTC6w.jpg",
+            "color": "#50aee4"
+          },
+          "startDate": {
+            "year": 2002,
+            "month": 4,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2003,
+            "month": 3,
+            "day": 29
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/122-JLidxTMPRE7r.jpg",
+          "season": "SPRING",
+          "description": "Twelve-year-old Kouyama Mitsuki was devastated when she was diagnosed with a malignant tumor of the throat. She had made a promise to the boy she loves that she would one day become a singer, but her illness made singing impossible. To make matters even worse, two angels of death, Takuto and Meroko, appeared to Mitsuki and informed her that she only had one year left to live. This news provides an even greater motivation for Mitsuki to fulfill her dreams, and with a little bit of divine intervention, she begins her quest to become a professional singer so she can be reunited with Eichi before time runs out. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Mahou Shoujo",
+            "Music",
+            "Romance",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 75,
+          "popularity": 11622,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 97683,
+          "title": {
+            "userPreferred": "Tenshi no 3P!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97683-UOTfBliOP0mK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx97683-UOTfBliOP0mK.jpg",
+            "color": "#e4e45d"
+          },
+          "startDate": {
+            "year": 2017,
+            "month": 7,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2017,
+            "month": 9,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97683-NmYI2QcdvTTx.jpg",
+          "season": "SUMMER",
+          "description": "Kyo Nukui is one of those shut-ins you hear about sometimes. He never goes to school, or even leaves the house. Instead, he composes music all day, uploading it to the internet for a few views. One day out of the clear blue, he gets an email from what sounds like an older, distinguished gentleman who wants to discuss music face-to-face. Having no one to speak to about his passion, Kyo accepts the invitiation... only to find himself facing down three elementary school girls! They're fans of his music, and they want his help to hold a concert at their orphanage. The girls prove to be good musicians in their own right and have excellent equipment, but is Kyo a good enough producer?<br>\n<br>\n(Source: Discotek Media)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 11400,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 4399,
+                  "name": "project No.9"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 12711,
+          "title": {
+            "userPreferred": "Uta no☆Prince-sama♪ Maji Love 2000%"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12711-L2zKL1kjYMio.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12711-L2zKL1kjYMio.png",
+            "color": "#e4a150"
+          },
+          "startDate": {
+            "year": 2013,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 6,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12711-Sd2DKGlXNJwN.jpg",
+          "season": "SPRING",
+          "description": "Entering her Master's course, Nanami Haruka is facing an even more difficult time. And she isn't the only one. The main six members of Starish are assigned new seniors to watch over them! But the seniors aren't having the best attitudes about it. <br><br>\nWatch Uta no&#9734;Prince-sama&#9834; Maji Love 2000% and find yourself completely engaged in a whole new adventure mixed in with comedy and romance!",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 67,
+          "popularity": 11317,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 561,
+                  "name": "A-1 Pictures"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 19023,
+          "title": {
+            "userPreferred": "Wake Up, Girls!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19023-BZGH5j6sZNRB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19023-BZGH5j6sZNRB.jpg",
+            "color": "#c9f1f1"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 1,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 3,
+            "day": 29
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n19023-hV00tiNpNJqV.jpg",
+          "season": "WINTER",
+          "description": "The gateway to Idol stardom might have opened for the newly formed singing group Wake Up, Girls, but the path to fame is full of perils and pitfalls. And for Mayu, Airi, Minami, Yoshino, Nanami, Kaya and Miyu, it's going to be especially difficult knowing who to trust, as their manager Matsuda's lack of experience could give other, less scrupulous, individuals a chance to take advantage.<br>\n<br>\nThat's a situation that quickly comes to a head when Green Leaves' president suddenly disappears with most of the money, and things only get worse when the replacement producer seems more interested in getting the girls into revealing swimsuits than promoting their music.<br>\n<br>\nAs malicious gossip begins to surface regarding Mayu's past membership in a rival group, and internal tensions begin to tear the team apart, they'll need more than just ambition to survive. Singing may be a business, but friendship and a love of music is what will keep everything together.<br>\n<br>\n(Source: Sentai Filmworks)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 66,
+          "popularity": 11193,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 334,
+                  "name": "Ordet"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 103,
+                  "name": "Tatsunoko Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 731,
+          "title": {
+            "userPreferred": "Interstella 5555: THE 5TORY OF THE 5ECRET 5TAR 5YSTEM"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx731-aoWO30cMR4yO.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx731-aoWO30cMR4yO.jpg",
+            "color": "#50bbe4"
+          },
+          "startDate": {
+            "year": 2003,
+            "month": 5,
+            "day": 28
+          },
+          "endDate": {
+            "year": 2003,
+            "month": 5,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/731-HQOXhlc4oG9r.jpg",
+          "season": "SPRING",
+          "description": "This film is a visual companion piece to \"Discovery\", an album by Daft Punk. It tells the story of a band of four extraterrestrial musicians who are kidnapped and brought back to Earth by an evil manager. Their only hopes lie with a space pilot from their home planet who, after receiving a distress call broadcasted during the abduction, seeks out to rescue them.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 67,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Music",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 77,
+          "popularity": 11082,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21726,
+          "title": {
+            "userPreferred": "Aggressive Retsuko"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21726-46yeIDun7oQg.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21726-46yeIDun7oQg.jpg",
+            "color": "#e4ae35"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2018,
+            "month": 3,
+            "day": 31
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The show centers on Retsuko, a 25-year old red panda who works in her dream company's accounting department. But it turns out that she is forced to keep doing more and more impossible tasks by her superiors and co-workers. She doesn't talk back to them, but she still has to let off steam, so she ends up going to karaoke by herself and singing death metal.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 100,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 71,
+          "popularity": 10989,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 866,
+                  "name": "Fanworks"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 101633,
+          "title": {
+            "userPreferred": "BanG Dream! 2nd Season"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101633-kRp4u7VmRb5h.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101633-kRp4u7VmRb5h.jpg",
+            "color": "#3593e4"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 1,
+            "day": 3
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 3,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101633-IFVdiVchOpwW.jpg",
+          "season": "WINTER",
+          "description": "The second season of <i>BanG Dream!</i>.<br>\n<br>\nIt's a new school year and Kasumi, Arisa, Saaya, Tae, and Rimi are thrilled to finally be second-year students. Even more exciting than becoming upperclassmen, however, is the fun they have while performing in their band Poppin' Party… until things get out of control when the girls publicly announce that they're going to do their own concert before they've really studied the issue.<br>\n<br>\nSuddenly they're committed to doing something that's a lot more difficult than it seemed, and the pressure is doubled since their musical rivals in Roselia, who've also announced a live concert, are way ahead of them in planning! But you can't stop the music, and with a little hard work and help from other groups and some talented newcomers, Poppin' Party fever will soon be popping up all over!<br>\n<br>\n(Source: Sentai Filmworks)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 74,
+          "popularity": 10967,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 537,
+                  "name": "SANZIGEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104937,
+          "title": {
+            "userPreferred": "Lapis Re:LiGHTs"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104937-2TM6AffYAvxM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104937-2TM6AffYAvxM.jpg",
+            "color": "#aee45d"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 7,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 9,
+            "day": 19
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104937-kZrHZnooNBNV.jpg",
+          "season": "SUMMER",
+          "description": "Tiara has just been accepted to the Flora Girls Academy for young witches. Her lifelong dream of becoming a powerful “light” to cleanse the world of magical beasts is now possible. But not before she hits the magical music books! Oh, and little did Tiara know that she’s about to take center stage in a classroom full of potential dropouts. Challenge accepted.\n<br>\n<br>\n(Source: Funimation)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 10907,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6159,
+                  "name": "Yokohama Animation Lab"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 20554,
+          "title": {
+            "userPreferred": "Love Live! School idol project OVA"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20554-6Jk1w1FtOrFA.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20554-6Jk1w1FtOrFA.jpg",
+            "color": "#e4c943"
+          },
+          "startDate": {
+            "year": 2013,
+            "month": 11,
+            "day": 27
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 11,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Bundled with the sixth single of the anime's μ's idol group.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 10651,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 131584,
+          "title": {
+            "userPreferred": "Visual Prison"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131584-NTqZKbKvGEsK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131584-NTqZKbKvGEsK.jpg",
+            "color": "#78351a"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131584-oAAFNNZvQAqO.jpg",
+          "season": "FALL",
+          "description": "Beautiful immortals have gathered in Harajuku to compete for a grand prize: Immense power! For years now the artists behind worldly culture and music have secretly been vampires, including those who produce Visual Kei. Now, they perform their most beautiful songs in the hallowed grounds of the Prison under the Scarlet Moon.<br><br>(Source: Funimation)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "RELEASING",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 56,
+          "popularity": 10633,
+          "nextAiringEpisode": {
+            "airingAt": 1639148400,
+            "timeUntilAiring": 345256,
+            "episode": 10
+          },
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 561,
+                  "name": "A-1 Pictures"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21329,
+          "title": {
+            "userPreferred": "Sekkou Boys"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21329-P6qOpf3Khb6y.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21329-P6qOpf3Khb6y.png",
+            "color": "#e4bb50"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 1,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Sekkou Boys is a unit of four stone figures — the military saint and group leader Saint Giorgio, history's original celebrity Medici, the strikingly handsome and multi-talented Hermes, and the god of war Mars who is earnest about love — who become idiosyncratic idols. The story depicts their efforts to make it in the entertainment world with their female manager Miki Ishimoto, who just graduated from college.<br>\n<br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 8,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 59,
+          "popularity": 10609,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 839,
+                  "name": "LIDENFILMS"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21673,
+          "title": {
+            "userPreferred": "Senki Zesshou Symphogear XV"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21673-AgTKWSDIxzSz.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21673-AgTKWSDIxzSz.png",
+            "color": "#43c9e4"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 9,
+            "day": 29
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21673-6Hb1XB91YG63.jpg",
+          "season": "SUMMER",
+          "description": "The fifth season of <i>Senki Zesshou Symphogear</i>.<br>\n<br>\nHumanity is finally confronted with the threat of the Custodians—the ancient, sentient species held responsible for cursing humanity to speak different languages thousands of years ago. The Symphogear wielders—Hibiki Tachibana, Tsubasa Kazanari, Chris Yukine, Maria Cadenzavna Eve, Kirika Akatsuki, and Shirabe Tsukuyomi—are sent to the Antarctic in order to retrieve an ancient relic. After securing it and rescuing the scientific staff present there from a Coffin, the automated defense mechanism protecting it, the relic is given to American researchers due to international agreements.<br>\n<br>\nThe criminal organization Noble Red, a remnant of the previously fought Bavarian Illuminati, starts targeting the relic. Will the Symphogear wielders and their supporting organization S.O.N.G. be able to foil the plans of the organizations conspiring against them?<br>\n<br>\n(Source: MAL Rewrite)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mahou Shoujo",
+            "Music",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 82,
+          "popularity": 10595,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 41,
+                  "name": "Satelight"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 100965,
+          "title": {
+            "userPreferred": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100965-dJQbkKufvmOg.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100965-dJQbkKufvmOg.jpg",
+            "color": "#43e478"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 1,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 1,
+            "day": 4
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100965-wAPfNAyVLhIQ.jpg",
+          "season": "WINTER",
+          "description": "In the film's story, Uranohoshi Girls' High School's idol group Aqours has won the final Love Live! contest. While preparing to enroll at a new school, the first- and second-year students encounter unexpected trouble. Also, after heading for a graduation trip, the third-year students go missing. As they are separated, the Aqours members appreciate the weight of their togetherness for the first time. In order to move forward, they must decide how to react to their new situations.<br><br>\n\n(Source: Official Website)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 101,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 75,
+          "popularity": 10587,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104391,
+          "title": {
+            "userPreferred": "Oshi ga Budoukan Ittekuretara Shinu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104391-5gOoFEMiSFg1.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104391-5gOoFEMiSFg1.png",
+            "color": "#50aee4"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 1,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 3,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104391-71TskFyKltUg.jpg",
+          "season": "WINTER",
+          "description": " Eripiyo is an extreme idol fan. She is wildly enthusiastic about Maina, the shy and lowest-ranking member of the minor underground idol group ChamJam that performs in Okayama Prefecture. Eri will continue to give her complete devotion to Maina until the day she can perform at Budokan.<br><br>(Source: Anime News Network, edited)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 72,
+          "popularity": 10469,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 4418,
+                  "name": "8-bit"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 123899,
+          "title": {
+            "userPreferred": "Ai no Utagoe wo Kikasete"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123899-AimlRWzAqpHC.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123899-AimlRWzAqpHC.jpg",
+            "color": "#f1f15d"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The film tells the story of a new transfer student interested in her surroundings, and a song that brings happiness to her and her classmates.<br>\n<br>\n(Source: Funimation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": null,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 10378,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 108713,
+          "title": {
+            "userPreferred": "Ochikobore Fruit Tart"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108713-6rHQTEA9ptyb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108713-6rHQTEA9ptyb.jpg",
+            "color": "#f1ae43"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 10,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108713-YE7zYLKdMsVW.jpg",
+          "season": "FALL",
+          "description": "Former showbiz stars Roko, Hayu, and Nina live together in a dormitory for dropout idol girls. As timing would have it, young dreamer Sakura happens to move in with the other girls just as an announcement is made to tear down the dorm due to a 100-million-yen debt!<br>\n<br>\nThis leads to the unexpected formation of a new idol group called Fruit Tart. Their sole mission: earn some yen and stop the demolition.<br>\n<br>\n(Source: Funimation)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 10227,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 91,
+                  "name": "feel."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21672,
+          "title": {
+            "userPreferred": "Senki Zesshou Symphogear AXZ"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21672-8JX0b43bzhXr.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21672-8JX0b43bzhXr.png",
+            "color": "#182396"
+          },
+          "startDate": {
+            "year": 2017,
+            "month": 7,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2017,
+            "month": 10,
+            "day": 1
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21672-HDSnUxCRzvhx.jpg",
+          "season": "SUMMER",
+          "description": "The fourth season of <i>Senki Zesshou Symphogear</i>.<br>\n<br>\nHibiki Tachibana has defeated many powerful enemies, saved countless innocent lives, and escaped from numerous desperate situations, but she is currently finding herself unable to escape from her most desperate situation yet—summer homework! Although her high school life is relatively unremarkable, her career as a member of the military organization S.O.N.G. is anything but. Using powerful, ancient armor known as Symphogear, Hibiki and her teammates work with the United Nations to deal with international disputes and disasters.<br>\n<br>\nDuring a mission briefing at headquarters, Hibiki is made aware of a mysterious organization known as the Bavarian Illuminati, who has been responsible for several major disasters in the past and currently operate in the war-torn country Val Verde. Together, Hibiki and her team infiltrate one of the Bavarian Illuminati's manufacturing plants and free hundreds of slaves. Exposed, alchemists Saint-Germain, Cagliostro, and Prelati reveal themselves as the organization's top brass, and—using alchemical powers—declare a global revolution while sacrificing thousands of lives. Faced with yet another threat to the world's survival, Hibiki and her allies must confront the Bavarian Illuminati in their most difficult and destructive battle yet.<br>\n<br>\n(Source: MAL Rewrite)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mahou Shoujo",
+            "Music",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 76,
+          "popularity": 10144,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 41,
+                  "name": "Satelight"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 134710,
+          "title": {
+            "userPreferred": "Given: Uragawa no Sonzai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134710-m3VYouLXKIYv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134710-m3VYouLXKIYv.jpg",
+            "color": "#f1bb5d"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "OVA bundled with the <i>Given</i> manga's seventh volume, as a limited edition bonus.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Music",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 77,
+          "popularity": 10105,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 456,
+                  "name": "Lerche"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2594,
+          "title": {
+            "userPreferred": "Piano no Mori"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2594.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2594.jpg",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 2007,
+            "month": 7,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2007,
+            "month": 7,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Amamiya Shuuhei moves from Tokyo to the country side due to his grandmother's bad health. His father is a famous pianist and Shuuhei has taken strict piano lessons since he was very young, aspiring to follow in his footsteps. In school, he is teased by his classmates and is dared to play the piano in the forest. This piano is said to be cursed: if you play it, no sound will come. After school, Ichinose Kai, a boy in the same class, takes Shuuhei to the forest. When Shuuhei tries to play he fails, but Kai plays a wonderful song. <br><br>\nThis is the beginning of a strong friendship, and a story of two very different boys developing their skills as musicians. ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 100,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 73,
+          "popularity": 9966,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 12149,
+          "title": {
+            "userPreferred": "AKB0048"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12149-OsW0XJq6wtCM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12149-OsW0XJq6wtCM.jpg",
+            "color": "#d6c950"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 7,
+            "day": 22
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n12149-jOdFnr6gZNcr.jpg",
+          "season": "SPRING",
+          "description": "The year is 0048, and in the wake of the great wars, all forms of entertainment have been banned by the dystopian and iron-gloved rule of the anti-music DES. To combat this threat to intergalactic harmony, a group of bold young women have resurrected the legendary J-Pop band AKB48 and formed an all new Band of Sisters - AKB0048! But these rocking rebels aren't simply singers! Trained in combat as well as choreography, these striking strike team members are equally at home in concert halls and in the trenches. Under the leadership of the mysterious Sensei Sensei, they're ready to lay down their lives in order to make the universe a safe place for getting your groove on!<br>\n<br>\n(Source: Sentai Filmworksl)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Mecha",
+            "Music",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 69,
+          "popularity": 9802,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 41,
+                  "name": "Satelight"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 12079,
+          "title": {
+            "userPreferred": "Black★Rock Shooter"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12079-QQ0mlFPn9Xie.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12079-QQ0mlFPn9Xie.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2008,
+            "month": 6,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2008,
+            "month": 6,
+            "day": 13
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12079-AQsGAeDp8OAx.jpg",
+          "season": null,
+          "description": "The official music video that eventually spawned the entire Black Rock Shooter franchise. Inspired by the first official illustration by huke, the song was composed by ryo of supercell, illustrated by huke and sung by Hatsune Miku, Vocaloid's main character.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 9620,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 243,
+          "title": {
+            "userPreferred": "Gravitation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/243.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/243.jpg",
+            "color": "#f15078"
+          },
+          "startDate": {
+            "year": 2000,
+            "month": 10,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 1,
+            "day": 10
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/243-aIqrB7aUIc2s.jpg",
+          "season": "FALL",
+          "description": "All Shuichi ever dreamed about was following in the footsteps of his pop idol, Ryuichi Sakuma and the band Nittle Grasper. Together with his best friend Hiro, Shuichi's formed a band called Bad Luck and they've even managed to get signed to a major recording label! Unfortunately, the studio deadlines are looming and Shuichi still hasn't finished the lyrics for any of the songs. What he needs is a little inspiration... but he's been running a little low in that department lately. While Hiro recommends finding a girlfriend, fate has other things in store for him...<br><br>\nWalking through the park late one night, Shuichi's latest lyrics flutter away and land at the feet of a stunning stranger that takes his breath away. Unfortunately, that mysterious stranger happens to be the famous novelist Eiri Yuki, who completely crushes the young singer by telling him he has \"zero talent\". Now, Shuichi's so annoyed that he's managed to finish his song just so he can find and confront Yuki once again. But, are his actions really motivated by anger, or has he actually fallen in love? <br><br>\n(Source: RightStuf)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 9602,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 98511,
+          "title": {
+            "userPreferred": "Kimi no Hikari: Asagao to Kase-san."
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98511-pZHBsH3uETJL.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98511-pZHBsH3uETJL.png",
+            "color": "#43a1e4"
+          },
+          "startDate": {
+            "year": 2017,
+            "month": 5,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2017,
+            "month": 5,
+            "day": 7
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98511-qZCQlp4zYjjo.jpg",
+          "season": "SPRING",
+          "description": "Yamada may be shy and rather clumsy, but the flower gardens at her school have always brought her happiness. Suddenly, a different sort of beauty catches her eye—the vivacious track star, Kase-san. Although the two girls don't seem to have much in common, they soon start a romance where each must learn an important lesson in tending their budding relationship. Can the two girls, so different from each other, learn how to make their first love blossom?\n<br><br>\n(Source: Seven Seas Entertainment)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 70,
+          "popularity": 9392,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 218,
+                  "name": "ZEXCS"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 20033,
+          "title": {
+            "userPreferred": "Miss Monochrome - The Animation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20033.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20033.jpg",
+            "color": "#5dbbe4"
+          },
+          "startDate": {
+            "year": 2013,
+            "month": 10,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 12,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20033-YGHBbXv0fdWn.png",
+          "season": "FALL",
+          "description": "\"Miss Monochrome\" is an original character design from seiyuu Horie Yui. In March 2012, she first used the \"Miss Monochrome\" character as a 3D virtual singer to sing her songs at her concert \"Horie Yui wo Meguru Bouken III ~Secret Mission Tour~\". Later, the character appeared in a range of merchandise as well as in the social network game \"Girlfriend (Beta)\".<br><br>\r\nAccording to the setting, Miss Monochrome loves only the monochrome style, dislikes all kinds of color, and always dreams about changing the world into her favorite monochrome color.\n",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 9104,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 839,
+                  "name": "LIDENFILMS"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 537,
+                  "name": "SANZIGEN"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
