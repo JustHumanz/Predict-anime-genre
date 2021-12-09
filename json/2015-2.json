@@ -2,7 +2,7 @@
   "data": {
     "Page": {
       "pageInfo": {
-        "total": 659,
+        "total": 660,
         "perPage": 50,
         "currentPage": 2,
         "lastPage": 14,
@@ -47,7 +47,7 @@
           ],
           "isAdult": false,
           "averageScore": 81,
-          "popularity": 43843,
+          "popularity": 43903,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -100,7 +100,7 @@
           ],
           "isAdult": false,
           "averageScore": 75,
-          "popularity": 43437,
+          "popularity": 43486,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -151,7 +151,7 @@
           ],
           "isAdult": false,
           "averageScore": 80,
-          "popularity": 42823,
+          "popularity": 42880,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -203,7 +203,7 @@
           ],
           "isAdult": false,
           "averageScore": 71,
-          "popularity": 42282,
+          "popularity": 42316,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -255,7 +255,7 @@
           ],
           "isAdult": false,
           "averageScore": 65,
-          "popularity": 42272,
+          "popularity": 42298,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -315,7 +315,7 @@
           ],
           "isAdult": false,
           "averageScore": 65,
-          "popularity": 42009,
+          "popularity": 42048,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -367,7 +367,7 @@
           ],
           "isAdult": false,
           "averageScore": 61,
-          "popularity": 40201,
+          "popularity": 40243,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -418,7 +418,7 @@
           ],
           "isAdult": false,
           "averageScore": 73,
-          "popularity": 40112,
+          "popularity": 40140,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -428,57 +428,6 @@
                 "node": {
                   "id": 309,
                   "name": "GoHands"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 20514,
-          "title": {
-            "userPreferred": "PSYCHO-PASS: The Movie"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20514-WhWrHdWWonsC.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20514-WhWrHdWWonsC.jpg",
-            "color": null
-          },
-          "startDate": {
-            "year": 2015,
-            "month": 1,
-            "day": 9
-          },
-          "endDate": {
-            "year": 2015,
-            "month": 1,
-            "day": 9
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20514-lOuzeBlFJs5x.jpg",
-          "season": "WINTER",
-          "description": "Year 2116 – The Japanese government begins to export the Sibyl System unmanned drone robots to troubled countries, and the system spreads throughout the world. A state in the midst of a civil war, SEAUn (the South East Asia Union), brings in the Sibyl System as an experiment. Under the new system, the coastal town of Shambala Float achieves temporary peace and safety. But then SEAUn sends terrorists to Japan. They slip through the Sibyl System and then attack from within. The shadow of a certain man falls on this incident. In charge of the police, Tsunemori travels to Shambala Float to investigate. The truth of justice on this new ground will become clear.",
-          "type": "ANIME",
-          "format": "MOVIE",
-          "status": "FINISHED",
-          "episodes": 1,
-          "duration": 113,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Action",
-            "Sci-Fi"
-          ],
-          "isAdult": false,
-          "averageScore": 75,
-          "popularity": 39552,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 10,
-                  "name": "Production I.G"
                 }
               }
             ]
@@ -524,7 +473,7 @@
           ],
           "isAdult": false,
           "averageScore": 79,
-          "popularity": 39540,
+          "popularity": 39582,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -534,6 +483,57 @@
                 "node": {
                   "id": 2,
                   "name": "Kyoto Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 20514,
+          "title": {
+            "userPreferred": "PSYCHO-PASS: The Movie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20514-WhWrHdWWonsC.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20514-WhWrHdWWonsC.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 1,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 1,
+            "day": 9
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20514-lOuzeBlFJs5x.jpg",
+          "season": "WINTER",
+          "description": "Year 2116 – The Japanese government begins to export the Sibyl System unmanned drone robots to troubled countries, and the system spreads throughout the world. A state in the midst of a civil war, SEAUn (the South East Asia Union), brings in the Sibyl System as an experiment. Under the new system, the coastal town of Shambala Float achieves temporary peace and safety. But then SEAUn sends terrorists to Japan. They slip through the Sibyl System and then attack from within. The shadow of a certain man falls on this incident. In charge of the police, Tsunemori travels to Shambala Float to investigate. The truth of justice on this new ground will become clear.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 113,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 75,
+          "popularity": 39577,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 10,
+                  "name": "Production I.G"
                 }
               }
             ]
@@ -578,7 +578,7 @@
           ],
           "isAdult": false,
           "averageScore": 63,
-          "popularity": 37478,
+          "popularity": 37522,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -630,7 +630,7 @@
           ],
           "isAdult": false,
           "averageScore": 64,
-          "popularity": 37348,
+          "popularity": 37370,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -683,7 +683,7 @@
           ],
           "isAdult": false,
           "averageScore": 66,
-          "popularity": 37309,
+          "popularity": 37332,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -735,7 +735,7 @@
           ],
           "isAdult": false,
           "averageScore": 64,
-          "popularity": 36114,
+          "popularity": 36131,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -787,7 +787,7 @@
           ],
           "isAdult": false,
           "averageScore": 76,
-          "popularity": 36002,
+          "popularity": 36035,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -839,7 +839,7 @@
           ],
           "isAdult": false,
           "averageScore": 76,
-          "popularity": 35564,
+          "popularity": 35585,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -891,7 +891,7 @@
           ],
           "isAdult": false,
           "averageScore": 65,
-          "popularity": 35361,
+          "popularity": 35407,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -949,7 +949,7 @@
           ],
           "isAdult": false,
           "averageScore": 81,
-          "popularity": 34871,
+          "popularity": 34901,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1001,7 +1001,7 @@
           ],
           "isAdult": false,
           "averageScore": 70,
-          "popularity": 34109,
+          "popularity": 34149,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1054,7 +1054,7 @@
           ],
           "isAdult": false,
           "averageScore": 72,
-          "popularity": 33246,
+          "popularity": 33277,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1104,7 +1104,7 @@
           ],
           "isAdult": false,
           "averageScore": 71,
-          "popularity": 33120,
+          "popularity": 33137,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1156,7 +1156,7 @@
           ],
           "isAdult": false,
           "averageScore": 79,
-          "popularity": 32826,
+          "popularity": 32838,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1208,7 +1208,7 @@
           ],
           "isAdult": false,
           "averageScore": 73,
-          "popularity": 32690,
+          "popularity": 32718,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1261,7 +1261,7 @@
           ],
           "isAdult": false,
           "averageScore": 77,
-          "popularity": 32272,
+          "popularity": 32305,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1312,7 +1312,7 @@
           ],
           "isAdult": false,
           "averageScore": 58,
-          "popularity": 31275,
+          "popularity": 31304,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1364,7 +1364,7 @@
           ],
           "isAdult": false,
           "averageScore": 69,
-          "popularity": 30866,
+          "popularity": 30903,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1416,7 +1416,7 @@
           ],
           "isAdult": false,
           "averageScore": 71,
-          "popularity": 30587,
+          "popularity": 30615,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1469,7 +1469,7 @@
           ],
           "isAdult": false,
           "averageScore": 66,
-          "popularity": 30359,
+          "popularity": 30378,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1523,7 +1523,7 @@
           ],
           "isAdult": false,
           "averageScore": 67,
-          "popularity": 29877,
+          "popularity": 29914,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1577,7 +1577,7 @@
           ],
           "isAdult": false,
           "averageScore": 72,
-          "popularity": 29085,
+          "popularity": 29105,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1639,7 +1639,7 @@
           ],
           "isAdult": false,
           "averageScore": 70,
-          "popularity": 28128,
+          "popularity": 28168,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1693,7 +1693,7 @@
           ],
           "isAdult": false,
           "averageScore": 68,
-          "popularity": 27614,
+          "popularity": 27634,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1744,7 +1744,7 @@
           ],
           "isAdult": false,
           "averageScore": 76,
-          "popularity": 26849,
+          "popularity": 26866,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1795,7 +1795,7 @@
           ],
           "isAdult": false,
           "averageScore": 69,
-          "popularity": 26550,
+          "popularity": 26565,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1846,7 +1846,7 @@
           ],
           "isAdult": false,
           "averageScore": 77,
-          "popularity": 25590,
+          "popularity": 25619,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1897,7 +1897,7 @@
           ],
           "isAdult": false,
           "averageScore": 77,
-          "popularity": 24219,
+          "popularity": 24239,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1958,7 +1958,7 @@
           ],
           "isAdult": false,
           "averageScore": 70,
-          "popularity": 23999,
+          "popularity": 24012,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2011,7 +2011,7 @@
           ],
           "isAdult": false,
           "averageScore": 74,
-          "popularity": 23941,
+          "popularity": 23964,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2064,7 +2064,7 @@
           ],
           "isAdult": false,
           "averageScore": 67,
-          "popularity": 23406,
+          "popularity": 23418,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2116,7 +2116,7 @@
           ],
           "isAdult": false,
           "averageScore": 68,
-          "popularity": 23026,
+          "popularity": 23051,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2169,7 +2169,7 @@
           ],
           "isAdult": false,
           "averageScore": 79,
-          "popularity": 22504,
+          "popularity": 22536,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2221,7 +2221,7 @@
           ],
           "isAdult": false,
           "averageScore": 68,
-          "popularity": 22437,
+          "popularity": 22450,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2271,8 +2271,8 @@
             "Romance"
           ],
           "isAdult": false,
-          "averageScore": 62,
-          "popularity": 22368,
+          "averageScore": 63,
+          "popularity": 22383,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2325,7 +2325,7 @@
           ],
           "isAdult": false,
           "averageScore": 73,
-          "popularity": 22248,
+          "popularity": 22273,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2376,7 +2376,7 @@
           ],
           "isAdult": false,
           "averageScore": 78,
-          "popularity": 22182,
+          "popularity": 22199,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2428,7 +2428,7 @@
           ],
           "isAdult": false,
           "averageScore": 63,
-          "popularity": 21754,
+          "popularity": 21773,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2479,7 +2479,7 @@
           ],
           "isAdult": false,
           "averageScore": 72,
-          "popularity": 21639,
+          "popularity": 21667,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2531,7 +2531,7 @@
           ],
           "isAdult": false,
           "averageScore": 57,
-          "popularity": 21444,
+          "popularity": 21465,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2585,7 +2585,7 @@
           ],
           "isAdult": false,
           "averageScore": 76,
-          "popularity": 21310,
+          "popularity": 21351,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2638,7 +2638,7 @@
           ],
           "isAdult": false,
           "averageScore": 57,
-          "popularity": 21282,
+          "popularity": 21298,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {

@@ -56,19 +56,16 @@ model.add(MaxPooling2D(pool_size=(2, 2)))
 model.add(Dropout(0.2))
 
 model.add(Conv2D(filters=32, kernel_size=(5, 5), activation='relu'))
-model.add(data_augmentation)
 model.add(MaxPooling2D(pool_size=(2, 2)))
 model.add(BatchNormalization())
 model.add(Dropout(0.2))
 
 model.add(Conv2D(filters=64, kernel_size=(5, 5), activation="relu"))
-model.add(data_augmentation)
 model.add(MaxPooling2D(pool_size=(2, 2)))
 model.add(BatchNormalization())
 model.add(Dropout(0.2))
 
 model.add(Conv2D(filters=64, kernel_size=(5, 5), activation='relu'))
-model.add(data_augmentation)
 model.add(MaxPooling2D(pool_size=(2, 2)))
 model.add(BatchNormalization())
 model.add(Dropout(0.2))
@@ -83,7 +80,7 @@ model.add(Dense(18, activation='sigmoid'))
 model.summary()
 
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
-history = model.fit(X_train, y_train, epochs=50, validation_data=(X_test, y_test), batch_size=16)
+history = model.fit(X_train, y_train, epochs=50, validation_data=(X_test, y_test), batch_size=8)
 model.save("multiple.h5")
 
 loss = history.history['loss']

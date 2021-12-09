@@ -46,7 +46,7 @@
           ],
           "isAdult": false,
           "averageScore": 87,
-          "popularity": 379027,
+          "popularity": 379650,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -99,7 +99,7 @@
           ],
           "isAdult": false,
           "averageScore": 88,
-          "popularity": 299061,
+          "popularity": 299484,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -152,7 +152,7 @@
           ],
           "isAdult": false,
           "averageScore": 86,
-          "popularity": 211354,
+          "popularity": 211630,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -207,7 +207,7 @@
           ],
           "isAdult": false,
           "averageScore": 86,
-          "popularity": 202922,
+          "popularity": 203492,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -262,7 +262,7 @@
           ],
           "isAdult": false,
           "averageScore": 83,
-          "popularity": 170835,
+          "popularity": 171018,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -272,6 +272,58 @@
                 "node": {
                   "id": 314,
                   "name": "White Fox"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 106625,
+          "title": {
+            "userPreferred": "HAIKYU‼ TO THE TOP"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106625-UR22wB2NuNVi.png",
+            "color": "#f1a150"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 1,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 4,
+            "day": 4
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106625-wab2Mx4NQqPQ.jpg",
+          "season": "WINTER",
+          "description": "The fourth season of <i>Haikyuu!!</i><br><br>The Karasuno High School Volleyball Club finally won their way into the nationals after an intense battle for the Miyagi Prefecture Spring Tournament qualifiers. As they were preparing for the nationals, Kageyama is invited to go to All-Japan Youth Training Camp. At the same time, Tsukishima is invited to go to a special rookie select training camp for first-years in Miyagi Prefecture. Hinata feels panic that he’s being left behind as one of the first-years and then decides to show up at the Miyagi Prefecture rookie select training camp anyway... <br><br>(Source: Crunchyroll)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 84,
+          "popularity": 157979,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 10,
+                  "name": "Production I.G"
                 }
               }
             ]
@@ -316,7 +368,7 @@
           ],
           "isAdult": false,
           "averageScore": 74,
-          "popularity": 157803,
+          "popularity": 157953,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -326,58 +378,6 @@
                 "node": {
                   "id": 94,
                   "name": "Telecom Animation Film"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 106625,
-          "title": {
-            "userPreferred": "HAIKYU‼ TO THE TOP"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106625-UR22wB2NuNVi.png",
-            "color": "#f1a150"
-          },
-          "startDate": {
-            "year": 2020,
-            "month": 1,
-            "day": 11
-          },
-          "endDate": {
-            "year": 2020,
-            "month": 4,
-            "day": 4
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106625-wab2Mx4NQqPQ.jpg",
-          "season": "WINTER",
-          "description": "The fourth season of <i>Haikyuu!!</i><br><br>The Karasuno High School Volleyball Club finally won their way into the nationals after an intense battle for the Miyagi Prefecture Spring Tournament qualifiers. As they were preparing for the nationals, Kageyama is invited to go to All-Japan Youth Training Camp. At the same time, Tsukishima is invited to go to a special rookie select training camp for first-years in Miyagi Prefecture. Hinata feels panic that he’s being left behind as one of the first-years and then decides to show up at the Miyagi Prefecture rookie select training camp anyway... <br><br>(Source: Crunchyroll)",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 13,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-          ],
-          "isAdult": false,
-          "averageScore": 84,
-          "popularity": 157798,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 10,
-                  "name": "Production I.G"
                 }
               }
             ]
@@ -420,7 +420,7 @@
           ],
           "isAdult": false,
           "averageScore": 70,
-          "popularity": 156161,
+          "popularity": 156321,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -472,7 +472,7 @@
           ],
           "isAdult": false,
           "averageScore": 72,
-          "popularity": 149086,
+          "popularity": 149284,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -525,7 +525,7 @@
           ],
           "isAdult": false,
           "averageScore": 78,
-          "popularity": 136013,
+          "popularity": 136181,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -577,7 +577,7 @@
           ],
           "isAdult": false,
           "averageScore": 86,
-          "popularity": 132257,
+          "popularity": 132433,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -631,7 +631,7 @@
           ],
           "isAdult": false,
           "averageScore": 79,
-          "popularity": 122914,
+          "popularity": 123044,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -683,7 +683,7 @@
           ],
           "isAdult": false,
           "averageScore": 78,
-          "popularity": 107615,
+          "popularity": 107765,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -736,7 +736,7 @@
           ],
           "isAdult": false,
           "averageScore": 83,
-          "popularity": 107353,
+          "popularity": 107523,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -789,7 +789,7 @@
           ],
           "isAdult": false,
           "averageScore": 83,
-          "popularity": 106966,
+          "popularity": 107078,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -841,7 +841,7 @@
           ],
           "isAdult": false,
           "averageScore": 73,
-          "popularity": 106709,
+          "popularity": 106878,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -894,7 +894,7 @@
           ],
           "isAdult": false,
           "averageScore": 76,
-          "popularity": 94744,
+          "popularity": 94836,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -946,7 +946,7 @@
           ],
           "isAdult": false,
           "averageScore": 74,
-          "popularity": 94156,
+          "popularity": 94279,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1000,7 +1000,7 @@
           ],
           "isAdult": false,
           "averageScore": 87,
-          "popularity": 92497,
+          "popularity": 92615,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1054,7 +1054,7 @@
           ],
           "isAdult": false,
           "averageScore": 74,
-          "popularity": 89485,
+          "popularity": 89587,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1107,7 +1107,7 @@
           ],
           "isAdult": false,
           "averageScore": 70,
-          "popularity": 84086,
+          "popularity": 84196,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1159,7 +1159,7 @@
           ],
           "isAdult": false,
           "averageScore": 73,
-          "popularity": 82349,
+          "popularity": 82477,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1215,7 +1215,7 @@
           ],
           "isAdult": false,
           "averageScore": 80,
-          "popularity": 78584,
+          "popularity": 78713,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1267,7 +1267,7 @@
           ],
           "isAdult": false,
           "averageScore": 76,
-          "popularity": 77908,
+          "popularity": 77999,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1319,7 +1319,7 @@
           ],
           "isAdult": false,
           "averageScore": 72,
-          "popularity": 77390,
+          "popularity": 77488,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1373,7 +1373,7 @@
           ],
           "isAdult": false,
           "averageScore": 74,
-          "popularity": 76590,
+          "popularity": 76690,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1425,7 +1425,7 @@
           ],
           "isAdult": false,
           "averageScore": 88,
-          "popularity": 76295,
+          "popularity": 76474,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1478,7 +1478,7 @@
           ],
           "isAdult": false,
           "averageScore": 67,
-          "popularity": 74772,
+          "popularity": 74849,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1488,58 +1488,6 @@
                 "node": {
                   "id": 6103,
                   "name": "PINE JAM"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 110354,
-          "title": {
-            "userPreferred": "BNA"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110354-JJKR42frJABe.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110354-JJKR42frJABe.jpg",
-            "color": "#35aee4"
-          },
-          "startDate": {
-            "year": 2020,
-            "month": 3,
-            "day": 21
-          },
-          "endDate": {
-            "year": 2020,
-            "month": 5,
-            "day": 6
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110354-F4KigAURY8zf.jpg",
-          "season": "SPRING",
-          "description": "In the 21st century, the existence of animal-humans came to light after being hidden in the darkness of history. Michiru lived life as a normal human, until one day she suddenly turns into a tanuki-human. She runs away and takes refuge in a special city area called \"Anima City\" that was set up 10 years ago for animal-humans to be able to live as themselves. There Michiru meets Shirou, a wolf-human who hates humans. Through Shirou, Michiru starts to learn about the worries, lifestyle, and joys of the animal-humans. As Michiru and Shirou try to learn why Michiru suddenly turned into an animal-human, they unexpectedly get wrapped up in a large incident.\n<br><br>\n(Source: Anime News Network)\n<br><br>\n<i>The TV broadcast ended on June 25, 2020.</i>",
-          "type": "ANIME",
-          "format": "ONA",
-          "status": "FINISHED",
-          "episodes": 12,
-          "duration": 23,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Fantasy"
-          ],
-          "isAdult": false,
-          "averageScore": 73,
-          "popularity": 72716,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 803,
-                  "name": "Trigger"
                 }
               }
             ]
@@ -1583,7 +1531,7 @@
           ],
           "isAdult": false,
           "averageScore": 68,
-          "popularity": 72710,
+          "popularity": 72788,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1593,6 +1541,58 @@
                 "node": {
                   "id": 112,
                   "name": "Brain's Base"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 110354,
+          "title": {
+            "userPreferred": "BNA"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110354-JJKR42frJABe.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110354-JJKR42frJABe.jpg",
+            "color": "#35aee4"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 3,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 5,
+            "day": 6
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110354-F4KigAURY8zf.jpg",
+          "season": "SPRING",
+          "description": "In the 21st century, the existence of animal-humans came to light after being hidden in the darkness of history. Michiru lived life as a normal human, until one day she suddenly turns into a tanuki-human. She runs away and takes refuge in a special city area called \"Anima City\" that was set up 10 years ago for animal-humans to be able to live as themselves. There Michiru meets Shirou, a wolf-human who hates humans. Through Shirou, Michiru starts to learn about the worries, lifestyle, and joys of the animal-humans. As Michiru and Shirou try to learn why Michiru suddenly turned into an animal-human, they unexpectedly get wrapped up in a large incident.\n<br><br>\n(Source: Anime News Network)\n<br><br>\n<i>The TV broadcast ended on June 25, 2020.</i>",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 73,
+          "popularity": 72783,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 803,
+                  "name": "Trigger"
                 }
               }
             ]
@@ -1636,7 +1636,7 @@
           ],
           "isAdult": false,
           "averageScore": 74,
-          "popularity": 71611,
+          "popularity": 71698,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1688,7 +1688,7 @@
           ],
           "isAdult": false,
           "averageScore": 74,
-          "popularity": 67732,
+          "popularity": 67826,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1740,7 +1740,7 @@
           ],
           "isAdult": false,
           "averageScore": 79,
-          "popularity": 67667,
+          "popularity": 67764,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1793,7 +1793,7 @@
           ],
           "isAdult": false,
           "averageScore": 68,
-          "popularity": 67312,
+          "popularity": 67398,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1803,6 +1803,57 @@
                 "node": {
                   "id": 6292,
                   "name": "ENGI"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 114124,
+          "title": {
+            "userPreferred": "Moriarty the Patriot"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114124-def92qPuIVeK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114124-def92qPuIVeK.jpg",
+            "color": "#f14328"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 10,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 20
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114124-44utnIatIX16.jpg",
+          "season": "FALL",
+          "description": "In the late 19th century, the British Empire nobility reigns while its working class suffers at their hands. Sympathetic to their plight, William James Moriarty wants to topple it all. Frustrated by the systemic inequity, Moriarty strategizes to fix the entire nation. Not even consulting detective Sherlock Holmes can stand in his way. It's time for crime to revolutionize the world!<br>\n<br>\n(Source: Funimation)<br>\n<br>\n<i>Note: The first episode received an early screening on September 21st, 2020. The regular TV broadcast started on October 11th, 2020.</i>",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 11,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mystery",
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": 80,
+          "popularity": 66629,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 10,
+                  "name": "Production I.G"
                 }
               }
             ]
@@ -1845,7 +1896,7 @@
           ],
           "isAdult": false,
           "averageScore": 80,
-          "popularity": 66560,
+          "popularity": 66621,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1855,57 +1906,6 @@
                 "node": {
                   "id": 6145,
                   "name": "Science SARU"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 114124,
-          "title": {
-            "userPreferred": "Moriarty the Patriot"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114124-def92qPuIVeK.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114124-def92qPuIVeK.jpg",
-            "color": "#f14328"
-          },
-          "startDate": {
-            "year": 2020,
-            "month": 10,
-            "day": 11
-          },
-          "endDate": {
-            "year": 2020,
-            "month": 12,
-            "day": 20
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114124-44utnIatIX16.jpg",
-          "season": "FALL",
-          "description": "In the late 19th century, the British Empire nobility reigns while its working class suffers at their hands. Sympathetic to their plight, William James Moriarty wants to topple it all. Frustrated by the systemic inequity, Moriarty strategizes to fix the entire nation. Not even consulting detective Sherlock Holmes can stand in his way. It's time for crime to revolutionize the world!<br>\n<br>\n(Source: Funimation)<br>\n<br>\n<i>Note: The first episode received an early screening on September 21st, 2020. The regular TV broadcast started on October 11th, 2020.</i>",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 11,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Mystery",
-            "Psychological"
-          ],
-          "isAdult": false,
-          "averageScore": 80,
-          "popularity": 66531,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 10,
-                  "name": "Production I.G"
                 }
               }
             ]
@@ -1952,7 +1952,7 @@
           ],
           "isAdult": false,
           "averageScore": 86,
-          "popularity": 64236,
+          "popularity": 64332,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2005,7 +2005,7 @@
           ],
           "isAdult": false,
           "averageScore": 77,
-          "popularity": 62331,
+          "popularity": 62394,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2056,7 +2056,7 @@
           ],
           "isAdult": false,
           "averageScore": 78,
-          "popularity": 61688,
+          "popularity": 61738,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2108,7 +2108,7 @@
           ],
           "isAdult": false,
           "averageScore": 68,
-          "popularity": 58910,
+          "popularity": 58958,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2160,7 +2160,7 @@
           ],
           "isAdult": false,
           "averageScore": 71,
-          "popularity": 57600,
+          "popularity": 57648,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2213,7 +2213,7 @@
           ],
           "isAdult": false,
           "averageScore": 72,
-          "popularity": 57092,
+          "popularity": 57160,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2265,7 +2265,7 @@
           ],
           "isAdult": false,
           "averageScore": 82,
-          "popularity": 56483,
+          "popularity": 56580,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2321,7 +2321,7 @@
           ],
           "isAdult": false,
           "averageScore": 61,
-          "popularity": 56254,
+          "popularity": 56329,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2375,7 +2375,7 @@
           ],
           "isAdult": false,
           "averageScore": 71,
-          "popularity": 55537,
+          "popularity": 55648,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2428,7 +2428,7 @@
           ],
           "isAdult": false,
           "averageScore": 76,
-          "popularity": 55142,
+          "popularity": 55196,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2486,7 +2486,7 @@
           ],
           "isAdult": false,
           "averageScore": 72,
-          "popularity": 54220,
+          "popularity": 54295,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2538,7 +2538,7 @@
           ],
           "isAdult": false,
           "averageScore": 84,
-          "popularity": 54048,
+          "popularity": 54183,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2592,7 +2592,7 @@
           ],
           "isAdult": false,
           "averageScore": 66,
-          "popularity": 53963,
+          "popularity": 54002,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2647,7 +2647,7 @@
           ],
           "isAdult": false,
           "averageScore": 86,
-          "popularity": 50870,
+          "popularity": 50956,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
