@@ -36,8 +36,8 @@ for file_name in [file for file in os.listdir(path_to_json) if file.endswith('.j
     for i in data['data']['Page']['media']:
         newData = dictData.copy()
         AnimeName = i['title']['userPreferred']
-        for z in ['/',' ','-']:
-            AnimeName = AnimeName.replace(z, "_").strip()        
+        for z in ['/',' ','-',',']:
+            AnimeName = AnimeName.replace(z, "_")      
         
         for k in i['genres']:
             newData[k] = 1
