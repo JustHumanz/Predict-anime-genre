@@ -1,0 +1,2180 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 573,
+        "perPage": 50,
+        "currentPage": 10,
+        "lastPage": 12,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 126879,
+          "title": {
+            "userPreferred": "Shiroishi no Yousei Pichi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126879-YLPqsduyzofU.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126879-YLPqsduyzofU.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 7,
+            "day": 27
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 1,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Short promotional videos made for Shiroishi City in Miyagi Prefecture.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 32,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 406,
+                  "name": "Asahi Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 126657,
+          "title": {
+            "userPreferred": "Ashi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126657-ppyC2lKVAmO5.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126657-ppyC2lKVAmO5.jpg",
+            "color": "#fec950"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 9,
+            "day": 18
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 9,
+            "day": 18
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/126657-5YwfwlXInFEh.jpg",
+          "season": null,
+          "description": "Music video for the song Ashi by Kuricorder Quartet that was featured on their album \"Hitsuji Dorobou\".",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 62,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 125920,
+          "title": {
+            "userPreferred": "Anomie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125920-M1iv1lpoM7KD.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125920-M1iv1lpoM7KD.png",
+            "color": "#e4ae43"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 3,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 3,
+            "day": 8
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/125920-WchrcyPVEyWE.jpg",
+          "season": null,
+          "description": "Music video by amazarashi performing Anomie.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 69,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 125822,
+          "title": {
+            "userPreferred": "ReAct"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125822-etRpAu7pyQRq.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125822-etRpAu7pyQRq.png",
+            "color": "#f10000"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 4,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "ReAct is an original song by Kurousa-P. It is the sequel to ACUTE and tells the events that transpire after the first song. The video also features art by Moka Ichiyou.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 130,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 123438,
+          "title": {
+            "userPreferred": "Ebe Pt01"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123438-oZwzzK6r8BqZ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123438-oZwzzK6r8BqZ.png",
+            "color": "#93501a"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/123438-kZYAZWHmcmVn.jpg",
+          "season": null,
+          "description": "Music video for <i>Ebe Pt01</i> by Joseph Nothing Orchestra, featuring art by Aya Takano.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 37,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 123349,
+          "title": {
+            "userPreferred": "Retronix Symphony Betsu Vector Version"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123349-xiF1TKy4eJB7.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123349-xiF1TKy4eJB7.png",
+            "color": "#a1bbe4"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 10,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 10,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/123349-9C9ewKkkEinI.jpg",
+          "season": null,
+          "description": "Alternative music video version directed and animated by Souta Sugahara, one of the three directors of the original music video, for the song <i>Retronix Symphony</i> by MOP of HEAD.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 42,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 121714,
+          "title": {
+            "userPreferred": "Ohayou Ninja-tai Gatchaman"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121714-KZKcc4UbrtZM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121714-KZKcc4UbrtZM.jpg",
+            "color": "#50bbe4"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 4,
+            "day": 18
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 3,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "One-minute flash shorts based on Tatsunoko Production's classic science-fiction hero series Science Ninja Team Gatchaman aired during the NTV's Zip! television program on mornings.<br><br>(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 475,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 77,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6517,
+                  "name": "ODDJOB"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 121235,
+          "title": {
+            "userPreferred": "Ori-Princess"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121235-8Fgwa7hTdrlv.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121235-8Fgwa7hTdrlv.png",
+            "color": "#e45d6b"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 10,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 11,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A Chinese prince meets a regular civilian during his travels and quickly falls in love. They marry and have a daughter, but the prince is soon separated from them during a rebellion. Many years later, the prince has become emperor and locates his lost daughter. She comes to live with him, but unfortunately has picked up several unrefined habits during her times as a civilian.\n",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 71,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 343,
+                  "name": "Puzzle Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 121075,
+          "title": {
+            "userPreferred": "Tobidase! Dokan-kun"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121075-LYvTFKKD0uia.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121075-LYvTFKKD0uia.jpg",
+            "color": "#f1ae43"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 10,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 3,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 15,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 29,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 276,
+                  "name": "DLE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 120146,
+          "title": {
+            "userPreferred": "Kanabun no Koushin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120146-IgyjFNIwgdnN.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120146-IgyjFNIwgdnN.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 5,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 5,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A bizarre early work by Saigo no Shudan. They used children's toy instruments to create the kitschy soundtrack. \"Kanabun\" is the Japanese colloquial name for a drone beetle (Pseudotorynorrhina japonica) which is in the scarab family.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 54,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 120131,
+          "title": {
+            "userPreferred": "Suzy's Zoo: Daisuki! Witzy - Happy Birthday"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120131-L7CuD6QvgbQC.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120131-L7CuD6QvgbQC.png",
+            "color": "#f1c95d"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 12,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 12,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "This special is a short story about Witzy and the surprise birthday party that is planned by his friends.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 49,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 466,
+                  "name": "Digital Media Lab"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 119920,
+          "title": {
+            "userPreferred": "KiyaKiya"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119920-np7VnnGi3nUd.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119920-np7VnnGi3nUd.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 1,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 1,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The term \"KiyaKiya\" comes from the old Japanese expression \"mune ga kiyakiya suru.\" I first encountered it in Shibusawa Tatsuhiko's book Introductory Essays on Girls, in the chapter about \"childhood experiences.\" The expression, which describes “an enigmatic, nostalgic, disturbing feeling,” or an impression of “deja-vu”, is at the origin of my \"KiyaKiya\" series.\n\nIn our everyday routine, there are moments when suddenly we feel like something is different; this unexpected change, like in my memory, feels like it has a kind of reality. This impression is at the core of “KiyaKiya” and the related painting and drawing series.\n\n(Source: Official website)",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 26,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 119827,
+          "title": {
+            "userPreferred": "Retronix Symphony"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119827-igYjUGMXsU8X.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119827-igYjUGMXsU8X.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 7,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 7,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for MOP of HEAD's song \"Retronix Symphony\".",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 34,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 119531,
+          "title": {
+            "userPreferred": "Wild Pear"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119531-Sx0DSFimn83X.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119531-Sx0DSFimn83X.jpg",
+            "color": "#f1c9a1"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Based on the short story \"the wild Pear\" by Kenji Miyasawa.\n<br><br>\nTwo blue lanterns reflecting the bottom of a small Tanigawa.\n<br><br>\n(Source: Sukimaki animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 21,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 119421,
+          "title": {
+            "userPreferred": "Specimens of Obsessions"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119421-Nxby63WtypGE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119421-Nxby63WtypGE.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A man jumped out of the window.  Why did he have to leap out of his room?  As time reverse[s], his struggles gradually get revealed.  He has confined himself to his room and tried to escape from the horrible illusions and the memory of a.  .  .  man.  His room was full of specimens and each specimen had a significant name.\n<br><br>\nGraduate Work 2011, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Nishikata Eiga]",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 21,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 119355,
+          "title": {
+            "userPreferred": "Harbor Tale"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119355-B6OS9eOyl8lP.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119355-B6OS9eOyl8lP.jpg",
+            "color": "#50a1c9"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/119355-JPqsfvpQFaxP.jpg",
+          "season": null,
+          "description": "“Y” is a harbor town teeming with a tremendous flow of energy. One of the red bricks there is infected with the human desire to “see things I’ve never seen before.” One day the brick, dreaming of faraway places, suddenly begins to move.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 18,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 71,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 119347,
+          "title": {
+            "userPreferred": "Potecco Babies (2011)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119347-0CMXFrXci9u2.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119347-0CMXFrXci9u2.jpg",
+            "color": "#f1e45d"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 4,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 7,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Anime about potato characters continues.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 47,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 247,
+                  "name": "Shin-Ei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 118132,
+          "title": {
+            "userPreferred": "The life of the weed"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118132-RPMxYBI1DwgR.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118132-RPMxYBI1DwgR.jpg",
+            "color": "#f1d6bb"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118132-3PGElIpryoop.jpg",
+          "season": null,
+          "description": "A town flourishes on the sea, and a weed take shelter there. From then on, the weed endlessly repeats its small and harsh life. The weed uses its own body to perform a dance that condenses the things perceived in that town over a lifetime.\n<br><br>\n1st Year Work 2011, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 59,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 118039,
+          "title": {
+            "userPreferred": "Her Ghost Friend"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118039-nTVpYnewh9WR.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118039-nTVpYnewh9WR.jpg",
+            "color": "#f1d65d"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 11,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 11,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Official music video for Her Ghost Friend's song Houkago no Thesaurus.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 70,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 117990,
+          "title": {
+            "userPreferred": "Wish Upon a Snowdrop"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117990-889uCwpFlYez.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117990-889uCwpFlYez.jpg",
+            "color": "#f1e4c9"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "There is a family living in an air base town.  I got a younger brother.  Dad was only absent for work at the base and Mom was busy with the brother and little time for me. Out of loneliness and jealousy I hid brother’s charm. From that day, Dad stopped coming home...\n<br><br>\nGraduate Work 2011, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Nishikata Eiga)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 11,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 19,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 117961,
+          "title": {
+            "userPreferred": "Encounter with Earth"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117961-YABD4JB0OvOg.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117961-YABD4JB0OvOg.png",
+            "color": "#e4d643"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A family animation programme about the Earth's environment. Chasing after a glowing particle, the root of all life, along with our main character Naoko, you will discover a vital truth about what links you with other living beings and our planet.<br><br>\n(Source: Official site)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 62,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 22,
+                  "name": "Nippon Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 116910,
+          "title": {
+            "userPreferred": "Kesshin Sokudo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116910-39BPk1271nMK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116910-39BPk1271nMK.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 9,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 9,
+            "day": 5
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116910-YtmjSjQd1P3T.jpg",
+          "season": null,
+          "description": "Music video directed by Kousuke Sugimoto for the song Kesshin Sokudo by Handsome Kenya. It features a blend of live-action and animation.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 62,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 116855,
+          "title": {
+            "userPreferred": "Yadokari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116855-yOUGha86pdVV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116855-yOUGha86pdVV.jpg",
+            "color": "#fff100"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 10,
+            "day": 3
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 10,
+            "day": 3
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116855-pvton2yMEbFO.jpg",
+          "season": null,
+          "description": "Ryou Inoue's work which won honorable mention in the 24th CG Animation contest in Japan.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 57,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 115438,
+          "title": {
+            "userPreferred": "Better back then"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115438-s5UnrIm44EqA.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115438-s5UnrIm44EqA.png",
+            "color": "#e43535"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A girl is kept on the trot by a witch and continues to peel potatoes. She is fed up and tries to escape in vain. She gets desperate and decides to beat the witch... After all what will she find? What is her intention? Can we undo what has been done?\n<br><br>\nGraduate Work 2011, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source:  Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 8,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 73,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 115436,
+          "title": {
+            "userPreferred": "tick tack"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115436-z3VaDIJWOLiB.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115436-z3VaDIJWOLiB.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/115436-fnhvIXi8zTWR.jpg",
+          "season": null,
+          "description": "A little Chinku thinks his father does not love him. And when he think his grandfather, his only supporter, rejects his hand for help, Chinku feels betrayed. All shock up, Chinku draws circles with a huge and heavy pencil, wishing the time to fly fast…\n<br><br>\nGraduate Work 2011, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source:  Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 28,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 115435,
+          "title": {
+            "userPreferred": "Ygg's bird"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115435-CDp6GVVYcTyt.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115435-CDp6GVVYcTyt.png",
+            "color": "#f1c9bb"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/115435-rlD3ER1g1kfg.jpg",
+          "season": null,
+          "description": "We are all living in a food chain. All the living beings support each other as predator-prey relationship in the balance of nature. Yet there is a huge and ferocious bird. It is so brutal that all the creatures are afraid of it... Everything repeats itself, slightly changing its form.\n<br><br>\nGraduate Work 2011, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source:  Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 39,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 115179,
+          "title": {
+            "userPreferred": "Oyasumi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115179-RINxXfJp1gxT.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115179-RINxXfJp1gxT.png",
+            "color": "#fed650"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 7,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 7,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Kem's \"Oyasumi\" Music Video directed by Tomoyasu Murata.  This song is included in Kem's book, \"สิ่งที่ตี๋ไม่มีวันลืม\" released by Amarin Publishing in July 2011. ",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 34,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 114525,
+          "title": {
+            "userPreferred": "Rootless heart"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114525-EfYlHbL5EP8m.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114525-EfYlHbL5EP8m.jpg",
+            "color": "#933500"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Two boys are playing in ruins. There is something lurking in the dark...This is the stop motion animation on the theme of fear.\n<br><br>\nGraduate Work 2011, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\nPrize:\n2012 Puchon International Fantastic Film Festival in 2012, Jury's Choice\n2012 24th Tokyo Students Film Festival, Grand prize＆Audience Award\n2012　Independent Animation Festival, Jury's Choice\n2012　Yubari International Fantastic Film Festival in 2012, scholarship\n2011　Shimokitazawa Film Festival, Grand prize\n2011　West Tokyo Film Festival, Excellence Award\n<br><br>\n(Source: Geidai Animation)\n\n",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror",
+            "Mystery",
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 47,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 114426,
+          "title": {
+            "userPreferred": "Arigatou Kumanofu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114426-3XABAT4jvtLM.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114426-3XABAT4jvtLM.png",
+            "color": "#e4ae5d"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 11,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 1,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Shorts that focus on a female bear's life.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 11,
+          "duration": null,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 48,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 432,
+                  "name": "Kachidoki Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 114425,
+          "title": {
+            "userPreferred": "Kuma no Keimu-sho"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114425-JEhnzvsntSE7.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114425-JEhnzvsntSE7.jpg",
+            "color": "#e45028"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 11,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 11,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Focuses on the odd inmates at a bear prison.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 52,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 432,
+                  "name": "Kachidoki Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 112205,
+          "title": {
+            "userPreferred": "Kiritorisen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112205-GbRvn0Q7iX2i.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112205-GbRvn0Q7iX2i.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 12,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 12,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 61,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 111127,
+          "title": {
+            "userPreferred": "Tsubuyaki-tai Specials"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111127-QYoOP1YDa9vm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111127-QYoOP1YDa9vm.jpg",
+            "color": "#e4bb86"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 3,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 3,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The 1st DVD release of Tsubuyaki-tai lists two \"adult\" specials.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 43,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 111031,
+          "title": {
+            "userPreferred": "Tsubuyaki-tai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111031-MOZC6NJKd3Ze.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111031-MOZC6NJKd3Ze.jpg",
+            "color": "#e4bb50"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2012,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A surreal dialogue-heavy comedy where objects talk about their lives in an interview-style such as a toothbrush in a cup or a hamster.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 71,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 110597,
+          "title": {
+            "userPreferred": "way"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110597-FqPvb0YRpxJE.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110597-FqPvb0YRpxJE.png",
+            "color": "#e4bb0d"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 7,
+            "day": 20
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 7,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Short by Masanobu Hiraoka combining live action and his signature style of animation.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 34,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 110247,
+          "title": {
+            "userPreferred": "Tsunagaru"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110247-nkucFrdnzQzH.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110247-nkucFrdnzQzH.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 11,
+            "day": 24
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 11,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A Tekken short created for channel TBS's program \"Supamoku!!\" but was later included on the official DVD 1 release of his animated works. In Tsunagaru people start holding hands in one long human chain.\n",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 61,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 109995,
+          "title": {
+            "userPreferred": "HEART"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109995-6Y5WPmKP8Y1G.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109995-6Y5WPmKP8Y1G.jpg",
+            "color": "#a15d35"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 3,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 3,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for group_inou's music HEART, animated and directed by Ac-Bu.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 66,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 109007,
+          "title": {
+            "userPreferred": "creator"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109007-4aFRwIe8wDCK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109007-4aFRwIe8wDCK.jpg",
+            "color": "#c9d6f1"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109007-ZgHjYfzLWTGE.jpg",
+          "season": null,
+          "description": "A man is left alone in empty white space. He starts to create his own world with materials popped up out of nowhere and build a house and made animals. But there is a hole in this world and he wonders about it. In the meanwhile he learns there is the border where they can survive around the hole.\n<br><br>\nGraduate Work 2011 by Hiroki Kono, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source: Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 39,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 108749,
+          "title": {
+            "userPreferred": "Annyeong Totobi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108749-76E2mvbmqybM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108749-76E2mvbmqybM.jpg",
+            "color": "#93d61a"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 7,
+            "day": 20
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 9,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 104,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 57,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 108320,
+          "title": {
+            "userPreferred": "Shake"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108320-dcVE0Xv9EHO1.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108320-dcVE0Xv9EHO1.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 7,
+            "day": 20
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 7,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Short animation directed by Masanobu Hiraoka featuring the song Smoke And Mirrors by Sean Lennon",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 84,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 107299,
+          "title": {
+            "userPreferred": "Dark Side Cat Versus"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107299-3bIWHwMHr1NX.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107299-3bIWHwMHr1NX.jpg",
+            "color": "#e4bb5d"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 1,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 1,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The sequel to the Ankoku Cat ONA series.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 80,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 107197,
+          "title": {
+            "userPreferred": "Writings fly away"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx107197-bLm20rYgJ7oE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx107197-bLm20rYgJ7oE.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107197-YAnCJV90NWFt.jpg",
+          "season": null,
+          "description": "I try to set this work – a film using texts, or a film-book – between watching and reading. This film is dedicated to J.L. Borges, a great artist, who had translated The Happy Prince by Oscar Wilde at his early childhood, became one of the greatest writers of the 20th century and continued to publish the works by dictation even after losing his eyesight.\n<br><br>\nGraduate Work 2011, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source: Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 13,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 98,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 107191,
+          "title": {
+            "userPreferred": "Promises"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107191-osaSFfpTLNyn.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107191-osaSFfpTLNyn.jpg",
+            "color": "#e45028"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107191-9MEo5REAAXeF.jpg",
+          "season": null,
+          "description": "This is the true love story between mother and a dead child.  To come back her cild to life, Mother made a promise with a old man.\n<br><br>\nGraduate Work 2011, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 8,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mystery",
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 55,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 107187,
+          "title": {
+            "userPreferred": "Island of Man"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx107187-HUeeCEI2mc9w.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx107187-HUeeCEI2mc9w.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107187-ZvJsmc3ETEDF.jpg",
+          "season": null,
+          "description": "A man dressed in a suit and wearing boots gazes at the beautiful ocean before him. He looks exhausted and gazes at the beautiful ocean before him. The story gradually trace back into his life. This is ZEN.\n<br><br>\n1st year work 201q, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Geidei Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 37,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 107178,
+          "title": {
+            "userPreferred": "Al Dente Tango"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx107178-Zk9cfHkyuiHT.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx107178-Zk9cfHkyuiHT.jpg",
+            "color": "#781a28"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107178-OoGDktMur3bO.jpg",
+          "season": null,
+          "description": "The stage is a fancy restaurant featuring live tango performances. Both the cuisine and the clientele are impeccable, and everyone is fully content. But one customer’s visit disrupts the tranquility.\n<br><br>\n1st year work 2011, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 39,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 107177,
+          "title": {
+            "userPreferred": "Fully cooked for you"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx107177-9gBNhL5yMxDk.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx107177-9gBNhL5yMxDk.jpg",
+            "color": "#e4ae43"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107177-f0GRp2BsV2um.jpg",
+          "season": null,
+          "description": "A mother making a traditional New Year's vegetable dish for the family, and a child watching. The ingredients are animals of peas, carrots, burdock root and konjak. Enjoy the dish! <br><br>\n1st Year Work 2011 by Yuka Imabayashi, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation<br><br>\n(Source: Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 62,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 106932,
+          "title": {
+            "userPreferred": "BONNIE"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106932-HKjVKZOY5Y1I.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx106932-HKjVKZOY5Y1I.jpg",
+            "color": "#c9d6f1"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106932-M5JeM2vVaiBo.jpg",
+          "season": null,
+          "description": "\"BONNIE\" is something like the wind, and she was hoping that everything would get blown away. <br><br>\n1st Year Work 2011 by Masanori Okamoto, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. <br><br>\n(Source: Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 85,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 106931,
+          "title": {
+            "userPreferred": "The Grouse in Snow Mountain"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106931-0scltmMc30Xl.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx106931-0scltmMc30Xl.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106931-mpoISPk4v7ka.jpg",
+          "season": null,
+          "description": "A man blown by blizzard on Snow Mountain wants to return to his warm home. \n<br><br>\n1st Year Work 2011 by Hiroko Satsuma, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source: Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 39,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 106930,
+          "title": {
+            "userPreferred": "Peek-a-boo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106930-nPvPFZbqv3DZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx106930-nPvPFZbqv3DZ.jpg",
+            "color": "#ae431a"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106930-Hc7av6Svm9si.jpg",
+          "season": null,
+          "description": "The old granny playing peek-a-boo is gone. Instead, a stranger appears and draws closer to the child. Peek-a-boo involves exercising memory, and looking directly at your partner.\n<br><br>\n1st Year Work 2011 by Keiko Shiraishi, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 157,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 106701,
+          "title": {
+            "userPreferred": "Flowers"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106701-6mMI5HIp1mIZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx106701-6mMI5HIp1mIZ.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2011,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106701-N5a1abnvgVBZ.jpg",
+          "season": null,
+          "description": "A girl who loves to dance but has no talent. \"Talent\" is not something to be added on, but rather \"complements what is lacking.\" The important thing is to continually keep the easily wilted \"flower\" blooming beautifully. <br><br>\n1st Year Work 2011 by Toyomi Morishita, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. \n<br><br>\n(Source:  Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 35,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 106507,
+          "title": {
+            "userPreferred": "47 Todoufuken"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106507-wRbeyiZbRLrm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106507-wRbeyiZbRLrm.jpg",
+            "color": "#f1a135"
+          },
+          "startDate": {
+            "year": 2011,
+            "month": 4,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2011,
+            "month": 9,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "\"47 Prefecture Dogs\" is a short flash animation from a voice over variety TV program in Japan called \"SAY! YOU! SAY! ME!\" The animation takes Japan's 47 prefectures—or more specifically, the local delicacies or famous landmarks from each of the regions—and gives them a canine makeover. For example, the \"Fukuoka-ken\" (Fukuoka dog),—Fukuoka of course being home to asianbeat HQ—uses the delicacy \"mentaiko\" (spicy pollack roe) as the motif for its canine characterization.<br><br>\nEach of the characters are played by voice actors that hail from each of the individual prefectures, \"Fukuoka-ken\" being voiced by Fukuoka's Kana Asumi.\nAnother feature of this anime is the use of regional dialect. All the dogs speak in the dialect of their individual prefectures. So for the Fukuoka dog you hear a lot of \"~to\" and \"~to yo\" at the end of sentences; for the Aichi dog it's \"~dagane,\" and for Ehime, \"~zonamoshi,\" etc.<br><br>(Source: AsianBeat.com, edited)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 126,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6100,
+                  "name": "Pollyanna Graphics Inc"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -10,44 +10,315 @@
       },
       "media": [
         {
-          "id": 11757,
+          "id": 15417,
           "title": {
-            "userPreferred": "Sword Art Online"
+            "userPreferred": "Gintama Season 3"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11757-Q9P2zjCPICq5.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11757-Q9P2zjCPICq5.jpg",
-            "color": "#5DC0E4"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15417-tElVlFbOTDVp.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15417-tElVlFbOTDVp.png",
+            "color": "#AD4157"
           },
           "startDate": {
             "year": 2012,
-            "month": 7,
-            "day": 8
+            "month": 10,
+            "day": 4
           },
           "endDate": {
-            "year": 2012,
-            "month": 12,
-            "day": 23
+            "year": 2013,
+            "month": 3,
+            "day": 28
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11757-TlEEV9weG4Ag.jpg",
-          "season": "SUMMER",
-          "description": "In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players control their avatars with their bodies using a piece of technology called Nerve Gear. One day, players discover they cannot log out, as the game creator is holding them captive unless they reach the 100th floor of the game's tower and defeat the final boss. However, if they die in the game, they die in real life. Their struggle for survival starts now...<br><br>\n(Source: Crunchyroll)",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/15417-0T9JCwFZM99Q.jpg",
+          "season": "FALL",
+          "description": "While Gintoki Sakata was away, the Yorozuya found themselves a new leader: Kintoki, Gintoki's golden-haired doppelganger. In order to regain his former position, Gintoki will need the help of those around him, a troubling feat when no one can remember him! Between Kintoki and Gintoki, who will claim the throne as the main character?\n<br><br>\nIn addition, Yorozuya make a trip back down to red-light district of Yoshiwara to aid an elderly courtesan in her search for her long-lost lover. Although the district is no longer in chains beneath the earth's surface, the trio soon learn of the tragic backstories of Yoshiwara's inhabitants that still haunt them. With flashback after flashback, this quest has Yorozuya witnessing everlasting love and protecting it as best they can with their hearts and souls.\n<br><br>\n<i>Gintama'</i>: Enchousen includes moments of action-packed intensity along with their usual lighthearted, slapstick humor for Gintoki and his friends.\n<br><br>\n(Source: MAL Rewrite)",
           "type": "ANIME",
           "format": "TV",
           "status": "FINISHED",
-          "episodes": 25,
-          "duration": 23,
+          "episodes": 13,
+          "duration": 24,
           "chapters": null,
           "volumes": null,
           "genres": [
             "Action",
-            "Adventure",
-            "Fantasy",
-            "Romance"
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
           ],
           "isAdult": false,
-          "averageScore": 68,
-          "popularity": 381124,
+          "averageScore": 89,
+          "popularity": 46753,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 11741,
+          "title": {
+            "userPreferred": "Fate/Zero Season 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11741-Twb6iJx77FFV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11741-Twb6iJx77FFV.jpg",
+            "color": "#e4781a"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 6,
+            "day": 24
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11741-TWwZCgsK5aXh.jpg",
+          "season": "SPRING",
+          "description": "As the Fourth Holy Grail War rages on with no clear victor in sight, the remaining Servants and their Masters are called upon by Church supervisor Risei Kotomine, in order to band together and confront an impending threat that could unravel the Grail War and bring about the destruction of Fuyuki City. The uneasy truce soon collapses as Masters demonstrate that they will do anything in their power, no matter how despicable, to win.\n<br><br>\nSeeds of doubt are sown between Kiritsugu Emiya and Saber, his Servant, as their conflicting ideologies on heroism and chivalry clash. Meanwhile, an ominous bond forms between Kirei Kotomine, who still seeks to find his purpose in life, and one of the remaining Servants. As the countdown to the end of the war reaches zero, the cost of winning begins to blur the line between victory and defeat.\n<br><br>\n(Source: MAL Rewrite)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 85,
+          "popularity": 138350,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 43,
+                  "name": "ufotable"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 11665,
+          "title": {
+            "userPreferred": "Natsume's Book of Friends 4"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11665-nfbt94cwKySE.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11665-nfbt94cwKySE.png",
+            "color": "#e4c986"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 1,
+            "day": 3
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 3,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11665-JYylw0x1Qi1H.jpg",
+          "season": "WINTER",
+          "description": "The fourth season of <i>Natsume Yuujinchou</i>.<br>\n<br>\nStill in possession of his grandmother's Book of Friends, Natsume spends his days returning the names of yokai to their rightful owners. He has been learning how to deal with the yokai and humans that surround his life, but the time has come for him to deal with something even more difficult — his own past, and future.<br><br>\n(Source: NIS America)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 85,
+          "popularity": 29163,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 112,
+                  "name": "Brain's Base"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 12355,
+          "title": {
+            "userPreferred": "Wolf Children"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12355-wNsvhEsXEgrH.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12355-wNsvhEsXEgrH.png",
+            "color": "#e45d6b"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 6,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 6,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12355.jpg",
+          "season": "SUMMER",
+          "description": "The theme of the film is the love between parents and children. The story covers 13 years and begins with a 19-year-old college student named Hana who encounters and falls in \"fairy tale-like\" love with a \"wolf man.\" After marrying the wolf man, Hana gives birth and raises two wolf children&mdash;an older sister named Yuki who was born on a snowy day, and a younger brother named Ame who was born on a rainy day. The four quietly lived in a corner of a city to conceal the existence of the \"wolf children,\" but when the wolf man suddenly dies, Hana decides to move to a rural town far removed from the city.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 117,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 84,
+          "popularity": 109738,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 555,
+                  "name": "Studio Chizu"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 12365,
+          "title": {
+            "userPreferred": "Bakuman. 3"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12365-G5nFzWm2mIwz.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12365-G5nFzWm2mIwz.png",
+            "color": "#f1a11a"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 3,
+            "day": 30
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12365-icejvUdmnD8D.jpg",
+          "season": "FALL",
+          "description": "Moritaka Mashiro and Akito Takagi have come a long way since they started making manga in middle school, but trials still await them as they head towards their goal of getting an anime adaptation for one of their manga. As they continue to grow as artists and as people, they will be faced with new friends, new rivals, and new hurdles to overcome.<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 25,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 84,
+          "popularity": 37014,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 12431,
+          "title": {
+            "userPreferred": "Space Brothers"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12431-U8HbfcuLihBp.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12431-U8HbfcuLihBp.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 3,
+            "day": 22
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12431-L8FNRD2Ylvei.jpg",
+          "season": "SPRING",
+          "description": "Mutta's life has hit rock bottom. He's been fired, blackballed from his profession and now he's had to move back in with his parents. Meanwhile, his kid brother Hibito has been literally riding a rocket and training to be an astronaut. The same career Mutta once dreamed of. So, is it ever too late to go after your dreams? Through a little coercing and a bit of covert activity, Mutta's family and friends can get his resume on the right desk, but from that point on it will be up to Mutta himself. Does he have what it takes to turn his life around and put his footprint on the moon? The first step on the highway to the stars is always the hardest, and in a job where crash and burn isn't just a euphemism, it will be the biggest risk Mutta's ever taken. But with the best support team ever, maybe he'll find what he needs to rekindle the spark inside him and light the biggest candle of them all! <br><br>\r\n(Source: Sentai Filmworks) ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 99,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 83,
+          "popularity": 29131,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -57,112 +328,6 @@
                 "node": {
                   "id": 561,
                   "name": "A-1 Pictures"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 14719,
-          "title": {
-            "userPreferred": "JoJo's Bizarre Adventure (TV)"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14719-XFOPewvDtDdA.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14719-XFOPewvDtDdA.jpg",
-            "color": "#e4a15d"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 10,
-            "day": 6
-          },
-          "endDate": {
-            "year": 2013,
-            "month": 4,
-            "day": 6
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14719-m7Hv2AxcNNjM.jpg",
-          "season": "FALL",
-          "description": "Beginning its tale in 19th century England, young aristocrat Jonathan Joestar finds himself locked in bitter rivalry with Dio Brando, a low-born boy who Jonathan's father took under his wing after the death of Dio's father. Discontent with his station in life, Dio's fathomless lust to reign over all eventually leads him to seek the supernatural powers of an ancient Aztec stone mask in the Joestar's possession—an artifact that will forever change the destiny of Dio and Jonathan for generations to come.<br>\n<br>\nFifty years later, in 1938 New York City, Jonathan's grandson Joseph Joestar must take up his grandfather's mission and master the abilities necessary to destroy the stone mask and its immensely powerful creators who threaten humanity's very existence, the Pillar Men.<br><br>\n(Source: Anime News Network)",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 26,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Supernatural"
-          ],
-          "isAdult": false,
-          "averageScore": 77,
-          "popularity": 233445,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 287,
-                  "name": "David Production"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 11111,
-          "title": {
-            "userPreferred": "Another"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11111-Y4QgkX8gJQCa.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11111-Y4QgkX8gJQCa.png",
-            "color": "#e47850"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 1,
-            "day": 10
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 3,
-            "day": 27
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11111.jpg",
-          "season": "WINTER",
-          "description": "When Kouichi Sakakibara transfers to a new school, he senses a frightening atmosphere in his new class, a secret none of them will talk about. At the center is the beautiful Mei Misaki. Kouichi is immediately drawn to her mysterious aura, but he begins to realize that no one else in the class is aware of her presence. Soon after his arrival, what is known as the Calamity begins, and it claims the lives of many students.<br>\n<br>\n(Source: Sentai Filmworks)",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 12,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Horror",
-            "Mystery",
-            "Psychological",
-            "Supernatural",
-            "Thriller"
-          ],
-          "isAdult": false,
-          "averageScore": 71,
-          "popularity": 211518,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 132,
-                  "name": "P.A. Works"
                 }
               }
             ]
@@ -206,7 +371,7 @@
           ],
           "isAdult": false,
           "averageScore": 82,
-          "popularity": 193501,
+          "popularity": 193672,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -222,28 +387,309 @@
           }
         },
         {
-          "id": 14741,
+          "id": 11979,
           "title": {
-            "userPreferred": "Love, Chunibyo & Other Delusions"
+            "userPreferred": "Puella Magi Madoka Magica the Movie Part II: Eternal"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14741-nxdzpJxU2rRT.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14741-nxdzpJxU2rRT.jpg",
-            "color": "#5d93e4"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11979-oiKvt5UXyREg.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11979-oiKvt5UXyREg.jpg",
+            "color": "#210854"
           },
           "startDate": {
             "year": 2012,
             "month": 10,
-            "day": 4
+            "day": 13
           },
           "endDate": {
             "year": 2012,
-            "month": 12,
-            "day": 20
+            "month": 10,
+            "day": 13
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14741-7RMdUd7tVfSu.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11979-dvw1NNJjvuL7.jpg",
           "season": "FALL",
-          "description": "Everybody has had that stage in their life where they have thought themselves to be special, different from the masses of ordinary humans. They might go as far as seeing themselves capable of wielding mystical powers, or maybe even believe themselves to have descended from a fantasy realm. This \"disease\" is known as \"chuunibyou\" and is often the source of some of the most embarrassing moments of a person's life.\n<br><br>\nFor Yuuta Togashi, the scars that his chuunibyou has left behind are still fresh. Having posed as the \"Dark Flame Master\" during his middle school years, he looks back at those times with extreme embarrassment, so much so that he decides to attend a high school far away where nobody will recognize him. Putting his dark history behind him, he longs to live a normal high school life.\n<br><br>\nUnfortunately, he hasn't escaped his past yet: enter Rikka Takanashi, Yuuta's new classmate and self-declared vessel of the \"Wicked Eye.\" As this eccentric young girl crashes into Yuuta's life, his dream of an ordinary, chuunibyou-free life quickly crumbles away. In this hilarious and heartwarming story of a boy who just wants to leave his embarrassing memories behind, the delusions of old are far from a thing of the past.\n<br><br>\n(Source: MAL Rewrite)",
+          "description": "The second movie in the Madoka trilogy. It is a recap of the last four episodes of the series.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 109,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mahou Shoujo",
+            "Psychological",
+            "Thriller"
+          ],
+          "isAdult": false,
+          "averageScore": 81,
+          "popularity": 30388,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 44,
+                  "name": "Shaft"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 12531,
+          "title": {
+            "userPreferred": "Kids on the Slope"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx12531-Z5K3przHadiD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx12531-Z5K3przHadiD.jpg",
+            "color": "#f1ae5d"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 6,
+            "day": 29
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12531-S7FaZwnZPCWQ.jpg",
+          "season": "SPRING",
+          "description": "The beginning of summer, 1966. <br><br>\nBecause of his father's job situation, freshman high school student Kaoru Nishimi moves by himself from Yokosuka to Kyushu to live with relatives. Until then, Kaoru was an honor roll student who tended to keep to himself, but meeting notorious bad boy Sentaro Kawabuchi starts to change him. Through his devil-may-care classmate, Kaoru learns the attractions of jazz and finds the first person he can call a \"friend\". He also discovers how much fun it is to play music with a pal. <br><br>\nOther characters include Sentaro's kind childhood chum, Ritsuko, who is the daughter of a record shop owner; the mysterious upperclassman, Yurika; and Brother Jun, the much-admired leader among their peers. Set against the backdrop of a seaside town with a scent of American culture, this series is a drama about young people coming into their own, crossing each other's paths, and finding friendship, love, and music! <br><br>\n(Source: Official Website) ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Music",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 81,
+          "popularity": 55677,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 200,
+                  "name": "Tezuka Productions"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 569,
+                  "name": "MAPPA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 13125,
+          "title": {
+            "userPreferred": "From the New World"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13125-NdLjbmyHmoAD.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13125-NdLjbmyHmoAD.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 9,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 3,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13125.jpg",
+          "season": "FALL",
+          "description": "Following a sudden outbreak of psychokinesis in 0.1% of the population, a rapid transformation swept the world. The godlike ability to manipulate matter remotely turned many power wielders to violence, inciting a long period of upheaval. Finally, after a chaotic era shaped by the rise and fall of oppressive regimes, the psychic humans were able to achieve a fragile peace by isolating their society, creating a new world bound by complex rules.\n<br><br>\nIn the town of Kamisu 66, 12-year-old Saki Watanabe has just awakened to her powers and is relieved to rejoin her friends—the mischievous Satoru Asahina, the shy Mamoru Itou, the cheerful Maria Akizuki, and Shun Aonuma, a mysterious boy whom Saki admires—at Sage Academy, a special school for psychics. However, unease looms as Saki begins to question the fate of those unable to awaken to their powers, and the children begin to get involved with secretive matters such as the rumored Tainted Cats said to abduct children.\n<br><br>\n<i>Shinsekai yori</i> tells the unique coming-of-age story of Saki and her friends as they journey to grow into their roles in the supposed utopia. Accepting these roles, however, might not come easy when faced with the dark and shocking truths of society, and the impending havoc born from the new world.\n<br><br>\n(Source: MAL Rewrite)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 25,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Horror",
+            "Mystery",
+            "Psychological",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 81,
+          "popularity": 104540,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 561,
+                  "name": "A-1 Pictures"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 10863,
+          "title": {
+            "userPreferred": "Steins;Gate: Egoistic Poriomania"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10863-V6oW2kN8bBYf.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10863-V6oW2kN8bBYf.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 2,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 2,
+            "day": 22
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10863-paT73FyJgPi3.jpg",
+          "season": "WINTER",
+          "description": "Special episode included in the last of the nine Blu-ray/DVD volumes. <br><br>\nThe story is set a few months after the last scene of the television series. On a calm day in Akihabara, Okabe and the other laboratory members are invited by Feyris to go to America. Mayuri and the rest are planning to reunite with Kurisu, who had come back to an American laboratory. A few days later, Okabe's mad scientist persona Hououin Kyouma arrives alone at the airport in Los Angeles, where he may be taking the first step to leading the world into chaos.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 80,
+          "popularity": 65718,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 314,
+                  "name": "White Fox"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 12029,
+          "title": {
+            "userPreferred": "Star Blazers: Space Battleship Yamato 2199"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12029-yxcDPXcaeQkx.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12029-yxcDPXcaeQkx.png",
+            "color": "#e4c95d"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 8,
+            "day": 24
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12029-iAyPj5JOcvsp.jpg",
+          "season": "SPRING",
+          "description": "The year is 2199. The human race has been crushed in their war with the Gamilos, driven into underground cities by the invader's assault. Scientists estimate they have only a year left. The young officers Susumu Kodai and Daisuke Shima receive a mysterious capsule from a ship that made an emergency landing on Mars and return with it to Earth. It contains humanity's last hope: the planet Iscandar on the other side of the Magellan Galaxy has the technology to defeat the Gamilos and restore the planet. The space battleship Yamato is entrusted with this task, but they have only one year before humanity ends.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 80,
+          "popularity": 18330,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 27,
+                  "name": "Xebec"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 48,
+                  "name": "AIC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 11843,
+          "title": {
+            "userPreferred": "Daily Lives of High School Boys"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11843-KK3X2ccAlUwI.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11843-KK3X2ccAlUwI.jpg",
+            "color": "#c9f1f1"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 1,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 3,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11843-2GxMdvjHLn6v.jpg",
+          "season": "WINTER",
+          "description": "Tadakuni, Hidenori, and Yoshitake are students at the all-boys academy, Sanada North High School. This is a tale about just that—their daily lives as students. Winning the basketball tournament? Finding true love? You won't find any of that here. Whether it's sparking random arguments while hanging out with friends, meeting that one weird co-worker at a part-time job, or even letting imaginations run wild on a windy afternoon, we've all experienced the show's ordinary but true-to-life themes at one point or another. <br><br>\r\n(Source: NIS America) ",
           "type": "ANIME",
           "format": "TV",
           "status": "FINISHED",
@@ -253,13 +699,11 @@
           "volumes": null,
           "genres": [
             "Comedy",
-            "Drama",
-            "Romance",
             "Slice of Life"
           ],
           "isAdult": false,
-          "averageScore": 76,
-          "popularity": 188264,
+          "averageScore": 80,
+          "popularity": 107369,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -267,8 +711,224 @@
               {
                 "isMain": true,
                 "node": {
-                  "id": 2,
-                  "name": "Kyoto Animation"
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 11597,
+          "title": {
+            "userPreferred": "Nisemonogatari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11597-ApDcMuPvRhgr.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11597-ApDcMuPvRhgr.jpg",
+            "color": "#935de4"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 1,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 3,
+            "day": 18
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11597-aaxZHSMUR3Aa.jpg",
+          "season": "WINTER",
+          "description": "First season of the Monogatari Series, part 5/6. Contains the arcs Karen Bee and Tsukihi Phoenix from the Nisemonogatari light novels.\n<br><br>\nIn Bakemonogatari, the story centered on Koyomi Araragi, a third year high school student who has recently survived a vampire attack and finds himself mixed up with all kinds of apparitions: gods, ghosts, myths, and spirits. However, in Nisemonogatari, we pick up right where we left off and follow Koyomi as the psychological twists delve deeper and deeper...\n<br><br>\n(Source: Aniplex)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 11,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Ecchi",
+            "Mystery",
+            "Psychological",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 80,
+          "popularity": 112804,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 44,
+                  "name": "Shaft"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 11977,
+          "title": {
+            "userPreferred": "Puella Magi Madoka Magica the Movie Part I: Beginnings"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11977-U3ssJ4GRFRbl.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11977-U3ssJ4GRFRbl.png",
+            "color": "#e4ae43"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 6
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11977-4giVqDJ3qaHX.jpg",
+          "season": "FALL",
+          "description": "The first movie in the Madoka trilogy; a recap of the first eight episodes of the series.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 130,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Mahou Shoujo",
+            "Psychological",
+            "Thriller"
+          ],
+          "isAdult": false,
+          "averageScore": 80,
+          "popularity": 30901,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 44,
+                  "name": "Shaft"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 20760,
+          "title": {
+            "userPreferred": "Gintama: Yorinuki Gintama-san on Theater 2D"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20760-CnQpZe5WIND3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20760-CnQpZe5WIND3.jpg",
+            "color": "#785d28"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 8,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 8,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Movie version of the Shinsengumi Crisis arc (episodes 101-105) and the Kabukicho Four Devas arc (episodes 210-214) which were screened in selected theaters in Japan.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 96,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 79,
+          "popularity": 5775,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 12859,
+          "title": {
+            "userPreferred": "One Piece Film: Z"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12859-uQFENDPzMWz6.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12859-uQFENDPzMWz6.jpg",
+            "color": "#f1ae5d"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 12,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 12,
+            "day": 15
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12859-XjlBW6o2YwUb.jpg",
+          "season": "FALL",
+          "description": "Said to be comparable to the Ancient Weapons of old, the Marines’ trump card, the “Dyna Stones,” have suddenly been stolen by a group of renegade vigilantes. The terrifyingly powerful man responsible, former Marine Admiral “Z”, now stands in the path of Luffy and his Straw Hat Pirates. Can the Straw Hats defeat “Z” and his crew, or will the New World meet its end at the hands of this mad man? <br>\n<br>\n(Source: Funimation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 107,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 79,
+          "popularity": 28693,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
                 }
               }
             ]
@@ -310,7 +970,7 @@
           ],
           "isAdult": false,
           "averageScore": 79,
-          "popularity": 188013,
+          "popularity": 188210,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -326,28 +986,81 @@
           }
         },
         {
-          "id": 11617,
+          "id": 14713,
           "title": {
-            "userPreferred": "High School DxD"
+            "userPreferred": "Kamisama Kiss"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11617-nmxMU9Zh3H5R.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11617-nmxMU9Zh3H5R.jpg",
-            "color": null
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx14713-RyZ7bA7CdvGw.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx14713-RyZ7bA7CdvGw.jpg",
+            "color": "#e4d693"
           },
           "startDate": {
             "year": 2012,
-            "month": 1,
-            "day": 6
+            "month": 10,
+            "day": 2
           },
           "endDate": {
             "year": 2012,
-            "month": 3,
-            "day": 23
+            "month": 12,
+            "day": 25
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11617-oLkTAGcyAwcU.jpg",
-          "season": "WINTER",
-          "description": "Issei Hyodo is your average perverted high school student whose one wish in life is to have his own harem, but he's got to be one of the unluckiest guys around. He goes on his first date with a girl only to get brutally attacked and killed when it turns out the girl is really a vicious fallen angel. To top it all off, he's later reincarnated as a devil by his gorgeous senpai who tells him that she is also a devil and now his master! One thing's for sure, his peaceful days are over. In a battle between devils and angels, who will win? <br><br>\n(Source: FUNimation) ",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14713-wvdTrUno1vNW.jpg",
+          "season": "FALL",
+          "description": "Nanami Momozono is alone and homeless after her dad skips town to evade his gambling debts and the debt collectors kick her out of her apartment. So when a man she's just saved from a dog offers her his home, she jumps at the opportunity. But it turns out that his place is a shrine, and Nanami has unwittingly taken over his job as a local deity! <br><br>\nNanami has all kinda of new responsibilities she doesn't understand, dangers she's unaware of, and a cranky ex-familiar who's... actually pretty hot. What's a new-fledged godling to do? <br><br>\n(Source: Viz Media) ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 79,
+          "popularity": 76581,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 73,
+                  "name": "TMS Entertainment"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 11239,
+          "title": {
+            "userPreferred": "Hidamari Sketch x Honeycomb"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11239-JysRplnD2e0P.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11239-JysRplnD2e0P.jpg",
+            "color": "#f16b50"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11239-IH1qkMFp2tgR.jpg",
+          "season": "FALL",
+          "description": "The fourth season of <i>Hidamari Sketch</i>.<br>\n<br>\nStudying at the Yamabuki Arts High School has been a dream-come-true for Yuno, and she's learned so much already! And not just from her instructors, but from her friends and neighbors who've become her second family and made the Hidamari Apartments such a safe and nurturing home. But as the day of her \"big sisters\" Sae and Hiro's graduation draws slowly closer, it's time for Yuno to start seriously taking on the same role for Nazuna, Nori and the other budding young artists who've entered Hidemari's protective cocoon. And it's also time to tackle some really challenging artistic assignments. That doesn't mean there won't still be time for fun with Miyako and all the others, but it's definitely time to pencil in her plans for the future. And sometimes that means you have to put the art before the course! <br><br>\n(Source: Sentai Filmworks) ",
           "type": "ANIME",
           "format": "TV",
           "status": "FINISHED",
@@ -356,15 +1069,12 @@
           "chapters": null,
           "volumes": null,
           "genres": [
-            "Action",
             "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Romance"
+            "Slice of Life"
           ],
           "isAdult": false,
-          "averageScore": 69,
-          "popularity": 154595,
+          "averageScore": 79,
+          "popularity": 5537,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -372,8 +1082,61 @@
               {
                 "isMain": true,
                 "node": {
-                  "id": 120,
-                  "name": "TNK"
+                  "id": 44,
+                  "name": "Shaft"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 10153,
+          "title": {
+            "userPreferred": "Magical Girl Lyrical Nanoha: The Movie 2nd A's"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10153-8xp0PkSWLHHK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10153-8xp0PkSWLHHK.jpg",
+            "color": "#4A2FA2"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 7,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 7,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Sequel of Mahou Shoujo Lyrical Nanoha The Movie 1st.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 150,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mahou Shoujo",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 79,
+          "popularity": 4532,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 35,
+                  "name": "Seven Arcs"
                 }
               }
             ]
@@ -417,7 +1180,7 @@
           ],
           "isAdult": false,
           "averageScore": 79,
-          "popularity": 154006,
+          "popularity": 154146,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -468,7 +1231,7 @@
           ],
           "isAdult": false,
           "averageScore": 78,
-          "popularity": 143292,
+          "popularity": 143481,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -484,44 +1247,43 @@
           }
         },
         {
-          "id": 11741,
+          "id": 15059,
           "title": {
-            "userPreferred": "Fate/Zero Season 2"
+            "userPreferred": "Initial D Fifth Stage"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11741-Twb6iJx77FFV.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11741-Twb6iJx77FFV.jpg",
-            "color": "#e4781a"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15059.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15059.jpg",
+            "color": "#e4280d"
           },
           "startDate": {
             "year": 2012,
-            "month": 4,
-            "day": 8
+            "month": 11,
+            "day": 4
           },
           "endDate": {
-            "year": 2012,
-            "month": 6,
-            "day": 24
+            "year": 2013,
+            "month": 5,
+            "day": 10
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11741-TWwZCgsK5aXh.jpg",
-          "season": "SPRING",
-          "description": "As the Fourth Holy Grail War rages on with no clear victor in sight, the remaining Servants and their Masters are called upon by Church supervisor Risei Kotomine, in order to band together and confront an impending threat that could unravel the Grail War and bring about the destruction of Fuyuki City. The uneasy truce soon collapses as Masters demonstrate that they will do anything in their power, no matter how despicable, to win.\n<br><br>\nSeeds of doubt are sown between Kiritsugu Emiya and Saber, his Servant, as their conflicting ideologies on heroism and chivalry clash. Meanwhile, an ominous bond forms between Kirei Kotomine, who still seeks to find his purpose in life, and one of the remaining Servants. As the countdown to the end of the war reaches zero, the cost of winning begins to blur the line between victory and defeat.\n<br><br>\n(Source: MAL Rewrite)",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n15059-xvUhYlh52ucH.jpg",
+          "season": "FALL",
+          "description": "Taking place in the sacred land of street running Kanagawa, once more Takumi Fujiwara will show his driving skills on his now legendary Hachi-roku.",
           "type": "ANIME",
           "format": "TV",
           "status": "FINISHED",
-          "episodes": 12,
-          "duration": 24,
+          "episodes": 14,
+          "duration": 27,
           "chapters": null,
           "volumes": null,
           "genres": [
             "Action",
             "Drama",
-            "Fantasy",
-            "Supernatural"
+            "Sports"
           ],
           "isAdult": false,
-          "averageScore": 85,
-          "popularity": 138207,
+          "averageScore": 78,
+          "popularity": 18257,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -529,63 +1291,57 @@
               {
                 "isMain": true,
                 "node": {
-                  "id": 43,
-                  "name": "ufotable"
+                  "id": 118,
+                  "name": "SynergySP"
                 }
               }
             ]
           }
         },
         {
-          "id": 14227,
+          "id": 15323,
           "title": {
-            "userPreferred": "My Little Monster"
+            "userPreferred": "ONE PIECE: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14227-VGxPG1xDZG7v.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14227-VGxPG1xDZG7v.jpg",
-            "color": "#e4c950"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15323.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15323.jpg",
+            "color": "#fed628"
           },
           "startDate": {
             "year": 2012,
-            "month": 10,
-            "day": 2
+            "month": 8,
+            "day": 25
           },
           "endDate": {
             "year": 2012,
-            "month": 12,
+            "month": 8,
             "day": 25
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14227-X5LpJ40O61qu.jpg",
-          "season": "FALL",
-          "description": "Standoffish, reclusive Shizuku Mizutani cares far more about earning stellar grades than cultivating friendships. But her opinions on friendship and relationships begin to change when she meets habitual truant Haru Yoshida, who happens to have a rather fearsome reputation. Like Shizuku, Haru’s reputation has made it difficult to make friends. And yet through their budding friendship and stirrings of attraction the unlikely pair learns to understand one another, the world around them, and the tenor of their own emotions.\n<br><br>\n(Source: Sentai Filmworks)",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/15323-zrax5OGlGepE.png",
+          "season": "SUMMER",
+          "description": "A retelling of the Arlong Park arc, with new animation.",
           "type": "ANIME",
-          "format": "TV",
+          "format": "SPECIAL",
           "status": "FINISHED",
-          "episodes": 13,
-          "duration": 24,
+          "episodes": 1,
+          "duration": 105,
           "chapters": null,
           "volumes": null,
           "genres": [
+            "Action",
+            "Adventure",
             "Comedy",
-            "Romance",
-            "Slice of Life"
+            "Drama",
+            "Fantasy"
           ],
           "isAdult": false,
-          "averageScore": 73,
-          "popularity": 136552,
+          "averageScore": 78,
+          "popularity": 9098,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 112,
-                  "name": "Brain's Base"
-                }
-              }
-            ]
+            "edges": []
           }
         },
         {
@@ -625,7 +1381,7 @@
           ],
           "isAdult": false,
           "averageScore": 78,
-          "popularity": 123554,
+          "popularity": 123655,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -635,386 +1391,6 @@
                 "node": {
                   "id": 561,
                   "name": "A-1 Pictures"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 11597,
-          "title": {
-            "userPreferred": "Nisemonogatari"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11597-ApDcMuPvRhgr.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11597-ApDcMuPvRhgr.jpg",
-            "color": "#935de4"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 1,
-            "day": 8
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 3,
-            "day": 18
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11597-aaxZHSMUR3Aa.jpg",
-          "season": "WINTER",
-          "description": "First season of the Monogatari Series, part 5/6. Contains the arcs Karen Bee and Tsukihi Phoenix from the Nisemonogatari light novels.\n<br><br>\nIn Bakemonogatari, the story centered on Koyomi Araragi, a third year high school student who has recently survived a vampire attack and finds himself mixed up with all kinds of apparitions: gods, ghosts, myths, and spirits. However, in Nisemonogatari, we pick up right where we left off and follow Koyomi as the psychological twists delve deeper and deeper...\n<br><br>\n(Source: Aniplex)",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 11,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Ecchi",
-            "Mystery",
-            "Psychological",
-            "Supernatural"
-          ],
-          "isAdult": false,
-          "averageScore": 80,
-          "popularity": 112692,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 44,
-                  "name": "Shaft"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 11887,
-          "title": {
-            "userPreferred": "Kokoro Connect"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11887-AJezDTY27LxZ.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11887-AJezDTY27LxZ.png",
-            "color": "#e4a150"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 7,
-            "day": 8
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 9,
-            "day": 30
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11887-DWtqKSd0DBFF.jpg",
-          "season": "SUMMER",
-          "description": "The five members of the Cultural Research Club - Taichi Yaegashi, Iori Nagase, Himeko Inaba, Yui Kiriyama, and Yoshifumi Aoki - encounter a bizarre phenomenon one day when Aoki and Yui switch bodies without warning. The same begins to happen to the other club members, throwing their daily lives into disarray.<br><br>\r\nAt first the five students find some amusement amidst the confusion, but this unwarranted connection also exposes the painful scars hidden within their hearts. As their calm lives are shattered, the relationships between the five students also begin to change...<br><br>\r\n(Source: Crunchyroll, edited)",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 13,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Drama",
-            "Romance",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "isAdult": false,
-          "averageScore": 75,
-          "popularity": 109847,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 300,
-                  "name": "SILVER LINK."
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 12355,
-          "title": {
-            "userPreferred": "Wolf Children"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12355-wNsvhEsXEgrH.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12355-wNsvhEsXEgrH.png",
-            "color": "#e45d6b"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 6,
-            "day": 25
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 6,
-            "day": 25
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12355.jpg",
-          "season": "SUMMER",
-          "description": "The theme of the film is the love between parents and children. The story covers 13 years and begins with a 19-year-old college student named Hana who encounters and falls in \"fairy tale-like\" love with a \"wolf man.\" After marrying the wolf man, Hana gives birth and raises two wolf children&mdash;an older sister named Yuki who was born on a snowy day, and a younger brother named Ame who was born on a rainy day. The four quietly lived in a corner of a city to conceal the existence of the \"wolf children,\" but when the wolf man suddenly dies, Hana decides to move to a rural town far removed from the city.\n<br><br>\n(Source: Anime News Network)",
-          "type": "ANIME",
-          "format": "MOVIE",
-          "status": "FINISHED",
-          "episodes": 1,
-          "duration": 117,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Drama",
-            "Fantasy",
-            "Romance",
-            "Slice of Life"
-          ],
-          "isAdult": false,
-          "averageScore": 84,
-          "popularity": 109638,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 11,
-                  "name": "MADHOUSE"
-                }
-              },
-              {
-                "isMain": true,
-                "node": {
-                  "id": 555,
-                  "name": "Studio Chizu"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 11843,
-          "title": {
-            "userPreferred": "Daily Lives of High School Boys"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11843-KK3X2ccAlUwI.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11843-KK3X2ccAlUwI.jpg",
-            "color": "#c9f1f1"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 1,
-            "day": 10
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 3,
-            "day": 27
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11843-2GxMdvjHLn6v.jpg",
-          "season": "WINTER",
-          "description": "Tadakuni, Hidenori, and Yoshitake are students at the all-boys academy, Sanada North High School. This is a tale about just that—their daily lives as students. Winning the basketball tournament? Finding true love? You won't find any of that here. Whether it's sparking random arguments while hanging out with friends, meeting that one weird co-worker at a part-time job, or even letting imaginations run wild on a windy afternoon, we've all experienced the show's ordinary but true-to-life themes at one point or another. <br><br>\r\n(Source: NIS America) ",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 12,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Comedy",
-            "Slice of Life"
-          ],
-          "isAdult": false,
-          "averageScore": 80,
-          "popularity": 107231,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 14,
-                  "name": "Sunrise"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 13125,
-          "title": {
-            "userPreferred": "From the New World"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13125-NdLjbmyHmoAD.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13125-NdLjbmyHmoAD.png",
-            "color": null
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 9,
-            "day": 29
-          },
-          "endDate": {
-            "year": 2013,
-            "month": 3,
-            "day": 23
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13125.jpg",
-          "season": "FALL",
-          "description": "Following a sudden outbreak of psychokinesis in 0.1% of the population, a rapid transformation swept the world. The godlike ability to manipulate matter remotely turned many power wielders to violence, inciting a long period of upheaval. Finally, after a chaotic era shaped by the rise and fall of oppressive regimes, the psychic humans were able to achieve a fragile peace by isolating their society, creating a new world bound by complex rules.\n<br><br>\nIn the town of Kamisu 66, 12-year-old Saki Watanabe has just awakened to her powers and is relieved to rejoin her friends—the mischievous Satoru Asahina, the shy Mamoru Itou, the cheerful Maria Akizuki, and Shun Aonuma, a mysterious boy whom Saki admires—at Sage Academy, a special school for psychics. However, unease looms as Saki begins to question the fate of those unable to awaken to their powers, and the children begin to get involved with secretive matters such as the rumored Tainted Cats said to abduct children.\n<br><br>\n<i>Shinsekai yori</i> tells the unique coming-of-age story of Saki and her friends as they journey to grow into their roles in the supposed utopia. Accepting these roles, however, might not come easy when faced with the dark and shocking truths of society, and the impending havoc born from the new world.\n<br><br>\n(Source: MAL Rewrite)",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 25,
-          "duration": 23,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Drama",
-            "Horror",
-            "Mystery",
-            "Psychological",
-            "Sci-Fi",
-            "Supernatural"
-          ],
-          "isAdult": false,
-          "averageScore": 81,
-          "popularity": 104465,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 561,
-                  "name": "A-1 Pictures"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 14467,
-          "title": {
-            "userPreferred": "K"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14467-emaCgr1KNGGI.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14467-emaCgr1KNGGI.png",
-            "color": "#a1d6f1"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 10,
-            "day": 5
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 12,
-            "day": 28
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14467-jG939pd2036a.jpg",
-          "season": "FALL",
-          "description": "Yashiro Isana has lived a relatively ordinary, simple life. He lives in the technologically advanced Shizume City and attends Ashinaka High School, a notable high school that is located on an island just outside the areas. Yashiro is friendly with everyone. Nothing seems wrong about him, except perhaps his habit of forgetting where his school-issued PDA is.<br><br>\n\nHowever, nothing normal has been happening since the recent murder of Tatara Totsuka, prominent member of the infamous HOMRA. No one knows who exactly killed him but the man responsible bears an uncanny, identical appearance to Yashiro. Seeking vengeance, the Red Clansmen of HOMRA set out to get Yashiro and kill him. Everyone suspects that Yashiro is the murderer.<br><br>\n\n(Source: Wikipedia)",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 13,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Action",
-            "Drama",
-            "Fantasy",
-            "Mystery",
-            "Supernatural"
-          ],
-          "isAdult": false,
-          "averageScore": 71,
-          "popularity": 101102,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 309,
-                  "name": "GoHands"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 14345,
-          "title": {
-            "userPreferred": "BTOOOM!"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14345-JGV1lFS9XW9w.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14345-JGV1lFS9XW9w.jpg",
-            "color": "#fe6b28"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 10,
-            "day": 4
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 12,
-            "day": 20
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14345-e2mFB7Z21V8s.jpg",
-          "season": "FALL",
-          "description": "In the blink of the mind's eye, Ryouta Sakamoto suddenly finds himself transported from playing the hit Btoom! video game to being stranded on a mysterious island, equipped with a day's worth of provisions, a bag of bombs, a strange crystal embedded in his left hand and a huge gaping hole in his memory. But it doesn't take long to figure out what's going on, especially after the first person Ryouta meets tries to kill him. Someone is attempting to recreate the ultra-violent Btoom! game in real life, and the island has been filled with an army of other unwilling players, each armed with one of the multiple variants of explosive weapons called BIM. Fortunately, Ryouta's an ace Btoom! player, but this insane version of the game has no reset switch or second lives, and there's only one way off the island: kill seven other people before they can kill you! Can Ryouta repurpose his game based skills fast enough to survive? <br><br>\n(Source: Sentai Filmworks) ",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 12,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Action",
-            "Psychological",
-            "Sci-Fi"
-          ],
-          "isAdult": false,
-          "averageScore": 69,
-          "popularity": 95058,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 11,
-                  "name": "MADHOUSE"
                 }
               }
             ]
@@ -1059,7 +1435,7 @@
           ],
           "isAdult": false,
           "averageScore": 78,
-          "popularity": 90618,
+          "popularity": 90667,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1075,94 +1451,43 @@
           }
         },
         {
-          "id": 14289,
+          "id": 14719,
           "title": {
-            "userPreferred": "Say \"I Love You\"."
+            "userPreferred": "JoJo's Bizarre Adventure (TV)"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx14289-vRTzC8u4XuvW.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx14289-vRTzC8u4XuvW.png",
-            "color": "#f1e4bb"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14719-XFOPewvDtDdA.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14719-XFOPewvDtDdA.jpg",
+            "color": "#e4a15d"
           },
           "startDate": {
             "year": 2012,
             "month": 10,
-            "day": 7
+            "day": 6
           },
           "endDate": {
-            "year": 2012,
-            "month": 12,
-            "day": 30
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14289-QSuorl0srSNZ.jpg",
-          "season": "FALL",
-          "description": "Mei Tachibana has spent her 16 years without a boyfriend or friends. One day, she injures the most popular boy in school, Yamato Kurosawa, due to a misunderstanding. For some reason though, it seems that he takes a liking to her and one-sidedly claims that they're friends. Furthermore, he not only protects Mei from a stalker, but does so with a kiss&hellip;?!!\n",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 13,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Drama",
-            "Romance"
-          ],
-          "isAdult": false,
-          "averageScore": 72,
-          "popularity": 87302,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 218,
-                  "name": "ZEXCS"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 11759,
-          "title": {
-            "userPreferred": "Accel World"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11759-o3ZRpFYnP5Lc.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11759-o3ZRpFYnP5Lc.jpg",
-            "color": "#f1ae43"
-          },
-          "startDate": {
-            "year": 2012,
+            "year": 2013,
             "month": 4,
-            "day": 7
+            "day": 6
           },
-          "endDate": {
-            "year": 2012,
-            "month": 9,
-            "day": 22
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11759-KUzlQmgCx275.jpg",
-          "season": "SPRING",
-          "description": "The year is 2046. Haruyuki Arita is a young boy who finds himself on the lowest social rungs of his school. Ashamed of his miserable life, Haruyuki can only cope by indulging in virtual games. But that all changes when Kuroyukihime, the most popular girl in school, introduces him to a mysterious program called Brain Burst and a virtual reality called the Accel World. <br><br>\n(Source: VIZ Media) ",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14719-m7Hv2AxcNNjM.jpg",
+          "season": "FALL",
+          "description": "Beginning its tale in 19th century England, young aristocrat Jonathan Joestar finds himself locked in bitter rivalry with Dio Brando, a low-born boy who Jonathan's father took under his wing after the death of Dio's father. Discontent with his station in life, Dio's fathomless lust to reign over all eventually leads him to seek the supernatural powers of an ancient Aztec stone mask in the Joestar's possession—an artifact that will forever change the destiny of Dio and Jonathan for generations to come.<br>\n<br>\nFifty years later, in 1938 New York City, Jonathan's grandson Joseph Joestar must take up his grandfather's mission and master the abilities necessary to destroy the stone mask and its immensely powerful creators who threaten humanity's very existence, the Pillar Men.<br><br>\n(Source: Anime News Network)",
           "type": "ANIME",
           "format": "TV",
           "status": "FINISHED",
-          "episodes": 24,
+          "episodes": 26,
           "duration": 24,
           "chapters": null,
           "volumes": null,
           "genres": [
             "Action",
-            "Romance",
-            "Sci-Fi"
+            "Adventure",
+            "Supernatural"
           ],
           "isAdult": false,
-          "averageScore": 68,
-          "popularity": 80204,
+          "averageScore": 77,
+          "popularity": 233858,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1170,36 +1495,140 @@
               {
                 "isMain": true,
                 "node": {
-                  "id": 14,
-                  "name": "Sunrise"
+                  "id": 287,
+                  "name": "David Production"
                 }
               }
             ]
           }
         },
         {
-          "id": 14713,
+          "id": 16001,
           "title": {
-            "userPreferred": "Kamisama Kiss"
+            "userPreferred": "Kokoro Connect ~ The OVAs"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx14713-RyZ7bA7CdvGw.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx14713-RyZ7bA7CdvGw.jpg",
-            "color": "#e4d693"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16001-XLc5ZdWeM3fp.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16001-XLc5ZdWeM3fp.png",
+            "color": "#866b28"
           },
           "startDate": {
             "year": 2012,
-            "month": 10,
-            "day": 2
+            "month": 11,
+            "day": 19
           },
           "endDate": {
             "year": 2012,
             "month": 12,
-            "day": 25
+            "day": 10
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14713-wvdTrUno1vNW.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16001-xxWkdYfjcYrZ.jpg",
           "season": "FALL",
-          "description": "Nanami Momozono is alone and homeless after her dad skips town to evade his gambling debts and the debt collectors kick her out of her apartment. So when a man she's just saved from a dog offers her his home, she jumps at the opportunity. But it turns out that his place is a shrine, and Nanami has unwittingly taken over his job as a local deity! <br><br>\nNanami has all kinda of new responsibilities she doesn't understand, dangers she's unaware of, and a cranky ex-familiar who's... actually pretty hot. What's a new-fledged godling to do? <br><br>\n(Source: Viz Media) ",
+          "description": "They've already had their bodies swapped like musical chairs, had their ages changed at random and experienced their deepest desires taking control of them without warning, but if you thought Heartseed was finished with Taichi, Iori, Himeko, Yoshifumi and Yui, you've got another thing coming! Now there's a new affliction going around, and the name of this peculiar bug is emotion sickness. As in, suddenly your emotions jump out of your body and sick someone else! Needless to say, that's more than simply awkward if you've got a deep rooted phobia like a fear of men or repressed emotions that you've been trying to keep hidden, but in some situations it can literally be deadly! What is Heartseed up to this time, and why is he making our heroes involuntarily share their innermost dirty laundry?<br>\n<br>\n(Source: Sentai Filmworks)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 27,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 77,
+          "popularity": 38945,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 300,
+                  "name": "SILVER LINK."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 12403,
+          "title": {
+            "userPreferred": "YuruYuri Season 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12403-sAG2FsLFX8bH.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12403-sAG2FsLFX8bH.jpg",
+            "color": "#00bbff"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 7,
+            "day": 3
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 9,
+            "day": 18
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12403-5u268qIm5jsR.jpg",
+          "season": "SUMMER",
+          "description": "The second season of Yuru Yuri continues following four girls who take over the former room of a tea ceremony club for their own amusement. <br><br>\n(Source: Anime News Network) ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 77,
+          "popularity": 30785,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 95,
+                  "name": "Doga Kobo"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 11739,
+          "title": {
+            "userPreferred": "You and Me 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11739-k9NkeTvzdwMD.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11739-k9NkeTvzdwMD.png",
+            "color": "#359328"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 3
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 6,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "\"No matter how many years go by, I'm sure we'll still be laughing together.\" <br><br>\nTwins Yuta and Yuki, Kaname, and Shun have been childhood friends since kindergarten. When transfer student Chizuru joins them, their five man school life becomes all the more lively. Through the changing seasons, the boys will find laughter, surprises, love, and new encounters waiting for them. <br><br>\nThe second season of the boys growing a little every day of their invaluable daily lives is about to begin! <br><br>\n(Source: Crunchyroll) ",
           "type": "ANIME",
           "format": "TV",
           "status": "FINISHED",
@@ -1209,13 +1638,13 @@
           "volumes": null,
           "genres": [
             "Comedy",
-            "Fantasy",
+            "Drama",
             "Romance",
-            "Supernatural"
+            "Slice of Life"
           ],
           "isAdult": false,
-          "averageScore": 79,
-          "popularity": 76483,
+          "averageScore": 77,
+          "popularity": 11087,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1223,36 +1652,36 @@
               {
                 "isMain": true,
                 "node": {
-                  "id": 73,
-                  "name": "TMS Entertainment"
+                  "id": 7,
+                  "name": "J.C. Staff"
                 }
               }
             ]
           }
         },
         {
-          "id": 11499,
+          "id": 13331,
           "title": {
-            "userPreferred": "Sankarea: Undying Love"
+            "userPreferred": "Jormungand: Perfect Order"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11499-SeYog5nP4Uks.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11499-SeYog5nP4Uks.png",
-            "color": "#bbd6f1"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13331-YNyNmU1CfNK7.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13331-YNyNmU1CfNK7.png",
+            "color": "#e4ae50"
           },
           "startDate": {
             "year": 2012,
-            "month": 4,
-            "day": 6
+            "month": 10,
+            "day": 10
           },
           "endDate": {
             "year": 2012,
-            "month": 6,
-            "day": 29
+            "month": 12,
+            "day": 26
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11499-etOfsgdjZY4L.jpg",
-          "season": "SPRING",
-          "description": "Furuya's not interested in the living, he's got zombies on the brain! When Furuya's cat dies, he decides he's going to try and bring it back to life. In the process, he stumbles across a girl who is involved in an accident and turns into a real zombie! What's Furuya going to do now that the thing he loves the most is right in front of his eyes?<br><br>\n(Source: FUNimation)",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n13331-rimbFLzJIJ3J.jpg",
+          "season": "FALL",
+          "description": "A ruthless arms dealer on a quixotic quest for world peace. A child soldier born into chaotic conflict. Their lives will intertwine as they journey together through the seedy underbelly of the world's arms market. <br><br>\n(Source: FUNimation) ",
           "type": "ANIME",
           "format": "TV",
           "status": "FINISHED",
@@ -1261,15 +1690,12 @@
           "chapters": null,
           "volumes": null,
           "genres": [
-            "Comedy",
-            "Ecchi",
-            "Horror",
-            "Romance",
-            "Supernatural"
+            "Action",
+            "Adventure"
           ],
           "isAdult": false,
-          "averageScore": 70,
-          "popularity": 70713,
+          "averageScore": 76,
+          "popularity": 23183,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1277,8 +1703,8 @@
               {
                 "isMain": true,
                 "node": {
-                  "id": 37,
-                  "name": "Studio DEEN"
+                  "id": 314,
+                  "name": "White Fox"
                 }
               }
             ]
@@ -1323,7 +1749,7 @@
           ],
           "isAdult": false,
           "averageScore": 76,
-          "popularity": 69599,
+          "popularity": 69694,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1339,43 +1765,357 @@
           }
         },
         {
-          "id": 10863,
+          "id": 13203,
           "title": {
-            "userPreferred": "Steins;Gate: Egoistic Poriomania"
+            "userPreferred": "Lupin the Third: The Woman Called Fujiko Mine"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10863-V6oW2kN8bBYf.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10863-V6oW2kN8bBYf.png",
-            "color": null
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13203-tvOacIQg2xfj.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13203-tvOacIQg2xfj.png",
+            "color": "#50e4a1"
           },
           "startDate": {
             "year": 2012,
-            "month": 2,
-            "day": 22
+            "month": 4,
+            "day": 5
           },
           "endDate": {
             "year": 2012,
-            "month": 2,
-            "day": 22
+            "month": 6,
+            "day": 28
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10863-paT73FyJgPi3.jpg",
-          "season": "WINTER",
-          "description": "Special episode included in the last of the nine Blu-ray/DVD volumes. <br><br>\nThe story is set a few months after the last scene of the television series. On a calm day in Akihabara, Okabe and the other laboratory members are invited by Feyris to go to America. Mayuri and the rest are planning to reunite with Kurisu, who had come back to an American laboratory. A few days later, Okabe's mad scientist persona Hououin Kyouma arrives alone at the airport in Los Angeles, where he may be taking the first step to leading the world into chaos.\n<br><br>\n(Source: Anime News Network)",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13203-EvoIQmZIvYsZ.jpg",
+          "season": "SPRING",
+          "description": "What happened when Lupin III met Fujiko Mine for the first time? Find out in the first new chapter of the Lupin III franchise in 25 years! <br><br>\r\n(Source: FUNimation) ",
           "type": "ANIME",
-          "format": "OVA",
+          "format": "TV",
           "status": "FINISHED",
-          "episodes": 1,
-          "duration": 25,
+          "episodes": 13,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Ecchi",
+            "Psychological",
+            "Thriller"
+          ],
+          "isAdult": false,
+          "averageScore": 76,
+          "popularity": 12202,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 73,
+                  "name": "TMS Entertainment"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6113,
+                  "name": "Po10tial"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 12893,
+          "title": {
+            "userPreferred": "Daily Lives of High School Boys Specials"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12893-wmSNdidw29ZJ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12893-wmSNdidw29ZJ.png",
+            "color": "#d6ae6b"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 3
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 9,
+            "day": 4
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n12893-FT0bg13oqCtK.jpg",
+          "season": "SPRING",
+          "description": "The original gag comedy manga follows the humorous yet \"realistic\" everyday life of Tadakuni, Hidenori, Yoshitake, and other students at a boys' high school. <br><br>\nThis entry refers to the unaired episodes released on the DVDs and BDs. The pre-air specials were all included in the TV series and are not listed separately. Episode 4.5, an uncensored version of \"Danshi Koukousei to 100\" is also not counted.<br><br>\nEpisode 1: High School Boys and Ideals <br>\nEpisode 2: High School Boys and Loneliness <br>\nEpisode 3: High School Boys and Zippers <br>\nEpisode 4: High School Boys and Tricks <br>\nEpisode 5: High School Boys and Hiccups <br>\nEpisode 6: High School Boys and Consideration<br>",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 3,
           "chapters": null,
           "volumes": null,
           "genres": [
             "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 76,
+          "popularity": 19892,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 14741,
+          "title": {
+            "userPreferred": "Love, Chunibyo & Other Delusions"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14741-nxdzpJxU2rRT.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14741-nxdzpJxU2rRT.jpg",
+            "color": "#5d93e4"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 12,
+            "day": 20
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14741-7RMdUd7tVfSu.jpg",
+          "season": "FALL",
+          "description": "Everybody has had that stage in their life where they have thought themselves to be special, different from the masses of ordinary humans. They might go as far as seeing themselves capable of wielding mystical powers, or maybe even believe themselves to have descended from a fantasy realm. This \"disease\" is known as \"chuunibyou\" and is often the source of some of the most embarrassing moments of a person's life.\n<br><br>\nFor Yuuta Togashi, the scars that his chuunibyou has left behind are still fresh. Having posed as the \"Dark Flame Master\" during his middle school years, he looks back at those times with extreme embarrassment, so much so that he decides to attend a high school far away where nobody will recognize him. Putting his dark history behind him, he longs to live a normal high school life.\n<br><br>\nUnfortunately, he hasn't escaped his past yet: enter Rikka Takanashi, Yuuta's new classmate and self-declared vessel of the \"Wicked Eye.\" As this eccentric young girl crashes into Yuuta's life, his dream of an ordinary, chuunibyou-free life quickly crumbles away. In this hilarious and heartwarming story of a boy who just wants to leave his embarrassing memories behind, the delusions of old are far from a thing of the past.\n<br><br>\n(Source: MAL Rewrite)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
             "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 76,
+          "popularity": 188457,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 2,
+                  "name": "Kyoto Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 10357,
+          "title": {
+            "userPreferred": "Humanity Has Declined"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10357-mCskMbKFVHmu.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx10357-mCskMbKFVHmu.png",
+            "color": "#e4e450"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 7,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 9,
+            "day": 16
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10357-Vq4ued5Ue0um.jpg",
+          "season": "SUMMER",
+          "description": "For years, declining birth rates have forced what's left of the human race to cede more and more territory to other beings who have appeared to take advantage of the emptying ecological niche. Now, only a handful of humans remain among the remnants of civilization and Earth is dominated by faeries &mdash;tiny, ten-inch tall creatures of surprising intelligence. But humanity's importance isn't over quite yet, as young Watashi learns as she makes the decision to return to her hometown and assume her grandfather's position as an arbitrator between the races. Unfortunately, the job isn't going to be anywhere near as simple as she expected, and it's going to take a wisdom far beyond her years to achieve her most important mission. <br><br>\n(Source: Sentai Filmworks) ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy",
             "Sci-Fi"
           ],
           "isAdult": false,
-          "averageScore": 80,
-          "popularity": 65644,
+          "averageScore": 76,
+          "popularity": 36320,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 88,
+                  "name": "AIC A.S.T.A."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 11887,
+          "title": {
+            "userPreferred": "Kokoro Connect"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11887-AJezDTY27LxZ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11887-AJezDTY27LxZ.png",
+            "color": "#e4a150"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 7,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 9,
+            "day": 30
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11887-DWtqKSd0DBFF.jpg",
+          "season": "SUMMER",
+          "description": "The five members of the Cultural Research Club - Taichi Yaegashi, Iori Nagase, Himeko Inaba, Yui Kiriyama, and Yoshifumi Aoki - encounter a bizarre phenomenon one day when Aoki and Yui switch bodies without warning. The same begins to happen to the other club members, throwing their daily lives into disarray.<br><br>\r\nAt first the five students find some amusement amidst the confusion, but this unwarranted connection also exposes the painful scars hidden within their hearts. As their calm lives are shattered, the relationships between the five students also begin to change...<br><br>\r\n(Source: Crunchyroll, edited)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 75,
+          "popularity": 109961,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 300,
+                  "name": "SILVER LINK."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 11813,
+          "title": {
+            "userPreferred": "Kenichi: The Mightiest Disciple OVA"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11813.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11813.jpg",
+            "color": "#e4bb43"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 3,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 5,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "OVAs of History's Strongest Disciple Kenichi bundled with volumes 46, 47, 49, 53, 54, 55, & 56 of the manga.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 11,
+          "duration": 27,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 75,
+          "popularity": 6318,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 112,
+                  "name": "Brain's Base"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 12413,
+          "title": {
+            "userPreferred": "Jormungand"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12413-ERry5jCkhEPO.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12413-ERry5jCkhEPO.jpg",
+            "color": "#e4c986"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 6,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12413-zOxRG3P6jgvs.jpg",
+          "season": "SPRING",
+          "description": "A ruthless arms dealer on a quixotic quest for world peace. A child soldier born into chaotic conflict. Their lives will intertwine as they journey together through the seedy underbelly of the world's arms market. <br><br>\n(Source: FUNimation) ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": 75,
+          "popularity": 44482,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1391,43 +2131,46 @@
           }
         },
         {
-          "id": 11013,
+          "id": 12113,
           "title": {
-            "userPreferred": "Inu X Boku Secret Service"
+            "userPreferred": "Berserk: The Golden Age Arc II - The Battle for Doldrey"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11013-EBA11hztD2yi.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11013-EBA11hztD2yi.jpg",
-            "color": "#f1e435"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12113-cIF2NXNRX1iB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12113-cIF2NXNRX1iB.jpg",
+            "color": "#d6a15d"
           },
           "startDate": {
             "year": 2012,
-            "month": 1,
-            "day": 13
+            "month": 6,
+            "day": 23
           },
           "endDate": {
             "year": 2012,
-            "month": 3,
-            "day": 30
+            "month": 6,
+            "day": 23
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11013.jpg",
-          "season": "WINTER",
-          "description": "The Shirakiin house's daughter, Shirakiin Ririchiyo, who has a complex about being unable to live independently and unprotected, feels the need to move out and live on her own under the condition of residing in the mansion named \"Ayakashi Kan.\" In this mansion, only those who have cleared a very strict examination could reside in it, and for each resident, they are accompanied with one agent of the Secret Service (S.S.). Although Riricho has rejected the company of the S.S., while residing in the mansion she finds out that the agent dedicated to protecting her is actually the Fox Spirit. ",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12113-eHkNrFjDklRR.jpg",
+          "season": "SUMMER",
+          "description": "The Band of the Hawk and their enigmatic leader Griffith continue winning battle after battle as their prestige throughout the kingdom of Midland grows. But their latest task is one that has seen failure from everyone who has attempted it: the subjugation of the impenetrable fortress of Doldrey.\n",
           "type": "ANIME",
-          "format": "TV",
+          "format": "MOVIE",
           "status": "FINISHED",
-          "episodes": 12,
-          "duration": 24,
+          "episodes": 1,
+          "duration": 92,
           "chapters": null,
           "volumes": null,
           "genres": [
-            "Comedy",
-            "Romance",
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Horror",
             "Supernatural"
           ],
           "isAdult": false,
-          "averageScore": 70,
-          "popularity": 59423,
+          "averageScore": 75,
+          "popularity": 25490,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1435,8 +2178,8 @@
               {
                 "isMain": true,
                 "node": {
-                  "id": 287,
-                  "name": "David Production"
+                  "id": 13,
+                  "name": "Studio 4°C"
                 }
               }
             ]
@@ -1481,7 +2224,7 @@
           ],
           "isAdult": false,
           "averageScore": 75,
-          "popularity": 58642,
+          "popularity": 58743,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1497,105 +2240,43 @@
           }
         },
         {
-          "id": 12531,
+          "id": 15117,
           "title": {
-            "userPreferred": "Kids on the Slope"
+            "userPreferred": "The World God Only Knows: Tenri Arc"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx12531-Z5K3przHadiD.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx12531-Z5K3przHadiD.jpg",
-            "color": "#f1ae5d"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15117.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15117.jpg",
+            "color": null
           },
           "startDate": {
             "year": 2012,
-            "month": 4,
-            "day": 13
+            "month": 10,
+            "day": 18
           },
           "endDate": {
             "year": 2012,
-            "month": 6,
-            "day": 29
+            "month": 12,
+            "day": 18
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12531-S7FaZwnZPCWQ.jpg",
-          "season": "SPRING",
-          "description": "The beginning of summer, 1966. <br><br>\nBecause of his father's job situation, freshman high school student Kaoru Nishimi moves by himself from Yokosuka to Kyushu to live with relatives. Until then, Kaoru was an honor roll student who tended to keep to himself, but meeting notorious bad boy Sentaro Kawabuchi starts to change him. Through his devil-may-care classmate, Kaoru learns the attractions of jazz and finds the first person he can call a \"friend\". He also discovers how much fun it is to play music with a pal. <br><br>\nOther characters include Sentaro's kind childhood chum, Ritsuko, who is the daughter of a record shop owner; the mysterious upperclassman, Yurika; and Brother Jun, the much-admired leader among their peers. Set against the backdrop of a seaside town with a scent of American culture, this series is a drama about young people coming into their own, crossing each other's paths, and finding friendship, love, and music! <br><br>\n(Source: Official Website) ",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/15117-0SVNSRLlxwcN.jpg",
+          "season": "FALL",
+          "description": "It is summer break and Keima intends to spend all his time on video games. An old acquaintance, the timid girl Tenri, comes back into the neighborhood - and apparently has a lost soul inside her. It is up to Keima and Elysia to unravel the secrets of her heart.<br><br>\n(Source: Anime News Network) ",
           "type": "ANIME",
-          "format": "TV",
+          "format": "OVA",
           "status": "FINISHED",
-          "episodes": 12,
-          "duration": 22,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Drama",
-            "Music",
-            "Romance",
-            "Slice of Life"
-          ],
-          "isAdult": false,
-          "averageScore": 81,
-          "popularity": 55622,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 200,
-                  "name": "Tezuka Productions"
-                }
-              },
-              {
-                "isMain": true,
-                "node": {
-                  "id": 569,
-                  "name": "MAPPA"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 11433,
-          "title": {
-            "userPreferred": "Waiting in the Summer"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11433-KLEzZeK6D46g.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11433-KLEzZeK6D46g.jpg",
-            "color": "#e45050"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 1,
-            "day": 10
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 3,
-            "day": 27
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11433-Pce9apZ7W49V.jpg",
-          "season": "WINTER",
-          "description": "When a group of friends decide to make a movie over a long summer holiday, they end up learning a little about filmmaking and a lot more about each other and themselves. What begins as a simple way to avoid the summer doldrums quickly turns into something much more complex, intimate and revealing, as the maturing relationships between the members of the young cast take on new, and sometimes very unexpected, turns. <br><br>\r\n(Source: Sentai Filmworks) ",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 12,
+          "episodes": 2,
           "duration": 23,
           "chapters": null,
           "volumes": null,
           "genres": [
             "Comedy",
-            "Drama",
             "Romance",
-            "Sci-Fi",
-            "Slice of Life"
+            "Supernatural"
           ],
           "isAdult": false,
-          "averageScore": 71,
-          "popularity": 51497,
+          "averageScore": 75,
+          "popularity": 21366,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1603,8 +2284,8 @@
               {
                 "isMain": true,
                 "node": {
-                  "id": 7,
-                  "name": "J.C. Staff"
+                  "id": 32,
+                  "name": "Manglobe"
                 }
               }
             ]
@@ -1648,7 +2329,7 @@
           ],
           "isAdult": false,
           "averageScore": 75,
-          "popularity": 50115,
+          "popularity": 50163,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1664,149 +2345,87 @@
           }
         },
         {
-          "id": 11785,
+          "id": 12117,
           "title": {
-            "userPreferred": "Nyaruko: Crawling with Love!"
+            "userPreferred": "Case Closed: The Eleventh Striker"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11785-cBfqpOetdIeF.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11785-cBfqpOetdIeF.jpg",
-            "color": "#78c9e4"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12117-wCtSIeqrMhTZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12117-wCtSIeqrMhTZ.jpg",
+            "color": "#d66b1a"
           },
           "startDate": {
             "year": 2012,
             "month": 4,
-            "day": 10
+            "day": 14
           },
           "endDate": {
             "year": 2012,
-            "month": 6,
-            "day": 26
+            "month": 4,
+            "day": 14
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11785-dlTHrbZh3zPV.jpg",
+          "bannerImage": null,
           "season": "SPRING",
-          "description": "\"I'm Nyarlathotep, the creeping chaos always smiling beside you.\" But you can call her Nyaruko for short. One by one, the Great Ones from the Cthulhu mythos are coming to earth to target Nyaruko and her human friend Mahiro. He's utterly clueless about the true nature of his cosmic conflict and just wants to live in peace.<br><br>\n(Source: Anime News Network)",
+          "description": "After an interaction with J-League professional players, Conan and co watches the big match between Tokyo Spirits and Gamba Osaka, only to find out that a bomb has been planted in the stadium. It is now up to Conan once again to foil the culprit's plans and reveal his/her true identity.\n<br><br>\n(Source: Anime News Network)",
           "type": "ANIME",
-          "format": "TV",
+          "format": "MOVIE",
           "status": "FINISHED",
-          "episodes": 12,
-          "duration": 24,
+          "episodes": 1,
+          "duration": 110,
           "chapters": null,
           "volumes": null,
           "genres": [
+            "Adventure",
             "Comedy",
-            "Romance",
-            "Sci-Fi"
+            "Mystery"
           ],
           "isAdult": false,
-          "averageScore": 67,
-          "popularity": 50095,
+          "averageScore": 74,
+          "popularity": 5816,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 27,
-                  "name": "Xebec"
-                }
-              }
-            ]
+            "edges": []
           }
         },
         {
-          "id": 12549,
+          "id": 13535,
           "title": {
-            "userPreferred": "So, I Can't Play H"
+            "userPreferred": "Good Luck Girl!"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12549-GhbJO9KBUC7o.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12549-GhbJO9KBUC7o.jpg",
-            "color": "#e46b5d"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13535-gf9MSAFgTDkj.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13535-gf9MSAFgTDkj.png",
+            "color": "#e4a150"
           },
           "startDate": {
             "year": 2012,
             "month": 7,
-            "day": 6
+            "day": 5
           },
           "endDate": {
             "year": 2012,
             "month": 9,
-            "day": 25
+            "day": 27
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12549-8xkHnpWawFlL.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13535-wNcONynXJe2o.jpg",
           "season": "SUMMER",
-          "description": "NEVER make a deal with a wet goddess you've only just met. That's a lesson Ryosuke Kaga learns the hard way when he foolishly agrees to let Lisara Restole use some of his \"essence\" to stay in this world. Because despite her smoking hot appearance, Lisara's actually a Shinigami, a Goddess of Death. However, she DOESN'T steal years off his life like any decent Shinigami would do. Oh no, instead she sucks him dry of something much more perverse by leeching off his lecherous spirit and draining his ability to enjoy... er... the things that teenage boys normally spend most of their time thinking about! And now that he's been de-debased and de-debauched by her un-dirty trick, the poor regenerated degenerate's only hope of getting his licentiousness renewed is to join the queen of mental-clean on her quest, since when she leaves our mortal plane he regains his normal immorality! But the termination of the probation of his reprobation isn't guaranteed, because the Goddesses of Death can be really a harsh mistresses and it's going to be anything but easy to go back to being sleazy! <br><br>\n(Source: Sentai Filmworks) ",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 12,
-          "duration": 25,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Comedy",
-            "Ecchi",
-            "Romance",
-            "Supernatural"
-          ],
-          "isAdult": false,
-          "averageScore": 61,
-          "popularity": 48440,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 91,
-                  "name": "feel."
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 15417,
-          "title": {
-            "userPreferred": "Gintama Season 3"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15417-tElVlFbOTDVp.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15417-tElVlFbOTDVp.png",
-            "color": "#AD4157"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 10,
-            "day": 4
-          },
-          "endDate": {
-            "year": 2013,
-            "month": 3,
-            "day": 28
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/15417-0T9JCwFZM99Q.jpg",
-          "season": "FALL",
-          "description": "While Gintoki Sakata was away, the Yorozuya found themselves a new leader: Kintoki, Gintoki's golden-haired doppelganger. In order to regain his former position, Gintoki will need the help of those around him, a troubling feat when no one can remember him! Between Kintoki and Gintoki, who will claim the throne as the main character?\n<br><br>\nIn addition, Yorozuya make a trip back down to red-light district of Yoshiwara to aid an elderly courtesan in her search for her long-lost lover. Although the district is no longer in chains beneath the earth's surface, the trio soon learn of the tragic backstories of Yoshiwara's inhabitants that still haunt them. With flashback after flashback, this quest has Yorozuya witnessing everlasting love and protecting it as best they can with their hearts and souls.\n<br><br>\n<i>Gintama'</i>: Enchousen includes moments of action-packed intensity along with their usual lighthearted, slapstick humor for Gintoki and his friends.\n<br><br>\n(Source: MAL Rewrite)",
+          "description": "At the expense of the people and things around her, Sakura has absorbed so much \"happiness energy\" that she has caused an energy imbalance in the world. In order to return balance to the world, the Poverty God, Momiji, sets out to take away Sakura's ability to absorb this energy. Will Momiji be able to put a stop to Sakura's absorbing abilities, or will the God succumb to her happiness? <br><br>\r\n(Source: FUNimation) ",
           "type": "ANIME",
           "format": "TV",
           "status": "FINISHED",
           "episodes": 13,
-          "duration": 24,
+          "duration": 23,
           "chapters": null,
           "volumes": null,
           "genres": [
-            "Action",
+            "Adventure",
             "Comedy",
-            "Drama",
-            "Sci-Fi"
+            "Supernatural"
           ],
           "isAdult": false,
-          "averageScore": 89,
-          "popularity": 46723,
+          "averageScore": 74,
+          "popularity": 31775,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -1822,576 +2441,41 @@
           }
         },
         {
-          "id": 13161,
+          "id": 15061,
           "title": {
-            "userPreferred": "Aesthetica of a Rogue Hero"
+            "userPreferred": "Aikatsu!"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13161-m4znwxInGXfd.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13161-m4znwxInGXfd.jpg",
-            "color": "#5dc9e4"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 7,
-            "day": 6
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 9,
-            "day": 21
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13161-ZBvmZga9X6ea.jpg",
-          "season": "SUMMER",
-          "description": "Hero defeats bad guy. Good triumphs over evil. The end. Or, at least that's how it usually goes. But what happens after the hero goes home? Our hero, Akatsuki Ousawa, is about to find out that sometimes the greatest adventure starts once happily ever after ends.<br><br>\n(Source: FUNimation)",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 12,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Action",
-            "Ecchi",
-            "Fantasy"
-          ],
-          "isAdult": false,
-          "averageScore": 62,
-          "popularity": 46493,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 38,
-                  "name": "Arms"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 14131,
-          "title": {
-            "userPreferred": "Girls und Panzer"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx14131-vw0RvpxofyBw.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx14131-vw0RvpxofyBw.jpg",
-            "color": "#e4a15d"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15061-LmFVCPOmUBaE.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15061-LmFVCPOmUBaE.png",
+            "color": "#f15da1"
           },
           "startDate": {
             "year": 2012,
             "month": 10,
-            "day": 9
+            "day": 8
           },
           "endDate": {
             "year": 2013,
-            "month": 3,
-            "day": 25
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14131-hF210i7NqX0k.jpg",
-          "season": "FALL",
-          "description": "You may have heard of kung fu, but the girls at Oarai High School practice gun-fu—really, really BIG 75mm gun-fu, in fact. It's called Sensha-do, and it's the martial art of operating armored tanks! They take it seriously too, and since winning the national Sensha-do championship is such a huge deal at Oarai, they sometimes go to extreme ends in order to get the best students from Panzer class to sign up. Which is how Miho Nishizumi, who HATES operating tanks, gets drafted to join doomsday-driven driver Mako, even-triggered gunner Hana, highly receptive radio operator Saori and combustible tank-fangirl and loader Yukari as the incomparable Anko Team. They may not be on the half-track to fame and fortune, and maybe a few of them would rather shop for tank tops than become tops in tanks, but once their focus is locked and loaded, they're absolutely driven.<br><br>\r\n(Source: Sentai Filmworks)",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 12,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Action",
-            "Sports"
-          ],
-          "isAdult": false,
-          "averageScore": 73,
-          "popularity": 46265,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 60,
-                  "name": "Actas"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 11319,
-          "title": {
-            "userPreferred": "The Familiar of Zero F"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11319-6PwRxZiVChQo.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11319-6PwRxZiVChQo.jpg",
-            "color": "#e49350"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 1,
-            "day": 7
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 3,
-            "day": 24
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11319-CubAC5VJW1or.jpg",
-          "season": "WINTER",
-          "description": "The fourth and final season of The Familiar of Zero. Saito and Louise feel their bond deepening as the days go on, and they feel it might be time to take the next step in their relationship... But before that, the Queen has a mission for them. She sends them to the pope, who has both Louise and Tiffania become holy maidens. And with all the interruptions around, by both friends and foes, Louise and Saito's love will be tested to the limit.\n<br><br>\n(Source: Anime News Network)",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 12,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Ecchi",
-            "Fantasy",
-            "Romance"
-          ],
-          "isAdult": false,
-          "averageScore": 71,
-          "popularity": 45192,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 7,
-                  "name": "J.C. Staff"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 13663,
-          "title": {
-            "userPreferred": "To Love Ru Darkness"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13663-kpsCFSRAutWM.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13663-kpsCFSRAutWM.jpg",
-            "color": "#e4785d"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 10,
-            "day": 6
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 12,
-            "day": 29
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13663.jpg",
-          "season": "FALL",
-          "description": "As close encounters of the twisted kind between the residents of the planet Develuke (represented primarily by the female members of the royal family) and the inhabitants of Earth (represented mainly by one very exhausted Rito Yuki) continue to escalate, the situation spirals even further out of control. When junior princesses Nana and Momo transferred into Earth School where big sister LaLa can (theoretically) keep an eye on them, things SHOULD be smooth sailing. But when Momo decides she'd like to \"supplement\" Rito's relationship with LaLa with a little \"sisterly love,\" you know LaLa's not going to waste any time splitting harems. Unfortunately, it's just about that point that Yami, the Golden Darkness, enters the scene with all the subtleness of a supernova, along with an army of possessed high school students! All of which is certain to make Rito's life suck more than a black hole at the family picnic. Unless, of course, a certain semi-demonic princess can apply a little of her Develukean Whoop Ass to exactly that portion of certain other heavenly bodies! <br><br>\r\n(Source: Sentai Filmworks) ",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 12,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Comedy",
-            "Ecchi",
-            "Romance",
-            "Sci-Fi"
-          ],
-          "isAdult": false,
-          "averageScore": 71,
-          "popularity": 44820,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 27,
-                  "name": "Xebec"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 12413,
-          "title": {
-            "userPreferred": "Jormungand"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12413-ERry5jCkhEPO.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12413-ERry5jCkhEPO.jpg",
-            "color": "#e4c986"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 4,
-            "day": 11
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 6,
-            "day": 27
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12413-zOxRG3P6jgvs.jpg",
-          "season": "SPRING",
-          "description": "A ruthless arms dealer on a quixotic quest for world peace. A child soldier born into chaotic conflict. Their lives will intertwine as they journey together through the seedy underbelly of the world's arms market. <br><br>\n(Source: FUNimation) ",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 12,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Action",
-            "Adventure"
-          ],
-          "isAdult": false,
-          "averageScore": 75,
-          "popularity": 44442,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 314,
-                  "name": "White Fox"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 12291,
-          "title": {
-            "userPreferred": "Place to Place"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12291-NKo7qYW674Wo.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12291-NKo7qYW674Wo.jpg",
-            "color": "#d6e4a1"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 4,
-            "day": 6
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 6,
-            "day": 29
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12291-ZCo0XM1RShUw.png",
-          "season": "SPRING",
-          "description": "Everyone has a circle of friends they hang out with. But even within a small group there are smaller groups of friends, best friends and, here's where it gets complicated, boyfriends and girlfriends. Sometimes relationships just develop in a way where you're not exactly sure what you are to the other person. Which is the problem Tsumiki has when it comes to Io. Io's as tall and easygoing as Tsumiki is short in both temper and stature, but he also seems to be totally clueless about how she's starting to feel. Yet, at times, he's almost too affectionate. It's just confusing and irritating. And their prankster friends Mayoi and Sakaki aren't much help. Especially Mayoi, as it gives her one more thing to tease Tsumiki over. Hime, the fifth member of their usual gang of five isn't much better, because she's not really well connected to reality anyway. Which leaves Tsumiki stuck in a quandary. Are she and Io just best friends? And is it worth risking that for what Tsumiki wants?<br><br>\n(Source: Sentai Filmworks)",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 12,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Comedy",
-            "Romance",
-            "Slice of Life"
-          ],
-          "isAdult": false,
-          "averageScore": 72,
-          "popularity": 44148,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 48,
-                  "name": "AIC"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 13655,
-          "title": {
-            "userPreferred": "Little Busters!"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx13655-ZdAJjba0HrY6.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx13655-ZdAJjba0HrY6.jpg",
-            "color": "#285dfe"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 10,
-            "day": 6
-          },
-          "endDate": {
-            "year": 2013,
-            "month": 4,
-            "day": 6
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13655-XBJOquNEggcN.jpg",
-          "season": "FALL",
-          "description": "When tragedy struck Riki Naoe as a child, he was rescued from grief over his parent's deaths when four other kids \"recruited\" him for their group&mdash;the \"Little Busters.\" Now in high school, Riki and the other Busters are still fast friends, and though their vision of being heroes for justice may have faded, they'd still do anything for each other. Which is why Riki is now on TWO special missions. The not so secret one: recruiting new members so the Busters can form a baseball team. Preferably FEMALE recruits, as the current dude/babe ratio is an inconvenient 4 to 1. The OTHER mission, though... That's the strange one. Because Riki and Rin, the group's singular girl, are receiving odd messages, delivered by cats, concerning the existence of a \"secret world\" and assigning them tasks they have to complete. Were their youthful dreams of being crusaders not so fanciful after all? Or is there something even more vital at stake? Between steeling his courage to talk to girls, dealing with his own narcolepsy and facing his feelings concerning Rin, Riki may just need the strength of a superhero to solve the ultimate mystery of the Little Busters!<br><br>\n(Source: Sentai Filmworks)",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 26,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "isAdult": false,
-          "averageScore": 71,
-          "popularity": 43400,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 7,
-                  "name": "J.C. Staff"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 12293,
-          "title": {
-            "userPreferred": "Campione!"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12293-DKc0XJ0cacSZ.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12293-DKc0XJ0cacSZ.jpg",
-            "color": "#f1c95d"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 7,
-            "day": 6
-          },
-          "endDate": {
-            "year": 2012,
             "month": 9,
-            "day": 28
+            "day": 26
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12293.jpg",
-          "season": "SUMMER",
-          "description": "Some people suddenly find religion, but for 16-year-old Kusanagi GoDo, it's that REALLY old time religion that's found him! As the result of defeating the God of War in mortal combat, GoDo's stuck with the unwanted position of Campione!, or God Slayer, whose duty is to fight Herectical Gods whenever they try to muscle in on the local turf. Not only is this likely to make GoDo roadkill on the Highway to Heaven, it's also a job that comes with a lot of other problems. Like how to deal with the fact that his \"enhanced status\" is attracting a bevy of overly-worshippy female followers. After all, they're just there to aid him in his demi-godly duties, right? So why is it that their leader, the demonically manipulative sword-mistress Erica Brandelli, seems to have such a devilish interest in encouraging some VERY unorthodox activities? <br><br>\n(Source: Sentai Filmworks) ",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 13,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Comedy",
-            "Ecchi",
-            "Romance"
-          ],
-          "isAdult": false,
-          "averageScore": 65,
-          "popularity": 43073,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 51,
-                  "name": "diomedéa"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 11285,
-          "title": {
-            "userPreferred": "Black★Rock Shooter (TV)"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11285-d2swj9OH7Us4.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11285-d2swj9OH7Us4.jpg",
-            "color": "#d6ae6b"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 2,
-            "day": 3
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 3,
-            "day": 23
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11285.jpg",
-          "season": "WINTER",
-          "description": "It isn't the world you know. There wanders a girl with jet-black hair, ebony clothes, and a strikingly blue, glowing eye. Her name is Black&#9733;Rock Shooter. With a huge cannon in hand, she throws herself into a fierce battle...<br><br>\nMeanwhile, in another world, middle-school student Mato Kuroi is drawn to Yomi Takanashi, her classmate with an unusual family name. Mato does her best to talk to Yomi, who just won't open up. Yu Koutari mocks her best friend Mato's efforts but at the same time, supports her. Mato also finds herself surrounded by other colorful characters at school, like the eccentric school counselor, Saya Irino, and the hot-blooded captain of her club club, Arata Kohata.<br><br>\nThen, one day, the window of opportunity opens. After Mato sees that Yomi has her favorite picture book, \"Li'l Birds At Play\", they strike up a conversation and Mato is invited to come over to Yomi's house. There, they gradually break the ice, until a girl in a wheelchair appears. This is Yomi's best friend, Kagari Izuriha...<br><br>\nTwo worlds. Mato and Black&#9733;Rock Shooter. This is the story of their \"pain\".<br><br>\n(Source: Nico Nico Douga) ",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 8,
-          "duration": 23,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Action",
-            "Drama",
-            "Fantasy",
-            "Psychological",
-            "Slice of Life"
-          ],
-          "isAdult": false,
-          "averageScore": 63,
-          "popularity": 42743,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 334,
-                  "name": "Ordet"
-                }
-              },
-              {
-                "isMain": true,
-                "node": {
-                  "id": 537,
-                  "name": "SANZIGEN"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 10790,
-          "title": {
-            "userPreferred": "Is this A Zombie? of the Dead"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10790-nmhjig0cTbI5.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10790-nmhjig0cTbI5.png",
-            "color": "#d61a78"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 4,
-            "day": 5
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 6,
-            "day": 7
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10790-o9iJjw2Id2J0.jpg",
-          "season": "SPRING",
-          "description": "Aikawa Ayumu was revived as a zombie by the cute necromancer Eucliwood Hellscythe. After the zany, madcap adventures in the first season of Is This a Zombie? ended, Ayumu thought his life might finally get back to normal, or as normal as it can be for a zombie. However, destiny has other plans for him. Some guys just can't catch a break. <br><br>\n(Source: FUNimation) ",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 10,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Action",
-            "Comedy",
-            "Ecchi",
-            "Supernatural"
-          ],
-          "isAdult": false,
-          "averageScore": 72,
-          "popularity": 42637,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 37,
-                  "name": "Studio DEEN"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 14199,
-          "title": {
-            "userPreferred": "OniAi"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14199-NAejQzViXuR7.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14199-NAejQzViXuR7.jpg",
-            "color": "#e45d5d"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 10,
-            "day": 5
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 12,
-            "day": 21
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14199-ChUxPXoXwFZP.jpg",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n15061-1wT2c2sDNlhu.jpg",
           "season": "FALL",
-          "description": "Himenokouji twins Akito and Akiko have finally reunited with each other after separation due to the death of their parents. After six years of living apart they suddenly began to live under the same roof due to Akito's desire to live as a family unit once more. Things were fine at first until Akiko began to express her incestuous love for her older brother, who only sees her as a little sister. <br><br>\n(Source: Wikipedia) ",
+          "description": "Ichigo Hoshimiya is a regular, ordinary middle school girl. But when her best friend, Aoi, invites her to join the idol training academy, Starlight Academy, her whole world is turned upside down. As she encounters all kinds of rivals and learns what it takes to be an idol, she uses her Aikatsu Cards to challenge countless auditions. <br><br>\n(Source: Anime News Network) ",
           "type": "ANIME",
           "format": "TV",
           "status": "FINISHED",
-          "episodes": 12,
+          "episodes": 50,
           "duration": 24,
           "chapters": null,
           "volumes": null,
           "genres": [
-            "Comedy",
-            "Ecchi",
-            "Romance"
+            "Music"
           ],
           "isAdult": false,
-          "averageScore": 61,
-          "popularity": 40271,
+          "averageScore": 74,
+          "popularity": 8767,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2399,61 +2483,8 @@
               {
                 "isMain": true,
                 "node": {
-                  "id": 300,
-                  "name": "SILVER LINK."
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 16001,
-          "title": {
-            "userPreferred": "Kokoro Connect ~ The OVAs"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16001-XLc5ZdWeM3fp.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16001-XLc5ZdWeM3fp.png",
-            "color": "#866b28"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 11,
-            "day": 19
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 12,
-            "day": 10
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16001-xxWkdYfjcYrZ.jpg",
-          "season": "FALL",
-          "description": "They've already had their bodies swapped like musical chairs, had their ages changed at random and experienced their deepest desires taking control of them without warning, but if you thought Heartseed was finished with Taichi, Iori, Himeko, Yoshifumi and Yui, you've got another thing coming! Now there's a new affliction going around, and the name of this peculiar bug is emotion sickness. As in, suddenly your emotions jump out of your body and sick someone else! Needless to say, that's more than simply awkward if you've got a deep rooted phobia like a fear of men or repressed emotions that you've been trying to keep hidden, but in some situations it can literally be deadly! What is Heartseed up to this time, and why is he making our heroes involuntarily share their innermost dirty laundry?<br>\n<br>\n(Source: Sentai Filmworks)",
-          "type": "ANIME",
-          "format": "OVA",
-          "status": "FINISHED",
-          "episodes": 4,
-          "duration": 27,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Drama",
-            "Romance",
-            "Slice of Life",
-            "Supernatural"
-          ],
-          "isAdult": false,
-          "averageScore": 77,
-          "popularity": 38927,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 300,
-                  "name": "SILVER LINK."
+                  "id": 14,
+                  "name": "Sunrise"
                 }
               }
             ]
@@ -2495,7 +2526,7 @@
           ],
           "isAdult": false,
           "averageScore": 74,
-          "popularity": 38271,
+          "popularity": 38318,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2511,148 +2542,88 @@
           }
         },
         {
-          "id": 12467,
+          "id": 11001,
           "title": {
-            "userPreferred": "Mysterious Girlfriend X"
+            "userPreferred": "Library War: The Wings of Revolution"
           },
           "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx12467-cN6486ImGAXF.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx12467-cN6486ImGAXF.jpg",
-            "color": "#f1ae35"
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11001-hiWkp5cRDi1n.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11001-hiWkp5cRDi1n.jpg",
+            "color": "#f1d6a1"
           },
           "startDate": {
             "year": 2012,
-            "month": 4,
-            "day": 8
+            "month": 6,
+            "day": 16
           },
           "endDate": {
             "year": 2012,
-            "month": 7,
-            "day": 1
+            "month": 6,
+            "day": 16
           },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12467-dAyKxWP88iYh.jpg",
-          "season": "SPRING",
-          "description": "When the oddly peculiar Mikoto Urabe transfers into Akira Tsubaki's class, he finds that life has thrown him the weirdest curve ball ever. Because while Urabe may be an anti-social loner who sleeps on her desk, carries a pair of scissors in her underwear and breaks out in sudden fits of insane laughter, there's something about her that Tsubaki just can't quite put his finger on. Until he accidentally puts his finger in it, and suddenly the phrase \"sharing spit with a girl\" takes on an entirely new meaning! Before he can wipe her drool off his face, Tsubaki is mysteriously addicted to Urabe, which isn't half as strange as the fact that she not only finds this normal, but already seems to have plans for her new drooling boyfriend. <br><br>\n(Source: Sentai Filmworks) ",
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11001-FWTU4CQpu22s.jpg",
+          "season": "SUMMER",
+          "description": "Kasahara Iku and Dojo Atsushi receive an emergency recall in the middle of their date as Japan is rocked by a terror attack. Their new duty is a protection detail assigned to Touma Kurato, an author. Meanwhile, the relationship between Librarians and the Media Purity Committee is also worsening. ",
           "type": "ANIME",
-          "format": "TV",
+          "format": "MOVIE",
           "status": "FINISHED",
-          "episodes": 13,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Ecchi",
-            "Mystery",
-            "Romance"
-          ],
-          "isAdult": false,
-          "averageScore": 69,
-          "popularity": 38023,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 346,
-                  "name": "Hoods Entertainment"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 12365,
-          "title": {
-            "userPreferred": "Bakuman. 3"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12365-G5nFzWm2mIwz.png",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12365-G5nFzWm2mIwz.png",
-            "color": "#f1a11a"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 10,
-            "day": 6
-          },
-          "endDate": {
-            "year": 2013,
-            "month": 3,
-            "day": 30
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12365-icejvUdmnD8D.jpg",
-          "season": "FALL",
-          "description": "Moritaka Mashiro and Akito Takagi have come a long way since they started making manga in middle school, but trials still await them as they head towards their goal of getting an anime adaptation for one of their manga. As they continue to grow as artists and as people, they will be faced with new friends, new rivals, and new hurdles to overcome.<br><br>\n(Source: Anime News Network)",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 25,
-          "duration": 24,
-          "chapters": null,
-          "volumes": null,
-          "genres": [
-            "Comedy",
-            "Drama",
-            "Romance",
-            "Slice of Life"
-          ],
-          "isAdult": false,
-          "averageScore": 84,
-          "popularity": 36985,
-          "nextAiringEpisode": null,
-          "mediaListEntry": null,
-          "studios": {
-            "edges": [
-              {
-                "isMain": true,
-                "node": {
-                  "id": 7,
-                  "name": "J.C. Staff"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": 11703,
-          "title": {
-            "userPreferred": "Code:Breaker"
-          },
-          "coverImage": {
-            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11703-AkvMe1jlK9eV.jpg",
-            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11703-AkvMe1jlK9eV.jpg",
-            "color": "#50bbe4"
-          },
-          "startDate": {
-            "year": 2012,
-            "month": 10,
-            "day": 7
-          },
-          "endDate": {
-            "year": 2012,
-            "month": 12,
-            "day": 23
-          },
-          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11703-9WItP5MNS5CP.jpg",
-          "season": "FALL",
-          "description": "Riding the bus one day, Sakurakouji Sakura looks out the window to see people being burned alive with a blue fire and a boy her age who's unharmed and standing over the people.<br><br>\nShe comes back to the site the next day and there are no corpses or evidence of any kind of murder, just a small fire. She then goes to class to find there's a new transfer student, Oogami Rei, who looks exactly like the boy she saw before and wears a black glove only on his left hand.<br><br>\nOogami is a Code Breaker, one who \"does not exist\". He is a seemingly cold-blooded killer who follows the principle of \"an eye for an eye\", to \"use evil against evil\". Convinced that killing is not right, Sakurakouji sets out to stop him and penetrate his icy heart.",
-          "type": "ANIME",
-          "format": "TV",
-          "status": "FINISHED",
-          "episodes": 13,
-          "duration": 24,
+          "episodes": 1,
+          "duration": 105,
           "chapters": null,
           "volumes": null,
           "genres": [
             "Action",
             "Comedy",
-            "Supernatural"
+            "Romance"
           ],
           "isAdult": false,
-          "averageScore": 63,
-          "popularity": 36303,
+          "averageScore": 74,
+          "popularity": 3311,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 12883,
+          "title": {
+            "userPreferred": "Tsuritama"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12883-2aNeQKhtMoVe.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12883-2aNeQKhtMoVe.png",
+            "color": "#1aa1e4"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 6,
+            "day": 29
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12883-ab3Gpa4zCxPF.jpg",
+          "season": "SPRING",
+          "description": "You can't catch fish if you don't go fishing, and you can't make friends if you don't at least try.<br><br>\nWhich is how relationship-challenged student Yuki finds himself on a fishing trip to a tiny island with three other boys he barely knows. Well, two other boys and Haru, who claims that he's an alien. Not that constantly stewing Natsuki or mysterious Akira are any more likely as prospects for good companionship. <br><br>\nBut there's something about fishing that makes it unlike any other pastime, and maybe that quiet sense of companionship and hopeful expectation is just what Yuki needs to start charting the unfamiliar waters of personal connections.  Or maybe it will turn out that Haru's right and they're going to have to save the entire planet. <br><br>\nThere are lots of different kinds of fish stories, from the \"ones that got away\" to the \"best catches ever,\" but whichever way the currents of life take them, for four young men, this trip may turn out to be the biggest whopper ever! <br><br>\n(Source: Sentai Filmworks) ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi",
+            "Slice of Life",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 73,
+          "popularity": 26034,
           "nextAiringEpisode": null,
           "mediaListEntry": null,
           "studios": {
@@ -2660,8 +2631,8 @@
               {
                 "isMain": true,
                 "node": {
-                  "id": 290,
-                  "name": "Kinema Citrus"
+                  "id": 561,
+                  "name": "A-1 Pictures"
                 }
               }
             ]

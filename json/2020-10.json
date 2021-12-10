@@ -1,0 +1,2221 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 687,
+        "perPage": 50,
+        "currentPage": 10,
+        "lastPage": 14,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 139283,
+          "title": {
+            "userPreferred": "Showtime"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139283-UXiiLeINXME5.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139283-UXiiLeINXME5.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 7,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 7,
+            "day": 29
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139283-T2Vs5sQJYG3C.jpg",
+          "season": null,
+          "description": "Music video for the single <i>Showtime</i> by Japanese rock band DATS.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 29,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 139190,
+          "title": {
+            "userPreferred": "Kotae wo Dasu no Da"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139190-s5wYzuIsnETP.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139190-s5wYzuIsnETP.png",
+            "color": "#43bbe4"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 2,
+            "day": null
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 2,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "An animated music video for I LUV ME's <i>Kotae wo Dasu no Da</i> song, aired on NHK's Minna no Uta.\n<br><br>\nThe song was written, composed and sang by Mihono Sato to encourage both herself, the students and the ones with an uncertain future to take a step forward.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 21,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6967,
+                  "name": "Spooky graphic"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139182,
+          "title": {
+            "userPreferred": "POCARI SWEAT CM: SWEAT FOR DREAM!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139182-geRAqW7FrSPA.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139182-geRAqW7FrSPA.png",
+            "color": "#35bbf1"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 10,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 10,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Advertisement for Bintang SMA 2020",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 95,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 139140,
+          "title": {
+            "userPreferred": "Mushi no Tsubuyaki"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139140-xfhl4PXSH1oW.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139140-xfhl4PXSH1oW.png",
+            "color": "#f1ae5d"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 8,
+            "day": null
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 8,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the song <i>Mushi no Tsubuyaki</i> by Youko Oginome that was featured on NHK's Minna no Uta program.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 18,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 139097,
+          "title": {
+            "userPreferred": "Kite"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139097-fYs7tzswor7W.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139097-fYs7tzswor7W.png",
+            "color": "#f1e4c9"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 4,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 4,
+            "day": 2
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139097-nVPHb2mNUFta.jpg",
+          "season": null,
+          "description": "Music video for the song <i>Kite</i> by Japanese boy band Arashi in collaboration with Kenshi Yonezu that was featured on NHK's Minna no Uta program. The song was unveiled at the 70th NHK Kouhaku Uta Gassen and was chosen as the 2020 NHK Olympic Theme Song. A live performance of the song by Arashi was featured on the program starting February 2020. In April of the same year, the song was again broadcast, this time featuring animation from Kunio Katou.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 29,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 139064,
+          "title": {
+            "userPreferred": "Melancholy rain"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139064-Uk11CU0rqTFD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139064-Uk11CU0rqTFD.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 10,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 10,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A animated music video for the song <i>Yowishigure</i> by THE BINARY. ",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 17,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 139044,
+          "title": {
+            "userPreferred": "JANTAMA PV"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139044-zm8ZuPiPAvF6.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139044-zm8ZuPiPAvF6.png",
+            "color": "#e4ae50"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 6,
+            "day": 22
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139044-xVknt6GMO15J.jpg",
+          "season": null,
+          "description": "PVs for the game Mahjong Soul.\n<br><br>\n1. 雀魂CM　アニメ版 (2020 June 22)<br>\n2. 雀魂-じゃんたま- 2周年記念アニメPV (2021 June 20)<br>\n3. 雀魂-じゃんたま- アカギコラボ記念アニメPV (2021 October 26)<br>",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "RELEASING",
+          "episodes": null,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 20,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6371,
+                  "name": "Yostar Pictures"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139039,
+          "title": {
+            "userPreferred": "Liberty"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139039-YsRCIn3Y9vhX.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139039-YsRCIn3Y9vhX.jpg",
+            "color": "#e48635"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 11,
+            "day": 18
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video animated by Kazuki and performed by Sakamoto Shinnosuke",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 15,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 138956,
+          "title": {
+            "userPreferred": "Mukashi Keiba Nashi 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138956-MdZggjUEEqoC.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138956-MdZggjUEEqoC.jpg",
+            "color": "#5086e4"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 5,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 5,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The second season of <i>Mukashi Keiba Nashi</i>.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 9,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 138729,
+          "title": {
+            "userPreferred": "From a Completed Future"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138729-XI4afE7c6AHh.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138729-XI4afE7c6AHh.png",
+            "color": "#5de4a1"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 6,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 6,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video animated by Ootori for the song <i>Oshimai no Mirai Yori</i> by THE BINARY.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 63,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 138687,
+          "title": {
+            "userPreferred": "\"RabbiTube Creator\" ni Chousen!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138687-80kl9N7WQ6x1.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138687-80kl9N7WQ6x1.jpg",
+            "color": "#fe5d50"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 1,
+            "day": 24
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/138687-sV8zKtd529uX.jpg",
+          "season": "WINTER",
+          "description": "In this series, idols face challenges of various themes and send messages to everyone.<br>\nUnique idols will deliver unique videos.<br>\n<br>\n(Source: YouTube description, translated)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "RELEASING",
+          "episodes": null,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 107,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6154,
+                  "name": "Dandelion Animation Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 138605,
+          "title": {
+            "userPreferred": "Noudouteki Sanpunkan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138605-bbxmzjNswhCt.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138605-bbxmzjNswhCt.jpg",
+            "color": "#e4865d"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 3,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 3,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A collaboration between animation studio Kamikaze Douga x rock group Tokyo Jihen: an animated music video for the song <i>Noudouteki Sanpunkan</i> by Tokyo Jihen. <br> <br>\n\nStreamed exclusively through the docomo anime store platform for a limited time, this music video utilized a smartphone's gyro-sensor technology to give the viewer the capability to freely switch between two videos for the song:  A new take on the 2009 song made in 2020 with full 3DCG animation (when viewed vertically) directed by Junpei Mizusaki and the prior 2011 live-action music video for the song (when viewed horizontally).",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 38,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 437,
+                  "name": "Kamikaze Douga"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 138521,
+          "title": {
+            "userPreferred": "jyou! jyou!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138521-PaYfnw4VAjfP.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138521-PaYfnw4VAjfP.png",
+            "color": "#e44378"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 4,
+            "day": null
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 4,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video animated by Takaharu Shimizu for the song <i>jyou! jyou!</i> by NINO and Evan Call that was featured in the music block of TV Tokyo's infant program synapusyu.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 24,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 138481,
+          "title": {
+            "userPreferred": "Curry to Ieba"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138481-yU5vhdRdKv8s.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138481-yU5vhdRdKv8s.png",
+            "color": "#f1c935"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 5,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 5,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video directed by Takaharu Shimizu for the title track of the single <i>Curry to Ieba</i> by Japanese band Saboten Takamizu Haruna.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 33,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 138401,
+          "title": {
+            "userPreferred": "Carol"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138401-atR7LELXhd6S.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138401-atR7LELXhd6S.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 8,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 8,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for Keina Suda's single <i>Carol</i>. The short version of the music video was originally broadcast on NHK's Minna no Uta program during June and July of 2020. A full version was released on Suda's official YouTube channel on August 1, 2020.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 82,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 138261,
+          "title": {
+            "userPreferred": "because"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138261-fo5hb80HGZWt.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138261-fo5hb80HGZWt.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 9,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 9,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video directed by Takaharu Shimizu for the song <i>because</i> by Japanese instrumental jazz-fusion band Jizue from their seventh studio album \"Seeds\".",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 43,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 138161,
+          "title": {
+            "userPreferred": "Erase"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138161-nnrdmGi2ODh4.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138161-nnrdmGi2ODh4.png",
+            "color": "#e493a1"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 6,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 6,
+            "day": 6
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/138161-QdqtlnebWfCO.jpg",
+          "season": null,
+          "description": "Original music video animated by Nebiru for the song <i>Erase</i> written by Deguchi Ryou and performed by Tenjin Kotone.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 165,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 137803,
+          "title": {
+            "userPreferred": "Renzhe Bixu Si: Yue Hu Zhi Zhan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137803-IwzuLg8w7PzP.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137803-IwzuLg8w7PzP.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 8,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 8,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 14,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6941,
+                  "name": "HuaMei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 137182,
+          "title": {
+            "userPreferred": "Citrus (Music)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b137182-LyrWp0eiu2N5.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b137182-LyrWp0eiu2N5.png",
+            "color": "#e49335"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 1,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 1,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video by Tarafu Ootani for the single <i>Citrus</i> by Japanese electronic artist Serph that is included on his compilation album \"Nanotech Wizard\".",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 60,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 137126,
+          "title": {
+            "userPreferred": "Alba"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137126-mMOHUaOfiofg.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137126-mMOHUaOfiofg.png",
+            "color": "#78431a"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 6,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 6,
+            "day": 5
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137126-HlfeGq2U5bTy.jpg",
+          "season": null,
+          "description": "Music video for Keina Suda's single <i>Alba</i>.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 49,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6315,
+                  "name": "SUSPENDERS"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 136950,
+          "title": {
+            "userPreferred": "XPICE"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136950-USjjHRgILCSh.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136950-USjjHRgILCSh.png",
+            "color": "#0d6bf1"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 7,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 7,
+            "day": 15
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136950-bES3qlEVrmQz.jpg",
+          "season": "SUMMER",
+          "description": "<i>Find your spice. Live true to you.</i> <br><br>\nA collaboration between all-female rock band SCANDAL x the company XFLAG, an original animated short: <i>XPICE</i>—a tale of heroes fighting to protect their city, and how they grow along the way. It's got a dash of courage, a pinch of teamwork, and a whole lot of heart. The short is directed by Tsubasa Nakai set to the song <i>Spice</i> by SCANDAL. <br> <br>\n\nKokyo, a city brimming with people from all walks of life, and the prime target of the mysterious group Zerogram. But Red Pepper and Wasabi—a duo from the superhero league XPICE—aren't going to stand idly by.\n\nRed Pepper's fiery punches deal with the baddies while Wasabi's healing touch cares for the wounded. Things seem to be going well on the surface. Deep down, however, Wasabi can't help but feel like there's more to being a hero.\n\nOne faithful day, the emergency alert blares—Red Pepper's in trouble!\n\nThough unsure of their chances, seeing a teammate in danger helps Wasabi find the courage to rise to the occasion.\n<br><br>\n(Source: Official Site, edited)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 82,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6105,
+                  "name": "Marza Animation Planet"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 136866,
+          "title": {
+            "userPreferred": "DERO"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136866-pg3WXdtm7JNN.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136866-pg3WXdtm7JNN.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 8,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 8,
+            "day": 5
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136866-5FTPdHewgaCn.jpg",
+          "season": null,
+          "description": "Music video directed and animated by bobibobi for the song <i>DERO</i> by DUSTCELL.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 76,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 136855,
+          "title": {
+            "userPreferred": "Tokimeki"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136855-H3KzoNBbgO0B.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136855-H3KzoNBbgO0B.png",
+            "color": "#e45028"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 6,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 6,
+            "day": 12
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136855-KNkI8XM6XzAf.jpg",
+          "season": null,
+          "description": "Music video directed by Takaharu Shimizu for the single Tokimeki by Japanese band yonawo.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 42,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 136716,
+          "title": {
+            "userPreferred": "Sugar Foot"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136716-Fp3U8nnmQZei.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136716-Fp3U8nnmQZei.png",
+            "color": "#785d0d"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 11,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 11,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the song \"Sugar Foot\", by Battles ft. Jon Anderson & Prairie WWWW, animated and directed by AC-Bu. The song is included on the album, \"Juice B Crypts\".\n<br><br>\nIn 2020, the outbreak of Covid-19 caused a global lockdown and restricted many activities and events in the world. This music video depicts the ’Great Space Robot Festival’ that unfolds to avenge cancelled festivals and events, in the hope that humanity will be able to overcome the crisis and move towards a better world.\n<br><br>\n(Source: Youtube video description)",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mecha",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 45,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 136666,
+          "title": {
+            "userPreferred": "1% no Koibito"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136666-DpcqUu85rrXX.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136666-DpcqUu85rrXX.png",
+            "color": "#0d6ba1"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 8,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 8,
+            "day": 21
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136666-kDMTxcrCbU3e.jpg",
+          "season": null,
+          "description": "<i>1% no Koibito</i> is a character song for Minami, and his first song in the Love Series. As Minami's first two songs were about in-universe music videos, this song serves as the first look into Minami as a proper character.\n<br><br>\n<i>Note: The song was commercially released as the B-track to the single Heroine Taru Mono! feat. Inori Minase/1% no Koibito feat. Toshiyuki Toyonaga on August 26, 2020. It also serves as one of the random openings for the rhythm game HoneyWorks Premium Live.</i><br><br>\n\n(Source: Confession Executive Committee Wiki, edited)",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 107,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 136642,
+          "title": {
+            "userPreferred": "Taiban!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136642-hTNYzwC9DE63.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136642-hTNYzwC9DE63.png",
+            "color": "#f1d643"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 31
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Mizuki Haruno, who has been spending her days feeling blue, was taken to a live concert by her childhood friend, Nozomi. She caught a glimpse of the \"exciting world there.\"\n<br><br>\n\"Nozomi...I want to play in a girls' band!\"\n<br><br>\nThe story of Mizuki who became a high-school student begins now! This is a rockin' youth story woven by the four individual girls from the music band at Hakumai High School in a town in Hokkaido!\n<br><br>\n(Source: Taiban! Official YouTube channel, edited)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "RELEASING",
+          "episodes": null,
+          "duration": null,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 146,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 136639,
+          "title": {
+            "userPreferred": "Hana ni Ame wo, Kimi ni Uta wo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136639-X15g14nRxLWX.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136639-X15g14nRxLWX.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 5,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 5,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video animated by Gko for the song <i>Hana ni Ame wo, Kimi ni Uta wo<i> by THE BINARY.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 60,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 136546,
+          "title": {
+            "userPreferred": "Balala Xiao Moxian: Mofa Hai Ying Bao 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136546-0Rz4ameI17A0.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136546-0Rz4ameI17A0.png",
+            "color": "#28c9f1"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 9,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 9,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": null,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 14,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 136532,
+          "title": {
+            "userPreferred": "Natsu wo Ikiru"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136532-f7Qndh1zBbDA.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136532-f7Qndh1zBbDA.jpg",
+            "color": "#28c9f1"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 8,
+            "day": 7
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Animated music video for the song Natsu wo Ikiru by Ryokuoushoku Shakai.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 51,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 136451,
+          "title": {
+            "userPreferred": "Sphere"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136451-0lCVqIFUqpyW.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136451-0lCVqIFUqpyW.png",
+            "color": "#43c9ff"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 11,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 11,
+            "day": 4
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136451-netVOyif3sUF.jpg",
+          "season": null,
+          "description": "Music video animated by sasami for the song <i>Sphere</i> by Airi Miyakawa.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 82,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 136292,
+          "title": {
+            "userPreferred": "Number Nine"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136292-iGMJE7t3ruij.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136292-iGMJE7t3ruij.png",
+            "color": "#f1ae50"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 3,
+            "day": 18
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video directed by Gisaburou Sugii for the song <i>Number Nine</i> by Meychan.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 30,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6072,
+                  "name": "Creators in Pack"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 136044,
+          "title": {
+            "userPreferred": "Kanzen Houki Sengen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136044-AsPQNhiZhRW5.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136044-AsPQNhiZhRW5.png",
+            "color": "#c9f135"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 9,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 9,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video animated by Buki for the song <i>Kanzen Houki Sengen</i> by Nanawo Akari.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 87,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 135722,
+          "title": {
+            "userPreferred": "Mela!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135722-mR9FTkWzq1vq.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135722-mR9FTkWzq1vq.png",
+            "color": "#e443a1"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 4,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 4,
+            "day": 13
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/135722-uCBf9mWkScsg.jpg",
+          "season": null,
+          "description": "<i>THE STORY OF THAT WOLF</i>\n<br><br>\nMusic video directed by Nao Watanabe for the song <i>Mela!</i> by Ryokuoushoku Shakai.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 110,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 134786,
+          "title": {
+            "userPreferred": "Ontology"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134786-9g2dpXSLroAL.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx134786-9g2dpXSLroAL.png",
+            "color": "#5da1e4"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 10,
+            "day": 23
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 10,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/134786-Ph4mEdGoNqJz.jpg",
+          "season": null,
+          "description": "Music video animated by Riri Yamashita for the original song <i>Ontology</i> by the VTuber unit, Rain Drops.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 118,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 133610,
+          "title": {
+            "userPreferred": "Yummy Yummy Yummy "
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b133610-J1YyCgYKZ0nO.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b133610-J1YyCgYKZ0nO.jpg",
+            "color": "#f1d6bb"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 11,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 11,
+            "day": 11
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the song <i>Yummy Yummy Yummy</i> by FAKE TYPE.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 88,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 133397,
+          "title": {
+            "userPreferred": "Fall in Sunset"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b133397-tuLWvvUmIMMj.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b133397-tuLWvvUmIMMj.png",
+            "color": "#86aee4"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 9,
+            "day": 19
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 9,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the original song <i>Fall in Sunset</i> by Domyoji Cocoa.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 25,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 133391,
+          "title": {
+            "userPreferred": "INSIDE MY CORE"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133391-MUwOcwR4gKnz.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133391-MUwOcwR4gKnz.png",
+            "color": "#5093e4"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 4,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 4,
+            "day": 14
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/133391-Vk7JJyAXNggo.jpg",
+          "season": null,
+          "description": "Original music video for the song <i>INSIDE MY CORE</i> by nano. \n<br><br>\n<i>Note: While the short ver. released in Feb 10, 2020, the full MV was released later on Apr 14, 2020 on YouTube. 'INSIDE MY CORE' is the only new song that is included in nano's BEST-OF album, \"I\".</i>",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 82,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 133353,
+          "title": {
+            "userPreferred": "Chinzei Hachirou Tametomo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b133353-IfmRPjIjrxBb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b133353-IfmRPjIjrxBb.jpg",
+            "color": "#6baed6"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video promoting Kamimine Town, Saga Prefecture, home of a local legend –that of samurai military commander Minamoto no Tametomo. ",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 73,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 10,
+                  "name": "Production I.G"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 133132,
+          "title": {
+            "userPreferred": "Yoakemade"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133132-Ush6rPE3mkRa.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133132-Ush6rPE3mkRa.png",
+            "color": "#78501a"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 6,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 6,
+            "day": 8
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video animated by Fancy Restaurant Crab for the original song <i>Until Dawn</i> sung by Ryushen, a virtual liver (vtuber) talent of Nijisanji.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 49,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 132696,
+          "title": {
+            "userPreferred": "Oshiri Tantei 4"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132696-h3WTZTAFRrIB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132696-h3WTZTAFRrIB.jpg",
+            "color": "#e4c95d"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 6,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Fourth season of <i>Oshiri Tantei</i>.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": null,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 26,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 132348,
+          "title": {
+            "userPreferred": "Maeumuisori Season 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132348-WPh2pjDheCBM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132348-WPh2pjDheCBM.jpg",
+            "color": "#e46b50"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 5,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 9,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 20,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 6,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6446,
+                  "name": "Durufix"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 132345,
+          "title": {
+            "userPreferred": "Amhaengeosa Byeol☆Ko"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132345-QRw98QyOq1yG.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132345-QRw98QyOq1yG.png",
+            "color": "#e4356b"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 3,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 5,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 10,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 5,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 132320,
+          "title": {
+            "userPreferred": "BE ALL LIE"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132320-EWmwgGWQGZta.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132320-EWmwgGWQGZta.png",
+            "color": "#f1e4bb"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 10,
+            "day": 24
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 10,
+            "day": 24
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/132320-woDSw6gBPiEu.jpg",
+          "season": null,
+          "description": "Animated music video for the song BE ALL LIE by the band Yourness.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 102,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 132319,
+          "title": {
+            "userPreferred": "PUNISHMENT"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132319-WLtMbkXvFSBL.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132319-WLtMbkXvFSBL.jpg",
+            "color": "#e443bb"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/132319-rtIyQNVxzWWr.jpg",
+          "season": null,
+          "description": "Original music video animated by Nebiru for the song <i>PUNISHMENT</i> written by Deguchi Ryou and performed by Kotone.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 115,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 132034,
+          "title": {
+            "userPreferred": "Catch! Teenieping: Fairies of Emotions"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132034-i9f5cF02xwS3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132034-i9f5cF02xwS3.jpg",
+            "color": "#e4c935"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 3,
+            "day": 19
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 4,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Romi, the princess from a fantasy kingdom called ‘Emotion Kingdom’, accidentally frees mind fairies that have been sealed and secured for a long time. These mind fairies have abilities to affect people’s emotions and behaviors. Romi needs to come to Earth and “Gotta Catch’em All!” before they make chaos in human world!",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 11,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 30,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6792,
+                  "name": "SAMG Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 132013,
+          "title": {
+            "userPreferred": "In Case You're Gonna Jump"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132013-Qx21IxKD3bNk.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132013-Qx21IxKD3bNk.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 11,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 11,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video animated by coalowl for Omoi's song <i>Kimi ga Tobioriru no Naraba</i> sung by Hatsune Miku.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 76,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 131999,
+          "title": {
+            "userPreferred": "Kindan Joshi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131999-yOlVPQbzUhVk.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131999-yOlVPQbzUhVk.png",
+            "color": "#e4286b"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 1,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": null,
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 5,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 99,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 131969,
+          "title": {
+            "userPreferred": "Last Of Me"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131969-tgSTQw0mLDE7.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131969-tgSTQw0mLDE7.jpg",
+            "color": "#e4436b"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 7,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 7,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for Chapter 6, based on the final fight between Rhodes Island and FrostNova. This song was produced by Steve Aoki, featuring RUNN.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 110,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 131781,
+          "title": {
+            "userPreferred": "Pleasant Goat Fun Class: Mighty Goat Squad"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131781-yjHy8Jmqmpq2.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131781-yjHy8Jmqmpq2.jpg",
+            "color": "#1a86e4"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 8,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 8,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "This story-driven edutainment series features Weslie and his friends fascinating adventures in a mini world they have not discovered before in Green-Green Grassland. In each episode, those ordinary goats receive mysterious missions and become a mighty goat squad to rescue those who are in trouble. As they become small, they have chances to explore the inconspicuous places of their daily lives and see the world from a perspective they haven't tried. From each adventure, Weslie and his friends learn to build teamwork and friendship with their tiny important friends. The other way around, their tiny friends inspire them to break through their own limits. Keep your tiny curiosity and discover a big world with mighty goat squad!",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 8,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 131731,
+          "title": {
+            "userPreferred": "Pleasant Goat and Big Big Wolf: Against the Dark Force"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131731-CgS0JUfLRxtI.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131731-CgS0JUfLRxtI.png",
+            "color": "#ffa135"
+          },
+          "startDate": {
+            "year": 2020,
+            "month": 7,
+            "day": 17
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 7,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The twenty-second season of <i>Xi Yangyang Yu Hui Tailang</i>.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 60,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 13,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

@@ -35,8 +35,13 @@ for file_name in [file for file in os.listdir(path_to_json) if file.endswith('.j
     data = json.load(json_file)
     for i in data['data']['Page']['media']:
         newData = dictData.copy()
-        AnimeName = i['title']['userPreferred']
-        for z in ['/',' ','-',',']:
+        AnimeName = i['title']['userPreferred'].strip()
+        Rating = i['averageScore']
+
+        if Rating == None or Rating < 60:
+            continue
+
+        for z in ['/',' ','-',',',';','\'']:
             AnimeName = AnimeName.replace(z, "_")      
         
         for k in i['genres']:
@@ -48,6 +53,7 @@ for file_name in [file for file in os.listdir(path_to_json) if file.endswith('.j
             r = requests.get(i['coverImage']['extraLarge'])
             if r.status_code != 200:
                 print("Download Img Error",MangaName)
+                continue
             ## Download IMG
             with open(ImageName, "wb") as f:
                 f.write(r.content)

@@ -1,0 +1,635 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 464,
+        "perPage": 50,
+        "currentPage": 10,
+        "lastPage": 10,
+        "hasNextPage": false
+      },
+      "media": [
+        {
+          "id": 7092,
+          "title": {
+            "userPreferred": "Shoujo Fight: Nora Inu-tachi no Odekake"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7092.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7092.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2009,
+            "month": 10,
+            "day": 23
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 10,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The story follows Neri Ooishi, a high school girl who is a talented volleyball player. She once was the captain of an elementary school team that went all the way to the national tournament. However, she spent three years as an alternate at a junior high school renowned for its volleyball program. Now she is in high school with new teammates, and she gets a chance to prove herself again. <br><br>\nThe sixth manga volume will have a \"special edition\" that will ship with the anime DVD on October 23. Nihonbashi herself is writing the script for the anime, and Prodution I.G is animating it.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 197,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 10,
+                  "name": "Production I.G"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 6822,
+          "title": {
+            "userPreferred": "Ukkari Pénélope (2009)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6822.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6822.jpg",
+            "color": "#f1d61a"
+          },
+          "startDate": {
+            "year": 2009,
+            "month": 6,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 10,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Ukkari Penelope is about a young koala's daily adventures. The narrator is Mamiko Noto!",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 93,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6687,
+          "title": {
+            "userPreferred": "Chinyuuki: Tarou to Yukai na Nakama-tachi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6687.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6687.jpg",
+            "color": "#f1ae5d"
+          },
+          "startDate": {
+            "year": 2009,
+            "month": 6,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 8,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 40,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 92,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6658,
+          "title": {
+            "userPreferred": "Unko-san: Tsuiteru Hito ni Shika Mienai Yousei"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6658-1s2aIF13rLQG.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6658-1s2aIF13rLQG.jpg",
+            "color": "#e4d60d"
+          },
+          "startDate": {
+            "year": 2009,
+            "month": 3,
+            "day": 18
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 7,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Anime has as a fairy brown dispenser of some 'of his good fortune to those less fortunate. Unko-san lived on Lucky Island together with her friends, all of them with a different personality and culture.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 144,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 432,
+                  "name": "Kachidoki Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 6568,
+          "title": {
+            "userPreferred": "Our Jury Story"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6568-WfSeUXwsi7xW.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6568-WfSeUXwsi7xW.jpg",
+            "color": "#bbd61a"
+          },
+          "startDate": {
+            "year": 2009,
+            "month": 5,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 5,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The Japanese government has commissioned a 22-minute anime video called \"Bokura no Saibanin Monogatari\" (Our Jury Story) to teach its citizens about the re-introduced jury system. In July, Japan will implement jury trials for the first time in six decades, so most Japanese have never experienced jury duty. The anime uses a high school boy's one-sided infatuation for a classmate as an unusual segue to discuss the jury system. <br><br>\nOmnibus Japan and Tomason produced the animation in collaboration with Group TAC and Studio Cj. Veteran voice actress Minami Takayama (Detective Conan's Conan, Kiki's Delivery Service's Kiki and Ursula) plays the lovestruck boy Sh&#333;ta alongside fellow cast members Yuki Tashiro, Daisuke Sakaguchi (Clannad's Youhei Sunohara), and Akeno Watanabe (To Love-Ru's Rito Y&#363;ki).\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 111,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6528,
+          "title": {
+            "userPreferred": "Utsurun Desu."
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6528.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6528.jpg",
+            "color": "#e45d5d"
+          },
+          "startDate": {
+            "year": 2009,
+            "month": 8,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 10,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "An anime adaptation of Sensha Yoshida's Utsurun Desu. four-panel \"nonsensical\" gag comedy manga. The manga used a stable of off-the-wall characters to tell jokes that defied logic or reasoning. The original manga ran in Shogakukan's Big Comic Spirits magazine from 1989 to 1994. <br><br>\nSource:ANN",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 82,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6481,
+          "title": {
+            "userPreferred": "Sugar Bunnies Fleur"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6481.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6481.jpg",
+            "color": "#e4a11a"
+          },
+          "startDate": {
+            "year": 2009,
+            "month": 4,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 9,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Sequel to Sugar Bunnies Chocolate!",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 11,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 185,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 406,
+                  "name": "Asahi Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 6206,
+          "title": {
+            "userPreferred": "La Vilaine LuLu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6206.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6206.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2009,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 6,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on a picture book by the late fashion icon Yves Saint-Laurent. Saint-Laurent originally created the cartoons in his picture book in 1956, when he was a 20-year-old working for the Christian Dior haute couturier. The cartoons follow the bizarre fantasies of a mischievous girl named Lulu.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 61,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6156,
+          "title": {
+            "userPreferred": "Pleasant Goat and Big Big Wolf: The Super Snail Adventure"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6156.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6156.jpg",
+            "color": "#f1a143"
+          },
+          "startDate": {
+            "year": 2009,
+            "month": 1,
+            "day": 16
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 1,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "In 3131, the goats lived on Qingqing Field happily, and the Grey Wolf lived in the castle with his wife named Red Wolf beyond the Qingqing Field. Every time when Grey Wolf appeared on the Qingqing Field, and was going to catch the goats, all the goats would work together and chucked the wolf out of Qingqing Field.<br><br>\nPGBBW is a classic story line of a village of happy-go-lucky goats and their not-so-friendly wolf neighbors. Each episode explores the wolf&rsquo;s latest scheme to catch himself goat for dinner. Despite his attempts, the goats in the village always seem to outsmart the wolf&mdash;all while creating a funny and adventurous plot line.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 85,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 116,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6063,
+          "title": {
+            "userPreferred": "Penguin no Mondai Movie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6063.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6063.jpg",
+            "color": "#e4c950"
+          },
+          "startDate": {
+            "year": 2009,
+            "month": 9,
+            "day": 19
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 9,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Penguin no Mondai Movie.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 64,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5841,
+          "title": {
+            "userPreferred": "Yume wo Kanaeru Zou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5841.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5841.jpg",
+            "color": "#e4d65d"
+          },
+          "startDate": {
+            "year": 2009,
+            "month": 1,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 12,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "It's about an ordinary office worker Fumiyama Fumio, who gains self-confidence by the advices of an Indian god, Ganesha.<br>",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 93,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 5810,
+          "title": {
+            "userPreferred": "Sakuran Boy DT"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5810.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5810.jpg",
+            "color": "#e45050"
+          },
+          "startDate": {
+            "year": 2009,
+            "month": 1,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 3,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The Geisha Tokyo Entertainment company has announced on Wednesday it is producing and airing Sakuran Boy DT, \"Japan's first\" Flash-animated television series about a local costumed hero character. The name of the character is a wordplay on the Japanese translation for \"cherry boy\" &mdash; the Japanese slang for a male virgin &mdash; and the Sakuranbo television station in the northeastern Japanese city of Yamagata. The story revolves around Satou-kun, an ordinary high school boy who transforms into Sakuran Boy DT to rescue the mayor's daughter from the nefarious secret society Zaou. Sakuranbo has posted a trailer online, and the 11 five-minute weekly episodes will premiere on this station on January 14.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 11,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 108,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5809,
+          "title": {
+            "userPreferred": "Kupu~!! Mamegoma!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5809-bbht45Ug5OxS.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5809-bbht45Ug5OxS.jpg",
+            "color": "#43c9e4"
+          },
+          "startDate": {
+            "year": 2009,
+            "month": 1,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 12,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The story revolves around a palm-sized seal named Mameta, the other seals (Cherry-chan, Soda-kun, Lemon-chan, Candy-chan), and the Mamekawa family that raises the seals.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 51,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 200,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5240,
+          "title": {
+            "userPreferred": "Pyu to Fuku! Jaguar: Ima, Fuki ni Yukimasu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5240.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5240.jpg",
+            "color": "#00a1ff"
+          },
+          "startDate": {
+            "year": 2009,
+            "month": 1,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 1,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The story follows a hapless budding guitarist nicknamed \"Piyohiko\" who gets steered into the music business by a mysterious man named Jaguar &mdash; if Piyohiko would play a recorder instead of a guitar.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 78,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 156,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

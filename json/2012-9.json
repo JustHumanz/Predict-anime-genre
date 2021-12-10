@@ -1,0 +1,2271 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 652,
+        "perPage": 50,
+        "currentPage": 9,
+        "lastPage": 14,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 16912,
+          "title": {
+            "userPreferred": "gdgd Fairies 2 Episode 0"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16912-sRyw7dydPLfj.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16912-sRyw7dydPLfj.png",
+            "color": "#fe50fe"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 12,
+            "day": 28
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 12,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16912-Gf6DSsZqpXM9.jpg",
+          "season": "WINTER",
+          "description": "Special in which the fairies hold a round table discussion. ",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 14,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 246,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10258,
+          "title": {
+            "userPreferred": "Gokicha!! Cockroach Girl!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10258.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10258.jpg",
+            "color": "#d6781a"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 9,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 9,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A heartwarming story about a cockroach girl who tries to be liked by humans while dodging the insecticide.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 8,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 2721,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6624,
+                  "name": "MooGoo"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 318,
+                  "name": "WAO World"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 13255,
+          "title": {
+            "userPreferred": "Haru wa Kuru"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13255.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13255.jpg",
+            "color": "#ffbb35"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 1,
+            "day": 27
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 1,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "A short promotional film for the Johnnie Walker whiskey brand, animated by STUDIO 4&deg;C.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 218,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 13983,
+          "title": {
+            "userPreferred": "Thermae Romae: Kodai Romajin ga Uchuu e"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13983.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13983.jpg",
+            "color": "#f1c9a1"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 20
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Lucius ends up in a space station, where he experiences zero gravity and learns about heliocentricism.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 305,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 15769,
+          "title": {
+            "userPreferred": "Shining Hearts: Shiawase no Pan - Kokoro ga Todoita Picture Drama"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15769.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15769.jpg",
+            "color": "#e4865d"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 7,
+            "day": 27
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Picture dramas included in the BD/DVD volumes.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 386,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18003,
+          "title": {
+            "userPreferred": "Thermae Romae: Thermae Romae x TOTO Collaboration"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18003.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18003.jpg",
+            "color": "#e4e4a1"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Lucius ends up at the presentation of bathroom and toilet equipment by Japanese toilet manufacturer TOTO, where he learns about the most recent technological advances in that field.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 204,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 12501,
+          "title": {
+            "userPreferred": "Ai Mai! Moe Can Change!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12501.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12501.jpg",
+            "color": "#e4ae50"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 5,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 5,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The OVA adaptation Moe Can Change! is created by Frontier Works, based on a free-to-play game developed by Ambition for mobile phones. The original \"playful bishoujo Miroid-raising / clothes-changing moe game\" has the player joining a beta test program for androids, who the player must raise and dress up as girls.<br><br>\n(Source: Animekon)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 1513,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103009,
+          "title": {
+            "userPreferred": "Kizuna (Special)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103009-24d0xoFFUcSG.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103009-24d0xoFFUcSG.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2012,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2012,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Short Animation by Tekken",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 191,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18831,
+          "title": {
+            "userPreferred": "Rinkaku"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18831.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18831.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 16
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Following the release of their 8th album \"DUM SPIRO SPERO,\" Japanese rock band Dir en Grey went into hiatus following a vigorous touring schedule in Japan and abroad, a year and a half later returning with their single \"RINKAKU\" released on December 19th, 2012.  Once again animator Keita Kurosaka was enlisted to create a hand drawn music video, that in many regards is much less shocking and grotesque than the band's previous collaboration with Kurosaka, the infamous \"Agitated Screams of Maggots\" music video. ",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 430,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 15993,
+          "title": {
+            "userPreferred": "Ginga e Kickoff!!: Natsuyasumi Special"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15993.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15993.jpg",
+            "color": "#43bbe4"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 8,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 8,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Clip show with soccer commentators providing commentary. <br>",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 28,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 280,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 14359,
+          "title": {
+            "userPreferred": "Vocaloid China Project Senden Animation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14359.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14359.jpg",
+            "color": "#e45d5d"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 6,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 11,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A 3-minute full animation promotion video series of the Chinese Vocaloid 3 Package.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 5,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 407,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7867,
+          "title": {
+            "userPreferred": "Gon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7867.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7867.jpg",
+            "color": "#e4bb35"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 3,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The Gon series features the completely wordless adventures of the irascible title character, a tiny fictional dinosaur, as he interacts with the natural world. Gon somehow survived the extinction of his fellow dinosaurs and interacts with paleolithic animals. ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 50,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 451,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 228,
+                  "name": "Daewon Media"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 12907,
+          "title": {
+            "userPreferred": "Sekiei Ayakashi Mangatan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12907.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12907.jpg",
+            "color": "#f1e4ae"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 2,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 3,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The story is set during the middle of Japan's historic Edo period. It centers around Toriyama Sekiei, an eccentric but brilliant artist who only draws supernatural creatures&mdash;because he draws the creatures he actually encounters in his life. ",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 528,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 15127,
+          "title": {
+            "userPreferred": "Sakura Taisen: Kanadegumi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15127.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15127.jpg",
+            "color": "#f1ae43"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 9,
+            "day": 20
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 9,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Sakura Taisen: Kanadegumi follows a girl named Miyabi Neko and her interactions with five attractive young men. The story takes place in Tokyo and centers on an imperial opera company named Kanadegumi. <br><br>\nBundled with a limited first edition of Shimada Chie's Sakura Taisen: Kanadegumi manga.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 521,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20465,
+          "title": {
+            "userPreferred": "Diebuster Science Course"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20465.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20465.jpg",
+            "color": "#f193ae"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 6,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 6,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Similar to the Gunbuster! Science Lesson these are short \"omake\" bonus features bundled on the Blu-ray Box Complete Edition of the Top wo Nerae 2! Diebuster.\r\n\r\nEach short lasts around three minutes, and features super deformed versions of Nono, Lal`C Melk Mark and the Dix-Neuf explaining the various scientific aspects of the series.\r\n",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 486,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6,
+                  "name": "Gainax"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104480,
+          "title": {
+            "userPreferred": "Wake Up"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx104480-JMYCPWM6ygTK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104480-JMYCPWM6ygTK.jpg",
+            "color": "#fff186"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 8,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 8,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for ClariS' single \"Wake Up.\" The song was used as the opening theme for Moyashimon Returns.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 212,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17293,
+          "title": {
+            "userPreferred": "Love Like Aliens"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17293.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17293.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 7,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 7,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "In a future not too far from now, humanity has advanced to a point where the line between Homo Sapiens and Androids have blurred completely. This has occurred so that the species could survive. Technology has allowed humans to travel into deep space to colonize other planets and galaxies deep in the universe because Earth has become uninhabitable. One of the many unfortunate results of this robotic Darwinism is that human behavior and consciousness has also changed over the years. Much of what makes one human&mdash;love, family, intimacy etc.&mdash;have all become things of the past. Almost legend...<br><br>\nThis six-minute 3D animated short film was inspired by the female android \"Gynoid\" illustrations of Hajime Sorayama (The Humanoid). It is a collaboration between Studio 4&deg;C, Shirogumi, and American filmmaker Rashad Haughton, with art direction by Tatsuyuki Tanaka. The CG animation was created \"by eye,\" using filmed sequences with live actors as reference models.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Music",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 314,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 136668,
+          "title": {
+            "userPreferred": "BeyWheelz: Powered by Beyblade"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136668-VZgOHmlPWZ8l.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136668-VZgOHmlPWZ8l.jpg",
+            "color": "#4393e4"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 8,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A <i>Beyblade</i> spin-off originally commissioned by Nelvana to make up for <i>Beyblade: Metal Fury</i>'s shortened season.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 21,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Sci-Fi",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 137,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 118,
+                  "name": "SynergySP"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 102037,
+          "title": {
+            "userPreferred": "Ninja & Soldier"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102037-XLXoBO5GrDOm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102037-XLXoBO5GrDOm.jpg",
+            "color": "#d6c978"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2012,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Two eight-year-old boys compete in a game of childish bravado. Ken is a Ninja, Nito a child soldier from the Congo who was forced to kill his own mother. Their naïve game addresses cruel realities, and they talk about their differences and what they have in common. Accompanied by contrasting graphics, the film explores the types of acts of which humankind is capable.\n<br><br>\n(Source: Berlinale)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 120,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20561,
+          "title": {
+            "userPreferred": "Space Brothers: Apo's Dream"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20561.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20561.jpg",
+            "color": "#3586e4"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 3,
+            "day": 23
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 3,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Included on a DVD within the limited edition of the manga's volume 17. \r\n\r\nApo, the pet dog from the manga, will star in the anime.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 824,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 398,
+                  "name": "Milky Cartoon"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 103519,
+          "title": {
+            "userPreferred": "Gekkou Shokudou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103519-WjNcUbN7BPLh.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103519-WjNcUbN7BPLh.jpg",
+            "color": "#f1f1ae"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 11,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 11,
+            "day": 2
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103519-U56aLH6XlGPX.jpg",
+          "season": null,
+          "description": "A music video for Fullkawa Honpo's song \"Gekkou Shokudou,\" featuring acane_madder.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 177,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 13669,
+          "title": {
+            "userPreferred": "Owari no Chronicle"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13669.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13669.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "April Fools' Day announcement of a purported anime adaptation of <em>Owari no Chronicle</em>, the prequel light novel series to <em>Kyoukai Senjou no Horizon</em>.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 725,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103937,
+          "title": {
+            "userPreferred": "Hoka Hoka Oden no Uta"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103937-Cpfc08KsyKIq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103937-Cpfc08KsyKIq.jpg",
+            "color": "#f1a11a"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 12,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 12,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video about Japanese oden.\n",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 230,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 14479,
+          "title": {
+            "userPreferred": "Mahou Tsukai Nara Miso wo Kue!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14479-Qgihcu1cil72.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14479-Qgihcu1cil72.png",
+            "color": "#f18650"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 6,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 6,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A world where the existence of magic has been known for a century as a mysterious power to rival science. However, the discovery of MISO &mdash; the Material of an Impediment to the Sorcerer's Orders &mdash; made magic into not a special power, but a technique that can be raised. One morning, while Sh&#333;ta Hacch&#333;ya (a high school boy attending a magic academy) was tasting miso soup, a princess of Majieeru suddenly breaks in. Majieeru happens to be the birthplace of magic.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 1391,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 13143,
+          "title": {
+            "userPreferred": "Baku Tech! Bakugan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13143.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13143.jpg",
+            "color": "#f18628"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 3,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Bakugan is the card game for a new generation. In \"Baku TECH\" passionate warriors fight each other and risk their life for Bakugan.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 51,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 472,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21021,
+          "title": {
+            "userPreferred": "Duel Masters Victory V"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21021-CGwzm3E40XQg.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21021-CGwzm3E40XQg.jpg",
+            "color": "#e4bb0d"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 4,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 3,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The 8th Duel Masters series.<br>\n<br>\nThis series continues the adventures of Katsuta Kirifuda, Bucyake and Yohdel throughout the school season. They meet new classmates such as Leo to duel against.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 51,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 260,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 62,
+                  "name": "Shogakukan-Shueisha Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 10417,
+          "title": {
+            "userPreferred": "GYO: Tokyo Fish Attack"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10417-0tPSLVLmnLZY.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10417-0tPSLVLmnLZY.jpg",
+            "color": "#50aee4"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 2,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 2,
+            "day": 15
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10417-QmMelMJ9S1vy.jpg",
+          "season": "WINTER",
+          "description": "Something in Okinawa reeks, and it isn't long before Kaori and her friends realize that the smell is coming from dead fish, which are walking out of the sea. The fish are fused to metal legs and are infected with a disease contractable by humans that was invented as a weapon by unknown sources. After what happens to Tadashi, Kaori finds herself in a new world very much like the old one but with the stench of death. ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 70,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Horror",
+            "Mystery",
+            "Psychological",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 8948,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 43,
+                  "name": "ufotable"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 15891,
+          "title": {
+            "userPreferred": "Zekkyou Gakkyuu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15891.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15891.jpg",
+            "color": "#1a78d6"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 23
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 11,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Three episodes aired on TV as part of the Ribbon x Oha Suta specials.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 984,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16656,
+          "title": {
+            "userPreferred": "Zettai Junpaku: Mahou Shoujo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16656-nnSwBf9uiuZX.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16656-nnSwBf9uiuZX.jpg",
+            "color": "#c9a135"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 8,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 8,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Doujinshi anime Blu-ray Disc offered at the Comic Market 82 event on August 2012.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Ecchi",
+            "Mahou Shoujo",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 2845,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 271,
+                  "name": "Barnum Studio"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 4399,
+                  "name": "project No.9"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 103767,
+          "title": {
+            "userPreferred": "Halfway"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103767-gErb57ylMivd.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103767-gErb57ylMivd.jpg",
+            "color": "#a1d6e4"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 2,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 2,
+            "day": 9
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103767-eJGMZ62dSO5u.jpg",
+          "season": null,
+          "description": "A music video for \"Halfway\" by Rayons.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 89,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18133,
+          "title": {
+            "userPreferred": "Ikeike! Momon-chan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18133.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18133.jpg",
+            "color": "#fed650"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 11,
+            "day": 28
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 3,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Ikeike! Momon-chan is a series of shorts created to promote the Omote Sando upscale shopping center in Tokyo.<br><br>\nEach episode typically focuses on the comedic interactions between Momon-chan, the peach girl and Tanu, the tanuki, as they discuss everything from horoscopes, to Christmas, to tools that reference Doraemon, to traditional Japanese New Year&rsquo;s games, and much much more. <br>",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 15,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 223,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 15653,
+          "title": {
+            "userPreferred": "Stay The Same"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15653.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15653.jpg",
+            "color": "#a1e486"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 1,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 1,
+            "day": 11
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The music video was bundled with the limited first edition of Kuraki Mai's 10th album, Over the Rainbow. The song is part of the Uta no Kotoba (Words of Songs) collaborative project between Sanrio's Wish me mell characters and Kuraki Mai.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 112,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102635,
+          "title": {
+            "userPreferred": "Lost Forest"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102635-w6FlKDWzOjHo.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102635-w6FlKDWzOjHo.png",
+            "color": "#35a1a1"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 1,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 1,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "An animated music video for the song \"Lost Forest\" by MOKA☆.\n",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 216,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 287,
+                  "name": "David Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 102097,
+          "title": {
+            "userPreferred": "Niedola"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102097-Yf84pDXQgxtB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102097-Yf84pDXQgxtB.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 11,
+            "day": 23
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 11,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102097-PRvvsLTZT8Kc.jpg",
+          "season": null,
+          "description": "The music video to matryoshka's Niedola, directed by Mitsuyuki Ishibashi.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 156,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103518,
+          "title": {
+            "userPreferred": "Gregorio"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103518-Par8Z52gmDfL.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103518-Par8Z52gmDfL.jpg",
+            "color": "#43e4d6"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "An animated music video for Fullkawa Honpo's \"Gregorio\" song, featuring Chibita.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 121,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 15045,
+          "title": {
+            "userPreferred": "Lychee Light Club"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15045-3urZciUhS281.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15045-3urZciUhS281.jpg",
+            "color": "#0dc9e4"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 11,
+            "day": 20
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/15045-h4xx1lmfgi5R.jpg",
+          "season": "FALL",
+          "description": "A short, <em>comical</em> anime adaptation of the psychological-horror manga, Litchi☆Hikari Club. <br><br>\r\nThe story is about nine boys who are members of the Hikari Club and their self-made AI robot, Litchi. They are led by their leader Zera and keep a kidnapped girl named Kanon. ",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 8,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Horror",
+            "Psychological",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 2133,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 432,
+                  "name": "Kachidoki Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 13693,
+          "title": {
+            "userPreferred": "Ippatsu Hicchuu!! Devander"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13693.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13693.jpg",
+            "color": "#e4c95d"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 19
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 27,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 239,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103497,
+          "title": {
+            "userPreferred": "Balloon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103497-nNaf4md1QnOI.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103497-nNaf4md1QnOI.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 11,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 11,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music Video directed by Oshima Tomoko for the song \"balloon\" by Izumi Makura.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 137,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17237,
+          "title": {
+            "userPreferred": "Peeping Life: World History"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17237.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17237.jpg",
+            "color": "#5086e4"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 12,
+            "day": 20
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 12,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Another iteration in the Peeping Life franchise, this time featuring scenes from older times.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 40,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 160,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 15893,
+          "title": {
+            "userPreferred": "Crash!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15893-1zx1IofHLr0o.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15893-1zx1IofHLr0o.jpg",
+            "color": "#f1d643"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 11,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 11,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Three episodes aired on TV as part of the Ribbon x Oha Suta specials.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 391,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18425,
+          "title": {
+            "userPreferred": "Ikeike! Momon-chan Specials"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18425.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18425.jpg",
+            "color": "#e45d93"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 12,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 3,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Specials that streamed earlier on in the season, featuring new characters and cameos by Momon-chan and Tanu.<br><br>\n(Source: Migoto Fansubs)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 172,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 15389,
+          "title": {
+            "userPreferred": "Kremlin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15389.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15389.jpg",
+            "color": "#780d0d"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 9,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 2,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A gag, flash animation comedy that centers around a purported college student named Haruo \"Cat\" Kyattsuyama who only went to his school, the low-tier Kunekune College, once. One day, he sees a cute Russian Blue cat named Kan-u abandoned in a cardboard box on the roadside somewhere in Japan. Kyattsuyama pretends not to see the cat, and continues to do so for an entire year. Surprisingly, no one has shown up to try to save the cat, so Kyattsuyama finally decides to pick the cat up — however, by then, there are now three Russian Blue cats instead of just one. Kyattsuyama asked the cats for their names, and they all said \"Kan-u.\" <br><br>\r\nThe anime shorts are inspired by Kaoru Curry-zawa's \"Kremlin\" cat gag comedy manga.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 5,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 374,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 104567,
+          "title": {
+            "userPreferred": "Amakage"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104567-CYxjz8VUwLc7.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104567-CYxjz8VUwLc7.jpg",
+            "color": "#a1c943"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 5,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 5,
+            "day": 5
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104567-mcORURGYTtsX.jpg",
+          "season": null,
+          "description": "Small creatures live in our world, their perspective of rain makes it seem as if the droplets are the size of cars. Follow along as one takes a bus ride.\n",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 127,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 104489,
+          "title": {
+            "userPreferred": "Kaijuu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx104489-FNqVDF9ZuzSD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104489-FNqVDF9ZuzSD.jpg",
+            "color": "#e4f1a1"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 2,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 2,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Official music video for Kaisoku Tokyo's song Kaijuu also released on their \"music station\" album. The video style is a homage to older Kaijuu films.\n",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 122,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 14563,
+          "title": {
+            "userPreferred": "Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14563.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14563.jpg",
+            "color": "#f1ae50"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 7,
+            "day": 31
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 11,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Original anime that aims to teach English with cute girl characters. ",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 1351,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 805,
+                  "name": "AIC Frontier"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 13835,
+          "title": {
+            "userPreferred": "Marimo no Hana: Saikyou Butouha Shougakusei Densetsu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13835.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13835.jpg",
+            "color": "#e4d635"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 3,
+            "day": 18
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 3,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The story of the manga centers around Marimo Nogami, a usually quiet fourth-grade girl in elementary school. However, a certain incident leads to Marimo's personal strength blossoming. <br><br>\n(Source: Anime News Network) ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 733,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103496,
+          "title": {
+            "userPreferred": "Celebration and Chorale"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103496-45PyTLRxzmh9.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103496-45PyTLRxzmh9.jpg",
+            "color": "#fee40d"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2012,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Yukie Nakauchi's musical work using principal percussionist Niel DePonte's \"Celebration and Chorale\". Yuuki Matsumura was the arranger for the piece.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 110,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 122534,
+          "title": {
+            "userPreferred": "Gift nor Art"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122534-QonZpOxhmMAD.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122534-QonZpOxhmMAD.png",
+            "color": "#1ad6ae"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 11,
+            "day": 28
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 11,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the song Gift nor Art by Tripshots, featuring Hatsune Miku.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 119,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 15749,
+          "title": {
+            "userPreferred": "Chiisana Oji-san"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15749.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15749.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 10,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2014,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "This is the story of the main character living together with a mysterious mini middle-aged man. ",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 30,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 170,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 432,
+                  "name": "Kachidoki Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 114919,
+          "title": {
+            "userPreferred": "Megumi to Taiyou II: Kajuu Gummi Tweet Mystery - Kieta Sapphire Roman no Nazo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114919-OOlonlFNbWlE.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114919-OOlonlFNbWlE.png",
+            "color": "#f1c900"
+          },
+          "startDate": {
+            "year": 2012,
+            "month": 2,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2012,
+            "month": 3,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The \"Megumi and Taiyou II\" commercial centers on the mystery of Taiyou's missing \"Sapphire Roman\"—a seedling for grapes of \"legendary\" taste.<br><br>(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 305,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 569,
+                  "name": "MAPPA"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2344 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 660,
+        "perPage": 50,
+        "currentPage": 9,
+        "lastPage": 14,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 112005,
+          "title": {
+            "userPreferred": "Iro wo Kuu Akuma"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112005-N8MnTA0cnfBx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112005-N8MnTA0cnfBx.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 8,
+            "day": 24
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 8,
+            "day": 24
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112005-82S9rxXey4lQ.jpg",
+          "season": null,
+          "description": "Promotion Video from Adobe Creative Cloud for their software suite. The animation is a collab-work by various Japanese experimental animators.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 208,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103446,
+          "title": {
+            "userPreferred": "Such a Good Place to Die"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103446-2RfNTv2VcqQ2.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103446-2RfNTv2VcqQ2.jpg",
+            "color": "#e47850"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A short film by Onohana.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 158,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 99843,
+          "title": {
+            "userPreferred": "Tong Zhi Zhe"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99843-T4rxvZxiJuAb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99843-T4rxvZxiJuAb.jpg",
+            "color": "#d6931a"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 31
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 17
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n99843-D0wgdMH7niTE.jpg",
+          "season": null,
+          "description": "A Jack of All Trades is a person who can competently do all kinds of jobs. The loser Zhang Dabao is a professional Jack of All Trades, but his living conditions are, shall we say, less than satisfactory. One day, a beautiful woman who is being harassed by a pervert approaches him for help. He accepts, and soon embarks on a mission like nothing the world has seen before.\n",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 10,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Horror"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 280,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 98968,
+          "title": {
+            "userPreferred": "Hane (2016)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98968-ch8b5MT5lDin.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98968-ch8b5MT5lDin.jpg",
+            "color": "#43a1e4"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Official music video for Koushi Inaba's 5th single Hane. The video features a girl running through a desolate city with occasional cuts to the singer in the studio.\n",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 145,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21205,
+          "title": {
+            "userPreferred": "Suzakinishi: The Animation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21205-3NLbbrp7IKJy.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21205-3NLbbrp7IKJy.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 9,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Voice actresses Aya Suzaki and Asuka Nishi announced at an event in Tokyo on Sunday that their SuzakiNishi radio program will get a television anime adaptation starting in July.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 1249,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 91,
+                  "name": "feel."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 102168,
+          "title": {
+            "userPreferred": "Fushigi na Somera-chan Special"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102168-PsKZfEeI0zol.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102168-PsKZfEeI0zol.jpg",
+            "color": "#e45d93"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Unaired episode included in BD/DVD sets.\n",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 286,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 541,
+                  "name": "Seven"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 98223,
+          "title": {
+            "userPreferred": "Pikaia!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98223-T09iLPk3fkxh.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98223-T09iLPk3fkxh.jpg",
+            "color": "#e45d78"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 4,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The story begins in the future when Earth itself is no longer inhabitable by living creatures. Humans began their interstellar migration with space colonies. Vince and Hana work as researchers in the Cambrian Project. Together with the creature Pikaia, they seek the Lost Code, the key to restoring Earth, and aim to return to Cambrian-era Earth.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 379,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 10,
+                  "name": "Production I.G"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 28,
+                  "name": "OLM"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21070,
+          "title": {
+            "userPreferred": "Happy ComeCome"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21070-cJJKAoeP0BOZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21070-cJJKAoeP0BOZ.jpg",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Hiroshi is tired of living alone so he orders a maid robot from a company called Happy Come Come, but ends up with the robot mom Yoshiko instead. Yoshiko acts more motherly than Hiroshi's real mother, and over time she is able to heal his heart.\n<br><br>\n(Source: Anime News Network)\n<br>\n<br>\nProject by SynergySP announced to be part of Anime Mirai 2015.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 415,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 118,
+                  "name": "SynergySP"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21028,
+          "title": {
+            "userPreferred": "Sushi and Beyond"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21028-RPVYPCJoz9W0.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21028-RPVYPCJoz9W0.jpg",
+            "color": "#f1500d"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 4,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 10,
+            "day": 11
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Inspired by a book on Japanese cuisine written by British food writer Michael Booth, this family oriented foodie anime runs the gamut from chanko to yakisoba, and almost everything in between. Booth becomes obsessed with Japanese cuisine after reading about it, so he and his wife and their two young boys travel the length of Japan over three months, devouring everything in their way. If you're curious about okonomiyaki, or fearful of natto, you'll definitely enjoy this fun, light-hearted trans-national food voyage!\n<br>\n<br>\n(Source: Viewster)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 316,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 866,
+                  "name": "Fanworks"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 102103,
+          "title": {
+            "userPreferred": "Usavich Zero"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102103-Qv9oyzizokgc.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102103-Qv9oyzizokgc.jpg",
+            "color": "#86e4e4"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 4,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 8,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Prequel to the Usavich first season.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 332,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 330,
+                  "name": "Kanaban Graphics"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21347,
+          "title": {
+            "userPreferred": "Peeping Life TV Season 1??"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21347-k7YYaTrbJOG8.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21347-k7YYaTrbJOG8.jpg",
+            "color": "#e49386"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 10,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Slice of life comedy about pitfalls of Japanese society.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 712,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 291,
+                  "name": "CoMix Wave"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21387,
+          "title": {
+            "userPreferred": "BIKINI WARRIORS: Genkai Toppa, Okite-Yaburi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21387-YKqvvla5oW8Y.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21387-YKqvvla5oW8Y.jpg",
+            "color": "#e4bb5d"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "According to the official Hobby Japan website, an unaired episode of Bikini Warriors will be bundled with the Blu-ray volume to be released on December 9th, 2015.<br>\n<br>\n(Source: Hobby Japan)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 3367,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 91,
+                  "name": "feel."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104471,
+          "title": {
+            "userPreferred": "Hakimono to Kasa no Monogatari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104471-VIs6C6YMP5IX.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104471-VIs6C6YMP5IX.jpg",
+            "color": "#d6ae78"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 2,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 2,
+            "day": 1
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104471-1tZCQmmdakEB.jpg",
+          "season": null,
+          "description": "A music video for the song by AKB48 that was featured on NHK's Minna no Uta Program.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 110,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21223,
+          "title": {
+            "userPreferred": "Kurayami Santa"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21223-wl0B0KxJwzib.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21223-wl0B0KxJwzib.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 9,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21223-jfFW7yO0gO56.jpg",
+          "season": "SUMMER",
+          "description": "Kurayami Santa is set in 1960s Kyushu. The show centers around Santa, a familiar from hell who is charged with maintaining the border between hell and the human world. Santa's mission has him crossing paths with many humans and supernatural creatures.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 702,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6078,
+                  "name": "ILCA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104096,
+          "title": {
+            "userPreferred": "The One that Heads to Tomorrow"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104096-ckjPWsSgBnsg.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104096-ckjPWsSgBnsg.jpg",
+            "color": "#c9e4f1"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 4,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 4,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video for \"Ashita e Mukau Hito\" by Yoshiko Hanzaki.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 158,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102444,
+          "title": {
+            "userPreferred": "7-kakan."
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102444-7aOfH21ZsM03.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102444-7aOfH21ZsM03.jpg",
+            "color": "#e48635"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video directed and animated by Ryuusee for the song <i>7-kakan</i> by saji (previously known as phatmans after school).",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 228,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21433,
+          "title": {
+            "userPreferred": "Urawa no Usagi-chan Mihousou-banashi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21433-SqRADRmWb7DM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21433-SqRADRmWb7DM.jpg",
+            "color": "#e44393"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 10,
+            "day": 16
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 10,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Unaired episode included in Blu-ray and DVD sets.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 561,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6165,
+                  "name": "A-Real"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 20712,
+          "title": {
+            "userPreferred": "Lance N' Masques"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20712-bDoYMRMf45dl.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20712-bDoYMRMf45dl.png",
+            "color": "#ffc943"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 10,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 18
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20712-xo6ZLFuX3XYO.png",
+          "season": "FALL",
+          "description": "Yotaro Hanafusa is a descendent of the “Knights of the World.” With the Knight’s Code of Chivalry hammered into him since childhood, Yotaro cannot stop himself from saving damsels in distress. He wears a mask, and is known on the street as “Knight Lancer” but he has always kept his identity a secret. While on an outing, Yotaro saves a 6-year-old girl, Makio Kidoin, the only child of a powerful business tycoon. When Yotaro discovers that Makio leads a lonely life in a huge estate, he resolves to protect her. He and his friends disguise themselves as lodgers and move into her mansion.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 8345,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 418,
+                  "name": "Studio Gokumi"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104431,
+          "title": {
+            "userPreferred": "Templex"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx104431-cmFTyciYwvsj.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104431-cmFTyciYwvsj.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 29
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104431-X551yz9n13AS.jpg",
+          "season": null,
+          "description": "One morning in the rainy season.A woman with curly hair wakes up.Phantasmagorical images of self-hatred come to her one after another.\n<br><br>\n 1st year work 2015 by Tomomi Komazaki, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source: Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 116,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 126757,
+          "title": {
+            "userPreferred": "Hot Minute: Gudetama"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126757-GAeYMh869WFZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126757-GAeYMh869WFZ.jpg",
+            "color": "#ffbb43"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 11,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 11,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Gudetama the lazy egg is being interviewed for Hot Topic's Hot Minute series.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 113,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21024,
+          "title": {
+            "userPreferred": "Duel Masters VSR"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21024-aBiY4s170BNe.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21024-aBiY4s170BNe.jpg",
+            "color": "#e48650"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 4,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The 11th Duel Masters series.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 51,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 310,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 473,
+                  "name": "Ascension"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 106456,
+          "title": {
+            "userPreferred": "Military! Tamatama Shoumetsu Suru Shiroki Hikari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106456-93IoW7FSBox1.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106456-93IoW7FSBox1.jpg",
+            "color": "#5dbbf1"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 20
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Episode 13 included with the Blu-ray/DVD release.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 824,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6072,
+                  "name": "Creators in Pack"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 102164,
+          "title": {
+            "userPreferred": "Mang Huang Ji"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102164-teL3jOl5paX0.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102164-teL3jOl5paX0.png",
+            "color": "#c9e4f1"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 8,
+            "day": 8
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Fate had never been kind to Ji Ning. Wracked by illnesses and infirm his entire life on Earth, Ning knew early on that he would die as a teenager. What he didn’t know was that there really was such a thing as life after death, and that the universe was a far larger place than he thought. A lucky twist of fate (one of the few in Ning’s life) meant that Ning was reborn into a world of Immortals and monsters, of Ki Refiners and powerful Fiendgods, a world where Dynasties lasted for millions of years. A world which is both greater and yet also smaller than he ever could imagine. He would have the opportunity to join them, and in this life, Ning swore to himself, he would never let himself be weak again! The Era he was born into was a Desolate one, but Ning would make it his era.\n<br><br>\n(Source: Novel Update)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 19,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 248,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 123078,
+          "title": {
+            "userPreferred": "Animegatari x Shingeki no Kyojin Collab Eizou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123078-NnFwfTJRTMYA.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123078-NnFwfTJRTMYA.png",
+            "color": "#f1d6c9"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 11
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/123078-9odRkik3zad1.jpg",
+          "season": null,
+          "description": "A collaboration work between Animegatari and Attack on Titan to promote the movie Attack on Titan Part II: Wings of Freedom.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 481,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6258,
+                  "name": "W-Toon Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21224,
+          "title": {
+            "userPreferred": "Kowabon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21224-ZXxyVi9Ur7lo.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21224-ZXxyVi9Ur7lo.jpg",
+            "color": "#50aee4"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 10,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21224-RJYgu9dgRkCr.jpg",
+          "season": "FALL",
+          "description": "In today's world full of wondrous technological innovation, the unnatural and mysterious sometimes appear even more horrifying than usual. But despite how far society has advanced, the fear of the unknown always remains. The unfortunate participants in Kowabon find themselves in such a predicament, experiencing the supernatural through their everyday technology. From a frightening sight caught on a parking garage camera to a video chat that takes an unexpected turn, the victims struggle to escape that which haunts them. However, what awaits these doomed souls may be a fate even worse than death.\n<br><br>\n(Source: MAL Rewrite)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 6210,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6078,
+                  "name": "ILCA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 99845,
+          "title": {
+            "userPreferred": "Gui Shui Yiyun"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99845-wkffiZ4OE5DB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99845-wkffiZ4OE5DB.jpg",
+            "color": "#285d86"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 16
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A villa, involved in strange circumstances in the 1990s, is bulldozed and new homes are built on top. The ostensibly peaceful town and its inhabitants will soon have its cover blown wide open. Mysterious forces are at play, rooted in a disturbing truth.\n",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror",
+            "Mystery",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 216,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20873,
+          "title": {
+            "userPreferred": "Doamayger-D"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20873.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20873.jpg",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 1,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 30
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n20873-KZZGxnmHIdmI.jpg",
+          "season": "WINTER",
+          "description": "The Doamaiger D anime will center around Daijirou Kyougoku, the 15th generation owner of the Kyoto sweets shop Amashoudou. One day, Daijirou discovers a giant robot named Doamaiger D in his store's basement. At the same time, enemies called \"Mekaijuu\" (a combination of the words mecha and kaijuu or monster) appear in Kyoto and begin wreaking havoc.\n<br><br>\nThis retro-style throwback is a romping adventure with a sweet setting! In a traditional Japanese sweets shop in Kyoto works Daijiro Kyogoku, the latest young successor in a long line of sweet shop owners. One day, Daijiro finds a giant robot in the shop’s basement called Doamygar-D. Now, villanous robots are on the loose, and the hero we need is Doamygar-D…a candy-making mech? \n<br><br>(Source: Funimation)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 597,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6078,
+                  "name": "ILCA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 126756,
+          "title": {
+            "userPreferred": "Desktop Cinderella feat. Hatsune Miku"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126756-lSvJW2Spidoi.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126756-lSvJW2Spidoi.png",
+            "color": "#5d5de4"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 8,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 8,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "MMD music video for the title track Desktop Cinderella feat. Hatsune Miku by Hachioji-P. It was included on DVD with the release of his fourth studio album on September 2, 2015.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 127,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102612,
+          "title": {
+            "userPreferred": "Hizumu Realism"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102612-OH84YNQiJJny.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102612-OH84YNQiJJny.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 8,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 8,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video for \"Hizumu Realism,\" a song by A Crow is White.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 167,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103443,
+          "title": {
+            "userPreferred": "Everyday Affair"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103443-vpvIzWxImTLE.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103443-vpvIzWxImTLE.png",
+            "color": "#5dd6e4"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 28
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "An official music video for the song Everyday Affair from the [MARU-151] in the blue shirt - Cyanotype release by the band \"in the blue shirt\".",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 98,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102720,
+          "title": {
+            "userPreferred": "Marine Dreamin'"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102720-4BMqf1aij2hf.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102720-4BMqf1aij2hf.jpg",
+            "color": "#1a506b"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 4,
+            "day": 24
+          },
+          "endDate": {
+            "year": 2017,
+            "month": 4,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video for the song \"Marine Dreamin'\", a part of the iMarine project which stars Umi Monogatari's Marin.<br>\nThe entry includes the 2017 version, with a new animation.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 236,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 99217,
+          "title": {
+            "userPreferred": "Taiko no Tatsujin: 15 Shuunenkinen Short Animation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99217-KFlY8ZdhTOvV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99217-KFlY8ZdhTOvV.jpg",
+            "color": "#f1bb86"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 6,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 6,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Toshio Suzuki and Studio Ghibli produced the short to commemorate the 15th anniversary of the Taiko no Tatsujin (Taiko: Drum Master) rhythm game series. The short features Taiko no Tatsujin characters Don-chan and Kacchan, as well as an original mouse character. The short will also be broadcast as a TV ad later.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 530,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 21,
+                  "name": "Studio Ghibli"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 116195,
+          "title": {
+            "userPreferred": "Green Dakara x Bakemono no Ko"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116195-3Mhd5cw9nyrF.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116195-3Mhd5cw9nyrF.png",
+            "color": "#f1c943"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 6,
+            "day": 24
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 11
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Two crossover commercials between Hosoda's movie \"Bakemono no Ko\" and SUNTORY's drink brand, Green Da-Ka-Ra.\n<br><br>\nThe CMs are titled \"Sashiire\" and \"Market\".\n",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 525,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 555,
+                  "name": "Studio Chizu"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21882,
+          "title": {
+            "userPreferred": "Nekota no Koto ga Kininatte Shikatanai."
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21882-SXqC5iVkYQ1C.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21882-SXqC5iVkYQ1C.jpg",
+            "color": "#fff143"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "An anime adaptation of the Nekota no Koto ga Kininatte Shikatanai. manga screened at the Ribon Festa 2015 event.\n\nA girl named Mikiko sees the face of a popular boy in her class as a cat's face.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 295,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103464,
+          "title": {
+            "userPreferred": "1/100 Shibuya Crossing"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103464-fh447SoAQ0tk.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103464-fh447SoAQ0tk.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 6,
+            "day": 28
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 6,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A stop-motion animation of the world’s most famous intersection in front of Shibuya Station, created with the TERADAMOKEI 1/100 Architectural Model Accessories Series set. Watch 1,000 TERADAMOKEI characters (Genki-kun) flood the Shibuya scramble crossing en masse.  \n<br><br>\n(Source: Teradamokei)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 257,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 101248,
+          "title": {
+            "userPreferred": "Kataribe Shoujo Honoka"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101248-EeexAPkpKcSY.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101248-EeexAPkpKcSY.jpg",
+            "color": "#5dbbf1"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 31
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 31
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Kataribe Shoujo Honoka is an original animation to promote the city of Tono in Iwate Prefecture, Japan.\n",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 11,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 234,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 475,
+                  "name": "Ishikawa Pro"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21086,
+          "title": {
+            "userPreferred": "Venus Project -Climax-"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21086-cpTiZ8k98K0i.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21086-cpTiZ8k98K0i.jpg",
+            "color": "#e48650"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 9,
+            "day": 20
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21086-84fo8shJSAUB.jpg",
+          "season": "SUMMER",
+          "description": "Venus Project tells the story of idols living in Japan in the near future. In this world, data devices and video technology have been progressing to new heights, and people are abuzz about a new form of entertainment — Formula Venus. In Formula Venus or \"F-V,\" the chosen top idols battle in live performances with their willpower, skills, and all their experience gained.<br>\n<br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 1576,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 70,
+                  "name": "Nomad"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 123077,
+          "title": {
+            "userPreferred": "Animegatari x Koukaku Kidoutai Collab Eizou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123077-nqWcO4tlMBMX.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123077-nqWcO4tlMBMX.png",
+            "color": "#e4ae43"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 6,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 6,
+            "day": 12
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/123077-bam7TWJKfI2V.jpg",
+          "season": null,
+          "description": "A collaboration work between Animegatari and the Ghost in the Shell to promote the movie Ghost in the Shell: The New Movie.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 220,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6258,
+                  "name": "W-Toon Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 102513,
+          "title": {
+            "userPreferred": "Homé-Pato the Movie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102513-3zi05LIIJrhF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102513-3zi05LIIJrhF.jpg",
+            "color": "#5dbbe4"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 5,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 5,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The scene is set in future Tokyo.<br>\nWhat if there was a police car that praises drivers?\n<br><br>\n\"Instead of punishing bad driving, let's reward good driving\" is the motto. The project is aimed to decrease car accidents on the metropolitan expressway. It is an animation that illustrates the dream of a Tokyo Smart Driver.\n<br><br>\nThe person driving the car is an ordinary man.<br>\nHe's zooming by while listening to his favorite driving song when he suddenly sees a pink car approaching him in the rearview mirror.\n<br><br>\nWhat will be this man's destiny?\n<br><br>\n*This animation is fictitious. Please obey the rules of the road. \n<br><br>\n(Source: Official Youtube Page)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 145,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21192,
+          "title": {
+            "userPreferred": "Bikini Warriors"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21192-ruq1rScmb9fv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21192-ruq1rScmb9fv.jpg",
+            "color": "#e49328"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 9,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Set in a an RPG-style world with swords and magic where adventurers form a party to challenge the demon king's right to rule, adventurers all have beautiful breasts, enormous breasts, and bikini armor!!\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 13317,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 91,
+                  "name": "feel."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104162,
+          "title": {
+            "userPreferred": "Air Bound"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104162-QZtzuccDKfpL.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104162-QZtzuccDKfpL.jpg",
+            "color": "#e4ae5d"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 10,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 10,
+            "day": 10
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104162-uLF9pA7Cxf8p.jpg",
+          "season": "FALL",
+          "description": "Gamba, a town mouse with a brave, adventurous spirit decides to go on an adventure to discover the ocean. On his way, he meets a troubled child mouse, Chuta. He says his family and other mice have been killed by a clan of weasels living on a nearby island. Chuta asks a group of ship mice, the bravest of their kind, for help, but when they find out that the villain behind this event is the terrifying weasel-leader Noroi, they give up on helping Chuta. However seeing the hopeless Chuta, Gamba promises him to save the island, his family and the other mice. Gamba and his friends team up to go on their adventure to defeat the evil Noroi and his clan.\n<br><br>\n(Source: Varèse Sarabande)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 94,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 172,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102379,
+          "title": {
+            "userPreferred": "Pride"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102379-R0hyzlrQnIfN.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102379-R0hyzlrQnIfN.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 10,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 10,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "An Isuzu (truck company) commissioned short from Tekken about a freight truck driver who takes pride in his work.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 128,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 114469,
+          "title": {
+            "userPreferred": "Fast Week"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114469-lb99F2yFbrzW.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114469-lb99F2yFbrzW.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 2,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 2,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The genesis of fast food.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 108,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103470,
+          "title": {
+            "userPreferred": "Project HAL"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103470-pYVR31YnylSa.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103470-pYVR31YnylSa.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 5,
+            "day": 31
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Students in the Tokyo, Osaka and Nagoya branches of HAL College of Technology and Design under supervision and sponsorship by professional mecha designer Takayuki Yanase along with other industry professionals, created a series of 3 web movies to act as commercials.\n<br><br>\nThe three teams—each consisting of 16 members including animators, artists and effect technicians—are working on their own advertisements to display the talent of the students and the subjects one can learn through attending HAL such as game design, anime development and even car design. Each team is drawing from the same design and story to create their own unique commercials. Initially all 3 branches released a 16-sec. CM before each completing the full 39-sec. Web Movie.\n<br><br>\nMusic for each creation is provided by J-rock band MY FIRST STORY.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 149,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102443,
+          "title": {
+            "userPreferred": "Fr/day Night"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102443-pSUmakjM78KM.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102443-pSUmakjM78KM.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 7,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video by Sou Ootsuki for the Phatmans After School song \"Fr/day Night\".",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 210,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20974,
+          "title": {
+            "userPreferred": "Q Transformers: Kaettekita Convoy no Nazo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20974-QnoL4uNMYLrm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20974-QnoL4uNMYLrm.jpg",
+            "color": "#501aff"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 1,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 31
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "A flash anime based on the 1986 Famicom (Nintendo Entertainment System) game.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 316,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 276,
+                  "name": "DLE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 106546,
+          "title": {
+            "userPreferred": "Tsukiyo to Opal"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106546-COX1b6XdugBb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx106546-COX1b6XdugBb.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 7
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106546-DHcmPc1mQ8Hl.jpg",
+          "season": null,
+          "description": "Half asleep with my eyes closed, my conscience flies beyond time and space and I transform myself to all the life forms existing. I become the universe and the universe becomes me, until I fall asleep.... It is a song to pray for the existence of heart and soul at an awakening. <br>\n<br>\n Graduate Work 2015 by ShiShi Yamazaki, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. <br>\n<br>\n(Source: Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 44,
+          "popularity": 112,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21336,
+          "title": {
+            "userPreferred": "Hantsu x Trash"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21336-34XQzzDs4mA6.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21336-34XQzzDs4mA6.jpg",
+            "color": "#5dc9e4"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 10,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 11,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Hamaji Youhei, a high school freshman, lives his life aimlessly, lazing around all day. He can't keep up with his studies, no good at sports and won't stick with anything for long. Besides that he's a pervert who's continuously rejected by girls. A sophomore convinces him into joining a club where he could lunge at girls, fondling and touching all he wanted. Thus he joined the Water Polo Club.<br>\n<br>\nCan Youhei, who never sticks with anything for long, find his place in this club?",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 14,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 44,
+          "popularity": 3949,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 346,
+                  "name": "Hoods Entertainment"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 103505,
+          "title": {
+            "userPreferred": "Sugio: Mori de Koi wo Shite"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103505-R28gsFnxGtLC.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103505-R28gsFnxGtLC.jpg",
+            "color": "#1abbe4"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 9,
+            "day": 27
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 9,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The shorts follow a cedar tree named Cedric, who falls in love with a human woman. In order to remain with her, he hopes that she will use him to build her home.\n",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 44,
+          "popularity": 112,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20788,
+          "title": {
+            "userPreferred": "Master of Torque 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20788-9l6FKO5BNekJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20788-9l6FKO5BNekJ.jpg",
+            "color": "#e46b28"
+          },
+          "startDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 27
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Makina lost consciousness when the Marishi Machina suit developed by the Hyuga Corporation seized control of her body and sent her charging onto the new Shutoko expressway on an MT-07. Luckily, Dan was able to stop her before it was too late. With Makina on the back of his MT-09 Street Rally, Dan began riding back towards the Genesis Café only to be intercepted by Hyuga Corporation chairman Mitsukuni Hyuga. He was waiting for them with an unsettling expression on his face.<br>\n<br>\nDan was sure that he would be forced to resign his job for getting the heir to the company’s presidency, Kotaro Hyuga, involved in this mess. But when Makina confronts Mitsukuni about the truth behind the incident that claimed their parents’ lives, Dan is given an order he would never have expected.<br>\n<br>\nDan keeps trying to avoid facing the trauma he experienced as a child, but is encouraged to find the truth by Makina. Sanae, the owner of the Genesis Café, seems to notice their troubled state and takes matters into her own hands.<br>\n<br>\nCan Dan face his past and free himself of the curse he has borne and reclaim his future with his own hands?<br>\n<br>\nThe interlocked gears of fate driving the destinies Dan, Makina and Kotaro begin to move again, and the next part of their story is about to unfold...<br>\n<br>\n(Source: global.yamaha-motor.com/showroom/mt/story)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Sci-Fi",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 44,
+          "popularity": 224,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

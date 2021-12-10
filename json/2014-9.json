@@ -1,0 +1,2327 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 694,
+        "perPage": 50,
+        "currentPage": 9,
+        "lastPage": 14,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 20516,
+          "title": {
+            "userPreferred": "Go! Go! 575"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20516.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20516.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 1,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 1,
+            "day": 31
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Go! Go! 575 adapts the Project 575 games for PlayStation Vita and iOS, which allow anyone to create songs using the traditional Japanese 5-7-5-syllable meter found in haiku and tanka poems.\r\n\r\n\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 53,
+          "popularity": 2841,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6075,
+                  "name": "Lay-duce"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 103323,
+          "title": {
+            "userPreferred": "Legend of the Forest: 2nd Movement"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103323-VyMOYXmc1gWL.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103323-VyMOYXmc1gWL.jpg",
+            "color": "#50e4bb"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2014,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Sequel of Mori no Densetsu",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 11,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 151,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 108972,
+          "title": {
+            "userPreferred": "Space☆Dandy 2 Picture Drama"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108972-MbgCJ7HVGoy5.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108972-MbgCJ7HVGoy5.jpg",
+            "color": "#e4a11a"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 7,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 1,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Picture drama episodes included on the Blu-ray/DVD volume eight, nine, and ten.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 475,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 4,
+                  "name": "bones"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 102337,
+          "title": {
+            "userPreferred": "Hacka Doll"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102337-mf8hAQvCh3Fl.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102337-mf8hAQvCh3Fl.jpg",
+            "color": "#f14393"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 9,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 9,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "In the year 2xxx, development of information are going so fast, humans being are drowning in the sea information. This leads to a situation where people can not find the necessary information. The only hope to solve this problem is the navigator program, Hacka Doll.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 1497,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 803,
+                  "name": "Trigger"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 20648,
+          "title": {
+            "userPreferred": "SHONEN HOLLYWOOD -HOLLY STAGE FOR 49-"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20648-8t7bwVjNj2lV.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20648-8t7bwVjNj2lV.png",
+            "color": "#50aef1"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 7,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 9,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20648-OyY7WhECdUeM.jpg",
+          "season": "SUMMER",
+          "description": "The anime will tell an original story set 15 years after the novel's story. It takes place at a fictional theater called Hollywood Tokyo in Harajuku, where members of the idol group \"Shonen Hollywood\" develop their talents with diligent work and studying. \n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 2357,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 218,
+                  "name": "ZEXCS"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 115143,
+          "title": {
+            "userPreferred": "The Slowpoke Song"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115143-Gk63qccauq2C.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115143-Gk63qccauq2C.png",
+            "color": "#35c9e4"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 8,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 8,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A song made for the Yadon Paradise, a site made in celebration of Slowpoke Day on August 10, 2014.\n<br><br>\nThe first song created for the Pokémon Daisuki Club.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 339,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20530,
+          "title": {
+            "userPreferred": "Magica Wars"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20530.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20530.jpg",
+            "color": "#f1c950"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 9,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Mahou Shoujo Taisen is a project that was created for a variety show for Otaku 2.5 Dimension TV. The characters are the magical girls, each representing local towns in Japan.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 3662,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6,
+                  "name": "Gainax"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 107917,
+          "title": {
+            "userPreferred": "Ane Log: Moyako Neesan no Honpen wo Tobidashite Tomaranai Monologue"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107917-pKi1tYud0xQr.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107917-pKi1tYud0xQr.jpg",
+            "color": "#5daee4"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 18
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "When Konoe Moyako and her little brother, Akira, were young, he said he wanted to marry her. Naturally, Moyako decided that her little brother was a complete pervert who was obsessed with her. Now that they're both teenagers, Moyako is convinced she needs to 'rehabilitate' him. However, it seems that the 'perversion' is entirely in her imagination, and she can't seem to help turning completely innocent situations into creepy ones in her mind! \n\nShort flash episodes included on the Ane Log Fan Disc.\n",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 1559,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21834,
+          "title": {
+            "userPreferred": "OVA Twin Angel: Twinkle Paradise"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21834-PscJUiqsPMuY.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21834-PscJUiqsPMuY.jpg",
+            "color": "#aef150"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 12,
+            "day": 28
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 12,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A limited edition Blu-ray package was distributed during Comic Market 87. It was then made available as a regular retail purchase on January 30, 2015.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 405,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 118043,
+          "title": {
+            "userPreferred": "Gakuen Handsome: Legend of Sexy"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118043-ZpCmdZ5qmVvJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118043-ZpCmdZ5qmVvJ.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 2,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 2,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Two music videos for the songs \"Legend of Sexy\" and \"Kagami no Naka no ME\", sung by Sakuya Mitsurugi from the Gakuen Handsome franchise.\n\nThe music videos were bundled with the \"Legend of Sexy\" character CD. Short versions were previewed on YouTube.\n",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 404,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20584,
+          "title": {
+            "userPreferred": "Sugar＊Soldier"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20584-ZWjzDGOMWQvh.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20584-ZWjzDGOMWQvh.jpg",
+            "color": "#e4a15d"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 1,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 1,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Makoto is determined to step out of her model sister's shadow and have her own high school debut, but when Makoto's sister shows up at her school unexpectedly things go awry.\n",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 2039,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20836,
+          "title": {
+            "userPreferred": "Blade & Soul Specials"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20836.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20836.jpg",
+            "color": "#1a86f1"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 6,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 12,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Short specials included in the Blade and Soul Blu-rays and DVDs.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 7,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 1285,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 3,
+                  "name": "GONZO"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 103317,
+          "title": {
+            "userPreferred": "The Nighthawk Star"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103317-4LTyiA9iBbLb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103317-4LTyiA9iBbLb.jpg",
+            "color": "#bbd6f1"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 10,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 10,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for Sound Horizon's song \"Yodaka no Hoshi\" which was bundled with the limited edition release of their single \"Vanishing Starlight\".",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 234,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102009,
+          "title": {
+            "userPreferred": "It Girl"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102009-zD669VsH5djR.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102009-zD669VsH5djR.jpg",
+            "color": "#78e428"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 9,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 9,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video for Pharell William's hit song of the same name. Parodies lots of parts of  Japanese pop culture such as dating sims and other video games.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 732,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102563,
+          "title": {
+            "userPreferred": "Through the Windows"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102563-m7wi38uUhWvy.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102563-m7wi38uUhWvy.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2014,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2014,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102563-QUJxQ15e0afn.jpg",
+          "season": null,
+          "description": "The gaze of a woman from a window to windows leads to a recollection of the various scenes. The metamorphosed windows transfer, expand, reflect, conserve, and sometimes shine like a lighthouse. \n<br><br>\n1st year work 2014, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 254,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20585,
+          "title": {
+            "userPreferred": "Romantica Clock"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20585.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20585.jpg",
+            "color": "#e4861a"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 2,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 2,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Akane: She's beautiful and popular, lively and full of vitality; Aoi: Looks like a small animal but is actually very clever. Who knew that these two very different people were actually... twin siblings?!\n",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 2302,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20959,
+          "title": {
+            "userPreferred": "Go! Go! 575: Meippai ni, Hajiketeru?"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20959.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20959.jpg",
+            "color": "#f1e45d"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 10,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 10,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Special episode introducing a new character.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 871,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 167,
+                  "name": "Sega Games"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104386,
+          "title": {
+            "userPreferred": "Larva in New York"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx104386-0mxt0DNbxdCL.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104386-0mxt0DNbxdCL.jpg",
+            "color": "#f1c935"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 8,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 11,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Now it's the New York City. Watch Red and Yellow’s incredible abilities while they explore the city. A whole new adventure in a bigger scale!\n<br><br>\n(Source: Official Website)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 104,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 219,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 107188,
+          "title": {
+            "userPreferred": "Shin Kidou Senki Gundam W: Frozen Teardrop Picture Drama - Tsuginaru Tatakai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107188-8FnkBJrUDSs0.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107188-8FnkBJrUDSs0.jpg",
+            "color": "#865028"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 1,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 1,
+            "day": 29
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n107188-w5HFItgr8UMr.jpg",
+          "season": "WINTER",
+          "description": "Special included in the second of two remastered Gundam Wing Blu-ray boxes based on the novel series Gundam Wing: Frozen Teardrop.\n\n\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 17,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 484,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 103314,
+          "title": {
+            "userPreferred": "Tooryanse"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103314-8sP0WleeOSsY.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103314-8sP0WleeOSsY.jpg",
+            "color": "#1aa1d6"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 1,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 1,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Another music video from Kousuke Sugimoto and Handsome Kenya. The title of the song comes from the name of an old children's tune sometimes played at crosswalks in Japan. After the tune plays, Handsome Kenya is pulled into a beautiful and strange world.\n",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 193,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20639,
+          "title": {
+            "userPreferred": "Roughneck Sumo Wrestler!! Matsutarou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20639-a0JDAtbmX00e.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20639-a0JDAtbmX00e.jpg",
+            "color": "#935d28"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 9,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Matsutarou Sakaguchi is a giant roughneck man with strength far beyond ordinary people. He never uttered words like \"work hard,\" \"strive,\" and \"dream\" like the typical shounen manga protagonist. However, he is stronger than anyone and peerless in sumo wrestling. His greatest weakness is his own carefree personality. He grows into a full-fledged sumo wrestler.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 23,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 1574,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 98552,
+          "title": {
+            "userPreferred": "World Fool News (TV)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98552-mDTjg41ouXjb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98552-mDTjg41ouXjb.jpg",
+            "color": "#f1a128"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 17
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 7,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Takahashi is transferred to a main anchor of a news program, which is known for being a little...weird. This is a comedy about somewhat ridiculous happenings occurring at a broadcasting station.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 279,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20653,
+          "title": {
+            "userPreferred": "Nandaka Velonica"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20653-Gaqxbk65QFP6.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx20653-Gaqxbk65QFP6.png",
+            "color": "#43a1e4"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 3,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 3,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The children's anime revolves around Velonica, a high-handed and ultra-selfish little alien girl on the Galaxy Network, who begins to cause havoc on Earth. After a “fated encounter” with an Earthling boy, Velonica wavers between a possible budding romance with the boy and her dedication to the arts.<br>\n<br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 10,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 437,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 126670,
+          "title": {
+            "userPreferred": "Carry Me Off"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126670-N7OuKspKFPjV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126670-N7OuKspKFPjV.jpg",
+            "color": "#e45dae"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 8,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 8,
+            "day": 21
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/126670-TJuxnS9xpCTP.jpg",
+          "season": null,
+          "description": "MMD music video for the song Carry Me Off feat. Hatsune Miku by Hachioji-P. It was included on DVD with the release of his third studio album \"Twinkle World\" on August 27, 2014.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 119,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 115955,
+          "title": {
+            "userPreferred": "K: Missing Kings - Manner Movie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115955-iVuV4X6uL4JP.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115955-iVuV4X6uL4JP.jpg",
+            "color": "#1a3578"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 7,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 7,
+            "day": 12
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/115955-13JNUwf1gKTa.jpg",
+          "season": null,
+          "description": "Cinema intro shown before the movie K: Missing Kings and included as a bonus with the Blu-ray/DVD release.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 605,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 104384,
+          "title": {
+            "userPreferred": "Forest this flower bloom"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b104384-BPoUT4EoynLS.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b104384-BPoUT4EoynLS.jpg",
+            "color": "#c9d6f1"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2014,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A horse puppet wanders into a silver world and pauses before an ethereal flower.\n\n(Source: CoolConnections)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 11,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 216,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20700,
+          "title": {
+            "userPreferred": "DRAGON COLLECTION"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20700.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20700.jpg",
+            "color": "#e48643"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Arata was just your normal high-schooler, until one day when things started to move. He gets entangled in a phone game called \"Dragon Collection.\" With his only redeeming quality being lucky, what can he do about conquering the World?<br>\r\n<br>\r\n(Source: Shoujo-Sense)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 51,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 802,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 28,
+                  "name": "OLM"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 99111,
+          "title": {
+            "userPreferred": "Meisou! Underworld"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99111-zPt7RDGSEAe0.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99111-zPt7RDGSEAe0.jpg",
+            "color": "#a12843"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Seita dies after dozing off behind the wheel and wakes up in the underworld. However, the prize that a demon extracts from him is part of his body.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Supernatural",
+            "Thriller"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 421,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 110954,
+          "title": {
+            "userPreferred": "Fight Ippatsu! Juuden-chan!! OVA"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110954-YiRMsZei7Y0o.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110954-YiRMsZei7Y0o.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 1,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 1,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "An OVA bundled with a limited-edition of the 10th and final volume of Fight Ippatsu! Juuden-chan!! manga.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 316,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 106562,
+          "title": {
+            "userPreferred": "The Closet"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx106562-ChD6J31NFKer.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx106562-ChD6J31NFKer.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2014,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2014,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A young girl takes it into her head that her mother is taken by her newly born sister. Out of jealousy she hides her baby sister in darkness. <br><br>\n1st year work 2014 by Satomi Maiya, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation. <br><br>",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 117,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21604,
+          "title": {
+            "userPreferred": "Elite Jack!!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21604-VDXN5BfHc2hz.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21604-VDXN5BfHc2hz.jpg",
+            "color": "#e4ae50"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 8,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 12,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The August issue of Shogakukan's Ciao magazine is announcing on Thursday that Meme Iwaoka's manga Elite Jack!! will get an anime adaptation. The anime will be on the Ciao Ciao TV bonus DVD that will be bundled with the September issue of the magazine on August 2.<br>\n<br>\nThe story is set at the elite Omega High School, where test results decide everything. The high-scorers in the student council, in particular the student council president, have a lot of authority. Yuria Aikawa comes to this school, and though she seems like an ordinary girl who loves fun things and her boyfriend Shuri, she's actually a super-genius who gets the top score on every test. She becomes student council president and tries to make school life more fun in various ways.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 13,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 199,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 62,
+                  "name": "Shogakukan-Shueisha Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21015,
+          "title": {
+            "userPreferred": "Moonrakers"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21015-9eUobakjDhOQ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21015-9eUobakjDhOQ.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "An accident leaves Taishi stranded on the lunar surface, unable to return to Earth. A girl helps him in his despair, but he is oblivious to her true identity.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 456,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 103523,
+          "title": {
+            "userPreferred": "Oh Dear"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103523-FlROhOYZrFOx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103523-FlROhOYZrFOx.jpg",
+            "color": "#bbf1f1"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2014,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103523-5liJA3JsU5RE.jpg",
+          "season": null,
+          "description": "Naoko had a fight with her brother over a trivial thing and pushed him away. She knew she was childish but she ran away home.\n<br><br>\n1st year work 2014 by Megumi Ishitani, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source: Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 366,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 98963,
+          "title": {
+            "userPreferred": "Fantasista Stella"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98963-Y0MdzHpQmVNi.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98963-Y0MdzHpQmVNi.png",
+            "color": "#e4c935"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 9,
+            "day": 18
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 2,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Teppei and teammate Keisuke Honda aim for the FIFA World Cup 2014 in Brazil.\n",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 380,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 27,
+                  "name": "Xebec"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 102998,
+          "title": {
+            "userPreferred": "WHITE FANTASY"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102998-a2fqXP99mXvp.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102998-a2fqXP99mXvp.jpg",
+            "color": "#43d6e4"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 12,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 12,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Animated Commercial for the footwear company K-Swiss Asia.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 371,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 107189,
+          "title": {
+            "userPreferred": "Bakumatsu Rock: Mystery! Onsen Kaijiken ze yo!!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107189-FmeF2jXPAy2o.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107189-FmeF2jXPAy2o.jpg",
+            "color": "#e45d86"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 9,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 9,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Unaired OVA bundled with the game <i>Bakumatsu Rock: Ultra Soul</i>.<br>\n<br>\nAn incident has led to someone's death at Teradaya, which the gang went to for a day trip. A \"69\" on the victim's leg will be the key to solving the mystery.<br>\n<br>\n(Source: MAL News)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 275,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 99480,
+          "title": {
+            "userPreferred": "Monster High: Kowa-ike Girls"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b99480-M6mgeZvfLksh.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b99480-M6mgeZvfLksh.jpg",
+            "color": "#e43578"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 10,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 12,
+            "day": 10
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99480-F7uFNM0cpxSd.png",
+          "season": "FALL",
+          "description": "An anime adaptation of the popular Mattel fashion doll line 'Monster High'.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 8,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 444,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102557,
+          "title": {
+            "userPreferred": "The Satellite Girl and Milk Cow"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102557-WimXURTss4EH.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102557-WimXURTss4EH.jpg",
+            "color": "#35a1e4"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 2,
+            "day": 20
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 2,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "An adventure by Il-ho the Satellite Girl and a shy cow to save the world from a black monster.\n<br><br>\n\"The Satellite Girl and Milk Cow\" is a debuting animation by Jang Hyeong-yoon who is also known as the 'genius director' for his achievements in the omnibus movie \"Indie Anibox: Selma's Protein Coffee\" and others.\n<br><br>\n(Source: HanCinema)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 81,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 312,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 119454,
+          "title": {
+            "userPreferred": "Town Workers"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119454-0qsE0BNF2nLj.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119454-0qsE0BNF2nLj.jpg",
+            "color": "#93aee4"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 9,
+            "day": 18
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 9,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "An omnibus work portraying the lives of youth who have just started to work.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 149,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102681,
+          "title": {
+            "userPreferred": "Tuzki: Love Assassin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102681-hkXrzof91Nld.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102681-hkXrzof91Nld.jpg",
+            "color": "#a13543"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 2,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 2,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A darkly cute tale of foiled romance and contract assassinations starring Tuzki (兔斯基).<br>\n<br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 214,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20548,
+          "title": {
+            "userPreferred": "Disk Wars: Avengers"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20548.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20548.jpg",
+            "color": "#28bbfe"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The story will revolve around how the Avengers--Iron Man, Captain America, Thor and the Hulk together with the help of Spider-Man and a group of teens--will harness their respective fighting skills and superhuman powers to foil Loki’s scheme to take over the world. \"Marvel Disk Wars: The Avengers\" will target boys in the 6-12 age group.\r\n\r\n(Source: Marvel)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 51,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 1247,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 101095,
+          "title": {
+            "userPreferred": "Chao You Bing: Zhi Yongzhe Chuanshuo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101095-PawBzCI0WfXt.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101095-PawBzCI0WfXt.jpg",
+            "color": "#f143a1"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 8,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A collection of animation that the highlights the Sickness (increasing stupidity) that is plaguing this generation: Chao You Bing.\n",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 503,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 98745,
+          "title": {
+            "userPreferred": "Karen Senki"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98745-IuYOdPyuSMYK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98745-IuYOdPyuSMYK.jpg",
+            "color": "#e45d28"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 9,
+            "day": 27
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 12,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "In the post-apocalyptic aftermath of a war between machines and their creators, machines rule while humans exist in a state of servitude. Titular character Karen leads Resistance Group 11, an eclectic group of humans who find themselves fighting for their lives as they are hunted by the robots in each episode. Is this the end of humanity? Are they fighting a losing battle?\n\nThrough Karen, we delve into a struggle between right and wrong, between indifference and love that explores some of the deepest questions about humanity. What is the difference between a thinking machine and a human being? What is a soul?<br><br>(Source: Crunchyroll)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 11,
+          "duration": 11,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 1696,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 819,
+                  "name": "NEXT Animation Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 20610,
+          "title": {
+            "userPreferred": "Momo Kyun Sword"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20610-FN24iVui7bPx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20610-FN24iVui7bPx.jpg",
+            "color": "#1a78f1"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 7,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 9,
+            "day": 24
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20610.jpg",
+          "season": "SUMMER",
+          "description": "The story begins with a female re-imagining of Momotarou, a famous character in Japanese folklore. Momoko is a beautiful young sword fighter who was born inside a peach (momo in Japanese). She lives with her constant companions — the dog god Inugami, the monkey god Sarugami, and the pheasant god Kijigami — in a peaceful paradise. However, a demon army led by devil king invades the paradise and steals the precious treasure that protects Momoko's land. To retrieve the treasure and save the people, Momoko embarks on a great adventure with her three companions.\r\n\r\n\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Ecchi",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 5273,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 4399,
+                  "name": "project No.9"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6501,
+                  "name": "Tri-Slash"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 97955,
+          "title": {
+            "userPreferred": "Sister's Log: Moyako's Never-ending Monologue Specials"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97955-zu64wpWSZ9dR.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97955-zu64wpWSZ9dR.jpg",
+            "color": "#e4d61a"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 18
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "In addition to the flash anime, 3 short special episodes were included on the Ane Log Fan Disc.<p>\n<b>Episodes</b>:<br>\n#1: Sekai no Ane Ijin no Jikan<br>\n#2: Moya-nee Boot Camp<br>\n#3: Ane Denwa Soudan",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 1414,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21023,
+          "title": {
+            "userPreferred": "Duel Masters VS"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21023-FGaUAAeTiRKc.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21023-FGaUAAeTiRKc.jpg",
+            "color": "#e4bb28"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2015,
+            "month": 3,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The 10th Duel Masters series.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 49,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 279,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 473,
+                  "name": "Ascension"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 20587,
+          "title": {
+            "userPreferred": "Dai-Shogun - Great Revolution"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20587-rmqGMdWFDssP.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20587-rmqGMdWFDssP.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 4,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 6,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n20587-vQaflXSgjx8l.jpg",
+          "season": "SPRING",
+          "description": "In the late Edo period, Japan had experienced an unprecedented crisis by Kurofune (Black Ships), the ships from foreign countries. But a giant robot called Onigami, which has existed since ancient time, dispelled the Kurofune ships and the exclusion of foreigners was accomplished. The story begins in Japan where Meiji restoration in 1868 didn't happen. The tagline says, \"I can be the greatest man in the world, because I am a virgin!!\" \r\n<br><br>\r\n(Source: Crunchyroll)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 3656,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 179,
+                  "name": "A.C.G.T."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 127164,
+          "title": {
+            "userPreferred": "Twinkle World"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127164-S3PorP5eaB1E.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127164-S3PorP5eaB1E.jpg",
+            "color": "#5da1f1"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 8,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 8,
+            "day": 11
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video directed by Atsushi Wakamura for the song <i>Twinkle World</i> by HachiojiP featuring Miku Hatsune. It was included on DVD with the release of his third studio album \"Twinkle World\" on August 27, 2014.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 120,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 125034,
+          "title": {
+            "userPreferred": "Baymax"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125034-R8neOcDo6QBY.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125034-R8neOcDo6QBY.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 11,
+            "day": 16
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 11,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The adventure story revolves around Hiro, a 14-year-old boy who lost his dear brother Tadashi in a mysterious accident, and Baymax, a personal healthcare companion robot developed by Tadashi. The story is set in San Fransokyo, a fictional city that combines the imagery of San Francisco and Tokyo.\n\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Music",
+            "Sci-Fi",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 177,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102402,
+          "title": {
+            "userPreferred": "Fake Style II"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102402-vTgnXtJZdojm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102402-vTgnXtJZdojm.jpg",
+            "color": "#d67893"
+          },
+          "startDate": {
+            "year": 2014,
+            "month": 8,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2014,
+            "month": 8,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video for Fake Type.'s song Fake Style II.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 157,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

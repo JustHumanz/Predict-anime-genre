@@ -1,0 +1,2587 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 696,
+        "perPage": 50,
+        "currentPage": 5,
+        "lastPage": 14,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 112308,
+          "title": {
+            "userPreferred": "Soukyuu no Fafner: Dead Aggressor - The Beyond Part 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112308-xwQ3ydS9VQjw.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112308-xwQ3ydS9VQjw.jpg",
+            "color": "#e47850"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 11,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 11,
+            "day": 8
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112308-j3dpGdPC3VOy.jpg",
+          "season": "FALL",
+          "description": "Episodes 4-6 of the Soukyuu no Fafner: Dead Aggressor - The Beyond series.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 742,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 898,
+                  "name": "Xebec Zwei"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6452,
+                  "name": "I.G Zwei"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21322,
+          "title": {
+            "userPreferred": "Mysteria Friends"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21322-c3VbtNvaRi6p.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21322-c3VbtNvaRi6p.png",
+            "color": "#f1e4c9"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 1,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 3,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21322-DHA2u1KUIqcu.jpg",
+          "season": "WINTER",
+          "description": "Mysteria Academy is a prestigious magic school that teaches without discrimination to the three factions (humans, gods and demons) who otherwise are usually at battle with each other. This anime follows the daily lives of two young women at the academy, Anne, the princess of Mysteria, and the dragon princess Grea. <br>\n<br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 10,
+          "duration": 14,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 20996,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6182,
+                  "name": "CygamesPictures"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 115517,
+          "title": {
+            "userPreferred": "Watashi no Tenshi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115517-87JFmc0Ex4zj.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115517-87JFmc0Ex4zj.png",
+            "color": "#ffd6a1"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/115517-yMMHMM5kV3Ni.jpg",
+          "season": null,
+          "description": "Music video animated by Mogelatte for the song <i>Watashi no Tenshi</i> by HoneyWorks featuring Sena Narumi.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 500,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 101349,
+          "title": {
+            "userPreferred": "BABYLON"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101349-AWy5SjUS8mYZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101349-AWy5SjUS8mYZ.jpg",
+            "color": "#e45d1a"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 10,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 1,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101349-5LUS8ZRP4ZiM.jpg",
+          "season": "FALL",
+          "description": "The suspense story centers around Zen Seizaki, a prosecutor with the Tokyo District Public Prosecutors' Office. While investigating illegal acts by a certain pharmaceutical company, Seizaki stumbles across a conspiracy over an election for an autonomous \"new zone\" established in western Tokyo.<br><br>\n\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Thriller"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 28596,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6217,
+                  "name": "REVOROOT"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 101317,
+          "title": {
+            "userPreferred": "BLACKFOX"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101317-WZpZb6FNXF29.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101317-WZpZb6FNXF29.jpg",
+            "color": "#5dd6f1"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 10,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 10,
+            "day": 5
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n101317-pJFDL6aw1YpO.jpg",
+          "season": "FALL",
+          "description": "Living in a ninja residence tucked away in a corner of a futuristic city is Rikka, the eldest daughter of a Ninja clan, who looks up to her father—a researcher—very much.\nCarrying on with her life normally, Rikka's home came suddenly under attack one day. Driven into a corner, what would she do to overcome this crisis?\nRip darkness to pieces and become \"BLACK\"!<br><br>\n\n(Source: Official website)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 19997,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6069,
+                  "name": "Studio 3Hz"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 128711,
+          "title": {
+            "userPreferred": "Shiny Smily Story"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128711-TeTRaMktAuFF.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128711-TeTRaMktAuFF.png",
+            "color": "#5dc9f1"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 8,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 8,
+            "day": 15
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128711-KWUTAxFBioBB.jpg",
+          "season": null,
+          "description": "Music video produced by Cover Corp as a teaser to the first official song of the hololive IDOL PROJECT, <i>Shiny Smily Story</i>, performed by the many vTuber talents of Hololive Production.<br><br>\n\n<i>Note: This music video was initially shown during Comiket 96, having been produced for Hololive Summer '19 as a short teaser to the full version of the song, which was later released on September 16, 2019.</i>",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 411,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 110265,
+          "title": {
+            "userPreferred": "Persona 5 the Animation: A Magical Valentine's Day"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110265-8y5NFleGUqwq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110265-8y5NFleGUqwq.jpg",
+            "color": "#d61a28"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 6,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 6,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110265-erVuTCeO36N7.jpg",
+          "season": null,
+          "description": "OVA bundled with the twelfth Persona 5 the Animation Blu-Ray & DVD",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 1665,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6222,
+                  "name": "CloverWorks"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104324,
+          "title": {
+            "userPreferred": "Skeleton Bookstore Employee Honda OVA"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx104324-TZHSfpLypi1T.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx104324-TZHSfpLypi1T.jpg",
+            "color": "#f1e443"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 2,
+            "day": 27
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 2,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n104324-NAvXWT5nr10v.jpg",
+          "season": "WINTER",
+          "description": "Extra unaired episode bundled with the second part of the TV series' DVDs and original manga",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 2402,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 276,
+                  "name": "DLE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 100269,
+          "title": {
+            "userPreferred": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100269-V8Z7e1OXrDBZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100269-V8Z7e1OXrDBZ.jpg",
+            "color": "#5df1d6"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 6,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 6,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "If there's one thing that the long-running <i>Fate/stay night</i> franchise has always been noted for, it's the creative freedom that allows every new installment to develop its own unique take on the overall concept and base set of continuing characters. However, no matter how diverse many of the previous installments have been, you're almost certainly not going to be prepared for the non-stop surreal silliness and fever dream alternative concepts unleashed in this demented new OVA installment. From a surreal talk show where a berserker hostess puts her hapless assassin brother co-host through an increasingly grueling wringer, to spicy ramen endurance tests, magical girls gone wild and wholesale gender-swapping for no apparent reason, you've never seen anything like this!<br>\n<br>\n(Source: Sentai Filmworks)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 62,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy",
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 5831,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 300,
+                  "name": "SILVER LINK."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 111729,
+          "title": {
+            "userPreferred": "Arifureta: From Commonplace to World's Strongest Specials"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111729-NEhPwaytwM0O.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111729-NEhPwaytwM0O.jpg",
+            "color": "#e44343"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 2,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Unaired episodes included with the Blu-ray releases of Arifureta Shokugyou de Sekai Saikyou.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 10401,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 107339,
+          "title": {
+            "userPreferred": "Kemono Michi: Rise Up"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107339-3mKBCMAUN896.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107339-3mKBCMAUN896.png",
+            "color": "#a1c9e4"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 10,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 18
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107339-Ph3vd3csS9M6.jpg",
+          "season": "FALL",
+          "description": "The story follows masked wrestler Genzou Shibata, who likes all kinds of animals and creatures. One day he is summoned to another world, where a princess asks him to help kill magical beasts, but he gets mad and puts her in a German suplex. Instead, he begins life as a pet shop owner in the other world.<br><br>\n\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 31142,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6292,
+                  "name": "ENGI"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 106893,
+          "title": {
+            "userPreferred": "Cop Craft"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106893-tlfD9BdkNcSt.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106893-tlfD9BdkNcSt.jpg",
+            "color": "#d6e478"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 10,
+            "day": 1
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106893-1baPXVK1USJe.jpg",
+          "season": "SUMMER",
+          "description": "The story is set in San Teresa City on the fictional Pacific island of Kariaena. The \"buddy police action\" series follows the detective Kei Matoba and the alternate-world knight Tirana.<br><br>\n\n15 years ago, an unknown hyperspace gate opened over the Pacific. Beyond this gate lies Reto Semaani, a strange alternate world where fairies and demons live.<br><br>\n\nSan Teresa City — a city where over two million immigrants live from both worlds. As a result, there are the haves and the have-nots. Here is the world's newest \"city of dreams.\" But in the shadow of the chaos, crime is rampant: drugs, prostitution, and weapon trafficking. The detectives who stand up to these heinous crimes are in the San Teresa City Police. When the detective Kei Matoba and the alternate-world knight Tirana — two individuals who differ in gender, personality, and even world of origin — meet, an incident erupts. Two worlds. Two justices. From this, the curtain rises on a buddy police action story!\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 23825,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6073,
+                  "name": "Millepensee"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 101610,
+          "title": {
+            "userPreferred": "Bokura no Nanokakan Sensou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101610-8vfcvNlYD84F.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101610-8vfcvNlYD84F.jpg",
+            "color": "#28a1ae"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 13
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The mystery story and social satire begins on the day before summer vacation, when every boy in a first-year class of a downtown Tokyo middle school disappears. Was it some accident? A mass kidnapping? Actually, the boys holed themselves up in an abandoned factory on the riverbed. With support from the schoolgirls, the boys start a revolution against the adults from this \"liberation zone.\"<br><br>\n\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 88,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Thriller"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 6055,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 30,
+                  "name": "Ajiado"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 100112,
+          "title": {
+            "userPreferred": "Wise Man’s Grandchild"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100112-eExFpnYG2QAK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100112-eExFpnYG2QAK.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 4,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 6,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100112-QIFhGfuiKZ3Y.jpg",
+          "season": "SPRING",
+          "description": "A young man is reborn in another world where he is adopted as a baby by the hero Merlin Wolford and named Shin. By his 15th birthday, Shin has accumulated all kinds of power by studying under Merlin, but one thing his adoptive grandfather didn't give him was a lick of common sense. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 79891,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 300,
+                  "name": "SILVER LINK."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 116329,
+          "title": {
+            "userPreferred": "Ame to Cappuccino "
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116329-kDQOjwtu20XB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116329-kDQOjwtu20XB.jpg",
+            "color": "#e45028"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 1
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116329-ZiY7ghINEwwa.jpg",
+          "season": null,
+          "description": "A music video for the song Ame to Cappuccino by Yorushika.\n",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 453,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6850,
+                  "name": "Hurray!"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 114922,
+          "title": {
+            "userPreferred": "Bang!Bang!Bang!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114922-tSzEM3Y5C0w6.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114922-tSzEM3Y5C0w6.png",
+            "color": "#1ae4ff"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 16
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 16
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114922-DX7KykNeWjAs.jpg",
+          "season": null,
+          "description": "The official music video for ZOOL's song Bang!Bang!Bang! The song was originally released as part of the 2019 BLACK OR WHITE special video.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 531,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 114434,
+          "title": {
+            "userPreferred": "Mr.AFFECTiON"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114434-x4VxSVHTwfGV.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114434-x4VxSVHTwfGV.png",
+            "color": "#f1c993"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 16
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 16
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114434-eJ6fA8odMwYr.jpg",
+          "season": null,
+          "description": "New song performed by IDOLiSH7. ",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 432,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6077,
+                  "name": "Orange"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 111945,
+          "title": {
+            "userPreferred": "Baumkuchen End"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111945-aqOMKdGxWz0l.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111945-aqOMKdGxWz0l.png",
+            "color": "#1a9386"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 8,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 8,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video directed by Waboku for the song <i>BAUMKUCHEN END</i> by Eve.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Music",
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 628,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 104253,
+          "title": {
+            "userPreferred": "The Magnificent KOTOBUKI"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104253-jvvztQBrpDnH.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104253-jvvztQBrpDnH.jpg",
+            "color": "#e4a135"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 1,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 3,
+            "day": 31
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104253-7bIwxayEixZL.jpg",
+          "season": "WINTER",
+          "description": "The story takes place in a barren frontier where people trade goods with each other in order to help each other survive. The Kotobuki Squadron are bodyguards for hire, led by a strict but beautiful squadron leader, an unreliable commanding officer, and a true artisan of a crew chief. Alongside pilots who don't lack for personality, they take to the air in dogfights, letting the engine noise of their Hayabusa fighters ring out in the skies.<br><br>\n\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 8127,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6119,
+                  "name": "GEMBA"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 129684,
+          "title": {
+            "userPreferred": "Honkai Impact 3rd - Chapter XI-EX"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129684-wmTZpOCqDTvq.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129684-wmTZpOCqDTvq.png",
+            "color": "#f1935d"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 8,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 8,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 213,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6730,
+                  "name": "wonderium"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6729,
+                  "name": "miHoYo Anime"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 124337,
+          "title": {
+            "userPreferred": "Mahoutsukai no Yome: Gakuin-hen "
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124337-fRm5YpIp9qqg.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124337-fRm5YpIp9qqg.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 3,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 3,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A short ONA released on the MAGGardeninfo YouTube channel to promote the manga's 11th Volume. Immediately follows the events of the TV show, previewing material from the manga's as-of-yet unadapted 10th Volume with new original animation and voice acting.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 1222,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 858,
+                  "name": "Wit Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 107743,
+          "title": {
+            "userPreferred": "Xie Wang Zhui Qi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107743-JHs3OOzzgSuO.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107743-JHs3OOzzgSuO.png",
+            "color": "#e4c9a1"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 1,
+            "day": 24
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 4,
+            "day": 11
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "She, a renowned assassin of the 21st century, actually crossed over to become Su Manor’s most useless good-for-nothing Fourth Miss.\n<br><br>\nHe, Jin Empire’s imperial highness, was an emotionless overbearing demonic tyrant with unrivaled talent.\n<br><br>\nEveryone knew that she was idiotic and good-for-nothing and bullied her as they pleased. But only he, the overbearing tyrant with the discerning eye, wouldn’t let go of her even if his life depended on it.\n<br><br>\nFor the time being, let’s just see how the stubborn versus stubborn clash and play out in this good show of the chaser and the chased.\n<br><br>\n(Source: Official Webnovel)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 14,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 2998,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6212,
+                  "name": "Big Firebird Cultural Media"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 122008,
+          "title": {
+            "userPreferred": "Monday's Melancholy"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122008-trwQ5ZLIWkcU.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122008-trwQ5ZLIWkcU.png",
+            "color": "#e45d93"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 8
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/122008-05De2LOVsUsY.jpg",
+          "season": null,
+          "description": "Music video animated by Sena Makino for the song <i>Monday's Melancholy</i> by Amatsuki featuring HoneyWorks, with art by Mikkun.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 401,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21512,
+          "title": {
+            "userPreferred": "Ensemble Stars!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21512-I6e1ms2cDpCE.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21512-I6e1ms2cDpCE.png",
+            "color": "#ffd61a"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21512-IsLRLFvi2Amb.jpg",
+          "season": "SUMMER",
+          "description": "An anime adaptation of the idol raising game <i>Ensemble Stars!</i><br><br>\n\nThe \"idol-training game\" takes place at a private boys' idol-training school with a history of turning out many great talents in show business. The protagonist is the school's lone female student who transfers to the school because of a special situation, and enters the school's producer department.<br><br>\n\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 12311,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 287,
+                  "name": "David Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 112658,
+          "title": {
+            "userPreferred": "Lupin III: Prison of the Past"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112658-20cqNrt5TIJb.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112658-20cqNrt5TIJb.png",
+            "color": "#d61a1a"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 11,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 11,
+            "day": 29
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112658-lL8p93bvzwpu.jpg",
+          "season": "FALL",
+          "description": "To rescue a famous gentlemen thief from imprisonment, Lupin and his team infiltrate the Kingdom of Doruenthe. While the skillful thieves from around the world are gathering, Lupin tries to reveal the secret hidden in the kingdom.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 92,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 1067,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 73,
+                  "name": "TMS Entertainment"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 101123,
+          "title": {
+            "userPreferred": "kemurikusa."
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101123-3SzWQNaV6PTi.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101123-3SzWQNaV6PTi.jpg",
+            "color": "#fe0dae"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 1,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 3,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101123-Lud6NAjMgV61.jpg",
+          "season": "WINTER",
+          "description": "The science-fiction action story follows girls who fight with weird entities nicknamed \"mushi\" (bugs) and survive in a world of red fog. \n<br><br>\n(Source: Anime News Network)\nBased on Tatsuki's winning entry from the '24th 3D Anime Contest' in 2012 of the same name.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 7821,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6146,
+                  "name": "Yaoyorozu"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 100280,
+          "title": {
+            "userPreferred": "STARMYU 3"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100280-QDCfgTispP0Q.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100280-QDCfgTispP0Q.jpg",
+            "color": "#d6a15d"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 9,
+            "day": 16
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100280-ifZysb3UO5WI.jpg",
+          "season": "SUMMER",
+          "description": "\"I don't know how to give up on a dream...\"<br>\n<br>Hoshitani Yuuta's dream of performing on stage with Ootori Itsuki, his admired senior, finally came true; and, now, Yuuta focuses on his next dream, spending his days working hard in musical training at Ayanagi Academy's musical department. However, another new trial awaits him!<br>\n<br>The start of the second semester brings with it the impending class performance at the Ayanagi Festival. This will be the first stage performance the boys will have to tackle without the help of a senior leader to guide them. Yuuta and the others throw themselves eagerly into overcoming their team boundaries, joining forces to form a new company to put on the best show ever. But the Kao Council suddenly makes an appearance and stands in the way of the second years!<br>\n<br>As a part of their plan to reform the Ayanagi Festival the Kao Council is producing a fresh new program called the opening ceremony. The students selected for this performance will go on to be the prime candidates for next Kao Council, but it will come at the expense of not being able to perform in the class production. And thus, the final curtain rises on the tale of the youthful, comedic musical.<br>\n<br>(Source: Crunchyroll)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 1845,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6074,
+                  "name": "C-Station"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 110738,
+          "title": {
+            "userPreferred": "Miru Tights: Cosplay Satsuei Tights"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110738-DAmGzbxNSSET.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110738-DAmGzbxNSSET.png",
+            "color": "#f14378"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 8,
+            "day": 23
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 8,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110738-pSejtyF8e3yt.jpg",
+          "season": "SUMMER",
+          "description": "13th episode included in the BD release.<br><br>\n\nYua is asked to model an illustrator's designs as a costume for a photo collection the illustrator is producing. Concerned for Yua, Ren offers to accompany Yua to the photoshoot, and Homi somehow ends up rehearsing the photoshoot with Ren and Yua as models.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Ecchi",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 7250,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6159,
+                  "name": "Yokohama Animation Lab"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 109413,
+          "title": {
+            "userPreferred": "Wan Jie Xian Zong 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109413-yA9VBjWJavic.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109413-yA9VBjWJavic.jpg",
+            "color": "#1aa1d6"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 4,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 9,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 40,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 356,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6475,
+                  "name": "Ruo Hong Culture"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 108487,
+          "title": {
+            "userPreferred": "Fragtime"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108487-yooQBdxG21pV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108487-yooQBdxG21pV.jpg",
+            "color": "#50aee4"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 11,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 11,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "All Misuzu Moritani has to do is think about it and, for three minutes, time seems to halt for everyone but herself. But three minutes isn't long enough to go anywhere and come back, especially when you can only do it once a day. So, mostly Misuzu just amuses herself… until she makes the mistake of sneaking a peek up the skirt of a classmate she's been crushing on and it turns out that Haruka Murakami is somehow immune to Misuzu's powers! Oops. And now a really embarrassed Misuzu has to make it up to Haruka. Double oops. Even if it means getting into a \"relationship\". Wait, what?<br>\n<br>\n(Source: Sentai Filmworks)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 59,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Romance",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 10506,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6246,
+                  "name": "Tear-Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 107727,
+          "title": {
+            "userPreferred": "NiNoKuni"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107727-OZLbxfScJyYE.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107727-OZLbxfScJyYE.png",
+            "color": "#5dd6e4"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 8,
+            "day": 23
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 8,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107727-YG3Xz6kDrWwL.jpg",
+          "season": "SUMMER",
+          "description": "Based on Level-5's Ni no Kuni video game franchise.\n\nIn the story, Yuu is a high school student, and his best friend is Haru and his childhood friend is Kotona. Through a certain incident, they travel back and forth between reality and Ni no Kuni. When Kotona's life is put in danger, the three must make \"the ultimate choice.\"",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 106,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 12597,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 28,
+                  "name": "OLM"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 103638,
+          "title": {
+            "userPreferred": "Case File nº221: Kabukicho"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103638-eXZ6Ux4cqmlF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103638-eXZ6Ux4cqmlF.jpg",
+            "color": "#4386e4"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 10,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 3,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103638-gvJpnTloKSPu.jpg",
+          "season": "FALL",
+          "description": "The East Side of Shinjuku Ward … In the center of this chaotic neighborhood, the neon-lit Kabukicho district is expanding. Where light shines, there are also deep shadows. The curtain rises on this night stage where bizarre murders occurred! Is this suspense? No, comedy? An indistinguishable drama is about to begin….<br>\n<br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Mystery",
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 16897,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 10,
+                  "name": "Production I.G"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 111131,
+          "title": {
+            "userPreferred": "Cannon Busters"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111131-qc5z5Xu4Qiti.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111131-qc5z5Xu4Qiti.jpg",
+            "color": "#fea128"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 8,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 8,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Follow the adventures and exploits of S.A.M, a high-end, royal-class friendship droid who's joined by a quirky, discarded maintenance robot and a brash, deadly fugitive. Together, the unlikely trio embarks on an unforgettable journey in a fantastic and dangerous world in search of S.A.M's best friend, the heir to a powerful kingdom under siege.\n<br><br>\n(Source: Official Website)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 7527,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 41,
+                  "name": "Satelight"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 108147,
+          "title": {
+            "userPreferred": "GRANBELM"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108147-pymvfgDxie1b.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108147-pymvfgDxie1b.jpg",
+            "color": "#e42893"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 9,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108147-BGaAzTwozw12.jpg",
+          "season": "SUMMER",
+          "description": "Was going back to school at night to retrieve a forgotten lunch box a really bad mistake? That's how it seems when Mangetsu Kohinata suddenly finds herself pulled into a strange world where girls in giant magical armor are engaged in a ferocious battle. While the timing was unfortunate, it turns out that Mangetsu's arrival in this strange realm was anything but a mistake, because Mangetsu appears to be a mage herself! Now, with the help of her mysterious new friend Shingetsu, Mangetsu must learn how to summon and control her own giant armor as they fight against other mages in a competition with an unbelievable prize - control of the lost magic that once ruled our planet!\n<br><br>\n(Source: Sentai Filmworks)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Mahou Shoujo",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 14072,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 852,
+                  "name": "Nexus"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 105962,
+          "title": {
+            "userPreferred": "Cinderella Girls Gekijou CLIMAX SEASON"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b105962-ftNGhs8OKPD7.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b105962-ftNGhs8OKPD7.png",
+            "color": "#ffd635"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 4,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 6,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The fourth season of <i>Cinderella Girls Gekijou</i>.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 1237,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 400,
+                  "name": "Gathering"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 105807,
+          "title": {
+            "userPreferred": "7SEEDS"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105807-cq1TUGWJmvRE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105807-cq1TUGWJmvRE.jpg",
+            "color": "#5d86d6"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 6,
+            "day": 28
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 6,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Scientists had predicted this disaster, and in response, the leaders of every country met to develop a plan for human survival before the meteor hit. The Seven Seeds project was developed out of this meeting. Each country froze a number of young healthy people, which allowed them to survive the meteor. After the computer determined that Earth was once again safe for human life, it released them into the world.\n<br><br>\nThe Japanese government created five groups of survivors: Winter group, Spring group, Summer group A, Summer group B, and Fall group. Each group consisted of seven members and one guide. The guide carried small tubes of poison on their necks to allow them to end their lives if their situation became unbearable. The Japanese government prepared seven \"Fuji\" as refuges for the groups. In each Fuji, the group would find seeds and numerous books instructing them on survival in the wilderness.\n<br><br>\n<i>It premiered on TV on January 14th, 2020.</i>",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Horror",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 24258,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 3,
+                  "name": "GONZO"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104115,
+          "title": {
+            "userPreferred": "After School Dice Club"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104115-7aStzqclhn6z.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104115-7aStzqclhn6z.png",
+            "color": "#e4a15d"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 10,
+            "day": 3
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 19
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104115-hTIuAGYjjAL4.jpg",
+          "season": "FALL",
+          "description": "Kyoto in Spring. Aya is a high school girl who’s just moved to a new town. Miki is her shy classmate, and her first friend. One day after school Aya and Miki follow the committee president Midori to a specialty board games store. The Dice Club. Without thinking they try out a German board game together. These girls, who are searching for fun, soon fall into the exciting world of games.\n",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 11902,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 839,
+                  "name": "LIDENFILMS"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 100668,
+          "title": {
+            "userPreferred": "Arifureta: From Commonplace to World's Strongest"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100668-DvOn5bMOt4cy.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100668-DvOn5bMOt4cy.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 10,
+            "day": 7
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100668-9ZQSB5x5St7c.jpg",
+          "season": "SUMMER",
+          "description": "When a classroom of students is transported to another world to act as its saviors, Hajime Nagumo finds himself the weakest link. As his friends and classmates are granted strong classes and impressive abilities due to their existing skills, he is given the weak title of Synergist. When a dungeon quest leaves him separated from his group, Hajime must discover his own talents or be left to rot in this world forever.\n<br><br>\n(Source: Seven Seas Entertainment)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 88735,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 314,
+                  "name": "White Fox"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 163,
+                  "name": "Asread"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 120160,
+          "title": {
+            "userPreferred": "Sacrifice"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120160-la5TmLxwQXeJ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120160-la5TmLxwQXeJ.png",
+            "color": "#e4785d"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 6
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120160-m3sD8bpBIQBX.jpg",
+          "season": null,
+          "description": "Music video directed and animated by Mafuteru for the song <i>Sacrifice</i> by Mafumafu.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 172,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 108928,
+          "title": {
+            "userPreferred": "The Seven Deadly Sins: Imperial Wrath of the Gods"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108928-DuyUzi0JyPIr.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108928-DuyUzi0JyPIr.jpg",
+            "color": "#e4c950"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 10,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 3,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108928-auP8gJosWCTD.jpg",
+          "season": "FALL",
+          "description": "Despite repelling the demon invasion of the Kingdom of Lioness, the war is far from over, for Arthur's Kingdom of Camelot is still being occupied by the demon army and the surviving members of Jikkai. However, in order to begin counter-offensive, the Seven Deadly Sins needs all of its members. Unfortunately, King and Diane are still hiding in the Fairy King's Forest, where they are made to discover the strange history of Jikkai.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 108802,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 553,
+                  "name": "Marvy Jack"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 107961,
+          "title": {
+            "userPreferred": "Hensuki: Are you willing to fall in love with a pervert, as long as she’s a cutie?"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107961-8aQlUDwwRpQS.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107961-8aQlUDwwRpQS.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 9,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107961-n4S7m1LqtUO8.jpg",
+          "season": "SUMMER",
+          "description": "After cleaning the Calligraphy Club room one afternoon, Kiryuu Keiki found a love letter addressed to him on the club's desk. Eager at the possibility of finally getting a girlfriend, he opens the envelope only to find the words, \"I like you\" along with a pair of the sender's panties. <br><br>\n\nWith only these panties as evidence, Keiki narrows down the identity to the four girls who helped him clean the club room that day: Tokihara Sayuki the lazy third-year president of Calligraphy Club, Koga Yuika a library committee member of foreign descent, Nanjou Mao, Keiki's slightly tsundere fellow classmate, and most awkwardly, Kiryuu Mizuha, Keiki's clean freak of a younger sister. Among at least three of these girls, Keiki believes is the one who left him the letter and their panties so with determination in his heart, he sets out to uncover which of these seemingly unorthodox ladies will become his girlfriend!\n",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Mystery",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 48459,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6216,
+                  "name": "Geek Toys"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 541,
+                  "name": "Seven"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 108111,
+          "title": {
+            "userPreferred": "Are You Lost?"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108111-SSkE9VuTPL2w.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108111-SSkE9VuTPL2w.jpg",
+            "color": "#35aee4"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 9,
+            "day": 17
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108111-jKEczkIqKQqT.jpg",
+          "season": "SUMMER",
+          "description": "Because of a plane crash … starting today, we're spending the springtime of our lives on a desert island!! There's nothing here, so we have to make everything!! And eat everything!! (Ugh!) Check out our high-school-girl survival story of courage and knowledge. We're actually doing pretty well! We learn how to eat cicadas, how to build traps, a simple allergy test, how to eat hermit crabs, etc.\n<br><br>\n(Source: Kodansha USA)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 13,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 28140,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6218,
+                  "name": "Ezo’la"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 106967,
+          "title": {
+            "userPreferred": "Miru Tights"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106967-hG1SSeB44Ve5.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106967-hG1SSeB44Ve5.jpg",
+            "color": "#ffd6ae"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 5,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 7,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106967-u8AEDAZgtWXX.jpg",
+          "season": "SPRING",
+          "description": "A rainy morning in April. Cherry blossoms are struck by the rain and floats in the puddle. High school students enter the school gate, carrying various colors of umbrellas.<br><br>\n\n\"Good morning, Ren,\" Yua greeted Ren, wearing wet tights in front of the shoe cupboard. When Ren faced her glumly, Homi, who was drenched, joined them as if she is jumping. The girls discuss the new semester.<br><br>\n\nThe girls live their irreplaceable school life as the seasons change.<br><br>\n\n(Source: MAL News)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Ecchi",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 26317,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6159,
+                  "name": "Yokohama Animation Lab"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 112034,
+          "title": {
+            "userPreferred": "Zenonzard: THE ANIMATION - Episode 0"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112034-wGD4vMFsQNrm.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112034-wGD4vMFsQNrm.png",
+            "color": "#feae28"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 9,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 9,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 27,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 1963,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 4418,
+                  "name": "8-bit"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 101773,
+          "title": {
+            "userPreferred": "How Clumsy you are, Miss Ueno"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101773-hb7ccdHdtEfT.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101773-hb7ccdHdtEfT.jpg",
+            "color": "#f1e45d"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 1,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 3,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n101773-xicU2gfBljEc.jpg",
+          "season": "WINTER",
+          "description": "The story centers on Ueno, a genius inventor who is in the third grade at her junior high school. She also serves as the head of the school's science club and secretly falls in love with one of its members, second grade student Tanaka. Using her eccentric inventions, Ueno tries to confess her love to him indirectly. But her attempt always ends in failure.<br><br>\n\n(Source: Crunchyroll)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 22749,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6252,
+                  "name": "Lesprit"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 109089,
+          "title": {
+            "userPreferred": "Outburst Dreamer Boys (TV)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109089-J0BeVxrAldAp.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109089-J0BeVxrAldAp.jpg",
+            "color": "#f1e4c9"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 10,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 12,
+            "day": 13
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109089-usL6o1ncaG2Q.jpg",
+          "season": "FALL",
+          "description": "The story centers around Mizuki Hijiri, a high school girl who just transferred schools. At her new school, she has a fateful encounter with boys suffering from chuunibyou (adolescent delusions of grandeur). There is Noda who dreams of becoming a hero, the tragically handsome otaku Takashima who only likes 2D girls, Nakamura the supposedly \"reincarnated\" angel or devil, and the self-professed string-puller Tsukumo.<br><br>(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 11,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 9347,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 102939,
+          "title": {
+            "userPreferred": "Midnight Occult Civil Servants"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102939-6Jugm5BxgMPQ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102939-6Jugm5BxgMPQ.jpg",
+            "color": "#863528"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 4,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 6,
+            "day": 24
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102939-bbNG7Il6gVv0.jpg",
+          "season": "SPRING",
+          "description": "When Miyako Arata starts his brand-new job as a civil servant, he’s shocked to find out he’s not serving the regular public—he’s working with supernatural beings! Referred to as “Anothers”, Miyako and his team deals with the trouble they cause, unseen by the human eye. But while on his first assignment, Miyako surprises everyone with an unheard-of ability—he can understand the Anothers!<br><br>\n\n(Source: Funimation)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 11867,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 839,
+                  "name": "LIDENFILMS"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 100663,
+          "title": {
+            "userPreferred": "ULTRAMAN"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100663-ZeVDbYEGCiFu.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100663-ZeVDbYEGCiFu.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 4,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 4,
+            "day": 1
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100663-M99oaR1KpDXE.jpg",
+          "season": "SPRING",
+          "description": "Decades ago, a being known as the Giant of Light joined Shin Hayata of the Scientific Special Search Party to save Earth from an invasion of terrifying monsters known as Kaiju. Now, many years later, those dark days are fading into memory, and the world is at peace. But in the shadows a new threat is growing, a danger that can only be faced by a new kind of hero - a new kind of Ultraman...<br><br>\nShinjiro is an ordinary teenager, but his father is the legendary Shin Hayata. When he learns that his father passed on the \"Ultraman Factor\" to him, and that he possesses incredible powers, nothing will ever be the same again.<br><br>\n(Source: Viz Media)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 4976,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 10,
+                  "name": "Production I.G"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6195,
+                  "name": "Sola Digital Arts"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 110419,
+          "title": {
+            "userPreferred": "Gundam vs Hello Kitty"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110419-cXl0m924Yrz1.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110419-cXl0m924Yrz1.jpg",
+            "color": "#e45078"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 3,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2020,
+            "month": 1,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A collaboration to celebrate the 40th anniversary of Gundam and the 45th anniversary of Hello Kitty.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 1960,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 100186,
+          "title": {
+            "userPreferred": "B-PROJECT-Zeccho＊Emotion-"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100186-77UN1ObCPzm6.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100186-77UN1ObCPzm6.jpg",
+            "color": "#e45d93"
+          },
+          "startDate": {
+            "year": 2019,
+            "month": 1,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2019,
+            "month": 3,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The second season of <i>B-PROJECT</i>.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 2561,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 561,
+                  "name": "A-1 Pictures"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

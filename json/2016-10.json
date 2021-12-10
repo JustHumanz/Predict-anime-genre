@@ -1,0 +1,2406 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 779,
+        "perPage": 50,
+        "currentPage": 10,
+        "lastPage": 16,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 97916,
+          "title": {
+            "userPreferred": "Mutsugo to Ouma no Monogatari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97916-lVjajMKdTQSu.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97916-lVjajMKdTQSu.jpg",
+            "color": "#d6e435"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 10,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": null,
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 472,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 102058,
+          "title": {
+            "userPreferred": "Rudolf to Ippaiattena"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102058-QUKo3pXEiDUR.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102058-QUKo3pXEiDUR.jpg",
+            "color": "#1aa1d6"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 8,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 8,
+            "day": 6
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102058-ns4FMq91SmRH.png",
+          "season": "SUMMER",
+          "description": "Adaption of Hiroshi Saitō's original 1986 children's book of the same name.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 89,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 241,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21886,
+          "title": {
+            "userPreferred": "Anime de Training! XX"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21886-ORLugeoBhN10.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21886-ORLugeoBhN10.jpg",
+            "color": "#f1c9ae"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 10,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The second season to Anitore! EX.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 3217,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6082,
+                  "name": "Rising Force"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21315,
+          "title": {
+            "userPreferred": "Pan de Peace!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21315-3Q5gRBKza9Hs.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21315-3Q5gRBKza9Hs.jpg",
+            "color": "#e4c993"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 3
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 6,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The 4koma centers around Minami, an airheaded girl who is starting high school and who loves eating bread for breakfast. Baked goods bring happiness everyday to her and her classmates — the reliable Yuu, the pastry-baking Fuyumi, and the independent Noa.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 7159,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 406,
+                  "name": "Asahi Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 102648,
+          "title": {
+            "userPreferred": "Girl Electric"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102648-l29IyKwrk1qq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102648-l29IyKwrk1qq.jpg",
+            "color": "#f10d00"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 8,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 8,
+            "day": 11
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video by Rapparu for The Breakaways' song Electric Girl for their 1st mini album \"N.T.A.\".",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 193,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21848,
+          "title": {
+            "userPreferred": "Heybot!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21848-sDB60uBwY4Zl.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21848-sDB60uBwY4Zl.jpg",
+            "color": "#e4bb50"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 9,
+            "day": 18
+          },
+          "endDate": {
+            "year": 2017,
+            "month": 9,
+            "day": 24
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21848-ZAIwDOHOhGuU.jpg",
+          "season": "FALL",
+          "description": "The anime takes place on the screw-shaped island country of Screw Island and follows the \"Vocabot\" Heybot and his partner, Prince Nejiru as they collect different \"Vocab Screws\". When the Vocabots wear the Vocab Screws on their heads, they're able to compete in \"Vocab Battles,\" battles for who can think up and tell the best jokes.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 50,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 777,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6116,
+                  "name": "Bandai Namco Pictures"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21755,
+          "title": {
+            "userPreferred": "Time Bokan 24"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21755-hyLxPlkyM6E7.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21755-hyLxPlkyM6E7.png",
+            "color": "#e4e450"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 10,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2017,
+            "month": 3,
+            "day": 18
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21755-e73MHrRordDH.jpg",
+          "season": "FALL",
+          "description": "The anime centres on Tokio, a junior high student living in the present time who is suddenly made a member of the 24th century's Space-Time Administration Bureau. Immediately, he learns that the history he has learned in the textbooks is wrong, and there is a more interesting version of history where the peerless beauty Cleopatra is actually the comic duo of Cleo and Patra, Momotarō is more of an ogre than actual ogres. Together with his teammate Karen, they use the 24 Bokan Mecha to search for the True History.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 1210,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 103,
+                  "name": "Tatsunoko Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 99710,
+          "title": {
+            "userPreferred": "Jie Moren"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99710-Va1fSBte7GAr.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99710-Va1fSBte7GAr.jpg",
+            "color": "#e46b5d"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 27
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 7,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "When Freshman Zhou Xiaoan put on a ring of unclear origin, a terrifying devil leaps from his mouth and his life is changed forever. Shocking historical secrets are slowly revealed - a Blood Devil calling itself King Zhou of Shang, a race of heart-eating zombies; a dubious group of Taoist Priests that fight against them; mysterious beings of the supernatural world who can blend in to human society.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 14,
+          "duration": 13,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Mystery",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 1408,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6832,
+                  "name": "Qiying Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21605,
+          "title": {
+            "userPreferred": "Fuyu no Chikai, Natsu no Matsuri: Takeo no Ookusu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21605-oxWabSBOjRt8.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21605-oxWabSBOjRt8.png",
+            "color": "#e45035"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 12
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21605-i3Os8eoC7iDe.jpg",
+          "season": "WINTER",
+          "description": "The anime is set in the city of Takeoshi, and will center on two characters, a boy and a girl, who grow up watched over by a large camphor tree that endures the time and seasons. It will star Nao Touyama as Rinko Yamaguchi, and Nobunaga Shimazaki as Souta. It will screen in the Saga Prefectural Space and Science Museum.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 421,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 35,
+                  "name": "Seven Arcs"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21608,
+          "title": {
+            "userPreferred": "Cerberus"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21608-GLCcfAMg1nv4.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21608-GLCcfAMg1nv4.jpg",
+            "color": "#e45d86"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 6,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The anime is set in a continent ruled by sword and magic called Kunaaan, where a power balance between the Holy Kingdom of Amoria, the Kingdom of Ishilfen, and the Vanrodis Kingdom keeps a peace so unstable that any tragedy that befalls any one kingdom will mean war for the entire continent. Another power, the evil dragon Daganzord, also resides on the continent, and no one is powerful enough to stop him from spreading destruction and charred land in his wake. Two individuals, Bairo and Kismitete, undertook a ritual alongside a party of wizards to seal Daganzord, but were foiled. This event was known thereafter as the Balbagoa Tragedy. Bairo and Kismitete's son Hiiro is saved by Giiru, and Hiiro swears to avenge his parents' deaths and trains himself with the sword. When Hiiro turns 16, he sets out on a journey to slay the dragon, and Giruu accompanies him, having no choice. Along the way, they meet many types of people, and gain companions on their journey.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 13594,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 397,
+                  "name": "Bridge"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 105892,
+          "title": {
+            "userPreferred": "Yoiko no Rekishi Anime: Ookina Kabu (Kabu)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx105892-liPTDHHBhvI9.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx105892-liPTDHHBhvI9.jpg",
+            "color": "#c97850"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 11,
+            "day": 23
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 11,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Commemorative short film for Studio Khara's 10th anniversary, based on Moyoco Anno's original manga and first featured at the studio's exhibit in 2016. <br>\n<br>\n<i>Note: This was later re-released online on Jul 28, 2017 through the official khara inc. YouTube channel.</i>",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 226,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 47,
+                  "name": "Studio Khara"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104943,
+          "title": {
+            "userPreferred": "Kimi dake no Boku de Iru kara"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104943-oxtil9kMk1Rw.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104943-oxtil9kMk1Rw.jpg",
+            "color": "#8686e4"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 11,
+            "day": 23
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 11,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video of Gackt for the opening theme from Trickster: Edogawa Ranpo \"Shounen Tanteidan\" yori",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 222,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21396,
+          "title": {
+            "userPreferred": "Utopa"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21396-pNve6hUGKsf1.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21396-pNve6hUGKsf1.jpg",
+            "color": "#fed628"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 20
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Hundreds of years after the 20th century, nature and the ecosystem have been devastated due to use of nuclear and biological weaponry. Most of Earth has been contaminated and is collapsing into ruin, and a great majority of plants and animals are now extinct. The world heads to the “Big Six,” the sixth mass extinction event. Humanity built cities in the sky, migrating the endangered species of animals and plants there. Over many years, the animals evolved in these isolated cities. With artificial genetic crossbreeding, they acquire language, bipedality, and build a life and civilization for themselves free from want. No one thinks of the world below any longer. One day, a single plant seed wanders into one of the sky cities and some children discover it. Unable to resist the temptation to look into the world outside, they decide to undertake an adventure to the outside world, unknowing that once they set foot on the ground, they will never be able to return.\n<br><br>\n(Source: Anime News Network)\n<br>\n<br>\nUtopa is one of four Anime Tamago 2016 young animator training projects.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 483,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 13,
+                  "name": "Studio 4°C"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 102569,
+          "title": {
+            "userPreferred": "Boku wa Mada 7-sai Datta"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102569-XXq1ASIHugiY.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102569-XXq1ASIHugiY.jpg",
+            "color": "#7893d6"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 5,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 5,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video for the band Lukas Graham's song \"7 Years\"",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 112,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102596,
+          "title": {
+            "userPreferred": "Kyoto Animation Koushiki Twitter: Itsumo Arigatou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102596-gsWyk6748uoc.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102596-gsWyk6748uoc.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 17
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 17
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Kyoto Animation celebrating 50,000 Twitter followers with a short animation.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 300,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 2,
+                  "name": "Kyoto Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21567,
+          "title": {
+            "userPreferred": "The Lost Village"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21567-G0fAjdtoCsZz.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21567-G0fAjdtoCsZz.jpg",
+            "color": "#c9f1f1"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 6,
+            "day": 17
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21567-YmjhOlLo1dzm.jpg",
+          "season": "SPRING",
+          "description": "30 young men and women who came together on a shady bus tour. The tour's destination: an illusive, possibly nonexistent village called Nanakimura. In Nanakimura, one can lead a utopian existence, free of the world's obstacles … or so it was rumored, like an urban legend.<br>\n<br>\n\"In despair over the real world ... wanting to escape the tedious daily life … wanting to restart your life from scratch …\"<br>\n<br>\nThe bus headed deep into the mountains, carrying 30 people each harboring their own expectations and wounds in their hearts…<br>\n<br>\nAnd so, the place these 30 arrived at, was an uninhabited village with the lingering faint scents of life, even though it was falling apart.<br>\n<br>\nWhat is the truth of Nanakimura facing the 30? You can't miss even one episode!\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Horror",
+            "Mystery",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 33720,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 51,
+                  "name": "diomedéa"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 97819,
+          "title": {
+            "userPreferred": "Soul Worker: Your Destiny Awaits"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97819-fHy7ijlT9DAG.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97819-fHy7ijlT9DAG.jpg",
+            "color": "#e4435d"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 17
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A short anime adaptation of the Korean online role-playing game Soul Worker.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 5,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 1055,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 896,
+                  "name": "Larx Entertainment"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 126667,
+          "title": {
+            "userPreferred": "Blue Star"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126667-Evu8SC190aBU.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126667-Evu8SC190aBU.png",
+            "color": "#6b50e4"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 5,
+            "day": 16
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 5,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the track <i>Blue Star</i> by HachiojiP featuring Miku Hatsune from the album \"Eight: The Best of HachiojiP\". The song is the theme song of Hatsune Miku Expo 2016.\n<br><br>\nThere are two official videos for this song, one is the official music video for Hatsune Miku Expo 2016, with illustrations by Kei Moshizuki and direction by Okiku, released on February 15, 2016.<br><br>\nThe other is directed by Atsushi Wakamura and is the one included with the first press release of  HachiojiP's eighth album \"Eight: The Best of HachiojiP\" on June 15, 2016.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 133,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103993,
+          "title": {
+            "userPreferred": "I think you're a little confused"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103993-IN5lVnSOQIRo.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103993-IN5lVnSOQIRo.jpg",
+            "color": "#933528"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 7,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 7,
+            "day": 30
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103993-KnvQabRrmpDC.jpg",
+          "season": null,
+          "description": "One day a letter takes a blood-sausage to his friend, liver-sausage. So, he went... it's taking its motif from Grimm's fairy tale \"The Strange Feast\"\n<br><br>\nGraduate Work 2016 by Iku Ogawa, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source:  Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 147,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 87480,
+          "title": {
+            "userPreferred": "Bikini Warriors OVA"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87480-yrlSMyeujL0w.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87480-yrlSMyeujL0w.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2018,
+            "month": 7,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The first episode will focus on Hunter and Valkyrie, who were guest characters in the television anime, as well as two new characters: Cleric and Kunoichi. Hunter and Valkyrie meet Cleric and think she will join them as their healer, but something is strange about her. Then they are attacked by Kunoichi, who seeks legendary bikini armor.<br><br>\n\nThe second episode will focus on Fighter's party after they have overcome hardships, spoken with god, and earned the legendary bikini armor. However, the armor is invisible to idiots.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 5,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 3042,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 753,
+                  "name": "PRA"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 91,
+                  "name": "feel."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21380,
+          "title": {
+            "userPreferred": "Divine Gate"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21380-U2PS8WAY1IxN.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21380-U2PS8WAY1IxN.jpg",
+            "color": "#f17835"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 1,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21380-3L0VrJK5bA3d.jpg",
+          "season": "WINTER",
+          "description": "When the Divine Gate opened, the living world, the heavens, and the underworld became connected, ushering an era of chaos where desires and conflict intersect. To restore order, the World Council is formed. As peace is restored, the Divine Gate becomes an urban legend.<br>\n<br>\nIn that world, boys and girls deemed fit by the World Council are gathered. They are ones who aim to reach the gate for their personal objectives. Those who reach the gate can remake the world.<br>\n<br>\nWhat lies beyond the gate? When they reach the door, will the world change? Will it be the past that changes, or will it be the future?<br>\n<br>\n(Source: MAL News)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 23884,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 110332,
+          "title": {
+            "userPreferred": "Mobile Suit Gundam 0083: Stardust Memory - Mayfly of Space 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110332-5Xn9z2IKfNKs.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110332-5Xn9z2IKfNKs.jpg",
+            "color": "#e48650"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 1,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 1,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Picture drama included in the bluray release of Kidou Senshi Gundam 0083: Stardust Memory",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 463,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21661,
+          "title": {
+            "userPreferred": "Soul Buster"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21661-0rjhoN3Up4Ii.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21661-0rjhoN3Up4Ii.jpg",
+            "color": "#e4c9a1"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 10,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 11
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21661-kWUuD1kqV3Sj.jpg",
+          "season": "FALL",
+          "description": "An adaptation of author Bai Mao's Chinese novel series based on Romance of the Three Kingdoms.<br><br>\n\nKeishuu, China. The history books say that in the era of the Three Kingdoms, this land was a place of never-ending war. A young high school boy, Sonshin, who hates his city's history, is troubled by a certain dream. When he wakes up from the dream, strange things begin to happen one after another, and without understanding what's going on, he suddenly finds himself facing Gien, one of the generals from the Romance of the Three Kingdoms, who's trying to kill him! Just before Gien's blade strikes home, a mysterious beautiful woman appears in front of Sonshin. What trials await Sonshin?<br><br>\n\n(Source: Crunchyroll)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 13,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 3130,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 121663,
+          "title": {
+            "userPreferred": "Youkai Watch: Soratobu Kujira to Double Sekai no Daibouken da Nyan!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121663-n90agXSoHzW6.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121663-n90agXSoHzW6.jpg",
+            "color": "#f1e450"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 17
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 17
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "When a giant flying whale suddenly appears over Sakura New Town and its sound is heard the Yo-Kai undergo a transformation. The characters soon realize that as a result they have become corporeal and exist in a material world. This is the third film in the Yok-Kai Watch series based on the hit game.\n<br><br>\n(Source: IMDB)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 201,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 28,
+                  "name": "OLM"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 99644,
+          "title": {
+            "userPreferred": "Ginga"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99644-aBjmouhXJmOB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99644-aBjmouhXJmOB.jpg",
+            "color": "#1a93e4"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 5,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 5,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Official music video for Oresama's new single \"Ginga\".",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Music",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 234,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21302,
+          "title": {
+            "userPreferred": "Wagamama High Spec"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21302-xKQKvqQdOoMF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21302-xKQKvqQdOoMF.jpg",
+            "color": "#43c9ff"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 6,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Wagamama High Spec revolves around Kouki Narumi, a high school student who also draws a manga serialized in a weekly magazine. Because the manga he draws is a risqué romantic comedy, he keeps this fact a secret from everyone around him, with his younger sister Toa and his best friend Mihiro being the only ones who know.<br>\n<br>\nBut one day, as the student council president Kaoruko Rokuonji is searching for male members for the student council, he finds out that Kouki is the manga's author. Kouki joins the student council in exchange for Kaoruko not revealing his secret. However, the vice president, Ashe R. Sakuragi, strongly opposes him joining, and in the midst of all this, various requests and troubles of students begin to pile up.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 6382,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6108,
+                  "name": "AXsiZ"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21766,
+          "title": {
+            "userPreferred": "Zegapain ADP"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21766-SzZQDdl10LbH.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21766-SzZQDdl10LbH.png",
+            "color": "#86bbe4"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 10,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 10,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Film compilation of the TV series with new scenes and characters.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 120,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 628,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 97609,
+          "title": {
+            "userPreferred": "Cheating Craft"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97609-qSAaN9XbRQjj.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97609-qSAaN9XbRQjj.jpg",
+            "color": "#86e4ff"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 10,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "University Exams are one of the most influential factors in one's early life. Depending on the results, a fantastic, high class, honorable life may await you. Or, on the other end of the spectrum, you may be left only leftovers. In this type of battlefield atmosphere, students are always doing their best to “evolve” and survive. “Learning Types” are students who have studied hard their whole lives and legitimately memorized everything they have studied, while “Cheating types” are those who, as the name suggests, only managed to climb the educational ladder by cheating. Though sometimes they must cooperate with each other, there is a great rivalry between the two types. How will the hero “Mumei”, a C Type, followed by the heroin “Koi” a L-Type, struggle in those tests. Now a new battle, one beyond imagination, is about to begin.<br><br>\n\n(Source: Emon)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 10288,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6138,
+                  "name": "BLADE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21792,
+          "title": {
+            "userPreferred": "Zekkyou Gakkyuu: Tensei"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21792-Gs5NM6czsBUD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21792-Gs5NM6czsBUD.jpg",
+            "color": "#2893e4"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 5,
+            "day": 31
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A girl's classmate disappears during a game of hide-and-seek. When she goes out to look for him, she hides when she hears someone pursuing her. After a while, she peeks out to see if her pursuer has given up.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 882,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103780,
+          "title": {
+            "userPreferred": "Ensemble Girls!!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103780-AwDJuxPZApUc.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103780-AwDJuxPZApUc.jpg",
+            "color": "#5d35e4"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 6,
+            "day": 19
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 6,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The opening animation PV for Ensemble Girls!!, a mobile game app.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 201,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 99788,
+          "title": {
+            "userPreferred": "Dongguo Xiaojie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99788-KF4fx5adU0fx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99788-KF4fx5adU0fx.jpg",
+            "color": "#e4bb43"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2017,
+            "month": 4,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Dongguo Xiaojie, a young girl, has lived together with her mother ever since she was little. On the year she turned sixteen, her mother suddenly contracted a \"Grave Illness\". To save her mother, Dongguo Xiaojie set foot into the unknown on a dangerous journey. Accompanying her on this journey is her sworn elder brother Mo Zixuan and the mysterious youth, Life's Hardship. However, danger arises again and again as they are continuously attacked by people they meet on their journey. Just what conspiracy is hidden behind this journey?",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 15,
+          "duration": 14,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 381,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6140,
+                  "name": "Haoliners Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 99653,
+          "title": {
+            "userPreferred": "Nüwa Chengzhang Riji"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99653-W2s06yGutY8K.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99653-W2s06yGutY8K.png",
+            "color": "#f1785d"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 11,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "This story follows an orphan girl rumoured to be a successor of \"Nuwa\", the goddess of creation in ancient Chinese mythology.\n",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 30,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 654,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6130,
+                  "name": "G.CMay Animation & Film"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 101904,
+          "title": {
+            "userPreferred": "Moving Colors"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101904-T1mzQiOp0od4.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101904-T1mzQiOp0od4.jpg",
+            "color": "#f1d635"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101904-cvVE9ZGp7FTI.jpg",
+          "season": "SPRING",
+          "description": "An animated short film produced by past students of Taku Furukawa based on colors.\n",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 210,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 107257,
+          "title": {
+            "userPreferred": "Alice In Voodooland"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx107257-eDPtjrv1Y93k.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx107257-eDPtjrv1Y93k.jpg",
+            "color": "#e4d643"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 10,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 10,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video by Kousuke Sugimoto for the song \"Alice In Voodooland\" by RoughSketch and featuring Aikapin.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 247,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 116150,
+          "title": {
+            "userPreferred": "Jewelpet: Attack Chance!?"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116150-0yU19Ho8Y1FO.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116150-0yU19Ho8Y1FO.png",
+            "color": "#28aee4"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 2,
+            "day": 19
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 5,
+            "day": 31
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": null,
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 179,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21242,
+          "title": {
+            "userPreferred": "First Love Monster"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21242-5lHHNLFBsVB3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21242-5lHHNLFBsVB3.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 7,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 9,
+            "day": 17
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "When fifteen-year-old Kaho Nikaidou leaves her sheltered home to start life anew in a Tokyo high school dormitory, the last thing she expects is to nearly get hit by a truck! Saved in the nick of time by a handsome stranger, Kaho falls head over heels for him and, after finally tracking him down, boldly confesses her feelings. Turns out Kaho's mystery savior, Kanade, is the son of Kaho's new landlord! The handsome object of Kaho's affection agrees to go out with her, but her newfound bliss is short-lived when it turns out that her new boyfriend...is a fifth-grader?!<br>\n<br>\n(Source: Yen Press)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 14630,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 107175,
+          "title": {
+            "userPreferred": "Cheer Danshi!! OVA"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107175-8V3MZXwvFTzT.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx107175-8V3MZXwvFTzT.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Unaired OVAs bundled with the fourth Blu-ray and DVD volume.<br>\n<br>\n<b>The first OVA</b>, titled \"Iroiro Danshi!!\" (Various Boys!!) is four minutes long and is about Wataru Mizoguchi suggesting that the Breakers' cheerleading team members quit and become different kinds of boys.<br>\n<b>The second OVA</b> is titled \"Kantan!! Cheer Danshi to Issho ni Up Dance\" (Simple!! Up Dance Together with Cheer Boys) and is 19 minutes long.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 13,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 390,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21705,
+          "title": {
+            "userPreferred": "RS Project: Rebirth Storage"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21705-54thuImX0dMO.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21705-54thuImX0dMO.jpg",
+            "color": "#50c9e4"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 6,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 6,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Winner of smartphone novel company Every Star's MechaTsuku contest.<br>\n<br>\nRS Project takes place in a parallel world that resembles modern Japan, but where alien lifeforms known as \"Kikou\" (Trick) fell from the sky ten years prior and started attacking humanity. The main characters are a pilot, Mizuru Mido, and her assistant, Fuu Sagami, who use a mecha made out of an enemy's remains. However, battle causes memory loss for the pilot, and they must unravel the mystery as to why.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Mystery",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 1381,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102743,
+          "title": {
+            "userPreferred": "Dokidoki DREAM!!!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102743-w1xKRSUXdfk2.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102743-w1xKRSUXdfk2.png",
+            "color": "#e4c943"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 8,
+            "day": 16
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 8,
+            "day": 16
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102743-uJjmWCWSoTq5.jpg",
+          "season": null,
+          "description": "Music video for the song <i>Dokidoki DREAM!!!</i> by the fictional band Irodorimidori spawned from Sega's Chunithm rhythm arcade game.<br><br>\n\n<i>Note: Dokidoki DREAM!!! is the 11th song in the Irodorimidori series.</i>",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 300,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7030,
+                  "name": "Promotal"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 118030,
+          "title": {
+            "userPreferred": "Hachigatsu no Cinderella Nine (ONA)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118030-5apST4cSr5Wu.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118030-5apST4cSr5Wu.png",
+            "color": "#5daef1"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 7,
+            "day": 31
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 7,
+            "day": 31
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The opening animation PV for Hachigatsu no Cinderella Nine, a mobile game app where you train/raise a group of high school girls to become baseball athletes so that they can make it to Koshien. The game was launched the following month for both iOS and Android.\n\n",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 371,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102488,
+          "title": {
+            "userPreferred": "Committed RED"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102488-zekiQTCQOo2H.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102488-zekiQTCQOo2H.png",
+            "color": "#784328"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 9
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102488-kGqLvIohx10T.jpg",
+          "season": null,
+          "description": "A music video for T.M.Revolution's song \"Committed RED\".<br><br>\n\nThe concept of the video is \"the song of a man who crosses through the ages and fights\" and was animated as a work about \"a man who continues his journey of fighting even though he hesitatingly hurts others, and even though society and a normal everyday life have tossed him away.\"<br><br>\n\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 142,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 10,
+                  "name": "Production I.G"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 101905,
+          "title": {
+            "userPreferred": "\"Parade\" de Satie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101905-j7UJdMHBWtkN.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101905-j7UJdMHBWtkN.jpg",
+            "color": "#d61a43"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 5,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 5,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A Parade by three managers and four performers. Koji Yamamura's new animation project, \"Parade\" de Satie (Satie's \"Parade\"). Erik Satie composed ballet music \"Parade\" in 1916 with 1917. Dutch indie jazz band, Willem Breuker Kollektief played this music and Koji Yamamura directs for Erik Satie's\"Parade\" as a surrealism animated ballet. It will be coming in 2016 that 150th anniversary Erik Satie and 100th-anniversary \"Parade\".\n<br><br>\n(Source: Yamamura Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 14,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 321,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 21612,
+          "title": {
+            "userPreferred": "Onigiri"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21612-d5zrx9CWkxNl.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21612-d5zrx9CWkxNl.png",
+            "color": "#e4ae43"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 4,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 6,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The MMORPG Onigiri thrusts its players into mystical Japan, a land filled with mythical creatures of Japanese legend. Starting as a lone Oni, players fight against the malevolent influence of the Kamikui as their miasma spreads over the land. 8 NPCS, each with their own distinct personality and skills, ally themselves with the player to help build a legend, and quell the evil that has arisen. As you grow stronger together, so do the bonds binding you to each other.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 5358,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6109,
+                  "name": "Studio Signpost"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21598,
+          "title": {
+            "userPreferred": "Watashi-tachi, Luck Logic-bu!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21598-8HT0558OSNSv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21598-8HT0558OSNSv.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 1,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The comedy shorts follow four girls who are members of the Luck Logic Club, whose activity is playing the Luck & Logic card game. Watashitachi, Luck Logic-bu! will air approximately one minute before each episode of the main series.\n",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 1045,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 95,
+                  "name": "Doga Kobo"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 108597,
+          "title": {
+            "userPreferred": "Hikari: Kariya wo Tsunagu Monogatari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108597-CwFL6ukTx7Hd.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108597-CwFL6ukTx7Hd.jpg",
+            "color": "#d6d678"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108597-RhlRrzmqfg9Z.jpg",
+          "season": "SPRING",
+          "description": "A short produced by the Kariya City Tourist Association of Aichi Prefecture to promote tourism. It tells the story of a high school ekiden (long-distance road relay running) club and its efforts to prepare for the ward tournament. Since the story takes place in Kariya, viewers will get an idea of the city through the backgrounds.\n\n\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 207,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 136228,
+          "title": {
+            "userPreferred": "Look at Me Only"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136228-F43hkEnhIbRT.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136228-F43hkEnhIbRT.png",
+            "color": "#ff7835"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2016,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136228-AlOZXYtrT7kh.jpg",
+          "season": null,
+          "description": "Having forgotten exciting feelings of the early days of the relationship, the man drifts along petting his guinea pig. One day he meets a beauty of flower who appreciates the pet.\n<br><br>\nTomoki Misato's 2016 Graduation Work at Musashino Art University.\n",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 109,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102398,
+          "title": {
+            "userPreferred": "Fire Bird"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102398-lXZkA7wKYH0V.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102398-lXZkA7wKYH0V.jpg",
+            "color": "#f1bb50"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 8,
+            "day": 31
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 8,
+            "day": 31
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video produced by Tezuka Productions for the title track \"Fire Bird\" performed by Miyavi",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 197,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102380,
+          "title": {
+            "userPreferred": "Robber's Company"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102380-jNpNFUdBesb6.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102380-jNpNFUdBesb6.jpg",
+            "color": "#f12878"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 6,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2017,
+            "month": 8,
+            "day": 2
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102380-vndea13e4rky.jpg",
+          "season": "SUMMER",
+          "description": "The stage is Tokyo. One girl wants to be a fashion designer. She gets a job officially selling suits, but main business is robbing banks. Her name is Funny. Is Funny able to follow her dream be a fashion designer even though she might get caught in the factions and bonds of the company?!\n<br><br>\n(Source: Official site)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 113,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6814,
+                  "name": "Studio Ugoki"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 97591,
+          "title": {
+            "userPreferred": "Bloodivores"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97591-sw6OKNV8zkM3.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97591-sw6OKNV8zkM3.png",
+            "color": "#e4bb43"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 9,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 12,
+            "day": 16
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n97591-m2VhPPT05kee.jpg",
+          "season": null,
+          "description": "60 years ago, a strange case of insomnia struck the population, forcing them to stay awake for more than a full week. The victims, completely sleep deprived, all went mad. To cure this illness, a new medicine was produced, but the side effects turned the patients into vampires. Humanity went to war against this new species and triumphed, but some of the vampires managed to survive.\n<br><br>\nBorn from a human and a vampire, the main character Mi Liu, The Child of Hope, is to represent the new hope that will connect the two species. Ringleader of a bank robbery, Mi Liu is arrested and transferred to a special prison of the National Defense Agency that monitors vampires. Trying to break free with Anji, Mi Liu is attacked by strange monsters and he finds out that the prison location corresponds to the birthplace of vampires, the old capital Blue Town. Why are vampires trapped in Blue Town? What are those strange monsters attacking them? Our heroes must fight to solve those mysteries.\n<br><br>\n(Source: Haoliners)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mystery",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 13270,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6072,
+                  "name": "Creators in Pack"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6532,
+                  "name": "NAMU Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 102722,
+          "title": {
+            "userPreferred": "Marine Bloomin'"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102722-lxojpxeohJu9.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102722-lxojpxeohJu9.png",
+            "color": "#356bff"
+          },
+          "startDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 24
+          },
+          "endDate": {
+            "year": 2016,
+            "month": 3,
+            "day": 24
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102722-cYHWUSZ2S8lC.jpg",
+          "season": null,
+          "description": "A music video for the song <i>Marine Bloomin</i>, a part of Sanyo Bussan's iMarine project, Marine Bloomin' stars Umi Monogatari's Marin.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 223,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2376 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 834,
+        "perPage": 50,
+        "currentPage": 10,
+        "lastPage": 17,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 140601,
+          "title": {
+            "userPreferred": "A Bite of Bone"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140601-zYn8CKKf2T5T.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140601-zYn8CKKf2T5T.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 26
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A little girl reflects on her last summer with her father at his funeral.<br>\n<br>\nSet on a small island in Japan where the director was born and raised, the film explores the relationship between the death of her father and the bomb storage in the mountain behind the family house.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 33,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140474,
+          "title": {
+            "userPreferred": "Kamisama no Idenshi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140474-XA9bOwk82nDU.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140474-XA9bOwk82nDU.png",
+            "color": "#e46b35"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 18
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "<i>The die is cast.</i> <br><br>\nMusic video animated by Riri Yamashita for the song <i>Kamisama no Idenshi</i> by Mafumafu.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 112,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140393,
+          "title": {
+            "userPreferred": "nag"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140393-cioLuJdjXM2i.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140393-cioLuJdjXM2i.png",
+            "color": "#c9d6f1"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 5,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 5,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video animated by Ai Niina for the song <i>nag</i> by Centimillimental.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 73,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140377,
+          "title": {
+            "userPreferred": "Cogimyun 2nd "
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140377-iobE8G1qIDBh.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140377-iobE8G1qIDBh.jpg",
+            "color": "#f1e4bb"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 5,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 7,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": null,
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 10,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 8,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 400,
+                  "name": "Gathering"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 140371,
+          "title": {
+            "userPreferred": "Doggie Corgi 3"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140371-Qm4xWsq62IPu.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140371-Qm4xWsq62IPu.png",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 5
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The third season of <i>Doggie Corgi</i>.<br><br>\n<i>Note: While the first 2 seasons were released as \"looping animations\", the third season is releasing as a regular short series.</i>",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "RELEASING",
+          "episodes": null,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 21,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6358,
+                  "name": "Studio Goindol"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 140366,
+          "title": {
+            "userPreferred": "Our Little Pond"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140366-7WgnfcRnILvH.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140366-7WgnfcRnILvH.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2021,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2021,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140366-Ri8KKjPHVzYY.jpg",
+          "season": null,
+          "description": "I’m the only one who can't live without an oxygen tank in the underwater world. No matter how suffocated I feel, I preserve peace and harmony by pretending the selfish girl and my friends with complicated family backgrounds don’t bother me.\n<br><br>\nGraduate Work 2021, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 14,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140363,
+          "title": {
+            "userPreferred": "Wandering Late at Night"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140363-OJ0ADHRpNECX.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140363-OJ0ADHRpNECX.png",
+            "color": "#e45d1a"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 2,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 2,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": null,
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 18,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140361,
+          "title": {
+            "userPreferred": "Pupa (2021)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140361-mAyMZkyMLXHs.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140361-mAyMZkyMLXHs.png",
+            "color": "#e47843"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2021,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140361-nJQe4WuOFMui.jpg",
+          "season": null,
+          "description": "How long has it been since she lost control of her body? She is completely tapped out and finds herself wishing that she could just shed her body.\n<br><br>\nGraduate Work 2019, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Geidai Animation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 83,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140347,
+          "title": {
+            "userPreferred": "Forest ghost"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140347-n2PR8QWPoY7k.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140347-n2PR8QWPoY7k.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2021,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2021,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140347-PZEhwPl5Xh8l.jpg",
+          "season": null,
+          "description": "Graduation work of Keiko Fujimi at Tama Art University.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 30,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140345,
+          "title": {
+            "userPreferred": "The Sun in Hell"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140345-Bqn8qcatAn4w.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140345-Bqn8qcatAn4w.png",
+            "color": "#e44328"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2021,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140345-jhY6QDFcTRE8.jpg",
+          "season": null,
+          "description": "Graduation work of Ryota Yuno at Tama Art University.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 37,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140344,
+          "title": {
+            "userPreferred": "Pair of feather"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140344-mtiPfrCma8nk.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140344-mtiPfrCma8nk.png",
+            "color": "#5dc9e4"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2021,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140344-l5fYnx9VnoY2.jpg",
+          "season": null,
+          "description": "Graduation work of Tomoka Hiroshige at Tama Art University.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 29,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140343,
+          "title": {
+            "userPreferred": "The Return"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140343-6Gctcs5ZTw39.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140343-6Gctcs5ZTw39.png",
+            "color": "#e4c9a1"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2021,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140343-J9M0qB9pWyj8.jpg",
+          "season": null,
+          "description": "Graduation work of Nao Tsukahara at Tama Art University.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 19,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140342,
+          "title": {
+            "userPreferred": "In full bloom"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140342-9xAYBLyRHsY5.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140342-9xAYBLyRHsY5.jpg",
+            "color": "#e4d65d"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2021,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140342-1arJQinCPf6m.jpg",
+          "season": null,
+          "description": "Miho Takahashi's graduation work from 2021 at Tama Art University.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 26,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140252,
+          "title": {
+            "userPreferred": "Hongse Jiangshan: Huangma Fenghuo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140252-KIfkVe7ytLGr.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140252-KIfkVe7ytLGr.png",
+            "color": "#e4861a"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 13,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 86,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6556,
+                  "name": "Boruntong"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 140180,
+          "title": {
+            "userPreferred": "Nani Yattemo Umaku Ikanai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140180-9D1XG33u3DUK.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140180-9D1XG33u3DUK.png",
+            "color": "#d6861a"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Animated music video directed by Tokichiaki for the song Nani Yattemo Umaku Ikanai by meiyo.<br><br>\n\n<i>Note: There are currently two versions of this music video, one released on September 26 featuring vocals meiyo and another one featuring vocals by Kafu released on October 3.</i>",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 28,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140175,
+          "title": {
+            "userPreferred": "Shiguang Zhaoxiangguan De Richang"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140175-ALEehijVQois.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140175-ALEehijVQois.jpg",
+            "color": "#50bbe4"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 10
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Light-hearted chibi-style episodes of <i>Shiguang Dailiren</i> about the daily life in the photo studio.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "RELEASING",
+          "episodes": null,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 288,
+          "nextAiringEpisode": {
+            "airingAt": 1641787200,
+            "timeUntilAiring": 2648628,
+            "episode": 4
+          },
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6391,
+                  "name": "Studio LAN"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7013,
+                  "name": "Yuanqi Wa Animation & Comics"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 140163,
+          "title": {
+            "userPreferred": "DENONBU Novel: Shibuya-hen PV"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140163-j7TP585DILPa.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140163-j7TP585DILPa.png",
+            "color": "#e45d86"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "To commemorate the first release of the DENONBU Shibuya series of web novels, a short animation directed by Daiki Inaba was made that takes a glimpse at Karin's first encounter with her fellow club members Lucia and Mitsuki from the Shibuya district. ",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 85,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6216,
+                  "name": "Geek Toys"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 140114,
+          "title": {
+            "userPreferred": "Blink in the Desert"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140114-2Lq8Fvvb73gk.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140114-2Lq8Fvvb73gk.png",
+            "color": "#935028"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 8,
+            "day": null
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 8,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Malice comes up abruptly. As if it is blinking. Capricious like a flapping insect. One day a young hermit finds a winged insect and crushes it out of disgust. Meanwhile, the elephant sees the whole situation but says nothing. From that day on, the boy is chased by shadows of the winged insects. ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 42,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140107,
+          "title": {
+            "userPreferred": "Amemiya-san"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140107-9YqrgUecagX0.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140107-9YqrgUecagX0.png",
+            "color": "#f1e4c9"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 3,
+            "day": 9
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "New anime shorts posted on Keiichi Arawi's YouTube channel about the titular Amemiya-san. <br><br>\n\nThe list of released videos included in this entry are as follows: <br>\n1) 【アニメ】丑三つ時の雨宮さん (Mar 9, 2021). <br>\n2) 【アニメ】新学期の雨宮さん (Apr 27, 2021). <br>\n3) 【アニメ】雨宮さんとドクロのうた (Aug 27, 2021). <br>",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "RELEASING",
+          "episodes": null,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 84,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140103,
+          "title": {
+            "userPreferred": "Honkai Impact 3rd - Reburn: II"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140103-rSZYzc67oJ7O.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140103-rSZYzc67oJ7O.png",
+            "color": "#5d86e4"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 8,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 8,
+            "day": 6
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140103-p4mlf9ai19AH.jpg",
+          "season": null,
+          "description": "A world from which Honkai has disappeared.\nA journey towards the heavens.\nThe first test flight is about to begin.\n<br><br>\n(Source: Youtube Description)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 63,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6729,
+                  "name": "miHoYo Anime"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7008,
+                  "name": "Project Studio Q"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 140101,
+          "title": {
+            "userPreferred": "Honkai Impact 3rd - Pre-Revelation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140101-exkKwkkBqJq2.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140101-exkKwkkBqJq2.png",
+            "color": "#bbaee4"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 17
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 17
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140101-YAWN1Z7lRaMi.jpg",
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 63,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6730,
+                  "name": "wonderium"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6729,
+                  "name": "miHoYo Anime"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 140099,
+          "title": {
+            "userPreferred": "Atelier Ryza: Animated Shorts"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140099-DIelsgo7D6EO.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140099-DIelsgo7D6EO.png",
+            "color": "#e4bb50"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 7,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 8,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Short films made with RiBLA Studio, the VR tool that lets anybody make their own anime. ",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 7,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 51,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140082,
+          "title": {
+            "userPreferred": "Peace"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140082-5b62qPvJ2rJe.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140082-5b62qPvJ2rJe.png",
+            "color": "#50e4bb"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video directed by ShiShi Yamazaki for the song <i>Peace</i> by FreeTEMPO.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 26,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140081,
+          "title": {
+            "userPreferred": "Howl At The Moon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140081-YfrVzHpTBYSZ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140081-YfrVzHpTBYSZ.png",
+            "color": "#86c9e4"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video directed and animated by Ryuu Katou for the song <i>Tsuki ni Hoeru</i> by Yorushika.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 79,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140028,
+          "title": {
+            "userPreferred": "Sumo Wrestler"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140028-O3pFD04rdSI4.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140028-O3pFD04rdSI4.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 8,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 8,
+            "day": 8
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Sawako Kabuki's contribution to the event \"Atarashii Yoru no Hanabi\", where fireworks-themed short films by four artists were screened on the wall of the BONUS TRACK plaza.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 43,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140027,
+          "title": {
+            "userPreferred": "About you"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140027-81oz9qb9r9NV.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140027-81oz9qb9r9NV.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 5,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 5,
+            "day": 13
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140027-GZD15znwunUK.jpg",
+          "season": null,
+          "description": "Choi Seo-Yeon's graduation work from 2020 at Tama Art University.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 107,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140026,
+          "title": {
+            "userPreferred": "Fragile"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140026-bVt53J18trWJ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140026-bVt53J18trWJ.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 5,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 5,
+            "day": 13
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140026-izgtOg6mtJo6.jpg",
+          "season": null,
+          "description": "Hamaguchi Taigo's graduation work from 2020 at Tama Art University.\n",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 44,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140012,
+          "title": {
+            "userPreferred": "Chiisaki Monotachi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140012-X7ar8NveVGzm.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140012-X7ar8NveVGzm.png",
+            "color": "#a1aef1"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 6,
+            "day": null
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 7,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the song Chiisaki Monotachi by MAN WITH A MISSION that was featured on NHK's Minna no Uta program.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 17,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140008,
+          "title": {
+            "userPreferred": "Uranomito"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140008-4LbaMgQxgrLF.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140008-4LbaMgQxgrLF.png",
+            "color": "#f15093"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 8,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 8,
+            "day": 11
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140008-tJtT3ujfFbMM.jpg",
+          "season": null,
+          "description": "Music video directed by Tatsuro Ogata for the original song <i>Uranomito</i> by Tsukino Mito.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 37,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 139986,
+          "title": {
+            "userPreferred": "Yao Shen Ji 5"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139986-EIyjJOUQCj0b.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139986-EIyjJOUQCj0b.jpg",
+            "color": "#e48650"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2022,
+            "month": 4,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The fifth season of <i>Yao Shen Ji</i>.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "RELEASING",
+          "episodes": 52,
+          "duration": null,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 138,
+          "nextAiringEpisode": {
+            "airingAt": 1639188000,
+            "timeUntilAiring": 49428,
+            "episode": 15
+          },
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6475,
+                  "name": "Ruo Hong Culture"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139880,
+          "title": {
+            "userPreferred": "Yakou wo Yobu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139880-TnJtvsOIpV8r.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139880-TnJtvsOIpV8r.png",
+            "color": "#d65de4"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video directed by Sunao for the song <i>Yakou wo Yobu</i> by KOKO. <br><br>\n\n<i>Note: The music video initially premiered on KOKO's YouTube channel on September 25, 2021, but was reuploaded again on September 28, with corrected credits. </i>\n",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 82,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 139811,
+          "title": {
+            "userPreferred": "Zhen Dao Ge Tebie Pian"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139811-ixsz0m92553H.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139811-ixsz0m92553H.jpg",
+            "color": "#e49328"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": null,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 18,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6735,
+                  "name": "Infinity Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139751,
+          "title": {
+            "userPreferred": "Geu Yeoreum"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139751-OfcTG7vjbs11.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139751-OfcTG7vjbs11.jpg",
+            "color": "#8678f1"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 4
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139751-OqFpDn6cShBk.jpg",
+          "season": "SUMMER",
+          "description": "In a small Korean town, two 18-year-old girls, Suyi and Yi-gyeong, fall in love, dreaming of moving to Seoul together after graduation.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "RELEASING",
+          "episodes": 7,
+          "duration": null,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 250,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 139694,
+          "title": {
+            "userPreferred": "Days"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139694-efXcmVuziRps.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139694-efXcmVuziRps.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 2,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 2,
+            "day": 2
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139694-3BV2eLDVqyu0.jpg",
+          "season": null,
+          "description": "A music video for the song <i>Hibi</i> by AiNA THE END.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 25,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 139649,
+          "title": {
+            "userPreferred": "Juuku-Gatsu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139649-sNYF68qpUkHU.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139649-sNYF68qpUkHU.png",
+            "color": "#436be4"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 6,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 6,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video directed by Ryouji Yamada for the song <i>Juuku-Gatsu</i> by RIM.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Psychological",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 35,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 139588,
+          "title": {
+            "userPreferred": "Yamishibai 9th Special"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139588-ZXAvUYIjUAdA.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139588-ZXAvUYIjUAdA.jpg",
+            "color": "#1a286b"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 8,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 8,
+            "day": 14
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139588-OYgxwBPcOGmq.jpg",
+          "season": "SUMMER",
+          "description": "Special to celebrate the ninth season of Yami Shibai.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 122,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 139564,
+          "title": {
+            "userPreferred": "Wo Jiao MT: Guilai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139564-qUGyzRVlBN68.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139564-qUGyzRVlBN68.png",
+            "color": "#ffa143"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 27
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Remake of season 1 of the originally fan-made animation based on World of Warcraft.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "RELEASING",
+          "episodes": 10,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 5,
+          "nextAiringEpisode": {
+            "airingAt": 1639562400,
+            "timeUntilAiring": 423828,
+            "episode": 9
+          },
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6979,
+                  "name": "Coco Legends"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139563,
+          "title": {
+            "userPreferred": "Fatchi Baike 4"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139563-NNEii13S8Swx.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139563-NNEii13S8Swx.png",
+            "color": "#e4a10d"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 8
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The fourth season of <i>Fatchi Baike</i>.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "RELEASING",
+          "episodes": 12,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 4,
+          "nextAiringEpisode": {
+            "airingAt": 1639188000,
+            "timeUntilAiring": 49428,
+            "episode": 8
+          },
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6582,
+                  "name": "Fatchi Moxie Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139527,
+          "title": {
+            "userPreferred": "Master Ji Gong"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139527-Ny3piHTpCKLo.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139527-Ny3piHTpCKLo.jpg",
+            "color": "#780d0d"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 7,
+            "day": 16
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 7,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "In Yongning Village at the foot of Chicheng Mountain, mischievous young Li Xiuyuan wants to become a hero. Unfortunately though, his various attempts to help his sick mother and prove himself to the villagers only seem to backfire. One day, following a perilous encounter, Xiuyuan learns that he is in fact the reincarnation of the great hero Dragon Slaying Luohan. He also discovers that his father once protected him by stealing a sacred golden artefact for the evil Jin Ling. As his powers begin to awaken, Xiuyuan finally knows what he has to do to become a true hero.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 92,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 54,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6977,
+                  "name": "Ruichen Pictures"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139479,
+          "title": {
+            "userPreferred": "Ashuai 6"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139479-AzLObHGDxNt2.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139479-AzLObHGDxNt2.png",
+            "color": "#f1d61a"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2022,
+            "month": 5,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The sixth season of <i>Ashuai</i>.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "RELEASING",
+          "episodes": 34,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 6,
+          "nextAiringEpisode": {
+            "airingAt": 1639227600,
+            "timeUntilAiring": 89028,
+            "episode": 11
+          },
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 139466,
+          "title": {
+            "userPreferred": "Getsuyoubi no Tawawa 2 Special"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139466-QHja2U72BIU7.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139466-QHja2U72BIU7.jpg",
+            "color": "#4378ff"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 13
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Unaired episode 13 included with the Blu-ray release of <i>Getsuyoubi no Tawawa 2</i>.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "NOT_YET_RELEASED",
+          "episodes": 1,
+          "duration": null,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Ecchi",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 1093,
+          "nextAiringEpisode": {
+            "airingAt": 1639321200,
+            "timeUntilAiring": 182628,
+            "episode": 1
+          },
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6159,
+                  "name": "Yokohama Animation Lab"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139451,
+          "title": {
+            "userPreferred": "Ganbare, Douki-chan Special"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 13
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "An unaired episode included with the <i>Ganbare, Douki-chan</i> Blu-ray.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "NOT_YET_RELEASED",
+          "episodes": 1,
+          "duration": null,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 1045,
+          "nextAiringEpisode": {
+            "airingAt": 1639321200,
+            "timeUntilAiring": 182628,
+            "episode": 1
+          },
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 139436,
+          "title": {
+            "userPreferred": "Bu Baichi Hua Shanhai Jing"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139436-7ilpThLPL1nL.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139436-7ilpThLPL1nL.png",
+            "color": "#f1bb28"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 19
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 7,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "RELEASING",
+          "episodes": 41,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 3,
+          "nextAiringEpisode": {
+            "airingAt": 1639447200,
+            "timeUntilAiring": 308628,
+            "episode": 10
+          },
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6971,
+                  "name": "Chongliyuhua"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139434,
+          "title": {
+            "userPreferred": "Ruguo Lishi Shi Yi Qun Miao 7"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139434-1CoGaCrjYOVb.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139434-1CoGaCrjYOVb.png",
+            "color": "#e4506b"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 17
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The seventh season of <i>Ruguo Lishi Shi Yi Qun Miao</i>.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "RELEASING",
+          "episodes": 12,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 4,
+          "nextAiringEpisode": {
+            "airingAt": 1639278000,
+            "timeUntilAiring": 139428,
+            "episode": 10
+          },
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6582,
+                  "name": "Fatchi Moxie Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139397,
+          "title": {
+            "userPreferred": "Moshi Juexing: Suyuan Part 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139397-LJ80utisQdcX.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139397-LJ80utisQdcX.jpg",
+            "color": "#e4931a"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 4,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 7,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The second half of <i>Moshi Juexing: Suyuan</i>.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 10,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6476,
+                  "name": "Oriental Creative Color"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139386,
+          "title": {
+            "userPreferred": "Hakuouki OVA (2021)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139386-B4hpiRGaIJLo.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139386-B4hpiRGaIJLo.jpg",
+            "color": "#f1c9a1"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 11,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "<b>Episodes:</b> <br>\nChapter One (第一章), November 13, 2021.<br>\nChapter Two (第二章), December 11, 2021. <br>\nChapter Three (第三章), January 29, 2022.<br>\n<br>\n<i><b>Note:</b> The episodes will be streamed in advance on the U-NEXT service ahead of the official BD/DVD release. These OVAs will have a Blu-Ray/DVD release on December 24, 2021, January 28, 2022, and February 25, 2022 respectively. </ii>",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "RELEASING",
+          "episodes": 3,
+          "duration": null,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 562,
+          "nextAiringEpisode": {
+            "airingAt": 1639148400,
+            "timeUntilAiring": 9828,
+            "episode": 2
+          },
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139354,
+          "title": {
+            "userPreferred": "It's Been A Long Time"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139354-EOb7o1cMsKox.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139354-EOb7o1cMsKox.png",
+            "color": "#1a436b"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Commercial for Aaliyah's self-titled album.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 61,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 13,
+                  "name": "Studio 4°C"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139353,
+          "title": {
+            "userPreferred": "Shouji Li de Huanxiong Xiaozhen 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139353-Q8kNFwTid0FG.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139353-Q8kNFwTid0FG.png",
+            "color": "#f1ae50"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 1,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The second season of <i>Shouji Li de Huanxiong Xiaozhen</i>.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "RELEASING",
+          "episodes": 26,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 7,
+          "nextAiringEpisode": {
+            "airingAt": 1639706400,
+            "timeUntilAiring": 567828,
+            "episode": 9
+          },
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6775,
+                  "name": "TThunDer Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139351,
+          "title": {
+            "userPreferred": "Mei Chuxi De Yinyangshi Yijia 3"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139351-L6ExAlnmIH2w.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139351-L6ExAlnmIH2w.jpg",
+            "color": "#43bbe4"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 9,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 10
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139351-rCZMJumMHU9Q.jpg",
+          "season": null,
+          "description": "The third season of <i>Meichuxi De Yinyangshi Yijia</i>.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "RELEASING",
+          "episodes": 12,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 26,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6386,
+                  "name": "Green Monster Team"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139348,
+          "title": {
+            "userPreferred": "Cinderella Chef 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139348-dJIuB4syx3lU.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx139348-dJIuB4syx3lU.png",
+            "color": "#f19328"
+          },
+          "startDate": {
+            "year": 2021,
+            "month": 10,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2021,
+            "month": 12,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The second season of <i>Meng Qi Shi Shen</i>.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "RELEASING",
+          "episodes": 12,
+          "duration": 18,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 339,
+          "nextAiringEpisode": {
+            "airingAt": 1639195200,
+            "timeUntilAiring": 56628,
+            "episode": 11
+          },
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6265,
+                  "name": "Wawayu Animation"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
