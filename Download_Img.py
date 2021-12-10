@@ -38,7 +38,7 @@ for file_name in [file for file in os.listdir(path_to_json) if file.endswith('.j
         AnimeName = i['title']['userPreferred'].strip()
         Rating = i['averageScore']
 
-        if Rating == None or Rating < 60:
+        if Rating == None or Rating < 50:
             continue
 
         for z in ['/',' ','-',',',';','\'']:
