@@ -1,0 +1,590 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 163,
+        "perPage": 50,
+        "currentPage": 4,
+        "lastPage": 4,
+        "hasNextPage": false
+      },
+      "media": [
+        {
+          "id": 9403,
+          "title": {
+            "userPreferred": "Shin Mashin Eiyuuden Wataru Majinzan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9403.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9403.jpg",
+            "color": "#f1d643"
+          },
+          "startDate": {
+            "year": 1989,
+            "month": 8,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 9,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Set a few months after the original series, Wataru is called into action once again!",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 161,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9292,
+          "title": {
+            "userPreferred": "Kiki to Lala no Aoi Tori"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9292.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9292.jpg",
+            "color": "#50a1f1"
+          },
+          "startDate": {
+            "year": 1989,
+            "month": 7,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 7,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Adventures of Kiki and Lala in search of happiness.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 60,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 129,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8680,
+          "title": {
+            "userPreferred": "Fuyu no Yoru no Ohanashi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8680.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8680.jpg",
+            "color": "#f15d6b"
+          },
+          "startDate": {
+            "year": 1989,
+            "month": 3,
+            "day": null
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 4,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Stop motion animation about a day in the forest with its cute inhabitants. ",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 88,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8521,
+          "title": {
+            "userPreferred": "Biriken Nandemo Shoukai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8521-rMpEINuVAIoL.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8521-rMpEINuVAIoL.png",
+            "color": "#50c9e4"
+          },
+          "startDate": {
+            "year": 1989,
+            "month": 4,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 9,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The sequel to Billy Ken.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 22,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 75,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 247,
+                  "name": "Shin-Ei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 8194,
+          "title": {
+            "userPreferred": "Akuma-kun"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8194-AIrsu7iVulsr.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8194-AIrsu7iVulsr.png",
+            "color": "#e48643"
+          },
+          "startDate": {
+            "year": 1989,
+            "month": 4,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 24
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8194-JKUIDzLNktw9.jpg",
+          "season": "SPRING",
+          "description": "The age of the demons has begun. Dr Faust has foreseen this rise of evil. Unfortunately, he is near death and is unable to personally battle this upcoming threat. Faust entrusts a young boy, Shingo Yamada, to take the responsibility of ridding the Earth of this new evil presence. Faust finds a birthmark on Shingo's forehead that signifies that he is the chosen demon fighter. Faust summons from hell what may be humanity's only hope of surviving: a less than enthusiastic devil named Mephisto rises. After signing a pact in blood to save humankind, Shingo and Mephisto set out to battle the supernatural world.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 42,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Horror",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 272,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 7845,
+          "title": {
+            "userPreferred": "Seton Animal Chronicles"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7845.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7845.jpg",
+            "color": "#e4f135"
+          },
+          "startDate": {
+            "year": 1989,
+            "month": 10,
+            "day": 14
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 12,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Documentary in which the achievement of Ernest \"Black Wolf\" Thompson is settled in different Episodes. Every single episode is a documentary in which one sort of Animal is described.<br>",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 45,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 129,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7605,
+          "title": {
+            "userPreferred": "Henbe"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7605.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7605.jpg",
+            "color": "#e4bb35"
+          },
+          "startDate": {
+            "year": 1989,
+            "month": 10,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 1,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "All children dream to have a friend straight from a fairy tale... A little boy opens his closet and finds a strange creature with a parasol sitting in there. Nobody knows how he got there and from what mysterious worlds he is, but it is a fast friendship from the beginning. And nobody can ever know...\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 200,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 97,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7419,
+          "title": {
+            "userPreferred": "Wrestler Gundan Seisenshi Robin Jr."
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7419.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7419.jpg",
+            "color": "#f1bb43"
+          },
+          "startDate": {
+            "year": 1989,
+            "month": 10,
+            "day": 19
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 9,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Robin Jr. and his friends fight to save the solar system. ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 50,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 77,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6762,
+          "title": {
+            "userPreferred": "Cynical Hysterie Hour: Utakata no Uta"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6762.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6762.jpg",
+            "color": "#5dfe28"
+          },
+          "startDate": {
+            "year": 1989,
+            "month": 6,
+            "day": 24
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 6,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 8,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 75,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6761,
+          "title": {
+            "userPreferred": "Cynical Hysterie Hour: Yoru wa Tanoshii"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6761.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6761.jpg",
+            "color": "#5df128"
+          },
+          "startDate": {
+            "year": 1989,
+            "month": 4,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 4,
+            "day": 8
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 8,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 72,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6760,
+          "title": {
+            "userPreferred": "Cynical Hysterie Hour: Henshin!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6760.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6760.jpg",
+            "color": "#5de435"
+          },
+          "startDate": {
+            "year": 1989,
+            "month": 2,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 2,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 8,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 81,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5994,
+          "title": {
+            "userPreferred": "Midoriyama Koukou Koushien-hen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5994.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5994.jpg",
+            "color": "#f1e435"
+          },
+          "startDate": {
+            "year": 1989,
+            "month": 9,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 12,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The story of students of a baseball team from Midoriyama High School, who will participate in the 66th National Championship Tournament of Senior High School Baseball in Japan. ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 10,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 168,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5921,
+          "title": {
+            "userPreferred": "Utsunomiko"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5921.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5921.jpg",
+            "color": "#e4c95d"
+          },
+          "startDate": {
+            "year": 1989,
+            "month": 3,
+            "day": 11
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 3,
+            "day": 11
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "In the chaos of the Jinshin-no-Ran civil war of 762, a child with a small horn in his forehead was born. The child's mother condemned him as an oni and cast him away. An elderly sh&#363;genja woman claimed the child and named him Utsunomiko, or 'Divine Child of the Heavens', telling Miko that his horn smybolizes the union of heaven and earth. Miko matured in the wilderness learning the ways of Shugend&#333;, and soon started venturing into villages out of curiosity. He found that the common people of the villages live in poverty and suffering, and began using his spiritual powers to help them. But his anger at the self-serving rulers and their petty power-struggles grew until he came into open conflict with the Imperial Court, setting Miko down a long path as a champion of the oppressed.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 80,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 243,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

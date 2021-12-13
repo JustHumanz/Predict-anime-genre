@@ -1,0 +1,2436 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 212,
+        "perPage": 50,
+        "currentPage": 2,
+        "lastPage": 5,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 1525,
+          "title": {
+            "userPreferred": "Pokémon: The Legend of Thunder!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1525.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1525.jpg",
+            "color": "#f1bb0d"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Kenta, a Pokemon master in the making, meets up with his childhood friend, Marina, at a Pokemon Center, to see how their skills have developed. Their battle is interrupted by a thunderstorm and the arrival of Bashou and Buson, two Roketto-Dan members using the Crystal System (which attracts Electric-type Pokemon). Their ultimate goal is to, under the guidance of Shiranui-hakase, bring Pokemon back to Sakaki. Kenta and Marina stumble upon this plan, and they try to stop it, but things get more difficult when the legendary Pokemon Raikou is captured.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 69,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 4468,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 28,
+                  "name": "OLM"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2948,
+          "title": {
+            "userPreferred": "Motto! Ojamajo Doremi Kaeru Seki no Himitsu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2948-T0FzYDKPtQcP.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2948-T0FzYDKPtQcP.png",
+            "color": "#e4bb28"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Mo~tto Ojamajo Doremi movie features the five witches Doremi, Aiko, Hazuki, Onpu, and Momoko as they visit Doremi's grandpa's home. There, they learn of the mystery of the frog stone, a magical place where magic used to mingle in the old countryside. Aiko rediscovers her love for grandpa, and Doremi learns a piece of the magical kingdom's past.<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 26,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 1033,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 866,
+          "title": {
+            "userPreferred": "Slayers Premium"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx866-FBIvZY0F5aik.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx866-FBIvZY0F5aik.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Lina and Gourry travel to a seaside town named Acassi, where octopus tentacle is a delicacy. However, the octopus meat carries a curse that dooms the eater to only speak Takogo (octopus language). Amelia, Zelgadiss, and Xelloss all show up, and the main four characters (Lina, Gourry, Ameria, Zelgadiss) get cursed. The octopi enlist the power of a mazoku to get rid of the humans once and for all. The white sorceress Ruma must learn the cure to the curse from her long-lost master in order to save the town. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 33,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 2418,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 34,
+                  "name": "Hal Film Maker"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 484,
+          "title": {
+            "userPreferred": "Saiyuki Requiem"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/484.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/484.jpg",
+            "color": "#f1ae50"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 8,
+            "day": 18
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 8,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The gang is traveling along when they find a girl in need. Of course, they all can't resist going after her. This girl isn't all that she seems... her motive or her \"humanity\".... and soon the whole gang has Sanzo's past on their hands and one certain young boy who can keep a grudge for decades...\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 120,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 1001,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1028,
+          "title": {
+            "userPreferred": "Princess Arete"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1028-IDGLnqW4quGh.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1028-IDGLnqW4quGh.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 21
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1028-oRjqnr7IbCr8.jpg",
+          "season": "SUMMER",
+          "description": "Confined in the castle tower by her father, princess Arete spends her days watching the world outside her window. Sometimes she seeks out to watch the common people at work. The knights of the kingdom compete for the right to marry her and rule the land by competing to see who can find powerful magic objects made by a long dead race of sorcerers. Arete wants none of this. She longs to meet the common people and travel to exotic lands she has only seen in the books she keeps hidden under her bed. One day the sorcerer Boax arrives in a fantastic flying machine and offers to take Arete as his wife and transform her into a proper princess.<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 105,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 2484,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 13,
+                  "name": "Studio 4°C"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3247,
+          "title": {
+            "userPreferred": "Love Hina FINAL SELECTION"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3247-sbSYoxevPhF3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3247-sbSYoxevPhF3.jpg",
+            "color": "#50a1e4"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 9,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 9,
+            "day": 5
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3247-nz3S5rpGKnkd.jpg",
+          "season": "FALL",
+          "description": "Recap for the events of the original TV series with previews for the Christmas and spring specials. Also included with the original DVD was the “Love Love Hina” live concert featuring the main cast.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 28,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 3133,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1608,
+          "title": {
+            "userPreferred": "Salaryman Kintarou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1608-UO5MGV8aLKng.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1608-UO5MGV8aLKng.jpg",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 2,
+            "day": 18
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 3,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The story follows Kintaro, former leader of a widely feared and respected biker gang, who decides that its time to 'straighten out' and become a 'salaryman' since his wife died and he has to take care of his young son.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 20,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 1480,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6465,
+                  "name": "JCF"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2390,
+          "title": {
+            "userPreferred": "Kirby: Right Back at Ya!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2390-mK5upNVIJUGx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2390-mK5upNVIJUGx.jpg",
+            "color": "#f1c928"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 10,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2003,
+            "month": 9,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2390-uw84eARLc5AX.jpg",
+          "season": "FALL",
+          "description": "A diminuitive pink creature orbiting in space called \"Kirby\" crash lands into Dream Land. Once getting acquainted with the citizens who live there in Cappy Town, he begins to defend the town from the monsters that King Dedede, the self-proclaimed ruler of Cappy Town, orders from the evil Nightmare Enterprises.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 100,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 5092,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 126,
+                  "name": "Studio Comet"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6370,
+                  "name": "Studio Sign"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3032,
+          "title": {
+            "userPreferred": "Digimon Tamers: Battle of Adventurers"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3032.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3032.jpg",
+            "color": "#5da1e4"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Takato and Guilmon go on vacation to Okinawa and meet a fellow tamer, Minami. Back in Japan, a popular computer pet suddenly becomes a virus, infecting all of the computers who have it. As the virus spreads, Takato tries to figure out why digimon are all attacking his new friend, and what her connection is to the virus.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 3272,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 831,
+          "title": {
+            "userPreferred": "A Little Snow Fairy Sugar"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/831.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/831.jpg",
+            "color": "#e4781a"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 10,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 3,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The Season Fairies make the weather, each kind having its own specialty. Only full-fledged fairies have this ability. Sugar is an apprentice Snow Fairy. She and her friends have had all of the training and now need to find magical “Twinkles.” Unfortunately, none of these fairies know what a Twinkle is. However, they do find a human girl, Saga, who can see them when others can’t. Saga prefers a quiet and orderly life, becomes the rather unwilling helper to these noisy, lively, little fairies.<br>\n<br>\n(Source: Sentai Filmworks)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 2457,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1797,
+          "title": {
+            "userPreferred": "Animation Runner Kuromi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1797.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1797.jpg",
+            "color": "#f1a150"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 3,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 3,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "After being inspired by the fictional anime, \"Luis Monde III\", Mikiko \"Kuromi\" Oguro goes to animation school and and finally lands the job of her dreams at Studio Petit. Upon arriving, she meets the head of production. Unfortunately for her, he dies soon after meeting her and passes his position unto her. Now that she's head of production of \"Time Journeys\", it's up to her to rally up the lazy animator's and finish the second episode in a week.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 40,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 1591,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 959,
+          "title": {
+            "userPreferred": "Legend of Condor Hero"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/959.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/959.jpg",
+            "color": "#e4a128"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 4,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 10,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Youka is a young 13-year old boy. One day, his Uncle, Kakusei, has him follow in his steps of martial arts and has him study the art of Zenshinkyou. After being mistreated, Youka runs away Zenshinkyou. He stumbles on a Forbidden Tomb where he finds a beautiful young woman, by the name of Shouryuujo. After a short time, Youka is eventually accepted by Shouryuujo to study the techniques of the Koboha under her, and thus begins their adventure through martial arts and love.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 1100,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 22,
+                  "name": "Nippon Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 288,
+          "title": {
+            "userPreferred": "Beyblade"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b288-QLBdXz8n34yP.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b288-QLBdXz8n34yP.png",
+            "color": "#5dbbf1"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 1,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 24
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/288-vt6IVT62fuk5.jpg",
+          "season": "WINTER",
+          "description": "Thirteen-year-old Tyson Granger (Takao Kinomiya), along with his fellow teammates, Kai Hiwatari, Max Tate (Max Mizuhura), and Ray Kon (Rei Kon), strive to become the greatest Beybladers in the world. With the technical help of the team's resident genius, Kenny (Kyouju), and with the powerful strength of their BitBeasts, the Bladebreakers armed with their tops (AKA: Blades) attempt to reach their goal.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 51,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Sci-Fi",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 14540,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1249,
+          "title": {
+            "userPreferred": "Zone of the Enders: Dolores"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1249-XbdE6DURx3Pp.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1249-XbdE6DURx3Pp.jpg",
+            "color": "#e4ae35"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 4,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 9,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "49-year-old James Lynx was an officer (LEV pilot) in the United Nations global army, one day he received notification that his wife -- a Martian scientist -- was killed during a lab experiment. <br><br>\nHateful and resentful for letting her go, his children blamed him and cast him aside, depressed and in despair, James quit the military and took up a job as a transporter between Earth and Mars, he had some slight hope of his wife still being alive and to find her he wanted to be out there. After a few years he seemed to have given up all hope and turned to drinking, until one day he receives an orbital frame by the name of \"Delorez\", sent by his dead wife. Once again he dares to hope and sets off on a wild and wacky adventure to find the truth and to reunite his family. <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 1591,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1248,
+          "title": {
+            "userPreferred": "Z.O.E. 2167 Idolo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1248-w8xwmsFFS5hO.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1248-w8xwmsFFS5hO.jpg",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 2,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 2,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Z.O.E. 2167 Idolo will take place a few years prior to the events of the series Z.O.E Dolores,i, and is centered on the \"Deimos Incident,\" an act of terrorism by the Mars revolutionaries.<br><br>\nThe BAHRAM army pilots Radium and Viola are the best in their class, and have such have been chosen to do spearhead testing on a new type of weapon; Mars hopes this weapon will liberate them from the UNSF's (United Nations Space Force) tyranny. This new technology called the \"Orbital Frame,\" is powered by an extreamly rare and powerful source of energy known as the metatron ore.<br><br>\nThis OVA depicts the Deimos incident, and the story leading up to this incident. ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 55,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 1361,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 509,
+          "title": {
+            "userPreferred": "I My Me! Strawberry Eggs"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx509-fM3A0zEX966I.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx509-fM3A0zEX966I.jpg",
+            "color": "#d6a178"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 9,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Amawa Hibiki is a young man just out of college, with an education to be an athletics teacher. He's been having a hard time finding a job since he graduated, so all his money has gone towards living expenses. When his landlady demands his first payment to live in her living establishment upfront, he heads to the local middle school to get hired as a teacher. However, the principal refuses to hire him without hesitation. She will not hire men as teachers and makes it clear that she hates all men, saying they put no love into their passions and work. Amawa does not give up and with the help of his landlady, he crossdresses as a woman without a second thought, and gets hired, so he can earn money and also prove the principal wrong. Now, he has to keep his real gender a secret, and avoid strange situations, including the affections of his students (from both genders).\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 3744,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1492,
+          "title": {
+            "userPreferred": "Project ARMS"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1492-bdES48xL6wjS.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1492-bdES48xL6wjS.jpg",
+            "color": "#e45d50"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 4,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 9,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A boy gets involved in an accident when in kindergarten, horribly damaging his arm, but the doctors somehow manage to save it. Now, several years later, his arm seems to be becoming the focus of strange events as it turns out to be more than a normal arm. Meanwhile, a secret organizations is out to get hold of him and the power he possess. ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mystery",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 1650,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 124,
+          "title": {
+            "userPreferred": "Mysterious Play: Eikoden"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/124.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/124.jpg",
+            "color": "#e4785d"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 6,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Taka (technically Tamahome) and Miaka are now happily married and only six months before their new family would be born, but an obessed girl named Mayo would do anything to make Taka hers. She enters the world of the Four Gods, determined to win Taka's heart and be the new priestess.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 1715,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 812,
+          "title": {
+            "userPreferred": "Arjuna"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx812-q5hCoxsv4XVk.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx812-q5hCoxsv4XVk.png",
+            "color": "#e4c935"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 1,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 3,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/812-xYszo5atobwy.jpg",
+          "season": "WINTER",
+          "description": "Juna was just an ordinary high-school girl, right up until the day she died in a motorcycle accident. But there, in the twilight of death, she saw the future of the barren earth destroyed by the Raaja, and was offered a second chance at life if she would stop them. Now she must learn to cast aside her thoughtlessly destructive ways and face her destiny as the Avatar of Time, the one being who can decide the fate of the planet.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 26,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Mahou Shoujo",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 4397,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 41,
+                  "name": "Satelight"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1179,
+          "title": {
+            "userPreferred": "Shingu: Secret of the Stellar Wars"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1179-zR3i71Zj78fy.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1179-zR3i71Zj78fy.jpg",
+            "color": "#e4bb5d"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 5,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The world is about to be turned upside down for Hajime Murata. First, a strange alien ship appears over Tokyo, and then a mysterious new transfer student arrives at his school wearing an ancient school uniform. His name is Muryou, and with his arrival, everything begins to change. Students suddenly begin to display amazing psychic powers, a giant white guardian keeps appearing in the skies over the city to fight off gigantic alien creatures, and men with threatening weapons are haunting the shadows of the school grounds.<br><br>\nWith all these strange events taking place around him, Hajime is determined to figure out the truth about a world he thought he already knew. This is his story: a tale of aliens and humans, starships and spies, and friends who are often more than they appear. Join Hajime as he uncovers the mystery of Shingu: Secret of the Stellar Wars!<br><br>\n(Source: RightStuf)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Mecha",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 1267,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1145,
+          "title": {
+            "userPreferred": "Kaze no Yojimbo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1145-qggVPHoAjANc.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1145-qggVPHoAjANc.jpg",
+            "color": "#ae2828"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 10,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 3,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "In search for Araki Genzo, George Kodama finds himself in the small town of Kimujuku. George quickly realizes that he is unwelcome and is warned to leave as soon as possible. With two rival syndicates roaming the streets and a dark violent past, the town of Kimujuku isn't what it appears to be. George challenges the town of Kimujuku in order to reveal the towns dark hidden past and discover the truth. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 25,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Mystery",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 2076,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 595,
+          "title": {
+            "userPreferred": "X OVA"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/595.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/595.jpg",
+            "color": "#6b281a"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 8,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 8,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "In this prequel to the \"X\" TV series, a beautiful, young, bedridden dreamgazer named Kakyou remembers the life and death of a remarkable young woman whom he met in dreams. He also recounts his dreams of a tragic future in which the fate of the Earth will be decided.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Romance",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 1801,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1539,
+          "title": {
+            "userPreferred": "Touch: Cross Road - Kaze no Yukue"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1539.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1539.jpg",
+            "color": "#e4bb5d"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 2,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 2,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Trying to find his own game of baseball, and not that of his brothers, Tatsuya moves to America and pitches for a poor, struggling minor league baseball team called the Emeralds. Meanwhile, Minami is still in Japan, trying to find her own path after quitting gymnastics. Inspired by a photograph of her final performance, she becomes the photographers assisstant.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Romance",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 720,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1493,
+          "title": {
+            "userPreferred": "Project ARMS: The 2nd Chapter"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1493.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1493.jpg",
+            "color": "#d61a35"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 10,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 3,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The 2nd Chapter continues the story of Ryo Takatsuki and his companions' quest to discover the secret of the mysterious A.R.M.S. they all possess and what the future may hold for them. They now know where the answers lie but to get to them, they must fight a desperate fight of survival against a powerful military corporation that wants their secrets no matter what the cost.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 659,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3012,
+          "title": {
+            "userPreferred": "Gekitou! Crush Gear Turbo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3012.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3012.jpg",
+            "color": "#e49335"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 10,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2003,
+            "month": 1,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "After losing almost all their members, the Tobita Crush Gear club is facing extinction. Kouya who dreams of being a Crush Gear Fighting Champion doesn't want to see the club become extinct and will do whatever he can to keep the club running and become a Crush Gear Champion.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 68,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 925,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 289,
+          "title": {
+            "userPreferred": "Comic Party"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/289.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/289.jpg",
+            "color": "#e4bb43"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 4,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 6,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/289-9wPu6HViktBc.jpg",
+          "season": "SPRING",
+          "description": "Destiny or delusion? It's a hilarious rollercoaster of laughter and confusion when Taishi, the ultimate otaku, drags his friend Kazuki into the swirling world of ambition, hatred, and love - the world of fan comics! Poor clueless Kazuki must sink or swim when he's dumped straight into the middle of a massive comic convention. Lost amidst hoards of buyers, sellers, and cosplayers, Kazuki is about to be baptized by fire, all in order to lead him toward his true calling: to take over the world through fan comics!<br><br>\nMeanwhile, Kazuki's childhood friend Mizuki isn't about to let him be dragged from his normal life without a fight! But will she be able to stop the addictive draw of the new world that lies before Kazuki? Little by little, Kazuki is slipping down the path towards destiny - and Taishi is shoving him every step of the way! <br><br>\n(Source: RightStuf)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 2587,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 28,
+                  "name": "OLM"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1465,
+          "title": {
+            "userPreferred": "Sadamitsu the Destroyer"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1465.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1465.jpg",
+            "color": "#e4bb93"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 1,
+            "day": 17
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 3,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Sadamitsu, a high-school delinguents turned to a masked-hero, while not dealing with his rocky relationship with the strong female protagonist, he puts on a motorcycle-helmet-like mask and becomes a semi-robotic superhero who fights. He is assisted by other possibly- mechanical creatures in order to save the earth from the invasion of 20,000,000 escaped alien convicts.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 10,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 899,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2036,
+          "title": {
+            "userPreferred": "Cosmic Baton Girl Comet-san"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2036-rmJLlZdOjR3v.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2036-rmJLlZdOjR3v.jpg",
+            "color": "#e44378"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 4,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 1,
+            "day": 20
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2036-2kCQkmqYInGL.jpg",
+          "season": "SPRING",
+          "description": "In a magical part of the galaxy, the prince of the Tambourine star world has been betrothed to marry one of two princesses; but Comet, the princess of the Harmonica star world, couldn't care less. Thus, much to her dismay, when the prince flees to Earth to escape his fate, Comet is sent to find him and return. Now, with the power of the stars and a magical locket, Comet sets out on an adventure to find the prince, have fun, and experience the life of an earthling first hand.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 43,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Mahou Shoujo",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 848,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 564,
+          "title": {
+            "userPreferred": "Puni Puni Poemy"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/564.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/564.jpg",
+            "color": "#e49343"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 3,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Poemi Watanabe (a.k.a. Kobayashi) is a 10-year-old girl with aspirations of being a famous voice actress. Unfortunately, her school grades are bad and her voice acting is even worse. But when a mysterious alien kills her parents and wreaks havoc all over Tokyo, Poemi grabs a talking fish, skins it into a wand and becomes the magical girl Puni Puni Poemi to save the day.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mahou Shoujo",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 4208,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 797,
+          "title": {
+            "userPreferred": "Maid in Hanaukyo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/797.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/797.jpg",
+            "color": "#e4d650"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 9,
+            "day": 19
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 11,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "In this three-episode OVA, Taro learns more about Cynthia`s life as herself and her alter-ego Grace. He also undergoes training with his bodyguard Konoe. And finally, Ikuyo dupes Taro in spending a whole day disguised as a maid.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 14,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 1222,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4794,
+          "title": {
+            "userPreferred": "Pokémon: Pikachu's PikaBoo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4794-kF5hBpEB1CRG.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4794-kF5hBpEB1CRG.jpg",
+            "color": "#e4bb1a"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Pikachu and the other pokemon play a game of hide and seek.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 2490,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 403,
+          "title": {
+            "userPreferred": "Hanaukyo Maids"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/403.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/403.jpg",
+            "color": "#e4d65d"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 4,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 6,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/403-BnxtPEuTOQV0.jpg",
+          "season": "SPRING",
+          "description": "After losing his mother, 12-year-old Taro journeys to Tokyo to live with his grandfather. But he gets the biggest surprise when he discovers that his grandfather's home is a huge mansion with hundreds of beautiful maids ready to serve him. Making matters worse (at least for Taro, but not for our viewing) is that not only does he inherit the Hanaukyo mansion, he gets the services of all of the maids 24 hours a day, 7 days a week.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 14,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 3408,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 399,
+          "title": {
+            "userPreferred": "Battle Flag of the Stars Tokubetsu-hen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/399.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/399.jpg",
+            "color": "#fea128"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A compilation of the Seikai no Senki series with additional footage.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 120,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 59,
+          "popularity": 451,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2217,
+          "title": {
+            "userPreferred": "Hand Maid May: Akiramemasen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2217-BvLBa4lqJTYG.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2217-BvLBa4lqJTYG.png",
+            "color": "#f1bb50"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 2,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 2,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Special episode.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 28,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 59,
+          "popularity": 925,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 580,
+          "title": {
+            "userPreferred": "Scorched Bread"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/580.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/580.jpg",
+            "color": "#f1bb28"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 11,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 11,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "An accident in the bakery's oven caused a piece of bread to stay in the oven for way too long. Thus Kogepan was born - a piece of burnt bread, having no chance to be sold.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 10,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 59,
+          "popularity": 926,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1755,
+          "title": {
+            "userPreferred": "Di Gi Charat: Ohanami Special"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1755-2zcVLQleEbbD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1755-2zcVLQleEbbD.jpg",
+            "color": "#e48635"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 4,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 4,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The Ohamami Special consisted of four independent episodes of Di Gi Charat with no continuation that aired in Spring 2001 in Japan.<br><br>\n&bull; Ohanami Special Episode 1 - The Evil Settles Down  <br>\n&bull; Ohanami Special Episode 2 - Sakura Sakura<br>\n&bull; Ohanami Special Episode 3 - Long Haired Onii-san-nyu<br>\n&bull; Ohanami Special Episode 4 - Don`t Call me Rabi-en-Rose  <br><br>\n(Source: AniDB &amp; Wikipedia)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 59,
+          "popularity": 643,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1752,
+          "title": {
+            "userPreferred": "Di Gi Charat Movie: A Trip To The Planet"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1752.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1752.jpg",
+            "color": "#fed650"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Dejiko decided to take a vacation and visit her home, Planet Di Gi Charat, together with Puchiko, Gema, and (accidentally) Rabi~en~Rose. However, Piyoko and her aids would not let go this chance to capture her.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 21,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 708,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1005,
+          "title": {
+            "userPreferred": "Star Ocean EX"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1005-89XftvNxA3rU.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1005-89XftvNxA3rU.jpg",
+            "color": "#283586"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 4,
+            "day": 3
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 9,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Claude C. Kenni, a crewmember on the spaceship Calnus and son of the commander of the ship, is transported to Expel, a backwards planet with swords and magic. He teams up with Rena Lanford, who thinks he is the legendary Warrior of Light, and other characters to investigate the Sorcery Globe, a meteorite that has been causing problems all over the world. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 1382,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 608,
+          "title": {
+            "userPreferred": "Sakura Wars: The Movie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx608-5bum3N50uw9O.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx608-5bum3N50uw9O.jpg",
+            "color": "#d6931a"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 22
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/608-GBVqmQWntuI4.jpg",
+          "season": "FALL",
+          "description": "Since a new branch of division to New York has been created, Ohgami has now been assigned to the Paris Division. Now the Flower Division must be able to survive on their own, with the help of their new American-cultured leader. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 85,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 994,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 10,
+                  "name": "Production I.G"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 5200,
+          "title": {
+            "userPreferred": "Offside"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5200.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5200.jpg",
+            "color": "#d61a35"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 5,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 1,
+            "day": 31
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Goro Kumagaya is an established, tall middle-school goalkeeper who wanted to enter Yokonan high-school that is considered to be among the elites in terms of its football club, only to fail and end up in the lowly-ranked school opposite to Yokonan because of an accident. However, he met Shingo, Hideki and Kazuhito Oda who are all skillful footballers there and together in the Kawasaki High School football club, they challenge Yokonan and any other schools that they have to face in order to improve and become the champions. Any setbacks that they face would instead be an opportunity for a better improvement; one of which was the discovery of Goro's natural talent as an ace striker.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 39,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 489,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 196,
+                  "name": "Ashi Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1676,
+          "title": {
+            "userPreferred": "Cosmo Warrior Zero"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1676.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1676.jpg",
+            "color": "#e47843"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 9,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The long war between the planet Earth and the machine men is finally over, resulting in a peace that is more a victory for the machine men than the Earth. Warrius Zero lost his family in the war to the machine men but despite this he is still is a member of the Earth fleet that is now working in concert with the machine men. His ship, made up of both humans and machine men, has been given a near impossible task: capture the space pirate Captain Harlock. While Zero struggles to accomplish this task, evidence begins to surface that the peace between machine men and Earth may not be as it seems....<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 952,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 136,
+                  "name": "Vega Entertainment"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 836,
+          "title": {
+            "userPreferred": "Sister Princess"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx836-Atr8b5iQiPfa.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx836-Atr8b5iQiPfa.jpg",
+            "color": "#e47850"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 9,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n836-n51ecuPiwtpv.jpg",
+          "season": "SPRING",
+          "description": "Wataru Minakami is a top student who failed his high school entrance exam because of a computer glitch. He later discovered that he was accepted to Stargazer Hill Academy, which is located at a mysterious place called Promised Island. At the request of his father, Wataru is whisked away to the island, and before he can settle in, a dozen of cute and charming girls start to flock him and claim to be his younger sisters. As Wataru gets closer to his newfound siblings, a deeper mystery as to why they were sent to the island comes to play. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 3076,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 218,
+                  "name": "ZEXCS"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 259,
+          "title": {
+            "userPreferred": "Happy☆Lesson"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/259.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/259.jpg",
+            "color": "#e49350"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 19
+          },
+          "endDate": {
+            "year": 2003,
+            "month": 5,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "One guy. Five girls. One roof. It`s a recycled idea, but it never gets old. Happy Lesson is a kinetic take on an old genre.<br><br>\nChitose shares his house with five ladies. One might think the continued attention of this many girls would be a good thing, but too much attention can prove to be painful. Did I mention they`re also instructors at his school (hence the title)? Not only is he the subject of their abuse at home, but at school as well. Even when things finally calm down at night, all the rooms are taken so Chitose must sleep on the couch.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 5,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 1438,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 799,
+          "title": {
+            "userPreferred": "Kokoro Toshokan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/799-Ehd8ihDNBLCm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/799-Ehd8ihDNBLCm.jpg",
+            "color": "#e4c95d"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 10,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/799-vurmmcBfnx83.jpg",
+          "season": "FALL",
+          "description": "Kokoro Toshokan, a small library, lies nestled in an unpopulated mountain far away from town. Three sisters, Iina, Aruto and Kokoro, call the library home and run it from day to day. Kokoro is just beginning her adventures at the library. Will she become a full-fledged librarian? Will the remote library ever attract readers? Kokoro tries her best to make her dreams come true at Kokoro Library, a place where miracles can happen.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 1209,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1756,
+          "title": {
+            "userPreferred": "Di Gi Charat Natsuyasumi Special"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1756.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1756.jpg",
+            "color": "#e4a150"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 8,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 8,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The Di Gi Charat Natsuyasumi Special was another four episode series set in America that aired almost a year after the original series from August 2, 2001 to August 3, 2001. The young American otaku, Rodoyan, is introduced in this series.<br><br>\n&bull; Natsuyasumi Special Episode 1 - Dejiko in America 1 <br>\n&bull; Natsuyasumi Special Episode 2 - Dejiko in America 2<br>\nWhen Puchiko wanted to get off a bus she couldn't reach the signal button, and the driver (looks just like Abarenbou) kept accelerating until reaching America. Soon Dejiko received a letter from Rod Young, an American boy and a big fan of Dejiko who let Puchiko stay with him, inviting Dejiko to America to visit them and pick Puchiko up. <br><br>\n&bull; Natsuyasumi Special Episode 3 - Depurapyogebo Debut<br>\nA contest of bands was about to be held at Akihabara; the first prize is 10-year supply of nattou, Dejiko's favorite food. She decided to enroll but couldn't find enough members or instruments. <br><br>\n&bull; Natsuyasumi Special Episode 4 - Isn`t Anyone Here-nyo?  <br>\nDejiko and gangs of Gamers went to the mountains, but when night fell people began to disappear one by one<br><br>\n(Source: ANN, AniDB &amp; Wikipedia)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 11,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 611,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6245,
+          "title": {
+            "userPreferred": "Spirit of Wonder: China-san Short Stories"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6245.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6245.jpg",
+            "color": "#5d93e4"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 1,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 1,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Three short stories featuring China-san.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 480,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1768,
+          "title": {
+            "userPreferred": "Kikaider 01: The Animation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1768-NfPkwVLWTQ3E.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1768-NfPkwVLWTQ3E.png",
+            "color": "#e4a15d"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 11,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 3,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Ever since the fall of the DARK organization, Jiro has been wandering everywhere and wondering if he would ever see Mitsuko again or not. During his journey Jiro meets a beautiful girl named Rieko who is protecting Akira, a little boy from the evil Professor Gill. Ironicly, he's the son of Professor Gill, but he is also the key to Gill&rsquo;s menacing secret weapon and his plans to conquer the world.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 27,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 480,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 81,
+                  "name": "Radix"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1112,
+          "title": {
+            "userPreferred": "Vandread Taidouhen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1112-DceDNIPho0tS.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1112-DceDNIPho0tS.png",
+            "color": "#e4e443"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 1,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 1,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Vandread The First Stage (season one) was immediately followed up by this TV special. This TV special, also known as Vandread Taidouhen Stage (The Movement Stage) was a recap of the first 13 episodes with additional footage. So, Vandread Taidouhen is not really a bridge between Vandread The First Stage and Vandread The Second Stage (season two). It was made to bring new viewers up to date as to what happened during the first season<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 78,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 934,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3288,
+          "title": {
+            "userPreferred": "Gundam Evolve"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3288.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3288.jpg",
+            "color": "#e4f150"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2007,
+            "month": 1,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A series of short films packaged with certain model kits and aired at conventions, the Gundam Evolve series chronicles a number of side-stories, alternative scenes, and even bonus omake from all around the Gundam canon. Featuring a mix of animation media—from traditional cels to 3-D CG rendering to even cel-shaded 2-D animation—these often 3-5 minute shorts cover such events as Domon Kasshu's training (and a bit of a romantic tift with Rain Mikamura) from G Gundam, Amuro Ray battling Quess Paraya from Char's Counterattack, Kamille Bidan training in the Gundam Mk.II from Zeta Gundam, and Canard Pars dueling Prayer Reverie from the Gundam SEED X Astray manga.<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 15,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 1728,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2420,
+          "title": {
+            "userPreferred": "Spirit of Wonder: Scientific Boys Club"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2420.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2420.jpg",
+            "color": "#e4bb93"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 1,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The now 50 year old Scientific Boys Club decides to built a ship that sails to Mars on the \"Ethereal Current\" - a thesis of the wife of a club member which claims that the universe is flooded with Ethereal energy. On this stream they travel to Mars in order to prove an old theory about channels on Mars built by Martians, but there is no life. Many years later, when both theories are considered to be nonsense, a Mars expedition discovers a stone with the inscription \"Scientific Boys Club 1954\".\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 833,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

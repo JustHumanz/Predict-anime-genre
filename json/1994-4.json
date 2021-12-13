@@ -1,0 +1,496 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 161,
+        "perPage": 50,
+        "currentPage": 4,
+        "lastPage": 4,
+        "hasNextPage": false
+      },
+      "media": [
+        {
+          "id": 9959,
+          "title": {
+            "userPreferred": "Raiyantsuuri no Uta"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9959.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9959.jpg",
+            "color": "#d6a178"
+          },
+          "startDate": {
+            "year": 1994,
+            "month": 7,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1994,
+            "month": 7,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "An indentured Chinese laborer, brought to Japan to work in a coal mine during WWII, manages to escape his captors. He hides out in the Japanese countryside, so far from human habitation that he does not realize when the war ends, with ultimately tragic results. Based on a story by Yoichi Takashi.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 280,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9957,
+          "title": {
+            "userPreferred": "Hoshizora no Violin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9957.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9957.jpg",
+            "color": "#e4ae5d"
+          },
+          "startDate": {
+            "year": 1994,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1994,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The story is about a boy and his dream of making the best violin.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 82,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 184,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7698,
+          "title": {
+            "userPreferred": "Sangokushi Daisanbu Harukanaru Taichi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7698.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7698.jpg",
+            "color": "#e45028"
+          },
+          "startDate": {
+            "year": 1994,
+            "month": 4,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1994,
+            "month": 4,
+            "day": 9
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7698-XdZBhPL081Mx.jpg",
+          "season": "SPRING",
+          "description": "An anime based on the Romance of the Three Kingdoms novel. ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 147,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 143,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 7633,
+          "title": {
+            "userPreferred": "The Life Of Ants"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7633.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7633.jpg",
+            "color": "#e4785d"
+          },
+          "startDate": {
+            "year": 1994,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1994,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A praying mantis strays into the society of ants that is organized by a mechanical queen.<br>",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 14,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 71,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7449,
+          "title": {
+            "userPreferred": "Song of Pacusi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7449.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7449.jpg",
+            "color": "#f1bb50"
+          },
+          "startDate": {
+            "year": 1994,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1994,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Special episode of <em>Pacusi</em>.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 105,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7448,
+          "title": {
+            "userPreferred": "Pacusi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7448.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7448.jpg",
+            "color": "#f1bb50"
+          },
+          "startDate": {
+            "year": 1994,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1994,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "<em>Pacusi</em> is a story of Pacusi and his family. Little happenings in ordinary days are described. We can enjoy the warmhearted and big strange world of Pacusi.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 18,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 123,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6472,
+          "title": {
+            "userPreferred": "Scary High School Rumors"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6472.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6472.jpg",
+            "color": "#fe5028"
+          },
+          "startDate": {
+            "year": 1994,
+            "month": 8,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 12,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Based on the short story \"Ghost Toilet\" from Toru Tsunemitsu's urban myth collection \"School Ghost Stories.\" This was adapted into the children's book \"Hanako in the Toilet: Scary Stories of Your School\" (1993). Several artists then adapted this into the \"Here Comes Hanako\" manga; most of them also wrote the anime version, which was aired as a segment of the TV series \"Ponkikki Kids.\" Episodes, introduced by Hanako, included \"The Haunted Cinema\" and \"The Cursed Promise Ring.\" ",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 35,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 337,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 86,
+                  "name": "Group TAC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 5140,
+          "title": {
+            "userPreferred": "Karaoke Senshi Mike-tarou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5140-ItFAPplysb6H.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5140-ItFAPplysb6H.jpg",
+            "color": "#d6861a"
+          },
+          "startDate": {
+            "year": 1994,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 3,
+            "day": 11
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A story about kids fighting with Karaoke.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 20,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 137,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4470,
+          "title": {
+            "userPreferred": "Gene Diver"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4470.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4470.jpg",
+            "color": "#e45d35"
+          },
+          "startDate": {
+            "year": 1994,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 1,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Virtual Station is a laboratory with the purpose of gathering and researching DNA. With the information gained through combining old DNA elements, the ancient world was virtually reconstructed. Yui is one of the Gene Divers. She enters the virtual ancient world to collect the DNA of animals that are extinct in reality.<br><br>\nBut then an incident happens. Yui tries to leave the virtual world during a maintenance cycle, but instead of being returned to reality she is transferred to a new virtual present. In this new world, generated by the now uncontrollable system, an intelligent species evolved from rodents, called puglaistig exists. They consider the existence of humankind a serious threat and try to stop human evolution by all means.<br><br>\n(Source: Kaninona.org)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 56,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 145,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2750,
+          "title": {
+            "userPreferred": "Heisei Dog Stories: Bow"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2750.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2750.jpg",
+            "color": "#f1a135"
+          },
+          "startDate": {
+            "year": 1994,
+            "month": 8,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1994,
+            "month": 8,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The story is set in primitive times,in a village which is home to Bow, Sayaka, and other funny characters. The village is suffering from a shortage of food. To resolve this critical situation, Inugami&rsquo;s grandmother makes a prophesy: &ldquo;The chosen one will save the village with a great animal.&rdquo;<br><br>\nFollowing this prophesy, Bow, Sayaka, Inugami, and Sabu set out together on a journey. Sayaka expends great effort trying to capture a mammoth, while Bow causes confusion by fooling around in his usual way&hellip;<br><br>\n(Source: Nipponanimation)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 69,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2642,
+          "title": {
+            "userPreferred": "Dorami-chan: A Blue Straw Hat"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2642.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2642.jpg",
+            "color": "#e4bb50"
+          },
+          "startDate": {
+            "year": 1994,
+            "month": 3,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1994,
+            "month": 3,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "N/A",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 87,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2259 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 165,
+        "perPage": 50,
+        "currentPage": 3,
+        "lastPage": 4,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 140143,
+          "title": {
+            "userPreferred": "Sowa Sowa Calendar"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140143-2DUQ146unEJG.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140143-2DUQ146unEJG.png",
+            "color": "#f193c9"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 6,
+            "day": null
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 6,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video for the song <i>Sowa Sowa Calendar</i> by Hiromi Okazaki. Aired as part of NHK's Minna no Uta program.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 15,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 138450,
+          "title": {
+            "userPreferred": "Crayon Shin-chan Specials"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138450-3g1rSEYd3DQj.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138450-3g1rSEYd3DQj.png",
+            "color": "#5d93e4"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 12,
+            "day": 28
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": null,
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "RELEASING",
+          "episodes": null,
+          "duration": null,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 43,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 247,
+                  "name": "Shin-Ei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 136650,
+          "title": {
+            "userPreferred": "Hello Kitty no Circus ga Yatte Kita"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136650-BxDSNumpfG2p.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136650-BxDSNumpfG2p.jpg",
+            "color": "#f1bb5d"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1992,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Kitty and company are super excited for the circus that has come to town, but it might close down leaving everyone jobless and abandoned. It's up to them to get enough people to attend so it can make a profit.\n\n",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 35,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 136649,
+          "title": {
+            "userPreferred": "Hello Kitty no Fushigi na Mizuumi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136649-PRkJyXkK8JLp.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136649-PRkJyXkK8JLp.jpg",
+            "color": "#e45028"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1992,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Kitty and Mimmy hear about the mysteries of a lake when they go up to fish with their Papa. At night they discover a Loch Ness monster like creature and fairy. The monster does not want to live in the lake anime due to illegal dumping which is also causing the fish to leave. The girls recruit a grandmother witch to help the monster gain the ability of flight so it can leave. But it asks the witch to also clear the lake of debris too. Now it can live happily in its lake.\n\n",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 23,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 136645,
+          "title": {
+            "userPreferred": "Sasurai-kun"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136645-eBsi5DZTILTt.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136645-eBsi5DZTILTt.jpg",
+            "color": "#fff100"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 4,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 6,
+            "day": 30
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136645-ztfCpNANj3CX.jpg",
+          "season": "SPRING",
+          "description": "Sasurai is a hapless, overworked and existentially lonely salaryman with a crush on his attractive co-worker simply because she’s considerate of him and is the attractive woman he sees every day.<br>\n<br>\n<i>Note: The first episoded aired with a run-time of ~15 minutes as opposed to the standard 10-minute-long episode.</i>",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 38,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 247,
+                  "name": "Shin-Ei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 132343,
+          "title": {
+            "userPreferred": "Little Twins: Bokura no Natsu ga Tondeiku"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132343-ZUfZCtwvX8Ir.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132343-ZUfZCtwvX8Ir.jpg",
+            "color": "#f1505d"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 8,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 8,
+            "day": 8
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 23,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 132340,
+          "title": {
+            "userPreferred": "Little Twins"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132340-rdaLBuqSCyAv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132340-rdaLBuqSCyAv.jpg",
+            "color": "#e45d6b"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 7,
+            "day": 23
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 12,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 34,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 126070,
+          "title": {
+            "userPreferred": "Gorillaman"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126070-74ouAoCqBxa3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126070-74ouAoCqBxa3.jpg",
+            "color": "#e44335"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 6,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1993,
+            "month": 12,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A school comedy about a mute transfer student, Tadashi Iketo, who is constant­ly shuffled from school to school for his \"violent nature,\" though he really is a mild-mannered boy constantly taunt­ed into fights over his simian appearance.\n",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 141,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 121832,
+          "title": {
+            "userPreferred": "Sore Ike! Anpanman: Anpanman to Yukai na Nakama-tachi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121832-ibpMW76RvgHm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121832-ibpMW76RvgHm.jpg",
+            "color": "#f1e45d"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 14
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 31,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 53,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 121757,
+          "title": {
+            "userPreferred": "Geori-ui Mubeopja"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121757-jHlWoWu4fBvn.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121757-jHlWoWu4fBvn.jpg",
+            "color": "#e4ae35"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 8,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 8,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "In the year 2010, after World War III, the world is devastated and most of the world's population does not survive. Soryong and Saeng spend their days playing Street Fighter II and fighting each other at the arcades, until one day Chun Li appears before them in real life and reveals that the two friends are the only ones that can stop Bison from taking over the world.<br><br>(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 62,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 228,
+                  "name": "Daewon Media"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 121182,
+          "title": {
+            "userPreferred": "Hei Mao Jingzhang (1992)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121182-Db5Wb5Ma3sR2.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121182-Db5Wb5Ma3sR2.png",
+            "color": "#e4c95d"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1992,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 7,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 49,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 471,
+                  "name": "Shanghai Animation Film Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 121048,
+          "title": {
+            "userPreferred": "Karasu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121048-YNFIPSKSukCI.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121048-YNFIPSKSukCI.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1992,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1992,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "It is a monster work that depicts a disturbing air by drawing a scene with the crow as a motif and the scenery of Kyoto in parallel with a frame shot.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 70,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 120265,
+          "title": {
+            "userPreferred": "Two on the Road: Itsumo Futari de"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120265-dvuCjqx2LSJO.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120265-dvuCjqx2LSJO.jpg",
+            "color": "#43a1e4"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1992,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Two anthology releases of 13 short stories, based on originals by Seizo Watase. As with other adaptations of Watase's work, they are set to music-stories here include: Ashes of Love, White Fish/Blue Fish, Dance on the Sands, Glider, Handbag Mirror, Blue Snow, Living in the World, etc.\n\n(Source: The Anime Encyclopedia)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": null,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 39,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 120259,
+          "title": {
+            "userPreferred": "Best Friend"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120259-vgn2Z2NP8x4x.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120259-vgn2Z2NP8x4x.jpg",
+            "color": "#a1e450"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 4,
+            "day": 1
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the song Best Friend by Japanese boy band SMAP that was featured on NHK's Minna no Uta program. The video was animated by Toshio Nishiuchi and Hiromi Andou.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 47,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 119959,
+          "title": {
+            "userPreferred": "Shin Chou Bakumatsu Shounen Seiki Takamaru"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119959-QbG6EL3VMw07.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119959-QbG6EL3VMw07.png",
+            "color": "#d6e45d"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 11,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1993,
+            "month": 6,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 52,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6460,
+                  "name": "Studio Live"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 119770,
+          "title": {
+            "userPreferred": "Kie Saranu Kizuato: Hi no Umi Osaka"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119770-ZCIvwUZiSCem.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119770-ZCIvwUZiSCem.jpg",
+            "color": "#ff8643"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1992,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "An educational film about the bombing of Osaka in 1945.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 27,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 119346,
+          "title": {
+            "userPreferred": "Warau Salesman Tokubetsu Bangumi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119346-iUfdju0bn5HU.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119346-iUfdju0bn5HU.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 12,
+            "day": 26
+          },
+          "endDate": {
+            "year": 1993,
+            "month": 12,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A special program of Warau Salesman, these episodes were released in a blast format on 3 days in a nearly 2 hour long timeslot each. The individual episodes have their own OPs. The first blast release differed from the main series by having live-action footage of real locations in Japan before delving into the story for each episode. The 2nd had Moguro with the Master interacting with the viewer as if behind the scenes for a studio before delving into each episode. And the 3rd had Moguro and the Master playing outside in the snow as if reporting on an on-location event to the viewer before delving into each episode.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 14,
+          "duration": 17,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Psychological",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 85,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 247,
+                  "name": "Shin-Ei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 116164,
+          "title": {
+            "userPreferred": "Omoide Onigiri"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116164-qW5f8ynwt3jI.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116164-qW5f8ynwt3jI.jpg",
+            "color": "#ffd6ae"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 12,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 12,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the song Omoide Onigiri by Miyuki Mori that was featured on NHK's Minna no Uta program. The video was animated by Seiichi Hayashi.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 64,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 105195,
+          "title": {
+            "userPreferred": "Magical Taruruuto-kun: Sukisuki Takoyaki!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n105195-lBPMcMjl1Bz0.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n105195-lBPMcMjl1Bz0.jpg",
+            "color": "#f1c95d"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Fifth grader Edojou Honmaru is one of the most trodden upon losers in his class, untuil he meets Magical Taruruuto-kun. Taruruuto's powers help him deal with all his hardships, such as girls, bullies, and numerous other challenges.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 90,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104938,
+          "title": {
+            "userPreferred": "Ishinomori Shoutarou no Rekishi Adventure"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104938-8DPaJgKmgmhW.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104938-8DPaJgKmgmhW.jpg",
+            "color": "#e4865d"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 1,
+            "day": 23
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 1,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A two-part video series in which Dr. Teng (a researcher at the Time Institute) and his faithful kappa assistant Pasuke travel through time, first to the Battle of Sekigahara (1600) and then to the fourth Battle of Kawanakajima (1561). In the second installment, they then look in on the last stand of the Japanese underdog hero Yoshitsune in Hiraizu mi (1189) and then, after spending so much time on the Genpei War, suddenly leap several centuries into the future, to cover the first time Nobunaga Oda used firearms in battle, at Nagashino (1575) . A mixture of live-action and anime, described by Japanese sources as a \"documentary with a touch of story,\" and presumably related in some way to Shotaro Ishinomori's multivolume manga history of Japan.\n\n(Source: The Anime Encyclopedia)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 5,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 57,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102911,
+          "title": {
+            "userPreferred": "Sekai no Hikari: Shinran Shounin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102911-BgMbCuEr0jZf.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102911-BgMbCuEr0jZf.jpg",
+            "color": "#e49343"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1999,
+            "month": 3,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Young Matsuwakamaru loses his father as an infant. To make matters worse, his beloved mother Kikkou passes away when he's 8 years old. While facing her death, Matsuwakamaru is puzzled at where people go when they die. If there is a cycle of heaven, hell, and rebirth, is there a way to escape this torturous circle, he wonders. With this great determination for the discovery of knowledge in mind, at only 9 years old, he joins a Buddhist monastery on Mt. Hiei, and changes his name to Shinran. This is the story of the man who would someday open the doors to the Joudo Shinshuu sect of Buddhism.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 32,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 62,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 19783,
+          "title": {
+            "userPreferred": "Nanbo no Monjai! Yankee Gurentai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19783.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19783.jpg",
+            "color": "#ffd643"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 12,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A youthful motorcycle gang in Osaka has their fair share of turf wars, lewd women, and full throttles as they go about their \"too school for school\" attitude with misconceptions and gags galore!",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 79,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 19729,
+          "title": {
+            "userPreferred": "Naniwa Yuukyouden: Nekketsu!! Bakushou Mankai-hen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19729.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19729.jpg",
+            "color": "#f1d65d"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 10,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 10,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "In the 3rd series continues as the gang hits up a karaoke bar at night only to cause a ruckus with their less than desirable signing. They soon find out the karaoke bar might close from local hooligans and attempt to rescue it for compensation. A fellow gang member gets involved too deep with a woman--even though he's married.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 58,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 67,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 19717,
+          "title": {
+            "userPreferred": "Zoku Naniwa Yuukyouden"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19717.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19717.jpg",
+            "color": "#e4ae43"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 6,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 6,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The Kinshu Group is back to their old antics in this mob comedy. Two new recruits join the gang and try to prove their worth. Things take a turn for the worse with the boss takes a bullet and is hospital ridden. What will happen to the gang as snakes begin to creep to break apart company as if the boss is dead?!<br><br>\n*Based on the same name manga by Dookuman Pro, a group of four manga artists. ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 58,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 67,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 19585,
+          "title": {
+            "userPreferred": "Kobo-chan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19585.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19585.jpg",
+            "color": "#e4785d"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 10,
+            "day": 19
+          },
+          "endDate": {
+            "year": 1994,
+            "month": 3,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Kobo Tabata lives in a typical Japanese family. His father is a normal salary-man, his mother's a typical housewife, his grandparents (from his mother's side) help to take care of the family and it's pets, and his uncle's a slightly obese high school teacher. Still, they manage to find odd situations that sometimes arise due to Kobo's growing up process or simply because of their own habits and misunderstandings.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 63,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 142,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 19167,
+          "title": {
+            "userPreferred": "Senbon Matsubara"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19167.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19167.jpg",
+            "color": "#e45043"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 7,
+            "day": 11
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 7,
+            "day": 11
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "  After suffering severe floods in 1753, the people of Senbon Matsubara in Shizuoka cooperate on flood prevention around the Kiso, Nagara, and Yuhi rivers. The people of Satsuma (Kumamoto Prefecture) endure great hardships after being forced to undertake the work by the central government, a subtle indication of the bad feeling that would foment into open rebellion the following century.<br><br>\n(Source: AnimeVice)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 93,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 95,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 19073,
+          "title": {
+            "userPreferred": "Hoshigari Hime no Bouken"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19073.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19073.jpg",
+            "color": "#fff143"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1992,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A fairy-tale telling the story of a wealthy, spoiled princess Katharine who got changed into \"normal\" girl by a Witch and now have to live among common village folks adapting to their modest lifestyle.<br><br>\n*Part of the series of films produced with cooperation of: Japan's Central Council for Financial Services Information and Bank of Japan Public Relations Department.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 60,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18703,
+          "title": {
+            "userPreferred": "Star Dust"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18703.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18703.jpg",
+            "color": "#f1436b"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 9,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 9,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A misguided sci-fi tale of ecological police keeping space free from pollution in 2061.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 32,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 158,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18629,
+          "title": {
+            "userPreferred": "Taiheiyou ni Kakeru Niji"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18629.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18629.jpg",
+            "color": "#f1ae5d"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Schoolgirl Mitsuko tries to protect half-Chinese transfer student Yu-Lian from bullies. That night, she discovers Emily, an old American doll. Given to a Japanese child during an exchange in 1921, it was hidden from the \"doll burnings\" of the anti-Western war period and saved by a brave young girl (Mitsuko's grandmother). At the next day's show-and-tell, Mitsuko tells the story of Emily and encourages Yu-Lian.<br><br>\n(Source: The Anime Encyclopedia)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 104,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18527,
+          "title": {
+            "userPreferred": "Gekikara Gyagu Gekijou: Tabasco Shower"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18527.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18527.jpg",
+            "color": "#f19343"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 5,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 5,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on the yonkoma manga by Iwatani Tenho.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 64,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18451,
+          "title": {
+            "userPreferred": "Don: Gokudou Suikoden"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18451.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18451.jpg",
+            "color": "#d61a1a"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 7,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 9,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Based on the manga of the same name by Motomiya Hiroshi. ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 107,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17983,
+          "title": {
+            "userPreferred": "Kero Kero Keroppi no Christmas Eve no Okurimono"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17983.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17983.jpg",
+            "color": "#e4d635"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 11,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 11,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 114,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17953,
+          "title": {
+            "userPreferred": "Hello Kitty no London ni Orita Uchuujin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17953.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17953.jpg",
+            "color": "#e4355d"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 9,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 9,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "In this original story by Hoshiyama Hiroyuki, Kitty White hears from friends about recent UFO sightings and goes to inspect one of the UFO crash sites, to learn more about it and the aliens that came with it.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 123,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17601,
+          "title": {
+            "userPreferred": "Nontan to Issho"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17601.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17601.jpg",
+            "color": "#f1d650"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 10,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1994,
+            "month": 3,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Nontan is the protagonist of a Japanese series of children's picture books by the same name written by Sachiko Kiyono.<br><br>\nIn the series, Nontan is a mischievous kitten who likes to play and learns about the world around him. Other characters include Pig, Rabbit triplet, Raccoon, Bear, Bee, and Nontan's little sister Taatan.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 263,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 87,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 14623,
+          "title": {
+            "userPreferred": "Do it Kororin Earth SOS"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14623.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14623.jpg",
+            "color": "#f1e428"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 4,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1993,
+            "month": 3,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Jiang came to the old family cherry blossom viewing venue. But the surrounding area was full of garbage. He sits there to eat lunch reluctantly when a strange creature falls from the sky!<br><br>\nKororin is his name. He comes from the Star Oasis and is here to teach the importance of environmental consciousness with his ESP.<br><br>\nJiang, his sister, and Kororin must battle Syndrome, the evil alien plotting the destruction of the Earth. The attempted destruction is usually through some environmental issue such as tearing a hole in the ozone, or changing the weather, or overuse of electricity, etc.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 70,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 12771,
+          "title": {
+            "userPreferred": "Youyou no Neko Tsumami"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12771.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12771.jpg",
+            "color": "#f1931a"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 30
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 9,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": null,
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 130,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 83,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 11095,
+          "title": {
+            "userPreferred": "Zouressha ga Yatte Kita"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11095.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11095.jpg",
+            "color": "#e4bb28"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 7,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 7,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 80,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 67,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10319,
+          "title": {
+            "userPreferred": "Tetsujin 28-go FX"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10319.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10319.jpg",
+            "color": "#e43550"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 4,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1993,
+            "month": 3,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "By 2030, Shotaro's son was in charge of Tetsujin-28. An Interpol agent like his father, he used the aged robot to combat the Pink Mafia and the Franken organization. <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 47,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 253,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10247,
+          "title": {
+            "userPreferred": "Jankenman: Kaijuu Dai Kessen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10247.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10247.jpg",
+            "color": "#d6ae1a"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 7,
+            "day": 23
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 7,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 42,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 67,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 196,
+                  "name": "Ashi Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 10059,
+          "title": {
+            "userPreferred": "Sore Ike! Anpanman: Tsumiki Shiro no Himitsu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10059.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10059.jpg",
+            "color": "#e4a150"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 14
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 60,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 96,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9862,
+          "title": {
+            "userPreferred": "Hana no Mahou Tsukai Mary Bell: Phoenix no Kagi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9862.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9862.jpg",
+            "color": "#e4bb35"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 8,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 8,
+            "day": 8
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Mary Bell, Yuri, Ken, Ribbon, and Tambourine go to Flower Land to see Toto (the Phoenix) on his birthday. ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 43,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy",
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 161,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9759,
+          "title": {
+            "userPreferred": "Future GPX Cyber Formula Graffiti"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9759-zBlE5K3TkKuX.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9759-zBlE5K3TkKuX.png",
+            "color": "#e45d50"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 8,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 8,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Short video diary of the original TV series.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Sci-Fi",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 160,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 9498,
+          "title": {
+            "userPreferred": "Naniwa Yuukyouden"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9498.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9498.jpg",
+            "color": "#e4a15d"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 6,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Taido Kaimon is the leader of the Kinshu Group ganster syndicate in Kansai region. His gang is a cluster of wisecracking madmen, eternally running into trouble with the law, each other, and the local girls who give as good as they get.<br><br>\n(Source: The Anime Encyclopedia)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 60,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 79,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9212,
+          "title": {
+            "userPreferred": "Ruriiro Princess"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9212.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9212.jpg",
+            "color": "#e4bb93"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 5,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "High school girl Ruri is dragged into a battle over the fate of the Pulsean Moon when the princess Leila sends assassins to dispense with her. Ruri's lover, Toru, is wounded protecting her, and Ruri must leave the real world behind and journey to the Pulsean Moon to save him. Based on the manga in Omajinai Comic by Mito Orihara, who also wrote the theme song. <br><br>\n(Source: AnimeVice)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 123,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8848,
+          "title": {
+            "userPreferred": "Oishinbo: Kyuukyoku Tai Shikou, Chouju Ryouri Taiketsu!!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8848.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8848.jpg",
+            "color": "#d6281a"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 12,
+            "day": 11
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 12,
+            "day": 11
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8848-xgwtRXH88obF.jpg",
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 176,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8832,
+          "title": {
+            "userPreferred": "Shounen Ashibe 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8832.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8832.jpg",
+            "color": "#f1ae35"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 10,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1993,
+            "month": 3,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The sequel to Shounen Ashibe.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 25,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 87,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8723,
+          "title": {
+            "userPreferred": "Anime Rakugo Kan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8723.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8723.jpg",
+            "color": "#431a6b"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 7,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 7,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A collection of 4 stand-alone stories.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 173,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8415,
+          "title": {
+            "userPreferred": "Rainbow Samurai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8415.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8415.jpg",
+            "color": "#e4865d"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 4,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1993,
+            "month": 3,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "In the middle of the 19th century, Japan was still closed off from the outside world. There were just the beginning signs of reformation in the long regime of Shogun Tokugawa.<br><br>\nIn the remote countryside, on the island of Shikoko, a young boy named Ryoma is growing up in a lower-class Samurai family. A decade later, he is to become on of the leading figures to topple the Shogun's reign and open Japan to the western world.<br><br>\nOur story begins with Ryoma, a dreaming kid of seven years. Ryoma is an honest and tenderd-hearted boy who hates any sort of violence and brutality. He is so sensitive, and a bit naive, that he often cries from pity when he sees even the simples act of violence such as another kid trampling a tiny insect. The kids and even his family call him a \"cry baby\". However, he is not a coward -- not a \"chicken\" at all. His distress comes from a desire to prevent unreasonable acts and the wrong doings in life.<br><br>\nHis older sister is the only person who understands his depth. She recognizes that her brother is gifted with a special talent and she does her best to protect him and cheer him up.<br><br>\n(Source: Enoki Films USA)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 39,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 153,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8233,
+          "title": {
+            "userPreferred": "Genji"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8233-ZYg7ZHUvN6O8.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8233-ZYg7ZHUvN6O8.png",
+            "color": "#f1e4c9"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 5,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 10,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Time-traveling lovers Katsumi and Sakura find themselves in the midst of Japan's medieval civil war between the Heike and Genji clans.<br>",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 250,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6565,
+                  "name": "T-UP"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 8123,
+          "title": {
+            "userPreferred": "Cooking Papa"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8123.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8123.jpg",
+            "color": "#e4d65d"
+          },
+          "startDate": {
+            "year": 1992,
+            "month": 4,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 5,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The story of Mr. Araiwa and his family. He is a model employee in a large enterprise, but becomes a completely different character at home. He is very keen on cooking and lets pass no occasion to cook delicious dishes for his wife, who is frequently occupied by her work as a journalist, or his young son.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 151,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 338,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

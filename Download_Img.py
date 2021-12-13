@@ -38,9 +38,6 @@ for file_name in [file for file in os.listdir(path_to_json) if file.endswith('.j
         AnimeName = i['title']['userPreferred'].strip()
         Rating = i['averageScore']
 
-        if Rating == None or Rating < 50:
-            continue
-
         for z in ['/',' ','-',',',';','\'']:
             AnimeName = AnimeName.replace(z, "_")      
         
@@ -59,4 +56,10 @@ for file_name in [file for file in os.listdir(path_to_json) if file.endswith('.j
                 f.write(r.content)
 
             newData["Image"] = ImageName
+            newData["Year"] = i['startDate']['year']
+            newData["Genres"] = i['genres']
+            if i['averageScore']!= None:
+                newData["Rating"] = i['averageScore']
+            else:
+                newData["Rating"] = 0    
             append_dict_as_row(newData, Genre)

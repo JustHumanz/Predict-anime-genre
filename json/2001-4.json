@@ -1,0 +1,2246 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 212,
+        "perPage": 50,
+        "currentPage": 4,
+        "lastPage": 5,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 2895,
+          "title": {
+            "userPreferred": "The Whale Hunt"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2895.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2895.jpg",
+            "color": "#43aee4"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 10,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 10,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A short film only screened at the Ghibli Museum in Mitaka. This animated short film is based on a story piece included in a longtime classic and awards-winning children's book \"Iya Iya En\" by Rieko Nakagawa.<br><br>\nShigeru is a little boy who goes to the Tulip Nursery School. One morning at school, Shigeru sees the boys a year older building a ship with blocks. He wants to join in too. The completed ship is named the Elephant and Lion. Soon, the children realize the surroundings have transformed into a sea, and even fishes are swimming. The boys load fishing rods and ropes onto the Elephant and Lion, and set out on a whale hunt.<br><br>\n(Source: Ghibli Museum, edited)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 16,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 621,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3684,
+          "title": {
+            "userPreferred": "Mix Juice"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3684.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3684.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The \"story\" of an apparitious extraterrestrial and a vertically mobile prepubescent.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 604,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 13,
+                  "name": "Studio 4°C"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 991,
+          "title": {
+            "userPreferred": "Usagi-chan de CUE!!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/991.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/991.jpg",
+            "color": "#d66b1a"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 11,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 4,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Mikami Inaba was fighting a person from another school on her school's rooftop. As they fought, her friend Haru appeared. Seeing Mikami distracted, the man charged at her, causing both of them to break the nearby rabbit cages &amp; fall off the roof. As Mikami fell, she desperately grabbed the rabbit. Suddenly, a flash or pink light appeared. Mikami fused with the rabbit, and gained another personality, called Mimika. Now, Mikami only appears when various people threaten her and her friends. Otherwise, she takes on the form of Mimika.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Ecchi",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 1193,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 462,
+                  "name": "Chaos Project"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 12485,
+          "title": {
+            "userPreferred": "Gregory Horror Show: The Bloody Karte"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12485.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12485.jpg",
+            "color": "#e4bb35"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 4,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 6,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The fourth series, The Bloody Karte (presented as a side series on the DVDs) is a set of 12 stories about Catherine working in a mysterious hospital.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Horror",
+            "Mystery",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 235,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 361,
+          "title": {
+            "userPreferred": "Memories Off"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx361-ZuCzxxfE2QaG.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx361-ZuCzxxfE2QaG.png",
+            "color": "#e4c950"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 11,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 3,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Tomoya Mikami's life changed one day when his girlfriend Ayaka was hit by a car and killed on her way to meet Tomoya. He blamed himself for her death and never was the same after the accident. He began acting callously towards Yue and his other friends. Furthermore, every time Tomoya gets involved with a new girl, he sees images of Ayaka in his dreams. He decides he needs to find a way to say goodbye to his lost love once and for all, while dealing with several side romances at the same time.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 1093,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 154,
+                  "name": "E&G Films"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2796,
+          "title": {
+            "userPreferred": "Afro-Ken"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2796.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2796.jpg",
+            "color": "#43bbe4"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 6,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 6,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Afro Ken is a Japanese character created by the San-X company, which creates other anime-style characters such as Kogepan. He is a dog with a rainbow-coloured afro. He is innocent and blameless and always in a good mood. Afro Ken is always willing to try new things. Afro Ken is attracted to objects that look like he does. His hair changes to look like these things as he gets close to them.<br><br>\nThere is an Afro Ken Family Tree with other dog characters who have outrageous names, such as Techno Ken, Funky Ken, Lord Ken, Super Afro Ken, and Normal Ken. Unlike the others, Normal Ken does not have wild hair.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 29,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 680,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2535,
+          "title": {
+            "userPreferred": "Angelique: Seichi yori Ai wo Komete"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2535-IrjVnPSAi2EY.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2535-IrjVnPSAi2EY.png",
+            "color": "#e45086"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 1,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 6,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The queen is collecting some jewels that apparently endanger the whole universe if they fall into the wrong hands. But Zephel screws up and loses one of the jewels. What should he do now?",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 356,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4524,
+          "title": {
+            "userPreferred": "Shenmue: The Movie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4524.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4524.jpg",
+            "color": "#e4a143"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 9,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 9,
+            "day": 8
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Using scenes from the original SEGA Dreamcast game plus some extra made for the movie, Shenmue: the Movie details the events of the first game. After Ryo's father is murdered and a mysterious mirror taken, Ryo sets himself on a quest for revenge.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 300,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1622,
+          "title": {
+            "userPreferred": "Kai Doh Maru"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1622.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1622.jpg",
+            "color": "#e44335"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 19
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "This story takes place during the Heian Period of Japan`s history, when evil spirits still resided in the forests, mountains and rivers. A girl, accompanied by her loved one, battles against these evil spirits, while she is disguised as man. This brave woman, aka \"Kaidomaru\", with a Chinese character \"Flame\" tatooed on her upper arm, was one of the \"Four Devas\". Kaidomaru fights for the honor of her lost love, Raikou Minamotono, who had sacrified his life in order to protect the capital Kyoto, from the evils deeds of a \"princess\" cursed by a malicious ogre. The princess, whom Kaidomaru used to play with as a child, has now become her ultimate enemy.<br><br>\n(Source: Production I.G.)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 46,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 896,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20858,
+          "title": {
+            "userPreferred": "Mistin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20858-aaKPfXFbw9Dp.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20858-aaKPfXFbw9Dp.jpg",
+            "color": "#d65d1a"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 10,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 4,
+            "day": 6
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20858-eR9VJjEgE0de.jpg",
+          "season": "FALL",
+          "description": "Kasumi Haruno is a fourth grade student. She came to Kasumi Town to see off her zoologist parents on their trip to Africa to do research. In the center of the town, surrounded by forest, is the large mansion belonging to the Kasumi family where Kasumi will be staying from now on.<br><br>\r\nKasumi passes through the mansion's gate right away, but a strange atmosphere emanates from somewhere in the Kasumi Forest. When he finally makes it to the mansion, there are talking appliances! It would seem that members of the Kasumi family were youkai called \"Henamon\". Kasumi never dreamed she would end up living with a family of Henamon. She is very busy doing the cooking, laundry, and cleaning in exchange for living there. Surrounded by mysterious companions, what will become of Kasumi's new life?<br><br>\r\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 398,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 28,
+                  "name": "OLM"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104100,
+          "title": {
+            "userPreferred": "Chastity at Midnight"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104100-VlKJvczPG9CZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104100-VlKJvczPG9CZ.jpg",
+            "color": "#f1c9bb"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 3,
+            "day": 28
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 3,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The story is that a mysterious woman fights with a baldheaded leader of an evil secret society. Sheena played the woman and Masato Minagawa, a keyboard player of her band, played the enemy's leader.\n<br><br>\nHer pet cat \"Goethe\" also appears in the music video as a cyborg cat. The heroine was named \"Mayo Kiyozumi\" (潔純真夜 Kiyozumi Mayo) according to the anagram of the song title.\n<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 131,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2521,
+          "title": {
+            "userPreferred": "Great Dangaioh"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2521-5nz7eePOSGCs.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2521-5nz7eePOSGCs.jpg",
+            "color": "#78aed6"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 4,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A mysterious explosion on Futagami Island begins a new chapter in the Dangaioh mythos! Led by the evil Professor Katou, a band of warriors calling themselves the \"Tartarus Knights\" have begun their campaign to lay waste to the world by way of a small research station on Futagami Island. Katou`s victory seems almost certain until he encounters an advanced fortress guarding the island. From it, a group of three humanoid robots are launched - Dangaioh!<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 602,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 48,
+                  "name": "AIC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 5474,
+          "title": {
+            "userPreferred": "Yobarete Tobidete Akubi-chan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5474.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5474.jpg",
+            "color": "#f1c943"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 3,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Koron Nemuta is a girl who yawns when embrassed. One day, she found a vase when she was lost. When she yawns, the genie Akubi will come out of it, but, when she yawns again, Akubi will come back into the vase.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 213,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2278,
+          "title": {
+            "userPreferred": "Mahou Yuugi 3D"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2278.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2278.jpg",
+            "color": "#f19343"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 29
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Padudu is a 12-year-old apprentice witch, chosen to represent her town in the coliseum. Donning her magical fish costume, which keeps her warm and fed, she sets off on her journey. But on the way she's swept away by a river to Dance Valley. Mayor Koffy captures her and throws her into the dungeon, hoping to eliminate the competition for Dance Valley's own coliseum candidate. Luckily for Padudu, this dungeon holds the mysterious witch Nonononn. They join together in a magical fight for survival. At the end of Blue Gender Trailer, the Magical witchland word came out!<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 412,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1613,
+          "title": {
+            "userPreferred": "Jikuu Ihoujin Kyoko: Chocola ni Omakase!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1613.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1613.jpg",
+            "color": "#35a1ff"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 8,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 8,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Preparing a party for her anniversary with the King, when he failed to show up Chocola decided to run away from the castle.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 11,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 358,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9777,
+          "title": {
+            "userPreferred": "Umacha"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9777.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9777.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 3,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 5,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Animated videos, advertising ice tea manufactured by the Asahi Beverage Company.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 44,
+          "popularity": 551,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1949,
+          "title": {
+            "userPreferred": "Mahou no Chocolate"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1949.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1949.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 8,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 8,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Mami-chan has a crush on her school's soccer club star, Ishida-senpai, and tries against hope to work up the courage to give him chocolate for Valentine's Day. She learns from her friend Koko-chan of the mysterious Magical Chocolate. Will the magic make Mami's dream come true?<br><br>\n(Source: AnimeNfo)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 8,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 44,
+          "popularity": 594,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 475,
+                  "name": "Ishikawa Pro"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 9221,
+          "title": {
+            "userPreferred": "Kanzen Shouri Daiteiou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9221.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9221.jpg",
+            "color": "#e4a128"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Originally planned as a TV anime series, but ended up being a promotional video for its manga serialisation on magazine Monthly Daiteioh.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 44,
+          "popularity": 190,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 675,
+          "title": {
+            "userPreferred": "One: To a Shining Season"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/675.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/675.jpg",
+            "color": "#5d93e4"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 8,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 5,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Orihara Kouhei returns to his town after a long disappearance to fullfil the promises he made to several girls in his childhood. He suffered from memory loss, and carries a tragic past. An strange ambience surrounds the OVA...It's almost like a dream, like memories from the past trying to come together in one piece but without being able to...\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 27,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 43,
+          "popularity": 703,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10360,
+          "title": {
+            "userPreferred": "Kinniku Banzuke: Kongou-kun no Daibouken!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10360.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10360.jpg",
+            "color": "#e4ae50"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 8,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A group of school children are invited to compete in the strongest man competition. As the first match is starting, the bored organizer announces that all matches will now be to the death. None of the competitors have a problem with the change. Who will survive and be crowned the strongest? <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 43,
+          "popularity": 204,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102982,
+          "title": {
+            "userPreferred": "Angel"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102982-1rFmpWWifWPv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102982-1rFmpWWifWPv.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A prisoner dreams of being an angel.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 41,
+          "popularity": 135,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 104076,
+          "title": {
+            "userPreferred": "Blue Room"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104076-goxKjPM8ygtH.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104076-goxKjPM8ygtH.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A short pan/view across a room is not as simple as one would think.\n",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 39,
+          "popularity": 198,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103422,
+          "title": {
+            "userPreferred": "A Place Where There Are Moths"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103422-IeJOsSgPktKA.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103422-IeJOsSgPktKA.jpg",
+            "color": "#f1781a"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A Place Where There Are Moths depicts the conflict between drab concrete block apartment living and the natural environment in Japanese cities. The forces of nature are represented by the motif of a tree whose leaves metamorphose into orange moths and take over a middle-aged woman's apartment, pushing her room higher and higher within the building.\n<br><br>\n(Source: Midnight Eye)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 38,
+          "popularity": 250,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102626,
+          "title": {
+            "userPreferred": "Breathing of the Wind: Animation Correspondence"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102626-9Ep2ploXRIS3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102626-9Ep2ploXRIS3.jpg",
+            "color": "#93a10d"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Short animation by Keiichi Tanaami from 2001.\n",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 37,
+          "popularity": 138,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2362,
+          "title": {
+            "userPreferred": "Run=Dim"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2362.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2362.jpg",
+            "color": "#3578bb"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 4,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 6,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "In the year 2050 A.D, approximately 1/10th of Japan is now under water due to the global warming effect. The city of Tokyo was no exception.<br><br>\nThe economy of Japan is crippled from this disaster and the government is willing for anything to help revive the country. As a result, the Japanese government forms \"JESAS\", a military foundation that has evil intentions of controlling Japan's future. JESAS handles the dumping of nuclear wastes into outer space.<br><br>\nTo insure their protection from other countries, JESAS has developed \"R.B.\" Robotic Weaponry, which is controlled by pilots with \"A.I. (Accurate Intuition)\". On the opposite side of the law is the \"Green Frontier\", a united protection agency that was formed by countries sharing the same beliefs, to save the Earth.<br><br>\nFeaturing JESAS pilots Kanna and Kazuto and Green Frontier's Doota Kang and Mira Yu, these four youngsters will decide the fate of the Earth through love, friendship and the passion for their duty.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 37,
+          "popularity": 613,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2475,
+          "title": {
+            "userPreferred": "6 Angels"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2475.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2475.jpg",
+            "color": "#d61a35"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 11,
+            "day": 20
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 7,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A group of female mercenaries known as the Rose Guard patrol a Utah nuclear test site that has been turned into a prison for hardened criminals. The Canyon family, however, has taken control of the prison, and now aims to use nuclear weapons to \"cleanse the world with radiation\", and only the Rose Guard can stop them.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 36,
+          "popularity": 530,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18463,
+          "title": {
+            "userPreferred": "Sign"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18463.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18463.jpg",
+            "color": "#e4bb50"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the song 'Sign' by Nobukazu Takemura<br><br>\nAnimation done by Katsura Moshino",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 36,
+          "popularity": 153,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18561,
+          "title": {
+            "userPreferred": "Mahou No Hiroba"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18561.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18561.jpg",
+            "color": "#f18650"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Clay animation movie of \"Mahou no Hiroba\" for Nobukazu Takamura featuring Aki Tsuyuko from Nobukazu Takemura Song Book 2001.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 35,
+          "popularity": 150,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4733,
+          "title": {
+            "userPreferred": "Blue Remains"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4733-kSMKJwd2TXSQ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4733-kSMKJwd2TXSQ.jpg",
+            "color": "#4378c9"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 8,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 8,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Post-nuclear Earth is barren, and life can't survive on the surface, so the few remaining people have lived under-water waiting for their time to be able to go to the surface. Amamiku and her faithful computer guardians, Pyron and Mayzamik, guard the seeds that contain the DNA for life and re-growth on the surface when the air is breathable again, but not everyone wants that to happen. ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 77,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 34,
+          "popularity": 264,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2776,
+          "title": {
+            "userPreferred": "Generation of Chaos"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2776.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2776.jpg",
+            "color": "#ff8635"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 9,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 9,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A brief introduction to the events that take place in the first Generation of Chaos RPG. First, Chiffon is a famous monster trainer who has lost his ability to control monsters. On the way to return his Hiyokomushi, a large, slow monster, to its birthplace, it goes out of control, and Chiffon needs help in stopping it. In the second part, Roze, a half-demon, comes face to face with the possibility of losing her precious sister at the hands of those who are afraid of her.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 28,
+          "popularity": 888,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140024,
+          "title": {
+            "userPreferred": "Genkichi Jii-san to Kogitsune"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140024-g8ybYwpBkkgY.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140024-g8ybYwpBkkgY.jpg",
+            "color": "#f1bb35"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A grandfather who lives alone and a child who turns into a grandson because he wants to eat persimmon fruits. The encounter and farewell of the two are depicted in a beautiful autumn mountain village.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 18,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 7,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 136758,
+          "title": {
+            "userPreferred": "Ramen Chai-nyan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136758-JEuASBVJiQqE.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136758-JEuASBVJiQqE.png",
+            "color": "#ff9343"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 2,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 2,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Chai Nyan is a 14-year-old girl who came all the way from China to spread the way of Ramen! However, a drunk named Yoiyoi refuses to accept that Chai Nyan's ramen shop neither sells alcohol nor allows drinking. And so, the drunk decides to destroy the shop with robots and so on. Will Chai Nyan be able to weather this storm?",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 37,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 475,
+                  "name": "Ishikawa Pro"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 129460,
+          "title": {
+            "userPreferred": "Xiao Heshang"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129460-sDlps1VhtcFs.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129460-sDlps1VhtcFs.jpg",
+            "color": "#e4ae5d"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 9,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 471,
+                  "name": "Shanghai Animation Film Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 126175,
+          "title": {
+            "userPreferred": "The Apple Incident"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126175-3bXIo5abpHXg.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126175-3bXIo5abpHXg.jpg",
+            "color": "#866b1a"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "This surreal early short animation by Kunio Katō (加藤久仁生), the Oscar-winning director of La maison en petits cubes (つみきのいえ, 2008), won the prize for best film at the Laputa Animation Festival in 2001.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 67,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 122029,
+          "title": {
+            "userPreferred": "Junkers Come Here: Pilot Film"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122029-2LWffmYjCFXc.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122029-2LWffmYjCFXc.jpg",
+            "color": "#d6ae78"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The pilot for Junkers Come Here included with the DVD release of the movie.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 55,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 110,
+                  "name": "Triangle Staff"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 121837,
+          "title": {
+            "userPreferred": "Sore Ike! Anpanman: Gomira no Hoshi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121837-dSi7JljzcneD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121837-dSi7JljzcneD.jpg",
+            "color": "#e47843"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 51,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 44,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 119939,
+          "title": {
+            "userPreferred": "10 Tokyo Warriors (2001)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119939-eDWvXquUMHoz.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119939-eDWvXquUMHoz.jpg",
+            "color": "#e4ae5d"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 8,
+            "day": 24
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 1,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Long ago, in feudal Japan, there was a fierce warrior named the Demon King. He controlled a band of demons, known as the Kyouma. Only the powers of ten warriors sealed the Demon King away and kept the Kyouma under control. But now, Lord Shindigan, a powerful Kyouma is planning to free the Demon King, and the reincarnations of the ten warriors must band together and save the earth.\n\nSource: ANN",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 27,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 112,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 119836,
+          "title": {
+            "userPreferred": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Yakisobapanman"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119836-KyUh8jSVwAN8.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119836-KyUh8jSVwAN8.jpg",
+            "color": "#f1d61a"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Yakisobapanman and Uncle Negi try to escort the young Pepper Trio and their important cargo to Vegetable Village in time for the carnival this evening but Baikinman and his gang are trying to steal the cargo. Luckily, Naganegiman keeps showing up to help fight them off, but how? Who could this mysterious masked swordsman be?",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 69,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 73,
+                  "name": "TMS Entertainment"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 118056,
+          "title": {
+            "userPreferred": "Yasashi-sa"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118056-aKzkg55W4KP4.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118056-aKzkg55W4KP4.jpg",
+            "color": "#5dc9e4"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 6,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 6,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the song Yasashi-sa by Japanese band KUKIKODAN that was featured on NHK's Minna no Uta program. The video was animated by Kouji Nanke.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 55,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102782,
+          "title": {
+            "userPreferred": "Bubble Bath"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102782-bvTnRxHBCGZa.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102782-bvTnRxHBCGZa.jpg",
+            "color": "#f1bb5d"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A girl sings about bubble baths. She talks about the different scented oils she uses, the flowers she decorates around it, and how relaxed she feels taking them.\n",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 69,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18081,
+          "title": {
+            "userPreferred": "Koro Koro Kuririn no Inaka no Nezumi Tokai no Nezumi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18081.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18081.jpg",
+            "color": "#e4785d"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 10,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 10,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Sanrio's version of <em>The Country Mouse and the City Mouse</em>.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 86,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17487,
+          "title": {
+            "userPreferred": "Tantei Shounen Kageman"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17487.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17487.jpg",
+            "color": "#e4bb1a"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 4,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2002,
+            "month": 1,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Kageman is a boy who wants to become the best detective in the world. Each of the self-contained episode features a fun guessing game and unriddling of a case. <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 38,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 84,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16460,
+          "title": {
+            "userPreferred": "Perrine Monogatari Specials"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16460.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16460.jpg",
+            "color": "#a1c9e4"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 1,
+            "day": 28
+          },
+          "endDate": {
+            "year": 2013,
+            "month": 7,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "A summary of the full series aired as a TV specials.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 100,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 22,
+                  "name": "Nippon Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 15607,
+          "title": {
+            "userPreferred": "Ai no Wakakusa Monogatari Specials"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15607.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15607.jpg",
+            "color": "#f1c9a1"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 5,
+            "day": null
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 5,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A summary of the full series aired as a TV special on BS Fuji in May, 2001. \n<br>\n<br>\nOne year later, the two-part summarised movie was published on DVD on May 25, 2002, manufactured and distributed by Bandai Visual Co., Ltd.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 174,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 22,
+                  "name": "Nippon Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 15399,
+          "title": {
+            "userPreferred": "The Siamese: First Mission"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15399.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15399.jpg",
+            "color": "#e4ae43"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 10,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 10,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "June and Naomi are a pair of two attractive women who both work as radio station DJs by day, but when night falls they are elite counter-terrorism agents under the code name The Siamese Cats.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 136,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 11525,
+          "title": {
+            "userPreferred": "Mamimume★Mogacho"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11525.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11525.jpg",
+            "color": "#e4ae5d"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 7,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 9,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The wild Mogacho creates havoc on Puri Puri Island. It's a fun-filled show about his adventures with his delightful friends.<br><br>\n(Source: CDJapan)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 187,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10989,
+          "title": {
+            "userPreferred": "Stray Sheep Poe no Chicchana Daibouken"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10989.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10989.jpg",
+            "color": "#4386e4"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 10,
+            "day": 16
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": null,
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 128,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10139,
+          "title": {
+            "userPreferred": "21 Seiki Manga Hajimete Monogatari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10139.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10139.jpg",
+            "color": "#35c9e4"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 3,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 3,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": null,
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 84,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9817,
+          "title": {
+            "userPreferred": "McDull: Gushi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9817.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9817.jpg",
+            "color": "#f1bb86"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 15
+          },
+          "endDate": {
+            "year": 2001,
+            "month": 12,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "McDull is not the brightest kid on the block, but he continually tries to do his best and please his mother. Although it seems that he may not be destined for great things in life as his mother wishes, McDull never gives up.<br><br>\nThe story focuses on several tales about McDull and his childhood. This is told as a narrative reflection of a now adult McDull. These tales muddle up in imaginative uses of Cantonese and heaps of local Hong Kong culture. From tales about a turkey dinner to dreams of following in Lee Lai-shan's footsteps, McDull faces ebbs and flows with his demanding but devoted mother.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 76,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 93,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9519,
+          "title": {
+            "userPreferred": "Medaka no Gakkou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9519.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9519.jpg",
+            "color": "#f1c928"
+          },
+          "startDate": {
+            "year": 2001,
+            "month": 4,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2005,
+            "month": 2,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Medaka is a high school student. She wants to be a doctor, and she&rsquo;s just transferred to Tanaka Private School on the recommendation of her parents.<br><br>\nBut she finds that his school looks a bit strange. For example, Pochi is such a smart student who always gets full marks, but he is a dog. And there are other classmates: Nekoko, a cat, who thinks of Pochi as a rival, Misa, a five-years-old girl. Of course, her home room teacher, Mr. Tanaka, is not normal. His face is ... A fish?!<br><br>\n(Source: AnimeNfo)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 5,
+          "duration": 14,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 164,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

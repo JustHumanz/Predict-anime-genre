@@ -1,0 +1,2502 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 141,
+        "perPage": 50,
+        "currentPage": 1,
+        "lastPage": 3,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 820,
+          "title": {
+            "userPreferred": "Legend of the Galactic Heroes"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/820.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/820.jpg",
+            "color": "#e4c935"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 1,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1997,
+            "month": 3,
+            "day": 17
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/820-QpfihwRNU03y.jpg",
+          "season": "WINTER",
+          "description": "For decades, the Galactic Empire has been locked in an interstellar war with the Free Planets Alliance, a conflict that involves thousands of spaceships and millions of soldiers on both sides. Two new commanders enter the conflict with great hopes: Imperial Admiral Reinhard von Lohengramm and the FPA's Yang Wen-Li. As they deal with superiors and subordinates, maneuver through complicated political arrangements, plot strategies, and win battles, each will be tested, and ultimately, changed, by the reality of war. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 110,
+          "duration": 26,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 88,
+          "popularity": 44256,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 8,
+                  "name": "Artland"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 578,
+          "title": {
+            "userPreferred": "Grave of the Fireflies"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx578-vU6XcOlb1XFU.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx578-vU6XcOlb1XFU.jpg",
+            "color": "#e4bb5d"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 15
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/578.jpg",
+          "season": "SPRING",
+          "description": "In the aftermath of a World War II bombing, two orphaned children struggle to survive in the Japanese countryside. To Seita and his four-year-old sister, the helplessness and indifference of their countrymen is even more painful than the enemy raids. Through desperation, hunger and grief, these children's lives are as heartbreakingly fragile as their spirit and love is inspiring.<br><br>\n(Source: Sentai Filmworks)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 88,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 82,
+          "popularity": 92695,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 21,
+                  "name": "Studio Ghibli"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 523,
+          "title": {
+            "userPreferred": "My Neighbor Totoro"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx523-gOsP34LWBXTn.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx523-gOsP34LWBXTn.jpg",
+            "color": "#ff9335"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 16
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 16
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/523-rl12Q0av1fCr.jpg",
+          "season": "SPRING",
+          "description": "Follow the adventures of Satsuki and her four-year-old sister Mei when they move into a new home in the countryside. To their delight they discover that their new neighbor is a mysterious forest spirit called Totoro who can be seen only through the eyes of a child. Totoro introduces them to extraordinary characters, including a cat that doubles as a bus, takes them on a journey through the wonders of nature. <br><br>\n(Source: Disney) ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 86,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 80,
+          "popularity": 129372,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 21,
+                  "name": "Studio Ghibli"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 47,
+          "title": {
+            "userPreferred": "Akira"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx47-Sjkc8RDBjqwT.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx47-Sjkc8RDBjqwT.jpg",
+            "color": "#e45d50"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 16
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 16
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/47-fof8HqtNDtvx.jpg",
+          "season": "SUMMER",
+          "description": "It's the year 2019, thirty-one years have passed since the start of World War III. A top-secret child with amazing powers of the mind breaks free from custody and accidentally gets a motorcycle gang involved in the project. This incident triggers psychic powers within one of the gang members, Tetsuo, and he is taken by the army to be experimented on. His mind has been altered and is now on the path of war, seeking revenge on the society that once called him weak. <br><br>\n(Source: FUNimation) ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 125,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Horror",
+            "Psychological",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 79,
+          "popularity": 106087,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 65,
+                  "name": "Tokyo Movie Shinsha"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1471,
+          "title": {
+            "userPreferred": "City Hunter 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1471-fGdrcINlEmwT.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1471-fGdrcINlEmwT.jpg",
+            "color": "#78bbd6"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 7,
+            "day": 14
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1471-XO9WqmM0OuO5.jpg",
+          "season": "SPRING",
+          "description": "Ryo Saeba is a \"sweeper\" know as the City Hunter. He and his sidekick Kaori Makimura are hired to solve problems that the police can't (or won't) handle. When he's not keeping the streets of Tokyo clean, Ryo is chasing the ladies, and Kaori chases after him with a giant anti-ecchi hammer.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 63,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": 77,
+          "popularity": 3730,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 949,
+          "title": {
+            "userPreferred": "Gunbuster"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx949-LDCFxDufSwTQ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx949-LDCFxDufSwTQ.png",
+            "color": "#e4bba1"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 7,
+            "day": 7
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/949-SeKG5aRhF26j.jpg",
+          "season": "FALL",
+          "description": "In the very near future, a race of huge, insect like aliens is discovered traveling the galaxy. These aliens seem dedicated to the eradication of the human species as it takes its first steps away from the solar system, and they are getting closer and closer to Earth. Humanity has responded by developing spacegoing battleships and giant fighting robots. These robots are piloted by the best and brightest of Earth`s youth, picked from training schools around the world.<br><br>\nThe story begins in the year 2023, not long after the first battles with the aliens, and centers on young Noriko Takaya. Although Noriko`s father was a famous Captain in the space fleet who was killed during one of the first battles of the war, her own talents as a pilot are questionable. Nonetheless, she has entered a training school. Through the series Noriko, joined by the beautiful and talented Kazumi Amano, will fight to overcome the trauma of war, the doubts of her peers, and her own lack of confidence. <br><br>\n(Source: AniDB) ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 28,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 77,
+          "popularity": 24710,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6,
+                  "name": "Gainax"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3014,
+          "title": {
+            "userPreferred": "Legend of the Galactic Heroes: My Conquest Is the Sea of Stars"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3014-HcjYHAbi1bnd.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3014-HcjYHAbi1bnd.jpg",
+            "color": "#e4a150"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 2,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 2,
+            "day": 6
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3014-xPKJu0ZRcYHa.jpg",
+          "season": "WINTER",
+          "description": "This movie, based on an anecdote of \"Ginga Eiyuu Densetsu\" written by novelist Tanaka Yoshiki, preludes the 110-episodes TV series by describing the first encounter between the ambitious young man Reinhard von Museal under the imperial flag and the passive Yang Wenli who serves a corrupting democracy. Set in an imaginative future, the story describes the first encounter between Yang and Reinhard and discusses how heroes are born.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 60,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 76,
+          "popularity": 8523,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 8,
+                  "name": "Artland"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 87,
+          "title": {
+            "userPreferred": "Mobile Suit Gundam: Char's Counterattack"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87-SCCIlaJZjSvz.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87-SCCIlaJZjSvz.png",
+            "color": "#e4ae43"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 12
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/87-YhOEoJL9FMOr.jpg",
+          "season": "SPRING",
+          "description": "U.C. 0093. 13 years have passed since the events of the original Mobile Suit Gundam series. But the foundations of peace are once again threatened by a new Neo Zeon army, led by the infamous Char Aznable! Their ultimate goal is to plunge Earth into a nuclear winter, forcing humanity to emigrate completely into space. Armed with the state-of-the-art Nu Gundam, Amuro Ray and his Federation comrades are all that stand against Neo Zeon. Torn between vengeance, duty, and love - the final battle is at hand!\n<br><br>\n(Source: Sunrise)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 119,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 73,
+          "popularity": 7695,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2454,
+          "title": {
+            "userPreferred": "Kimagure Orange Road: I Want to Return to That Day"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n2454-7t8qOvScDNDu.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n2454-7t8qOvScDNDu.png",
+            "color": "#5da1e4"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 1
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2454-4MrHX3flO51s.jpg",
+          "season": "FALL",
+          "description": "After the TV-series of Kimagure Orange Road, Kyosuke and Madoka have finally arrived at the point where they are close to graduation and have to decide where they want to go to college. Naturally, they want to go together, so beside all the studying they also have to look for a proper college where they can enter both.<br><br>\r\nHikaru, still a year from graduating, wants to support Kyosuke as well and does that in her own way. But while she does that, Madoka feels jealous and tells her feelings to Kyosuke.<br>\r\nAnd then Kyosuke has to take action to finally decide on the girl he loves... thus concluding the story of the Kimagure Orange Road.<br><br>\r\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 69,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 71,
+          "popularity": 1645,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1288,
+          "title": {
+            "userPreferred": "Mobile Police Patlabor"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1288-5XFOZjW78BbM.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1288-5XFOZjW78BbM.png",
+            "color": "#e48635"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 6,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1288-OTcHhYJFCbE9.jpg",
+          "season": "SPRING",
+          "description": "In the future, rapidly advancing technology gives birth to giant robots known as \"Labors,\" so named for their usefulness in heavy industry. However, this also gives rise to \"Labor crimes,\" resulting the need for a new branch of law enforcement equipped with and dedicated to the policing of Labors. When Izumi Noa, a female police officer, becomes the newest recruit of Special Vehicles Division 2, she and her top of the line \"Patrol Labor\" (or \"Patlabor\") Alphonse are swept into a series of adventures featuring crazed construction workers, eco-terrorists, and sea monsters. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 7,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 70,
+          "popularity": 8227,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1924,
+          "title": {
+            "userPreferred": "Urusei Yatsura Movie 5: The Final Chapter"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1924-ManowHsbyauK.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1924-ManowHsbyauK.png",
+            "color": "#e4bb1a"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 2,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 2,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The Urusei Yatsura story comes to a climax in this animated retelling of the final Manga story (although not the final movie). Lupa, yet another one of Lum's fiancés, arrives on the scene, and Lum and Ataru have to repeat their game of tag in order to prevent the Earth from being destroyed.<br><br>\r\nAll Ataru has to do to win is say \"I love you\" the three words he has steadfastly refused to say to Lum. Will he admit his true feelings and save the Earth? Or will his pride doom it to destruction?<br><br>\r\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 85,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 68,
+          "popularity": 1321,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 207,
+                  "name": "Magic Bus"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2048,
+          "title": {
+            "userPreferred": "Armor Hunter Mellowlink"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2048.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2048.jpg",
+            "color": "#6b1a28"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 11,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 4,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n2048-6CV2XwJNcIu1.jpg",
+          "season": "FALL",
+          "description": "As the sole survivor from a squad that was sacrificed and hung out as scapegoats for embezzlement of military resources at the end of the 100 years war, Mellowlink Arity is out for revenge.<br>\nCarrying the dogtags of his deceased comrades and armed with a dated anti AT rifle, he swears to hunt down and exact revenge on the corrupt officers that betrayed his squad, and maybe even uncover the truth behind the plot as well.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 67,
+          "popularity": 2546,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2585,
+          "title": {
+            "userPreferred": "Armored Trooper Votoms: Origin of Ambition"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2585.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2585.jpg",
+            "color": "#e4ae35"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 19
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 19
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n2585-lTCdVXXrSq1R.jpg",
+          "season": "SPRING",
+          "description": "After armored trooper pilot Chirico Cuvie  is given orders to transfer to Planet Odon, he and all of the other new recruits are sent into a simulated battle to test their abilities. However, this 'simulated battle' turns out to be a serious fight to eliminate those without the necessary skills. Chirico survives along with just three others, despite the fact that he fought while injured. It soon becomes apparent that this is not the first time he has survived against incredible odds, a fact that Colonel Peruzen wishes to exploit. But is Chirico truly immortal? <br><br>\n(Source: Anime-Planet) ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 56,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 67,
+          "popularity": 939,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2903,
+          "title": {
+            "userPreferred": "Sakigake!! Otokojuku"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2903-w6JQtYpB5p0l.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2903-w6JQtYpB5p0l.png",
+            "color": "#d6281a"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 2,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 11,
+            "day": 14
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2903-6dmXkhRRfhY7.jpg",
+          "season": "WINTER",
+          "description": "Otokojuku - a private school for juvenile delinquents that were previously expelled from normal schools. At this school, Japanese chivalry is taught through feudal and military fundamentals. Similar to an action film, the classes are overwhelmed by violence. Only those who survive it become true men. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 34,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 66,
+          "popularity": 2146,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1255,
+          "title": {
+            "userPreferred": "Saint Seiya: Legend of Crimson Youth"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1255-izwd7DdiXIgl.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1255-izwd7DdiXIgl.jpg",
+            "color": "#f1ae28"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 23
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1255-e1JVMahov05o.jpg",
+          "season": "SUMMER",
+          "description": "The former Sun God Abel returns to life, bent on punishing the humans and cleansing the Earth from their presence. When Athena joins him, leaving humans to their fate, the Bronze Saints must defend the Earth in their greatest battle yet. \n<br><br>\n(Source: IMDB) ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 75,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 66,
+          "popularity": 2245,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2460,
+          "title": {
+            "userPreferred": "Maison Ikkoku: Final Chapter"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2460.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2460.jpg",
+            "color": "#f1c928"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 2,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 2,
+            "day": 6
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n2460-VxxCPZ6SmcqT.jpg",
+          "season": "WINTER",
+          "description": "Taking place after the tv-series, this movie tells the story of what happened with Godai, Kyoko and the tenants after the TV series ended (don't take the last episode in account, since that is a summary of what will come). <br>",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 66,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 66,
+          "popularity": 1295,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 30,
+                  "name": "Ajiado"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 314,
+          "title": {
+            "userPreferred": "Ace wo Nerae! 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx314-ZDzJz1ZrobY7.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx314-ZDzJz1ZrobY7.png",
+            "color": "#e4ae5d"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/314-tsxCDczPLfxo.jpg",
+          "season": "SUMMER",
+          "description": "Three years has passed since the events of the first series. Hiromi continued training with her coach and became Japan's junior champion. Their common profits have also contributed to the coach being chosen as the first trainer of the Japanese Selection of Tennis and is arranged to head a trip with the youngest members of the team to USA. The relation between Hiromi and its trainer is narrower at personal level but it exceeds the teacher-student bond with great difficulty.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 784,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1264,
+          "title": {
+            "userPreferred": "Ronin Warriors"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1264-sIhmsUTxzL3h.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1264-sIhmsUTxzL3h.jpg",
+            "color": "#d6351a"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 30
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 3,
+            "day": 4
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1264-FvbMnm5yfwbp.jpg",
+          "season": "SPRING",
+          "description": "Thousands of years ago, the evil emperor Talpa attempted to conquer the Earth. Defeated, he was banished to the Nether Realm and his armor was divided into 9 separate suits. Now, he has returned to conquer Earth, having reclaimed 4 of the suits. The other 5 are in the possesion of those who are the only hope of stopping him: The Ronin Warriors. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 39,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 2138,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1151,
+          "title": {
+            "userPreferred": "Dominion Tank Police"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1151-SvOaX2oMD1oc.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1151-SvOaX2oMD1oc.jpg",
+            "color": "#f16b35"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 5,
+            "day": 27
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 8,
+            "day": 11
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1151-ZCJH3EkGgDHW.jpg",
+          "season": "SPRING",
+          "description": "Leona Ozaki joins Newport City's infamous Tank Police division. With aid of Al and her newly built mini-tank, Bonaparte, she wages war on Buaku and his cohorts, the Puma Sisters. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 36,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 3099,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6110,
+                  "name": "Agent 21"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6703,
+                  "name": "Ginga Teikoku"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2658,
+          "title": {
+            "userPreferred": "Doraemon: Nobita's Version of Saiyuki"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2658.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2658.jpg",
+            "color": "#e4bb28"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Nobita is trying to prove that the Monkey King exists so they went back to the time Sanzo began his pilgrimage. Doraemon used a virtual video game console and let Nobita play \"Journey to The West\" to give Nobita clothes that the Monkey King wears. Nobita messed up on prooving Monkey king exists. When Nobita and his friends played \"Journey to The West\" and they finished the game without fighting any demons. Later, they found out their world is ruled by demons. The problem is that Doraemon left the game console open in the past without closing it and demons started to appear to invade the world. Doraemon and the others now have to go back into the past to vanquish the demons.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 778,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2405,
+          "title": {
+            "userPreferred": "Hello! Lady Lynn"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2405.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2405.jpg",
+            "color": "#e4bb43"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 5,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 1,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "This is the second series of Lady Lady. Every year at Lynn's school, an honorable &ldquo;Lady Quest&rdquo; is given to the most sophisticated lady. Lynn strives to receive this honor.<br><br>\n(Source: Toei Animation)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 36,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 543,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4061,
+          "title": {
+            "userPreferred": "Grimm's Fairy Tale Classics"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4061.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4061.jpg",
+            "color": "#bbd61a"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 3,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Every episode is a stand-alone retelling of a different fairy or folk tale.  Not all of them are based on the fairy tales collected by the Brothers Grimm.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 23,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 427,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 22,
+                  "name": "Nippon Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1384,
+          "title": {
+            "userPreferred": "Vampire Princess Miyu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1384-BQKMLYCYwKjc.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1384-BQKMLYCYwKjc.png",
+            "color": "#93431a"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 4,
+            "day": 21
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1384-9NbtS4th2kTC.jpg",
+          "season": "SUMMER",
+          "description": "A quiet gothic horror story about a vampire girl, Miyu, whose destiny it is to hunt down murderous demons known as Shinma and return them to their land of origin, the Dark. Miyu is pursued by the Spiritualist Himiko, determined to find out who Miyu is and to stop her from sucking the life blood from helpless humans. Each of the four episodes chronicle one of Miyu's encounters with a Shinma and the humans that it is affecting, from the perspective of Himiko's pursuit of Miyu. <br><br>\n(Source: AniDB) ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Horror"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 2831,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 48,
+                  "name": "AIC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1258,
+          "title": {
+            "userPreferred": "Saint Seiya: The Heated Battle of the Gods"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1258-tmNkTWDcU5ZU.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1258-tmNkTWDcU5ZU.jpg",
+            "color": "#e4c91a"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 12
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1258-8xeNAF4u9g4p.jpg",
+          "season": "SPRING",
+          "description": "In northern Europe, the reincarnation of Odin, Dolbar, rules supreme. One day, Hyoga rescues a man in Siberia so warns him about trouble in the Asgard. Athena goes out to investigate and sends Hyoga in advance but when she and the others arrive at the Asgard, Hyoga is nowhere to be found. When Dolbar captures Athena to take control of the sanctuary, the bronze saints try to help her but are attacked by the God Warriors.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 2320,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 892,
+          "title": {
+            "userPreferred": "Dragon Ball: Mystical Adventure"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx892-qSAVWaHQzBwE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx892-qSAVWaHQzBwE.jpg",
+            "color": "#d6931a"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 9
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/892-EDe7UtQcvEab.jpg",
+          "season": "SUMMER",
+          "description": "A retelling of the meeting of Goku, Tenshinhan, and Chiaotzu. Also of the 23rd Tenkaichi Budokai.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 7224,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4663,
+          "title": {
+            "userPreferred": "Iron Fist Chinmi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4663-5Xf9Mmx1p8vG.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4663-5Xf9Mmx1p8vG.png",
+            "color": "#e45d35"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The Ironfist Chinmi or Tekken is kung-fu adventure of a teenage who will complete the art of kung-fu a temple which is Dairin Temple. Adventure background is a huge China Kingdom with a huge history in it and even it's very big territorial. This teenager&rsquo;s name is Chinmi and companion with a funny monkey, which usually called Go Ku, to across the wide of kung-fu's world. Chinmi is an orphan teenage that only have an older sister, Mei Lin. They both, before Chinmi's going to explore his talent in kungfu in Dairin temple, lived near the Choko River in a small restaurant owned by them. It was Master Yosen who gave the first time to Chinmi an inner power kung-fu's style which becomes the first style to rely on every fight in Chinmi's adventure.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 20,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 588,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 196,
+                  "name": "Ashi Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3483,
+          "title": {
+            "userPreferred": "Maison Ikkoku: Through the Passing of the Seasons"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3483-jV3t8ZKoxVRo.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3483-jV3t8ZKoxVRo.jpg",
+            "color": "#c98650"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 9,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 9,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A recap of the Maison Ikkoku series that focuses on the relationship between Godai and Kyoko. The entire special is taken from footage of the TV series.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 629,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2520,
+          "title": {
+            "userPreferred": "Dragon Ball Specials"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2520.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2520.jpg",
+            "color": "#86e45d"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Specials included with the original series.<br><br><strong>Goku no Koutsuuanzen</strong> (Goku's Traffic Safety)<br>\nGoku is heading to West City to attend Bulma's birthday party, and on the way he ends up learning the rules for getting through traffic. The movie was for children to watch so it would teach them how to get across a pedestrian crossing.<br><br><strong>Goku no Shouboutai</strong> (Goku's Fire Brigade)<br>\nAn episode for kids where Goku and the others work for the Fire brigade and explain how avoid problems with fire.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 4257,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 6509,
+          "title": {
+            "userPreferred": "Kiteretsu Encyclopedia"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6509-a14QqkXpymOc.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6509-a14QqkXpymOc.png",
+            "color": "#e4bb35"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 27
+          },
+          "endDate": {
+            "year": 1996,
+            "month": 6,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The main character is a scientific genius boy named Kiteretsu, who has built a companion robot named Korosuke. He frequently travels in time with his friends and Korosuke in the time machine he built. Miyoko is a girl in his neighborhood who is basically his girlfriend. Tongari is his rival, who happen to share some similar traits of Honekawa Suneo. Buta Gorilla (Kumada Kaoru) is a typical neighborhood bully, who also share similar traits of Gian (Takeshi Goda) except that he often antagonizes Korosuke (though they are in grade school).<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 331,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 1002,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 13755,
+          "title": {
+            "userPreferred": "Feeling from Mountain and Water"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13755-DsDUNdg3NQHJ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13755-DsDUNdg3NQHJ.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1989,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13755-AzDgZm84RYbi.jpg",
+          "season": null,
+          "description": "The only noises you can hear are the sounds of water and wind. The story shows us a young girl and an elderly man. She cares about him and in a return, he gives her guqin lessons. ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 648,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 471,
+                  "name": "Shanghai Animation Film Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 9883,
+          "title": {
+            "userPreferred": "Osomatsu-kun (1988)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9883-EHMEDXA2uL4Q.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9883-EHMEDXA2uL4Q.jpg",
+            "color": "#e4bb35"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 2,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 12,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The would-be hijinks of the mischievous Matsuno sextuplets are hijacked from episode one by colorful buck-toothed con man Iyami and Chibita, his bald munchkin sidekick. Nearly every episode is a standalone comedy cavalcade with the above cast as well as other quirky locals who show up in a number of different roles as the series shifts effortlessly between time periods and genres, but in most cases, Iyami and Chibita are front and center as partners in crime, a couple of sad sacks scraping by but carrying out scammy schemes in order to get rich quick. <br><br>\n(Source: Discotek Media)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 86,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 1162,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 5830,
+          "title": {
+            "userPreferred": "Little Baldy Hagemaru"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5830.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5830.jpg",
+            "color": "#e4d643"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 8,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Hagemaru Hageda is a young kid, studying in fourth standard living with his parents in Japan. Only child of his parents, he and his parents are a big misers. They do anything for saving money and this is the basic plot of the show. Hagemaru also has a pet dog named Pesu, who often comments about Hagemaru's family being too miser and not giving him anything to eat.<br><br>\nHe is best friend of his class-mate Masaru Kondo and he has a crush on Midori, a girl from his class. In most of the episodes, Hagemaru goes to school and the story revolves around his teacher (his 'miss') and his friends. At the end of the each episode, top ten snippets are shown.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 59,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 445,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1093,
+          "title": {
+            "userPreferred": "Oishinbo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1093-oNUjFBdNsYlU.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1093-oNUjFBdNsYlU.jpg",
+            "color": "#0d6b78"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 17
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 17
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1093-Qx3xozlzOSOF.jpg",
+          "season": "FALL",
+          "description": "Oishinbo is a drama about newspaper reporters. The main character is a cynical food critic named Yamaoka. Oishinbo is a popular mainstream comic for adults in Japan. It is even mentioned in an episode of \"Iron Chef\". <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 136,
+          "duration": 26,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 843,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1328,
+          "title": {
+            "userPreferred": "One Pound Gospel"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1328-moNfGtR4wMOK.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1328-moNfGtR4wMOK.png",
+            "color": "#e4bb5d"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 2
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1328-mlHUI0J3lJ82.jpg",
+          "season": "WINTER",
+          "description": "Hatanaka Kosaku, a hopeful boxer, has a mean KO punch. Unfortunately, his dietary willpower is weak, and he eats even greasy hamburgers right before a bout. As a result, he has to compete in higher weight classes, and as soon as he takes an abdomenal punch, he vomits, which causes him to lose the match in shame. As he tries to grapple with his weak will, he meets Sister Angela, a novitiate at a local convent. While Sister Angela strives to help Hatanaka in his endeavor, he seems to make her training to be a nun more difficult.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 59,
+          "popularity": 1210,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 36,
+                  "name": "Studio Gallop"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 937,
+          "title": {
+            "userPreferred": "Appleseed"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx937-2SYiMKI3qPkp.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx937-2SYiMKI3qPkp.jpg",
+            "color": "#e49350"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 21
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/937-QB6I9ZzJ3Jwp.jpg",
+          "season": "SPRING",
+          "description": "Earth's last city, Olympus, rose from the ashes of global war on the backs of Bioroids, artificial clones who make up half the city's population. Under the guidance of a supercomputer, humanity's last survivors enjoy peace, but only on the surface. Human terrorists within the military seek a return to power and clash with the government's forces led by the legendary soldier, Deunan Knute, and her boyfriend who is 75% machine.<br>\n<br>\n(Source: Sentai Filmworks)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 68,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 3816,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6,
+                  "name": "Gainax"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4533,
+          "title": {
+            "userPreferred": "Uchuu Kazoku Carlvinson"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4533-9EJbRoh7eBU8.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4533-9EJbRoh7eBU8.jpg",
+            "color": "#f1a150"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "When a motley band of travelling performers have a deep-space collision with another spacecraft, they find that the sole survivor of the other craft is a humanoid infant. They decide to raise the child as their own on the nearest planet as they wait for other members of the girl's race to come and find her. <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 745,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2555,
+          "title": {
+            "userPreferred": "Little Lord Fauntleroy"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2555.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2555.jpg",
+            "color": "#f1c950"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 1,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2555-pTapft8SGzkn.jpg",
+          "season": "WINTER",
+          "description": "After his father's sudden death, Ceddie moves to England as an heir to his grandfather, the Earl of Dorincourt. <br><br>\nThe Earl is a stubborn and selfish old man. Gradually, however, Ceddie's innocent love opens the Earl's heart and changes him into a caring and generous person. <br><br>\nThis is based on \"Little Lord Fauntleroy\" by F.H.Burnett. <br><br>\n(Source: AnimeNfo)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 43,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 729,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 22,
+                  "name": "Nippon Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4031,
+          "title": {
+            "userPreferred": "Sakigake!! Otokojuku (Movie)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4031.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4031.jpg",
+            "color": "#5da1e4"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 23
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Otokojuku, a private school for juvenile delinquents that were previously expelled from normal schools. At this school, Japanese chivalry is taught through the feudal and military fundamentals. Similar to an action film, the classes are overwhelmed by violence. Only those who survive it become true men.<br>\n(Source: Animenfo)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 74,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 465,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6055,
+          "title": {
+            "userPreferred": "F"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6055-8Ih8CFvq1AN8.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6055-8Ih8CFvq1AN8.png",
+            "color": "#e4ae35"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6055-Ycvn4v9p88q7.jpg",
+          "season": "SPRING",
+          "description": "Akagi Gunma is a young, impetuous and rash teenager who decides to move to the big city to fulfill his dream of racing a Formula One car. The story follows how this simple farmer boy from the country moves on to the city in pursuit of his dreams.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 31,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 816,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 5043,
+          "title": {
+            "userPreferred": "Hurricane Live! 2032"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx5043-nhhbQHxgt87C.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx5043-nhhbQHxgt87C.jpg",
+            "color": "#fed650"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 24
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Elements of the Bubblegum Crisis series in an MTV-styled rock video. Clips from the series are combined with the music of Kinuko Omori and the Knight Sabers.<br><br>\n(Source: Facets Multimedia)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 434,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1297,
+          "title": {
+            "userPreferred": "Project A-ko 3: Cinderella Rhapsody"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1297.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1297.jpg",
+            "color": "#f1ae1a"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 6,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 6,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "In the middle of another break from school, A-Ko dreams of finding the perfect boyfriend. Because of this, she and C-Ko get into an argument that leads to C-Ko running away and nearly getting hit by a motorcyclist named Kei. While working part-time at a fast-food restaurant to raise money for a party dress, A-Ko meets Kei and immediately falls in love with him. B-Ko happens to like him as well; however, both A-Ko and B-Ko are unaware that C-Ko is the apple of Kei's eyes.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 930,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 24,
+                  "name": "Studio Fantasia"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3135,
+          "title": {
+            "userPreferred": "Dragon's Heaven"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3135.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3135.jpg",
+            "color": "#e4c943"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 2,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 2,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3135-qqANvyGFQ70B.jpg",
+          "season": "WINTER",
+          "description": "In the year 3195, there was a war between an army of robots and the humans. When Shaian, a sentient combat armor, lost his companion in battle, he shut down until his internal systems spotted a new human. It's now almost a 1000 years later, and Shaian's greatest enemy is still alive and doing battle in Brazil. With a new friend`s help, Shaian may be able to stop this evil force before another war rages over the continent.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 43,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 56,
+          "popularity": 2231,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 48,
+                  "name": "AIC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2302,
+          "title": {
+            "userPreferred": "Kidou Senshi SD Gundam"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2302.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2302.jpg",
+            "color": "#d6c91a"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 5,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A collection of short parodies of the Mobile Suit Gundam saga. Episode 1 pokes fun at key events that occurred during the One Year War. In episode 2, Amuro, Kamille and Judau fight over who runs the better pension when Char comes in to crash their party. Episode 3 is the SD Olympics, an array of athletic events pitting man with mobile suit. <br>",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 56,
+          "popularity": 975,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 924,
+          "title": {
+            "userPreferred": "Transformers Super-God Masterforce"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/924.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/924.jpg",
+            "color": "#d61a28"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 3,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Even though the Destrons have been driven off Earth, a small team of Cybertron Pretenders have remained behind, just in case. Led by Metalhawk (\"Hawk\" in his human identity), the Pretenders live among the humans, using their Pretender shells to assume human size and appearance. The Cybertrons' caution is rewarded: Destron Pretenders soon appear, led by a mysterious force called Devil Z. The Cybertrons and Destrons soon build up their forces, recruiting humans to become Junior Headmasters and Godmasters (Powermasters).\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 47,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 56,
+          "popularity": 479,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 499,
+          "title": {
+            "userPreferred": "Demon City Shinjuku"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b499-COkoIWikQyfN.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b499-COkoIWikQyfN.png",
+            "color": "#862850"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/499-Ov05X09jIuNc.jpg",
+          "season": "FALL",
+          "description": "Kyoya's father was a great warrior, killed at the hands of the diabolical psychic, Rebi Ra, who has now opened a portal to hell in the city of Shinjuku. It falls to Kyoya to finish what his father started and battle his way through demons, while protecting a young woman from harm. The only problem is that he's not exactly your classic hero type, and his powers are still latent. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 82,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Horror",
+            "Romance",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 56,
+          "popularity": 3377,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 9773,
+          "title": {
+            "userPreferred": "Lady Lady!! (1988)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9773.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9773.jpg",
+            "color": "#f1c950"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "When Rin's mother dies, she makes the promise that some day she will become a Lady, and travels to England to meet the rest of the family. She is not very welcomed (specially at the start by her stepsister Sara), but after some time they are all a happy family. Rin (Lynn) is also very interested in horses and racing, and she wins a nice share of contests.<br><br>\nThis series is divided into two parts, first with Rin being really a child, and the second with her being around 13. <br><br>\n(Source: Anidb)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 56,
+          "popularity": 259,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1153,
+          "title": {
+            "userPreferred": "Crying Freeman"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1153.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1153.jpg",
+            "color": "#ffbba1"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 11,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1994,
+            "month": 2,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1153-eV4fassuyFG5.jpg",
+          "season": "FALL",
+          "description": "Yo Hinomura was an ordinary Japanese potter when a run-in with a Chinese mafia changed his life forever. Now an assassin for the 108 Dragons, Yo is the perfect killing machine. As a sign for remorse over his victims, he sheds tears after eliminating his targets. Because of this, he is infamously known by the Dragons and every crime syndicate in the world as \"Crying Freeman.\"<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 52,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 56,
+          "popularity": 1743,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1960,
+          "title": {
+            "userPreferred": "Sore Ike! Anpanman"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1960-ueSmUxBXWuFK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1960-ueSmUxBXWuFK.jpg",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 3
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "One night, a Star of Life falls down the chimney of a bakery nestled deep in the forest, causing the dough in the oven to come to life. The dough becomes Anpanman, a superhero made of anpan (a sweet roll with bean jam filling). Together with his friends, Anpanman fights his rival Baikinman and helps the malnourished.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "RELEASING",
+          "episodes": null,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 576,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 73,
+                  "name": "TMS Entertainment"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2516,
+          "title": {
+            "userPreferred": "Uchuu no Senshi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2516-mcKzqZjrgF1t.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2516-mcKzqZjrgF1t.jpg",
+            "color": "#3593f1"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 17
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Juan \"Johnny\" Rico, a high school student living in Buenos Aires, joins the Federation military in the hope of following his love, Carmen, into space. He has to undergo harsh training to become a soldier, harsher than he expected, but despite several setbacks and traumatic experiences, Johnny perseveres and finishes his training. However, a war is brewing on the outer planets with a strange alien enemy and Johnny is thrust into the conflict.<br>\n<br>\n(Source: AnimeNewsNetwork)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 1201,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 5462,
+          "title": {
+            "userPreferred": "Top wo Nerae! Gunbuster! Science Lesson"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5462-d3LFwz2xYMpA.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5462-d3LFwz2xYMpA.png",
+            "color": "#d61a35"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 1,
+            "day": 1
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5462-k10s0uPIK3GT.jpg",
+          "season": null,
+          "description": "The science lessons are short \"omake\" bonus features originally present on the first two volumes. Each short lasts around two minutes, and stars super deformed versions of Noriko, Kazumi and the Coach explaining the various scientific aspects of the series. <br><br>\r\n(Source: Wikipedia) ",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 1872,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

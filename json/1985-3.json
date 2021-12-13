@@ -1,0 +1,276 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 106,
+        "perPage": 50,
+        "currentPage": 3,
+        "lastPage": 3,
+        "hasNextPage": false
+      },
+      "media": [
+        {
+          "id": 7981,
+          "title": {
+            "userPreferred": "Obake no Q-Tarou (1985)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7981-zV9Wjjjk6S3n.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7981-zV9Wjjjk6S3n.jpg",
+            "color": "#d6d61a"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 4,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 3,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Sequel of Shin Obake no Q-taro.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 510,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 114,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3546,
+          "title": {
+            "userPreferred": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3546.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3546.jpg",
+            "color": "#e48628"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 11,
+            "day": 23
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 11,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Jump Special Anime Festival piece, based on the popular Shounen Jump manga by AKIMOTO Osamu, that began serialisation in 1976. Produced by Tatsunoko Pro, and later shown on TV Tokyo due to popular demand. ",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 189,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3277,
+          "title": {
+            "userPreferred": "Kinnikuman: Haresugata! Seigi Choujin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3277.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3277.jpg",
+            "color": "#e48628"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "N/A",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 60,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 146,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3276,
+          "title": {
+            "userPreferred": "Kinnikuman: Gyakushuu! Uchuu Kakure Choujin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3276.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3276.jpg",
+            "color": "#935d1a"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 13
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "N/A",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 39,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 166,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3275,
+          "title": {
+            "userPreferred": "Kinnikuman: Seigi Choujin vs. Kodai Choujin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3275.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3275.jpg",
+            "color": "#f1d628"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 3,
+            "day": 16
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 3,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "N/A",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 159,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3022,
+          "title": {
+            "userPreferred": "Hai Step Jun"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3022-jCzk8HMyzMsz.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3022-jCzk8HMyzMsz.jpg",
+            "color": "#28bbe4"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 3,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1986,
+            "month": 1,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Jun is a very intelligent little girl who spends her time arranging all kinds of inventions. It goes until creating two small robots, Kichinosuke and Yukinojo, who become her best friends. Because of her intelligence, Jun gets into college at a young age and she meets and falls in love with a boy from her class who's called Zero. Zero is interested in motorbikes and not in school and is accustomed to not attending the courses. He got delayed in his schooling and thus is found much older than the other students and is there for humiliated for it. On the other hand Jun is way too young and little to be in college and is made fun of. Thanks to their common passion for mechanics, Zero will sympathize with Jun and will agree to dine with her in Harbor, the restaurant where Jun's parents live. This is long series of fun adventures and arguments that little Jun will make to allure her charming prince, who's twice older than her.<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 45,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 243,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

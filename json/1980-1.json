@@ -1,0 +1,2333 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 80,
+        "perPage": 50,
+        "currentPage": 1,
+        "lastPage": 2,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 2921,
+          "title": {
+            "userPreferred": "Ashita no Joe 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2921-wxj62hpZVbuF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2921-wxj62hpZVbuF.jpg",
+            "color": "#f13550"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 10,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 8,
+            "day": 31
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2921-8cz7wULNyEgs.jpg",
+          "season": "FALL",
+          "description": "Yabuki Joe is left downhearted and hopeless after a certain tragic event. In attempt to put the past behind him, Joe leaves the gym behind and begins wandering. On his travels he comes across the likes of Wolf Kanagushi and Goromaki Gondo, men who unintentionally fan the dying embers inside him, leading him to putting his wanderings to an end. His return home puts Joe back on the path to boxing, but unknown to himself and his trainer, he now suffers deep-set issues holding him back from fighting. In attempt to quell those issues, Carlos Rivera, a world renowned boxer is invited from Venezuela to help Joe recover.\n",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 47,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Slice of Life",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 87,
+          "popularity": 8867,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 65,
+                  "name": "Tokyo Movie Shinsha"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 930,
+          "title": {
+            "userPreferred": "Space Runaway Ideon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx930-q5HD8fnAiRQD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx930-q5HD8fnAiRQD.jpg",
+            "color": "#e46b43"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 5,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 1,
+            "day": 30
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/930-9s0WMPVmu0dX.jpg",
+          "season": "SPRING",
+          "description": "From the continuing reclamation of the ruins of the planet Solo, mysterious mechas are excavated. But suddenly, an alien called Baff Kuun attacks seeking the limitless energy “Ide.” The earthlings are backed into a corner, when the three mechas piloted by the earth boy Yuki Cosmo and others fuse together. Becoming the giant robot Ideon, they use their incredible power to fight back against Baff Kuun. <br><br>\n(Source: Sunrise)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 39,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 67,
+          "popularity": 4288,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2577,
+          "title": {
+            "userPreferred": "The Adventures of Tom Sawyer"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2577-hQ3UqXtVoHn3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2577-hQ3UqXtVoHn3.jpg",
+            "color": "#c99335"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 1,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 12,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2577-PQudkN84UwP2.jpg",
+          "season": "WINTER",
+          "description": "Tom Sawyer is a young boy growing up along the Mississippi River in the mid 1800s. Along with his best friend Huckleberry Finn, he spends his days ditching school, fishing, climbing trees and having adventures.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 49,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 67,
+          "popularity": 1591,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 22,
+                  "name": "Nippon Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3044,
+          "title": {
+            "userPreferred": "Astro Boy (1980)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3044-SrS7Q0Y0v38J.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3044-SrS7Q0Y0v38J.png",
+            "color": "#f1ae43"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 10,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 12,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3044-oLvIoG7Y5oD0.jpg",
+          "season": "FALL",
+          "description": "Creating a robotic boy in the image of his recently deceased son Tobio, Professor Tenma thought nothing could go wrong now that his beloved child had been \"reborn\"... that is, until he comes to realize that this invention could never replace his son. Before long, however, the robot is kidnapped and spirited away to a robot circus in America, where he is soon rescued by Dr. Ochanomizu, and taken into his care. Tobio is given the new name Tetsuwan Atom, and transforms into Japan's crime-fighting hero, although his anti-violent pacifist views and overall childlike naivety tend to clash with his battles often.<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 66,
+          "popularity": 2010,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 200,
+                  "name": "Tezuka Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3727,
+          "title": {
+            "userPreferred": "Doraemon: Nobita's Dinosaur"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3727-ogF256zhhRAx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3727-ogF256zhhRAx.jpg",
+            "color": "#e4a15d"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 3,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 3,
+            "day": 15
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3727-0qBzwF50fvA5.jpg",
+          "season": "SPRING",
+          "description": "Nobita finds a fossilized dinosaur egg by accident, and with the help of Doraemon's tools, they hatched the egg and began raising the dinosaur. Knowing that they can't keep the dinosaur forever, Nobita was forced to send it back to prehistoric times where a group of hunters from the future threatens to endanger the dinosaurs. Determined to save the dinosaurs from the claws of the hunters, Doraemon and the gang returns to the past and sets out in a prehistoric adventure.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 92,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 1612,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2920,
+          "title": {
+            "userPreferred": "Tomorrow's Joe: The Movie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2920-7rvrEGt2PODe.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2920-7rvrEGt2PODe.png",
+            "color": "#f16b35"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 3,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 3,
+            "day": 8
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A summary movie of the first season for people to get reminded on what happened before the airing of the second season.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 153,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Slice of Life",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 1197,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 68,
+                  "name": "Mushi Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1652,
+          "title": {
+            "userPreferred": "Star Blazers: The Bolar Wars"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n1652-QERLAmrbZ2kd.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n1652-QERLAmrbZ2kd.png",
+            "color": "#f1bb35"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 10,
+            "day": 11
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 4,
+            "day": 4
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1652-EY9g1D2yl1ZA.jpg",
+          "season": "FALL",
+          "description": "A stray missile from a confrontation between the Galman empire and the Bolar Federation crashes into the sun, turning it into a time bomb of radiation. The Star Force once again sets off into space, this time on a quest to look for a new world for the human race.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 25,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 1116,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 589,
+                  "name": "Academy Productions"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 86,
+                  "name": "Group TAC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2151,
+          "title": {
+            "userPreferred": "The Wonderful Adventures of Nils Holgersson"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2151-WCFtJrFnrhB0.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2151-WCFtJrFnrhB0.png",
+            "color": "#e4930d"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 1,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 3,
+            "day": 17
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2151-PSCkl1pkMiO8.jpg",
+          "season": "WINTER",
+          "description": "Nils is a lazy and greedy boy whose mischief makes everyone miserable, whether it's his parents, the animals on his farm, or the fairy-like tomte he captures one day. But he gets his comeuppance when the pint-sized tomte casts a spell to make Nils just as tiny as him! The only way to break the spell is to go on a journey to distant Lapland with Morten the farm goose, Carrot the hamster, and a flock of wild geese.<br>\n<br>\nAlong the way, he contends with cruel witches, talking statues, wise ravens, and one very persistent fox. Under the guidance of the stern but caring Captain Akka, leader of the flock, Nils discovers his kind heart and his love for nature. But when the time comes, will he be able to choose between his human family and his feathered friends?<br>\n<br>\n(Source: Discotek Media)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 1103,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3137,
+          "title": {
+            "userPreferred": "Tsurikichi Sanpei"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3137-uWbwNUazQS65.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3137-uWbwNUazQS65.jpg",
+            "color": "#d61a28"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 4,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 6,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3137-TUhnEGe45NhN.jpg",
+          "season": "SPRING",
+          "description": "Mihira Sanpei talks with a Tohou accent and is a down-to-earth boy with a cheerful and optimistic personality. However, when it comes to fishing, he becomes very serious and is a youth who enjoys fishing more than anything else. The village where he lives in is a natural environment which provides different kinds of fishing challenges. Despite his lack of experience, Sanpei has a first-rate sense with regards to fishing and decides to maxmise his potential by entering into different fishing contests. As he faces various challenges, he learns to solve difficult problems and learn from his mistakes to the extent that he is able to fish anything out of the waters. Along the way, he encounters all kinds of rivals and companions who increase his experience points and help him in his growth.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 109,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 855,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 22,
+                  "name": "Nippon Animation"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 971,
+                  "name": "Anime R"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3069,
+          "title": {
+            "userPreferred": "Be Forever Yamato"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3069.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3069.jpg",
+            "color": "#e4c928"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 8,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 8,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The Black Nebula Empire attacks Earth and threatens to blow up the planet with a bomb they placed on Earth if counter attacked. Earths hopes rest on the Yamato crew as they go to the Black Nebula Planet and try to find a way to difuse the bomb before it's too late.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 150,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 59,
+          "popularity": 767,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2560,
+          "title": {
+            "userPreferred": "Toward the Terra"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2560-fGJFfEvVBGMB.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2560-fGJFfEvVBGMB.png",
+            "color": "#e4bb5d"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 4,
+            "day": 26
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 4,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2560-IwgxLlDphkwQ.jpg",
+          "season": "SPRING",
+          "description": "In the future, mankind's seemingly utopian society is strictly controlled by the government, and anything that threatens to disrupt the status quo is ruthlessly suppressed. When 14-year-old Jomy begins to question the way the society is run, he suddenly becomes a target for both the government and the Mu, an outcast race with extra-sensory abilities who have been fighting against the government for generations. Now, each is determined to hunt him down - one to kill him and the other to save him.<br><br>\n(Source: RightStuf)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 111,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 59,
+          "popularity": 2430,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 6734,
+          "title": {
+            "userPreferred": "Galaxy Express 999: Eternal Traveller Emeraldas"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx6734-mkiTWzdULi6J.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx6734-mkiTWzdULi6J.jpg",
+            "color": "#e4ae35"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 4,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 4,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A remake of episode 22 of the TV version.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 48,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 59,
+          "popularity": 425,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7861,
+          "title": {
+            "userPreferred": "Lady Oscar Special"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7861.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7861.jpg",
+            "color": "#1a86d6"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 9,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 9,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "In its 22 minutes, the TV special briefly covers the influential women involved in the series, such as DuBarry, Polignac, Rosalie, Jeanne La Motte, Maria Antoinette, and Oscar. All the scenes used are taken from the series. ",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 584,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6653,
+          "title": {
+            "userPreferred": "Galaxy Express 999: Claire of the Glass"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6653.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6653.jpg",
+            "color": "#e4d686"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 3,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 3,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "This short movie is a remake of the first half of episode 3 of Ginga Tetsudou 999.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 617,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2793,
+          "title": {
+            "userPreferred": "Hi no Tori 2772: Ai no CosmoZone"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2793-lvRbV4rAVXxE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2793-lvRbV4rAVXxE.jpg",
+            "color": "#e45d35"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 3,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 3,
+            "day": 15
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n2793-IHw4BWUUxRYi.jpg",
+          "season": "SPRING",
+          "description": "Phoenix 2772 starts with twelve minutes without dialogue, much like a silent film, recalling the birth and education of Godo. In this brave new world, children are born in test tubes and are raised by computers and robots. Godo learns the skills that will make him into a great pilot, assisted by the robotic wonder Olga. Everything that Godo needs is provided for him until he eventually goes for training with his automaton companion. He soon realizes that the world is not what he expected...<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 122,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 56,
+          "popularity": 732,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3213,
+          "title": {
+            "userPreferred": "Ganbare Genki"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3213.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3213.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 7,
+            "day": 16
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 4,
+            "day": 1
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3213-3s0c9Hf3x1Kb.jpg",
+          "season": "SUMMER",
+          "description": "Horiguchi Genki was 5 years old boy. His mother died when he was born, and he was raised only by his father. His father, Shark Horiguchi, was a professional boxer, but he was ruined and become an itinerant boxer. However, Genki believed his father was strong and he would become a champion, and he had a dream to become a strong boxer as his father. <br>\nAfter his father&rsquo;s death, he was adopted by his grandparents. Although they opposed Genki boxing, Genki made up his mind to become a boxer, and he continued training secretly. Meeting with various people, for example, Teacher Ashikiwa who resembles his mother, Mishima who is a high school boxing champion, he made his way to be a boxer. <br><br>\n(Source: AnimeNfo)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 35,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 494,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3751,
+          "title": {
+            "userPreferred": "Twelve Months"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3751.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3751.jpg",
+            "color": "#e4286b"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 3,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 3,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Twelve Months is the story of an orphaned girl named Anya. When a spoiled princess, who is also orphaned, sees a picture of a Galanthus, she immediately wants one. However, the Galanthus only blooms in spring, in the month of April. It is New Year's Eve and there was no way that such a flower can be found in the middle of the winter. The princess offers a basket of gold to anyone who can bring her a bag of Galanthus.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 65,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 461,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2831,
+          "title": {
+            "userPreferred": "Ie Naki Ko (Movie)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2831.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2831.jpg",
+            "color": "#5dbbf1"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 3,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 3,
+            "day": 15
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2831-xkE9LXcFXUZw.jpg",
+          "season": "SPRING",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 96,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 268,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1737,
+          "title": {
+            "userPreferred": "Space Warrior Baldios"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1737-ZbOyxv5oNigl.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1737-ZbOyxv5oNigl.png",
+            "color": "#e4bb0d"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 6,
+            "day": 30
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 1,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "After polluting their own planet beyond repair, a race of evil aliens target earth as their next home. Now it is up to a lone outcast and his robotic spacecraft, Baldios, to defend earth. But, first he must convince the distrusting human population of the impending danger.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 34,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 638,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3130,
+          "title": {
+            "userPreferred": "Kaibutsu-kun (1980)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3130.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3130.jpg",
+            "color": "#e4d650"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 9,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 9,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Kaibutsu-kun and his companions, Dracula, Wolfman, and Franken, travel from Kaibutsu Land to the Human Realm, where they encounter and battle several monsters, mainly assassins from the demon group Demonish.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 94,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Horror"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 252,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7336,
+          "title": {
+            "userPreferred": "Cyborg 009: Legend of the Super Galaxy"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7336.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7336.jpg",
+            "color": "#f12850"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 12,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 12,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The cyborgs are no longer on duty, they live normal lives until a mysterious space ship lands on earth. The only survivor on the ship warns about an evil conqueror called Zoa that wants to conquer the universe, which means the cyborgs are back in action...\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 130,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 53,
+          "popularity": 511,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6735,
+          "title": {
+            "userPreferred": "Galaxy Express 999: Can You Love Like a Mother?!!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n6735-CtQyCHwhKQyt.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n6735-CtQyCHwhKQyt.png",
+            "color": "#f1c943"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 10,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 10,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A remake of episodes 51-52 of the TV version.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 93,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 53,
+          "popularity": 424,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4208,
+          "title": {
+            "userPreferred": "Shin Tetsujin 28"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4208.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4208.jpg",
+            "color": "#e4ae5d"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 10,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 9,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Shotaro had become an Interpol agent, working with Branch Robo, the antirobot crime unit of that organization. He still employs Tetsujin.<br><br>\r\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 51,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 367,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3810,
+          "title": {
+            "userPreferred": "The Littl' Bits"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3810.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3810.jpg",
+            "color": "#86500d"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 1,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 6,
+            "day": 30
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3810-J0wZgP7tp42m.jpg",
+          "season": "WINTER",
+          "description": "Young forest pixies Belfy and Lillibit live in an old-fashioned lilliputian village deep in the forest. Lillibit lives with his parents and younger sister, whom he tends to give the slip in order to run off in search of fun. Belfy resides with the village doctor since being placed in his care as a baby under unusual circumstances that even Belfy herself is unaware of. The two friends have adventures and learn valuable life lessons while helping out their fellow villagers and the animals of the forest.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 286,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3878,
+          "title": {
+            "userPreferred": "Mahou Shoujo Lalabel"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3878.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3878.jpg",
+            "color": "#e4c950"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 2,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 2,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Lalabel is a magical girl who arrives in the Human world to stop an evil wizard from stealing various magical objects or items. As a magical girl, she has a kitty for a companion and a magic wand. Coincidentally, she lands on the doorstep of the Tachibana couple and lives in with them during her stay in the human world. She attends the local school and begins to learn about the different things in the human world.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 49,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 403,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4680,
+          "title": {
+            "userPreferred": "Botchan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4680.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4680.jpg",
+            "color": "#a13543"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 6,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 6,
+            "day": 13
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "This is a different version of the story than the one included in the <em>Seishun Anime Zenshu</em> TV series.<br><br>\nBotchan, a recent graduate, sets out for his first teaching assignment&hellip; never anticipating what awaits him. He must contend with students who spy on him and pull nasty stunts and with a landlord who constantly tries to sell him worthless antiques. While on a fishing trip to boost his spirits, Botchan suspects Hotta, his one friend in the village, as the cause of all of his misery. But this is just beginning of his problems&hellip;During a meeting to discuss the students&rsquo; disrespectful behavior towards Botchan, the proposed punishment is surprisingly mild despite the severity of the acts. Yet, Botchan&rsquo;s suspected adversary defends him! Were the other faculty members lying about Hotta? Botchan may soon discover the truth, for when evidence of the dean&rsquo;s activities surface, Botchan and Hotta must team up to corner the dean in his own scandalous game!\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 72,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 394,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6942,
+          "title": {
+            "userPreferred": "The Legend of Marine Snow"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6942.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6942.jpg",
+            "color": "#d6861a"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 8,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 8,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 94,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 228,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4536,
+          "title": {
+            "userPreferred": "Invincible Robo Trider G7"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx4536-UAsaGIZYe6Pv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx4536-UAsaGIZYe6Pv.jpg",
+            "color": "#e4ae50"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 2,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 1,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Takeo Watta inherits a company upon his father's death. The company focuses on space travel, and the transformable robot Trider-G7 is their greatest creation. When an evil space organization lead by Lord Zakuron starts attacking Earth, Watta has to use Trider in a more combat-oriented way.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 50,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 351,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5862,
+          "title": {
+            "userPreferred": "Fumoon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5862-Tyz8LmffgxtZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5862-Tyz8LmffgxtZ.jpg",
+            "color": "#e47850"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 8,
+            "day": 31
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 8,
+            "day": 31
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5862-bUDLVjfq7Aqo.jpg",
+          "season": "SUMMER",
+          "description": "Nuclear testing has resulted in the abrupt evolution of the Fumoon, a tiny but highly intelligent humanoid race on a small island, who are detected by Dr. Yamadano. Except for a few witnesses including the detective Shinsaku Ban, and the young men Rock and Kenichi and Kenichi&rsquo;s sister Pichi (Pinoko), no one believes him. The Fumoon are kidnapping animals from around the world to bring with them as they use their space ships to evacuate the earth, because they know Earth is shortly to be destroyed by an enveloping cloud of black gas created by a stellar explosion. The Fumoon intend to abandon mankind, but one Fumoon, Rokoko, who becomes good friends with Kenichi, tries to help Dr. Yamadano and the others to develop a space ship to allow a few humans to escape, with the help of Dr. Ochanomizu and Dr. Frankenstein. <br><br>\n(Source: Tezukainenglish.com)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 86,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 293,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4991,
+          "title": {
+            "userPreferred": "Little Women"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4991-9xN6qEVjVmZC.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4991-9xN6qEVjVmZC.jpg",
+            "color": "#5da1d6"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 5,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 5,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "This is a TV special based on the novel, Little Women, by Louisa May Alcott.  It covers a year in the lives of four sisters, Meg, Jo, Beth, and Amy as their father is away fighting in the American Civil War.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 68,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 261,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 8150,
+          "title": {
+            "userPreferred": "Spooky Kitaro: The All Seeing Eye"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8150.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8150.jpg",
+            "color": "#f1e45d"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 7,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 7,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A retelling of episode 37 from the 1971 TV anime.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Horror",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 240,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 8553,
+          "title": {
+            "userPreferred": "Time Bokan Series: Time Patrol-Tai Otasukeman"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8553-oLbYFvCUJ1rt.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8553-oLbYFvCUJ1rt.png",
+            "color": "#f19343"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 2,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 1,
+            "day": 31
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8553-NI7GwxPHVCEf.jpg",
+          "season": "WINTER",
+          "description": "Burning with ambitions to become the most beautiful woman, the most renowned scientist, and the greatest hero the world has ever known, three villains, Atasha, Sekobitchi and Duwarusuki, unite. The trio are Time Patrollers, the keepers and protectors of the annals of history. But, this is only a cover for the trio, as the villains are league with a nefarious leader, who is trying to alter the course of history to suit his desires, and, under his instructions, the trio travel in time with the aim of tampering with recorded history. Only Hikaru and Nana, disguised as the Otasukemen, stand between the villains and their goals. <br><br>\n(Source: Wikipedia) ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 53,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 259,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 103,
+                  "name": "Tatsunoko Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 10701,
+          "title": {
+            "userPreferred": "Ulysses 31 Pilot"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10701.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10701.jpg",
+            "color": "#c993e4"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1980,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Unaired pilot episode for the TV series.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 146,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9264,
+          "title": {
+            "userPreferred": "Hana no Ko Lunlun: Konnichiwa Sakura no Sono"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9264-i7wD9jayhyzY.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9264-i7wD9jayhyzY.jpg",
+            "color": "#fef128"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 3,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 3,
+            "day": 15
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9264-ITRCcLVTrwr8.jpg",
+          "season": "SPRING",
+          "description": "A sequel to the TV series.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 253,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3876,
+          "title": {
+            "userPreferred": "Maeterlinck no Aoi Tori"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n3876-LbaiFXV6kkft.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n3876-LbaiFXV6kkft.jpg",
+            "color": "#e4bb50"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 1,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 7,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "On a snowy Christmas Eve, Tyltyl and Mytyl sit in their home. Normally, they would be caught up in the Christmas spirit, but their mother has taken ill. So that evening, they lie awake, unable to sleep, when through the window crashes a strange, mercurial magical spirit named Berylune, who reveals that the world we live in isn't the only one there is. And so Tyltyl and Mytyl, accompanied by various spirits, as well as their now-humanoid pets, are led on a journey to find the blue bird of happiness and save their mother, and along the way they visit some strange and wondrous places, and finally, must face the spirit of darkness to attain their elusive goal.<br><br>\n(Source : themanime.org)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 292,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7807,
+          "title": {
+            "userPreferred": "Mahou Shoujo Lalabel (1980)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7807.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7807.jpg",
+            "color": "#5d93f1"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 7,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 7,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "During the summer, Lalabel and her friends, Teko and Toko, arrived at the hostel owned by Teko's uncle. Teko's uncle and aunt have gone to the operation of their acquiantance, leaving their son, Ryota, to manage the hostel all by himself. Lalabel decides to help the boy out and together, all of them become involved in the management of the hostel.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 237,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 6071,
+          "title": {
+            "userPreferred": "Eleven Cats"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6071.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6071.jpg",
+            "color": "#6bae1a"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 7,
+            "day": 19
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 7,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A gang of eleven stray cats wreak havoc in a small town, costing them much trouble.<br>\nThey defend themselves by stating they were just 'hungry'.<br><br>\nThe cats hear of an urban legend about a scary, giant fish. They decide to take on the challenge to find and catch that fish, proving the citizens of the town that they're not all useless after all.<br><br>\nThe task is pretty tricky and the path they have to cross is stony and danger lurks everywhere.<br><br>\nWill our little furry heroes be brave, confident and strong enough to master the challenge of challenges?",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 83,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 210,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5833,
+          "title": {
+            "userPreferred": "Tondemo Senshi Muteking"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5833.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5833.jpg",
+            "color": "#f1ae5d"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 9,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 9,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Twelve-year-old Linn Youki loyally supported his father when the world laughed at the scientist for saying that Earth was about to be invaded from outer space. But Linn did not expect to become personally involved--until he met Takoro, the strange young \"deputy sheriff\" from another world who was on the trail of notorious space criminals. <br><br>\nThere were only four Kurodako Brothers, but they plotted to use their alien science and natural shape-changing powers to become the secret masters of Earth. With Takoro's help, Linn became the mighty super-hero, Muteking, to foil their schemes. <br><br>\nThere is plenty of action and laughs in this light-hearted comedy-drama about a roller-skating costumed hero, his friendly but bumbling alien partner, a gang of klutzy would-be world conquerors, a beautiful police chief, an obsessed scientist, a sarcastic dog, an officious flying saucer, and others. This unusual but appealing cast of characters will charm viewers' hearts while it amuses them.<br><br>\n(Source: Official Website)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 56,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 237,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4933,
+          "title": {
+            "userPreferred": "The White Whale of Mu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4933-eOYkz2Fz2f8y.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4933-eOYkz2Fz2f8y.jpg",
+            "color": "#505dfe"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 9,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "This series has nothing to do with Moby Dick. In fact, it was the first series by TMS that was not based on any original work. The story: In ancient times, the continents of Atlantis and Mu fought a war, and Atlantis lost. After losing the war, Atlantis transformed itself into a small planet and timeslipped to the present-day to try to take over the world again. But five warriors from Mu assemble on Easter Island, and together with giant cyborg white whale that houses the brain of the ancient queen of Mu, fight Atlantis off at various famous ruins around the world.<br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 322,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4183,
+          "title": {
+            "userPreferred": "Space Emperor God Sigma"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4183.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4183.jpg",
+            "color": "#d6931a"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 3,
+            "day": 19
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 2,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The year is 2050 and an energy crisis is Earth's main concern. A brilliant scientist in Trinity City develops the Trinity energy, a new source of energy powerful enough to supply the entire world. The alien empire of the Elda learn of this energy and plot to seize it by force. They attack Earth's space colony on Jupiter's moon of Io and occupy it. Meanwhile, the Trinity energy has been applied to three giant robots that combine to form God Sigma, a mighty robot led by martial artist-turned-pilot Dantou Shiya. With its mighty sword, it now stands between the peace of Earth and the power of the Elda forces. <br><br>\n(Source: Wikipedia) ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 50,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 299,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104574,
+          "title": {
+            "userPreferred": "Joubuna Tire!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104574-EXAlYewvA102.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104574-EXAlYewvA102.jpg",
+            "color": "#c9d6f1"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1980,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Amateur animation by 20-year-old Hideaki Anno while he was studying at Osaka University of Arts. The short features a speeding car with physics-defying tires.\n",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 285,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3799,
+          "title": {
+            "userPreferred": "Speed"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3799-Dxtay0RzIYu8.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3799-Dxtay0RzIYu8.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 1,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 1,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Short film by Furukawa Takumi chronicalling human progress, or lack of it.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 314,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9575,
+          "title": {
+            "userPreferred": "Peter of Placid Forest"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9575.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9575.jpg",
+            "color": "#286be4"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 2,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 2,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "With Peter the fairy as chairman, the animals of Placid Forest gather in a meeting to discuss the villagers' plan to cut down all the trees in the forest. They decide to stage a protest in the hope of preserving the woods, but the greedy men will not listen to their warning. The animals are forced to carry out one final operation. <br><br>\n(Source: AnimeNFO) ",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 68,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 44,
+          "popularity": 134,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8372,
+          "title": {
+            "userPreferred": "Makoto-chan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8372-d7t2IGLB8XJe.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8372-d7t2IGLB8XJe.png",
+            "color": "#e4c943"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 7,
+            "day": 26
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 7,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8372-Lg6fus6bAQqY.jpg",
+          "season": "SUMMER",
+          "description": "Follows the odd life of kindergartener Makoto Sawada and his family. Makoto gets into all sorts of toilet and adult humor. He sometimes dresses in his mother's and sister's clothing, and often has a long strand of mucus dangling from his nose.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 85,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 42,
+          "popularity": 282,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102665,
+          "title": {
+            "userPreferred": "Sleepy"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102665-QJfl5f62zmfB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102665-QJfl5f62zmfB.jpg",
+            "color": "#3593ae"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1980,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A Furukawa Taku film",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 42,
+          "popularity": 128,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102708,
+          "title": {
+            "userPreferred": "Crazy Monkey"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102708-ddzqovGvo2rp.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102708-ddzqovGvo2rp.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 4,
+            "day": 19
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 4,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Jackie Chan's 1979 film The Fearless Hyena opened in Japan a year later under the name Crazy Monkey accompanied with an independent original animated piece by Monkey Punch set to the insert song Monkey Man featuring characters that look similar to the cast of Lupin Sansei.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": 42,
+          "popularity": 187,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3801,
+          "title": {
+            "userPreferred": "Dracula: Sovereign of the Damned"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3801.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3801.jpg",
+            "color": "#e4c9a1"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 8,
+            "day": 19
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 8,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": " In contemporary Boston, Dracula gatecrashes a Satanic ritual and makes off with the intended sacrifice, Delores. Overcome with love for her, he's unable to drink her blood and instead settles down with her and fathers a child, Janus. But Dracula's enemies are massing against him - a team of vampire hunters, including the wheelchair-bound Hans Harker, crossbow wielding and new recruit Frank Drake, a descendant of Dracula, are closing in. And Dracula has been stripped of his vampire powers by Satan and he desperately needs another vampire to restore his powers so that he can both see off his pursuers and avenge the death of Janus at the hands of vengeful Satanists.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 94,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror"
+          ],
+          "isAdult": false,
+          "averageScore": 32,
+          "popularity": 979,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 140352,
+          "title": {
+            "userPreferred": "Hiromi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140352-BpTJQyJO2eso.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140352-BpTJQyJO2eso.png",
+            "color": "#c99343"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": 4,
+            "day": null
+          },
+          "endDate": {
+            "year": 1980,
+            "month": 4,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A song about a little girl named Hiromi who is the object of affection of a little boy.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 15,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 138922,
+          "title": {
+            "userPreferred": "Lao Lang Qingke"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138922-ZtxEuxiiN4eD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138922-ZtxEuxiiN4eD.jpg",
+            "color": "#ff9300"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1980,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "One day, the old wolf boiled a pot of chicken and was about to invite the old bear to taste it. Just after leaving the house, a fox sneaked in and ate the chicken. The fox who stole the chicken then fooled the two friends into arguing with each other.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 14,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 471,
+                  "name": "Shanghai Animation Film Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 138780,
+          "title": {
+            "userPreferred": "San Zhi Lang"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138780-bEGfxFvfR9nh.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138780-bEGfxFvfR9nh.png",
+            "color": "#e45d50"
+          },
+          "startDate": {
+            "year": 1980,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1980,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "An old man goes to the market to sell some pork. However, on the way there, he is attacked by wolves on the mountain.\n<br><br>\nBased on the story of the same title from the collection of classical Chinese stories, <i>Strange Stories from a Chinese Studio (聊斋志异 - Laozhai Zhiyi)</i>. It features stop motion animation using origami.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 22,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 471,
+                  "name": "Shanghai Animation Film Studio"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

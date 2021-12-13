@@ -1,0 +1,1825 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 141,
+        "perPage": 50,
+        "currentPage": 3,
+        "lastPage": 3,
+        "hasNextPage": false
+      },
+      "media": [
+        {
+          "id": 11411,
+          "title": {
+            "userPreferred": "Hell Target"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11411.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11411.jpg",
+            "color": "#f1bb35"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 1,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 1,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "A spaceship is lost near the forbidden planet of Inferno II. Some years later, a second ship with a crew of nine gets there and encounters a monster that rapidly makes mince meat of most of them. The sole survivor, Makuro Kitazato, must destroy the monster before it can surprise a third ship that is already en route.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 39,
+          "popularity": 541,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6658,
+                  "name": "Nakamura Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 8464,
+          "title": {
+            "userPreferred": "Holey Pants: Desire on a Stroll"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8464-A95GrECP2IUP.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8464-A95GrECP2IUP.png",
+            "color": "#e4c950"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 5,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 5,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A collection of short stories, all of which are perverted to various degrees.\n<br><br>\n<i>Adapted from real-life concerns of correspondents for the corner of the same name in Gakken Publishing's Bomb! magazine.</i>",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 32,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": 38,
+          "popularity": 418,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 48,
+                  "name": "AIC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 102518,
+          "title": {
+            "userPreferred": "Play Jazz"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102518-ai0OKh2iUWfO.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102518-ai0OKh2iUWfO.jpg",
+            "color": "#3586f1"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Furukawa Taku film",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 38,
+          "popularity": 118,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2972,
+          "title": {
+            "userPreferred": "Crystal Triangle"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2972.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2972.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 7,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 7,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "In times of olde, God gave mankind the ten commandments, and a message that has been lost to the centuries. In the present, Koichiro Kamishiro is a modern day Indiana Jones who scours (and often destroys) ruins for hints of the past, until one day he runs across a box filled with two crystal triangles. Having inadvertently run across the key to God's lost message, Kamishiro suddenly has a lot to deal with including assassination attempts by the KGB and the CIA, aliens hell-bent on destroying the Earth and the love of several women!",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 86,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": 38,
+          "popularity": 515,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6896,
+                  "name": "Animate Film"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 102516,
+          "title": {
+            "userPreferred": "Direct Animation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102516-l2hm89uHh8r4.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102516-l2hm89uHh8r4.jpg",
+            "color": "#9335ae"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A McLaren-inspired direct animation experimental short film by Taku Furukawa.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 37,
+          "popularity": 142,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 142039,
+          "title": {
+            "userPreferred": "Fujiko Fujio no Kiteretsu Daihyakka"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b142039-zgKmK95wp3iQ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b142039-zgKmK95wp3iQ.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 11,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 11,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A special episode released before the TV series.<br>\n<br>\nThe first Fujiko anime to be broadcast on Fuji Television Network.<br>\n<br>\n<i>Note: Was also broadcasted in six 15-minute long episodes.<i>",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 3,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 142011,
+          "title": {
+            "userPreferred": "Zhang Da Weiba De Tuzi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142011-73mCTjdttL5n.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142011-73mCTjdttL5n.jpg",
+            "color": "#e4ae50"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "One of the little white rabbits was ridiculed for having a short and small tail, so he fitted himself with a long tail. Once, the little white rabbit was chased by a fox while playing in the forest. Because of his long tail, the little white rabbit couldn't run fast and couldn't get rid of the fox. It was not until he lost his long tail that he successfully escaped from the danger.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 6,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140734,
+          "title": {
+            "userPreferred": "Kabocha no Oji-san"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140734-ohzOIhrQmBTk.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140734-ohzOIhrQmBTk.png",
+            "color": "#e4780d"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 4,
+            "day": null
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 4,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video for the song \"Kabocha no Oji-san\" by Tetsuo Miyoshi. Aired as part of NHK's Minna no Uta program.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 12,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 138673,
+          "title": {
+            "userPreferred": "Qin Mo Zhuan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138673-Ltj7UaxS5QzB.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138673-Ltj7UaxS5QzB.png",
+            "color": "#f1f1c9"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 11,
+            "day": null
+          },
+          "endDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Puppetry show based on the novel <i>Fengshen Yanyi (封神演义 - Investiture of the Gods)</i>.\n\n",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 26,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 8,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 136678,
+          "title": {
+            "userPreferred": "Tentaifu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136678-KTPlW4hJbCOi.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136678-KTPlW4hJbCOi.png",
+            "color": null
+          },
+          "startDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Using the constellation as a motif, the heavens and the earth, metamorphose all the creatures. An animated 16 mm short film.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 123,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 132268,
+          "title": {
+            "userPreferred": "Bug tte Honey: Megaromu Shoujo Mai 4622"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132268-aGo3teZyJn5o.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132268-aGo3teZyJn5o.jpg",
+            "color": "#e4bb35"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 7,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 7,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 48,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 29,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 65,
+                  "name": "Tokyo Movie Shinsha"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 130126,
+          "title": {
+            "userPreferred": "Bunna yo Ki kara Oritekoi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130126-U7UTJrAc5NNR.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130126-U7UTJrAc5NNR.png",
+            "color": "#93e450"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 3,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 3,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Animated children's story about a nonconformist but brave frog. Bunna wants to challenge his community's status quo by learning about the world outside.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 55,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 27,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 129589,
+          "title": {
+            "userPreferred": "Yoi Kono Tanoshii Christmas"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129589-uwYhNGNT7k1l.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129589-uwYhNGNT7k1l.png",
+            "color": "#fef128"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A direct-to-video collection of nine Christmas-themed music videos.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 9,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 26,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 121049,
+          "title": {
+            "userPreferred": "Eizou (Kage)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121049-TKPQgXCvi7ij.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121049-TKPQgXCvi7ij.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Steps with shadows. An arm shadow in the landscape - concrete/grass/flowers. Flicker and a finger morphs into abstraction. A real hand appears above the animation, a zoom - drawings/hands/feet.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 8,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 65,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 120264,
+          "title": {
+            "userPreferred": "Boku no Oldies wa All Color"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120264-yWCKePrDo2Bo.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120264-yWCKePrDo2Bo.jpg",
+            "color": "#e4d65d"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 12,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 12,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A minimalist adaptation of Seizo Watase's manga of the same name. It contains 5 stories of slow paced vignettes of romance whose only dialogue lies within the \"oldies\" being played as background music.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 27,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 51,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 116900,
+          "title": {
+            "userPreferred": "Ha Ji Me Te"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116900-GAm9Ojbo2kDp.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116900-GAm9Ojbo2kDp.jpg",
+            "color": "#fed628"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 12,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 12,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the song Ha Ji Me Te by Kyouko Koizumi that was featured on NHK's Minna no Uta program. The video was animated by Kouji Nanke.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 57,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 113656,
+          "title": {
+            "userPreferred": "Treasure Island: The Movie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113656-BIYQSph8n6Ra.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113656-BIYQSph8n6Ra.jpg",
+            "color": "#50bbe4"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 5,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 5,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A 88-minute theatrical recut of the original Takarajima TV series.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 88,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 114,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20117,
+          "title": {
+            "userPreferred": "Kotowaza House"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20117.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20117.jpg",
+            "color": "#e48628"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1994,
+            "month": 9,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A public service proverb-of-the-week anime.<br><br>\nPeter the salary man lives a very unhealthy lifestyle, starving then bingeing until he feels seek, or slobbing around the house until badgered into taking up exercise, during which he invariably pulls a muscle.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 773,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 90,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 19887,
+          "title": {
+            "userPreferred": "Shouri Toushu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19887.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19887.jpg",
+            "color": "#e4355d"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 10,
+            "day": 24
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 10,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Based on Umeda Youko's manga.<br><br>\nNote: Although their opponents were fictional, team members of the Chunichi Dragons were based on the real-life team. Hoshiyama, depicted as the manager of the Dragons, was a real-life sports commentator at the time.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 72,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 91,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 19597,
+          "title": {
+            "userPreferred": "Milk House Dreaming: Ai no Shiki"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19597.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19597.jpg",
+            "color": "#e4f1c9"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 11,
+            "day": 28
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 11,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "An image video, setting watercolors from Yumiko Kawahara's 1983 manga to a series of 11 pop songs.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 43,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 149,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18569,
+          "title": {
+            "userPreferred": "Taiman Blues: Shimizu Naoto-hen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18569.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18569.jpg",
+            "color": "#6b431a"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 11,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 5,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A tale of rivalry between two gangs, MND and Laku, and the personal vendetta between MND's Naoto and Laku's Yota.<br><br>\n(Source: The Anime Encyclopedia)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 116,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17339,
+          "title": {
+            "userPreferred": "The Legend of Kentauros"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17339.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17339.jpg",
+            "color": "#5086c9"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 12,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The Centaurs are a racing team of 93 bikers from the port city of Yokohama who are named after the legendary Greek horse/men. Arthur and Ken fall out over their love for the same lady deciding to settle their competition with a race.\n<br><br>\n(Source: The Anime Encyclopedia)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 95,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 110,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17321,
+          "title": {
+            "userPreferred": "Pro Golfer Saru: Kouga Hikyou! Kage no Ninpou Golfer Sanjou!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17321.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17321.jpg",
+            "color": "#e43586"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 3,
+            "day": 14
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 3,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 40,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 80,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17167,
+          "title": {
+            "userPreferred": "Zillion Specials"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17167.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17167.jpg",
+            "color": "#e44350"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 7,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 8,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "<strong>1. Akai Koudan Zillion: Emi Penguin's Diary (EMI&#9825;PENGUIN`S DIARY)</strong><br><br>\nMusical retrospective of the TV series with circumstantial commentaries by Emi and JJ.<br><br><strong>2. Akai Koudan Zillion: J.J. vs. Ricks - Predestined Confrontation (JJ tai Ricks: Shukumei no Taiketsu)</strong><br><br><strong>3. Akai Koudan Zillion: Champ &amp; Apple - Fantastic Memories (&#12481;&#12515;&#12531;&#12503;&amp;&#12450;&#12483;&#12503;&#12523; FANTASTIC MEMORIES)</strong>",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 42,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 146,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17088,
+          "title": {
+            "userPreferred": "Little Dino Dooly"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17088.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17088.jpg",
+            "color": "#feae50"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 10,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 10,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The story of a baby dinosaur in modern day South Korea.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 103,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16514,
+          "title": {
+            "userPreferred": "Batsu & Terry"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx16514-H02l6mPfQeIA.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx16514-H02l6mPfQeIA.jpg",
+            "color": "#e45d78"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 3,
+            "day": 14
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 3,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Bats &amp; Terry are the two tough guys in the school. They don't take crap from anyone, not even teachers. They will fight anyone necessary, and will defend strangers (especially pretty girls) from danger. They're good at it too. Some people are in terror of them, and some love them.<br><br>\nWhen they rescue one especially pretty girl from a gang they fight over her, but it's all friendly and they both recognize that she has some scars. The police hassle them and yet admire them when they break up the gang.<br><br>\nOh, and they're the star pitcher and catcher for the high school baseball team!\n",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 80,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 198,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 16393,
+          "title": {
+            "userPreferred": "Norakuro-kun"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16393-0RMHnSnSV1WV.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16393-0RMHnSnSV1WV.png",
+            "color": "#e4d65d"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 10,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "October, 1987, Autumn. In Suganami, Tokyo, there lives the Kinoshita family whereby the father draws very little pay out of his job as an ordinary salaryman. In order to cover expenses, he decides to let out the second floor of their apartment to earn additional rental income. One day, an obstinate-looking eldery dog, accompanied by a younger boy-dog, came knocking on their doors. The eldery dog addresses himself as Norayama Kuroyoshi and introduces his grandson as Norakuro. The former wants to open a detective agency and intends to rent the unit for their office. He will be the president of the investigative bureau while Norakuro-kun will be the director. He will also recruit one of the Kinoshita's sons, Keita-kun, as his employee and their advisor will be the girl-next-door, a high school student by the name of Rika Sawaguchi. On the third day since the official opening of the office, the telephone rang, a signal of a new case.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 50,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 169,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 16131,
+          "title": {
+            "userPreferred": "Machine Robo: Butchigiri Battle Hackers"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16131-Sjj4aL7N1fkc.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16131-Sjj4aL7N1fkc.jpg",
+            "color": "#1aa1e4"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 6,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 12,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 31,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 182,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 196,
+                  "name": "Ashi Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 14183,
+          "title": {
+            "userPreferred": "Aitsu to Lullaby: Suiyoubi no Cinderella"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b14183-eNQlGNa87Amm.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b14183-eNQlGNa87Amm.png",
+            "color": "#0d86e4"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 8,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 8,
+            "day": 1
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14183-6GZYny2CRuyM.jpg",
+          "season": "SUMMER",
+          "description": "Based on a shounen manga by Kusunoki Michiharu serialised in Weekly Shounen Magazine.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 153,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 13769,
+          "title": {
+            "userPreferred": "Kamen no Ninja Akakage"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13769.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13769.jpg",
+            "color": "#bb355d"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 10,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Red Shadow, created by Mitsuteru Yokoyama, is a ninja who wears a red-and-black costume and a stylized red mask. His adventures take place in Feudal Japan, and he and his ninja sidekicks Aokage and Shirokage fight evil warlords, wizards and daikaiju using modern high-tech gadgetry (a blatant oddity in a period setting).<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 23,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 186,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 12901,
+          "title": {
+            "userPreferred": "TWD Express Rolling Takeoff"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12901.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12901.jpg",
+            "color": "#e4a15d"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 7,
+            "day": 14
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 7,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Based on a manga by Hijiri Yuki, serialised in Comic Nora. <br><br>\nNote: Shown in theaters as a double bill with the anime feature MAPS: Densetsu no Samayoeru Seijin-tachi. <br><br>\n(Source: AniDB) ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 55,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 78,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 11049,
+          "title": {
+            "userPreferred": "Shin Maple Town Monogatari: Palm Town-hen - Konnichiwa! Atarashii Machi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b11049-lU6PF3kQOaKR.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b11049-lU6PF3kQOaKR.jpg",
+            "color": "#50bbe4"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 3,
+            "day": 14
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 3,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "An extended version of the first episode of the TV series. ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 127,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10709,
+          "title": {
+            "userPreferred": "Manga Nihon Keizai Nyuumon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10709.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10709.jpg",
+            "color": "#f1781a"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 10,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Depiction of Japan's economy, based on Shoutarou Ishinomori's epynomous manga.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 25,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 114,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 452,
+                  "name": "Knack Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 10509,
+          "title": {
+            "userPreferred": "Hoero! Bun Bun (Movie)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10509.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10509.jpg",
+            "color": "#e4ae43"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 4,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 4,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Special episode of the 39 episode seires about Bunbun, an abandoned puppy.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 65,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 95,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10044,
+          "title": {
+            "userPreferred": "Brave Fire S0.9"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10044.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10044.jpg",
+            "color": "#f15d28"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 4,
+            "day": 29
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 4,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "This work was submitted in a special animation competition as part of a PR project for a power company, but was unfortunately not adopted. The reason is very clear: the setting of the story is the exhausted earth. There couldn't be a more instructive setting for a power company that uses enormous amounts of the earth's resources. Additionally, a girl robot discovered by the main character can store sunlight and convert it into energy; in other words, the robot does not require a power-generating company. In addition to this, the robot destroys herself to protect the established solar power generation system in space. <br><br>\nThe unsuccessful outcome of the competition for Tezuka Osamu was only natural, and it is clear that he created this piece, as it was intentionally, as he managed everything from the original story to the screenplay, animation, narration, etc., all the while knowing that the competition was sponsored by a power company. <br><br>\n(Source: tezukaosamu.net)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 131,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9868,
+          "title": {
+            "userPreferred": "Chinese Idiom Anime"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9868.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9868.jpg",
+            "color": "#e42886"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A Hong-Kong animation that teaches Chinese idioms.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 180,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 88,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8561,
+          "title": {
+            "userPreferred": "Saint Elmo: Apostle of Light"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8561.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8561.jpg",
+            "color": "#3578a1"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 12,
+            "day": 31
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 12,
+            "day": 31
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Inside Mercury, Japan builds a large-sized solar space power plant. The plant supports Earth with its large solar energy supply but suddenly there is an abnormality at the Saint Elmo plant. To pinpoint the problem, Earth sends several technicians to fix it.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 65,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 103,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6917,
+          "title": {
+            "userPreferred": "Anyway, It Doesn't Matter"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6917-RChcvXKDRSnH.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6917-RChcvXKDRSnH.jpg",
+            "color": "#f1c935"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 10,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Based on the same name gag manga by Endo Koichi.\n\nA gang decides to play at burglary without the knowledge of their schoolmates, each masquerading at different times as the master thief Tonchinkan.\n\n\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 43,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 183,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4621,
+          "title": {
+            "userPreferred": "The Olympic Challenge"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4621.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4621.jpg",
+            "color": "#e4c950"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1987,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "This is a story of a 13 year old girl whose only dream is to participate in the Olympic Games: Her Struggles, her victories, her failures and her willpower fascinate all who help her to become a outstanding athlete.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 75,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 78,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3909,
+          "title": {
+            "userPreferred": "Bikkuriman"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3909.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3909.jpg",
+            "color": "#f1c928"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 10,
+            "day": 11
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 4,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "In a world divided between angels and evil creatures, only the young hero Yamato Shintei has the power to defeat the demons...",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 75,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 191,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2600,
+          "title": {
+            "userPreferred": "Juusenki L-Gaim II: Farewell My Lovely + Pentagona Doors"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2600.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2600.jpg",
+            "color": "#e45d35"
+          },
+          "startDate": {
+            "year": 1987,
+            "month": 1,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 1,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "A recap OVA that portrays the second half of the series Heavy Metal L-Gaim. After the credits, there is a short clip animated for the OVA entitled \"Pentagona Doors\", which is intended to be comic relief. ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 55,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 189,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

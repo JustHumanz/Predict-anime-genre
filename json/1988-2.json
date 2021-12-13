@@ -1,0 +1,2403 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 141,
+        "perPage": 50,
+        "currentPage": 2,
+        "lastPage": 3,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 2062,
+          "title": {
+            "userPreferred": "Gall Force 3: Stardust War"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2062-XIYZa1c9Gb5k.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2062-XIYZa1c9Gb5k.jpg",
+            "color": "#e44335"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 11,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 11,
+            "day": 2
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2062-i8919d2Dbtj5.jpg",
+          "season": "FALL",
+          "description": "The girls are saved ... by none other than Catty Nebulart herself! Now, the race is on as Catty struggles to complete her crowning achievement: a huge machine that will bring life to a lifeless world! <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 61,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 622,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 48,
+                  "name": "AIC"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 72,
+                  "name": "Artmic"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6896,
+                  "name": "Animate Film"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4584,
+          "title": {
+            "userPreferred": "Topo Gigio"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4584.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4584.jpg",
+            "color": "#5da1e4"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 27
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 9,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Created by Maria Perego, Topo Gigio has been a beloved character for more than two decades. This animated TV series features numerous exciting stories and introduces many friends.<br><br>\nTopo Gigio is the first mouse astronaut to travel the Milky Way. Can a mouse become an astronaut? Well, Topo Gigio has come from a year 2,388,400 years ahead in the future. He is friendly and can talk with humans. He makes friends with his neighbors including a girl, her pet mouse, cats, and other mice.<br><br>\n(Source: Nippon Animation)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 21,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 374,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 22,
+                  "name": "Nippon Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3837,
+          "title": {
+            "userPreferred": "Mashin Hero Wataru"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3837-ndUUnFPysgM3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3837-ndUUnFPysgM3.jpg",
+            "color": "#e4506b"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 3,
+            "day": 31
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3837-XLOYIjiTIvsl.jpg",
+          "season": "SPRING",
+          "description": "The story is about a 9-year old boy named Wataru Ikusabe that is magically transported to a magical realm of the gods called Soukaizan which he is supposed to save. In his quest to save the realm, he manages to transform a clay sculpture into a somewhat autonomous (small) Super Robot.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 45,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 669,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1832,
+          "title": {
+            "userPreferred": "Hades Project Zeorymer"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1832-1n0THynKNW1F.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1832-1n0THynKNW1F.jpg",
+            "color": "#ffa11a"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 11,
+            "day": 26
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 2,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A young man named Akitsu Masato is `captured` by a secret govt. project known as \"Last Guardian\". He is told that his life as a normal student was all a lie, and that his real destiny is to be the pilot of a great robot called \"Zeorymer of the Heavens\". The truth of this is hammered in when Masato sees his `parents` accept payment for raising him. The Last Guardian is preparing for the resurrection of \"Hau Dragon\", an organization bent on world conquest. 15 years ago, Hau Dragon built 8 great robots. Each of the mecha represents a force of nature. However, before any of the robots could be used, their creater Kihara Masaki destroyed the robots except for the leader: Zeorymer. He took Zeorymer and an embryo to the government. The embryo became the boy Masato. Now, Hau Dragon has rebuilt the other 7 mecha and wants the 8th. It will be up to Masato and Himuro to pilot Zeorymer and fight against the Hau Dragon, but neither Masato or Himuro are all that they seem. <br><br>\n(Source: AniDB) ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Mecha",
+            "Psychological",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 1281,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 48,
+                  "name": "AIC"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 72,
+                  "name": "Artmic"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 7477,
+          "title": {
+            "userPreferred": "To Shoot Without Shooting"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7477.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7477.jpg",
+            "color": "#f1ae35"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Ji Chang is an excellent archer that strives to be the best in the world. He looks for a certain man that is capable of shooting a leaf from a distance. He decides to make this man his master. He visits his master occasionally over the years for training. He eventually masters the techniques of the bow and decides to head out for the mountains in search of an old man with supernatural abilities. ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 280,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6331,
+          "title": {
+            "userPreferred": "The Ten Little Gall Force"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6331.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6331.jpg",
+            "color": "#e4ae43"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A super deformed parody which depicts the \"making of \" Eternal Story and Destruction. A very humorous behind-the-scenes look (if \"Gall Force\" were a live-action series instead of being animated). <br><br>\nCast and crew members run into severe and embarrassing difficulties as things do not turn out as they should; for example, Lufy totally drowns in embarrassment as she is object of a whole crowd of spectators while in the nude; the director's obsession with realistic filming causes some real high-voltage friction with Catty; and in the end, after the premiere, the girls end up in an ongoing on-stage tussle about which one is the most popular character.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 18,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 378,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 72,
+                  "name": "Artmic"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 8896,
+          "title": {
+            "userPreferred": "Natsufuku No Shoujotachi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8896.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8896.jpg",
+            "color": "#43bbe4"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 8,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 8,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "In 1945, the second and third-year students of a Hiroshima girls' school are taken away to work in war factories. The remaining 220 girls of the first year try to make the best of their new-found status as the only teenagers in an almost deserted town, even amid the deprivations of wartime. On the 7th of August, an American bomber changes their lives forever. Broadcast on the 43rd anniversary of Hiroshima in memory of \"the girls who lost their lives to the atom bomb.\"\n\n(Source: Anime Encyclopedia)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 35,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 289,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3214,
+          "title": {
+            "userPreferred": "Kosuke-sama Rikimaru-sama: Konpeitou no Ryuu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3214-z9guCtGdQGTq.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3214-z9guCtGdQGTq.png",
+            "color": "#e4d650"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 9,
+            "day": 23
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 9,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Kosukesama Rikimarusama: Konpeito no Ryu was a 45 minute long anime TV special produced by J.C. Staff and broadcast on Japanese television in 1988. Similar to Dragon Ball, it was a martial arts adventure story featuring villains that could have stepped out of the Red Ribbon Army, typical Toriyama mecha, and a clone of Son Gohan's Haiya Dragon.<br>\n(Source: animenation.net)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 47,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 271,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1552,
+          "title": {
+            "userPreferred": "Sunny Ryoko! You Were There in a Dream"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1552-vuZ5K04nffMA.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1552-vuZ5K04nffMA.png",
+            "color": "#d6bb6b"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The movie starts out with Katsuhiko going to the US, with Kasumi and Yusaku seeing him off at Narita.<br><br>\nTwo years later, Katsuhiko is a professional racer, and comes back to Japan to race (and to marry Kasumi). Yusaku`s hobby is photography.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 67,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 298,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 12037,
+          "title": {
+            "userPreferred": "What's Michael? 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12037.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12037.jpg",
+            "color": "#a13550"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 60,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 228,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5918,
+          "title": {
+            "userPreferred": "Deimos no Hanayome: Ran no Kumikyoku"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5918.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5918.jpg",
+            "color": "#e42850"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 8,
+            "day": 31
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 8,
+            "day": 31
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5918-aOAkHFK5oUqK.jpg",
+          "season": "SUMMER",
+          "description": "Two siblings were happy on Mt. Olympus, until they fell in love. Deimo's sister Venus got imprisoned in the Swamp of Death. To save Venus's life, he must find a human reincarnation so that they can continue their love.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 32,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Mystery",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 1150,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3035,
+          "title": {
+            "userPreferred": "Chouon Senshi Borgman"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3035-dy1WxQLLdWHa.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3035-dy1WxQLLdWHa.jpg",
+            "color": "#e47850"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Sonic Soldier Borgman is a science fiction that comebines super sentai with non-gattai. It features a sentai-like three members team that fight an organization known as Youma. Features 3 characters with 3 basic ranger colors: Pink, Blue and Green.Featuring three main characters : Chuck,Ryo and Anise, Ryo is the leader, Chuck and Anise are teachers at a public school.Sometimes,the students help or make troubles to the Borgman somehow, some even know the Borgman secret identities. Ryo has a talking \"modern\" blue motorcycle that can upgrade itself. The transformation code is \"Borg. Get On\". Each member has a personal cannon that matches his/her armor color that appears only to finish the monster they fight.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 35,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 648,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3482,
+          "title": {
+            "userPreferred": "Madonna"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3482-j26xUJ3gJ90N.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3482-j26xUJ3gJ90N.jpg",
+            "color": "#f13535"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 11
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 6,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Mako, a sexy young teacher, comes to Gyunabe high school to enlighten young minds. What she wasn`t counting on was a class full of misfits lead by the delinquent Obayashi. If their never ending quest to see her underwear and embarrass her in front of the whole school doesn`t force her to quit, then her principal`s brilliant idea of making her the new rugby coach will.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 432,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4521,
+          "title": {
+            "userPreferred": "Watt Poe"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4521.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4521.jpg",
+            "color": "#f1d65d"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 8,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 8,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The legend of Watt Poe, a mysterious whale said to give happiness, in a world destroyed many years ago by a nuclear war.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 54,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 213,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2814,
+          "title": {
+            "userPreferred": "Dondon Domeru to Ron"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2814.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2814.jpg",
+            "color": "#0daeae"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 3,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Dommel is a lazy dog who does nothing more than eating and sleeping. His owner, Semafoor, is an inventor of the strangest things you could imagine. Together this becomes a mix for some funny events.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 213,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 12141,
+          "title": {
+            "userPreferred": "Kaze no Matasaburou (OVA)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b12141-UanTZfXrtAIv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b12141-UanTZfXrtAIv.jpg",
+            "color": "#e45d28"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 8,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 8,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A foreign transfer student from the city arrives one day in a Japanese country town. Enchanted by his air of mystery, his classmates nicknamed him \"Matasaburou the Wind Imp\" after a local legend. Eventually, they become friends and spend many days playing in the countryside. One windy day, Matasaburou returns to the city, leaving his classmates to speculate that he really was Matasaburou the Wind Imp and that he flew away on the wind.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 376,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 5372,
+          "title": {
+            "userPreferred": "Seisenshi Dunbine: New Story of AURA BATTLER Dunbine"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5372-P6Eg46HNeXFE.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5372-P6Eg46HNeXFE.png",
+            "color": "#ffbb43"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 2,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 8,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n5372-1z4BNuzT9OzB.jpg",
+          "season": "WINTER",
+          "description": "Taking place 700 years after the Dunbine TV Series, \"The Tale of Neo Byston Well\" revolves around Shion Zaba, the reincarnation of series protagonist Sho Zama. Together with Silkie Mau, Reml Jilfried (the reincarnation of Remile Luft), and the Aura Battler Silbine, Shion must stop a twisted Shot Weapon from launching a custom-made nuclear ICBM missile that's poised to wipe out the realm.<br><br>\n\"The Tale of Neo Byston Well\" gained praise not only for its upgraded animation but also for using B-CLUB Magazine's popular AURA FANTASM series as the basis for the new Aura Battler designs.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 486,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2780,
+          "title": {
+            "userPreferred": "Ultimate Teacher"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2780.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2780.jpg",
+            "color": "#f19343"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 2,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 2,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "At a run down school the \"Ultimate Teacher\" Ganpachi is sent to get things back on track and prepare the delinquent students for the real world. But the students don't want Ganpachi ruining the gang they got going so their boss, Hinako, fights back Ganpachi aided by her secret power...her lucky kitty underwear. Things get more interesting when we findout Ganpachi is the result of genetic experiments.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 56,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 820,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6896,
+                  "name": "Animate Film"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4616,
+          "title": {
+            "userPreferred": "Yumemiru Topo Gigio"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4616.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4616.jpg",
+            "color": "#e4c986"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A continuation of the Topo Gigio anime, with production changing from Asahi Broadcasting to TV Tokyo.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 26,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 176,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 22,
+                  "name": "Nippon Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2906,
+          "title": {
+            "userPreferred": "God Mars: Untold Legend"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2906-doFQX5ajhXNm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2906-doFQX5ajhXNm.jpg",
+            "color": "#1a93e4"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 6,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 6,
+            "day": 5
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2906-hYMcgAFVgAgi.jpg",
+          "season": "SUMMER",
+          "description": "Marg was deprived his little brother, Mars, by Zure, and lost his parents. Therefore, he was living alone on the planet, Gishin. He became a member of guerrilla to riot against the dictator Zure, and he fell in love with Ruru, the daughter of the leader, Ura. However, the organization was destroyed. He was trapped by Zure, and he was brainwashed to become a soldier. Then, his long cherished wish that he would meet his brother again was realized… as a duel with him.<br><br>\r\n(Source: AnimeNfo)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 56,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 236,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 65,
+                  "name": "Tokyo Movie Shinsha"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3595,
+          "title": {
+            "userPreferred": "Spirit Warrior"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3595-ntLB1xyB50ms.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3595-ntLB1xyB50ms.jpg",
+            "color": "#f1ae50"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 29
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 9,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A young mystic without a past, Kujaku was born under a dark omen possessed of incredible supernatural powers. Raised by priests, he has learned to use these powers for good. But the evil Siegfried von Mittgard seeks to steal his birthright, and rule the world as the Regent of Darkness. He has dispatched bloodthirsty minions to destroy Kujaku before he can awaken to his destiny. Now, Kujaku must unravel the riddle of his past, before the power within consumes him!<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 55,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Horror"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 471,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 48,
+                  "name": "AIC"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6256,
+                  "name": "Studio 88"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1342,
+          "title": {
+            "userPreferred": "Violence Jack: Evil Town"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1342.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1342.jpg",
+            "color": "#d65d1a"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The World as we know it has been torn apart shattered by a series of natural disasters that have turned civilization into a brutish nightmare of survival and has left whole cities buried beneath the Earth. It's now a lethal and chaotic place, a place where only the strongest and most savage remain alive. The strongest of them all is a giant warrior known as Violence Jack&hellip; <br><br>\nViolence Jack tries to avert a civil war brewing among the wretched inhabitants of a subterranean metropolis called Evil Town. Based on a character created by manga horror specialist, Go Nagai. <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 56,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Horror"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 1666,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6256,
+                  "name": "Studio 88"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4318,
+          "title": {
+            "userPreferred": "Dragon Century"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4318-tqYvkxs9sHrj.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4318-tqYvkxs9sHrj.png",
+            "color": "#e46b50"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 10,
+            "day": 26
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The story of a young girl and a young dragon. Naturally, they are the best of friends, and naturally the rest of the world is against them both. However, when demons decide to trash their world, they side with those who have always been against them.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 485,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 48,
+                  "name": "AIC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4427,
+          "title": {
+            "userPreferred": "Fight!! Ramenman"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4427-Kzqxt58GwIxJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4427-Kzqxt58GwIxJ.jpg",
+            "color": "#d61a1a"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 1,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 9,
+            "day": 11
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Set in a land where several martial arts styles collide, including (but not limited to) Chinese Kung Fu, Japanese Karate, and South Korean Taekwondo. Yet amongst these Shaolin-trained fighters and men powerful enough to cut the face of a mountain, Victory Ramenman is said to be the strongest of them all. At a young age, he witnessed his father Somenman being murdered by members of the Cobra Gang (who are still running rampant to this day). Found and taken in by the wise old Chen Sou-Mei, Ramenman trains for 12 years under his master and learns the great Essential Battle Dragon (&#38360;&#40845;&#26997;&#24847;&#26360;, To Ryuu Gokui Sho) style of Choujin Martial arts. Now, with his young sidekick Shao-Mai, Ramenman travels the land seeking vengeance for his father, fighting several villains along the way.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 35,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 307,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102555,
+          "title": {
+            "userPreferred": "Tang Lang Bu Chan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102555-6UaVcoQ85WTS.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102555-6UaVcoQ85WTS.jpg",
+            "color": "#ffae35"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102555-bZZFShWtIvbs.jpg",
+          "season": null,
+          "description": "A cicada is resting high on a tree. It is chirping for all it’s worth and drinking in the dew, oblivious of a mantis behind. The mantis, bending over and arching up its front leg, is going to catch the cicada but does not know that there is an oriole beside it. The bird has stretched out its neck, ready to peck at the mantis. Again the oriole is unaware that a weasel is sneaking up to it. The three creatures all covet gains ahead without being aware of an imminent danger behind. \n<br><br>\nThis short film was produced by Shanghai Animation Film Studio using Chinese ink wash painting technique. It is based on the ancient Chinese fable \"The mantis stalks the cicada, unaware of the oriole behind\".\n",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 170,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 471,
+                  "name": "Shanghai Animation Film Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3320,
+          "title": {
+            "userPreferred": "Harbor Light Monogatari: Fashion Lala yori"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3320.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3320.jpg",
+            "color": "#ae285d"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 11
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 11
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A Cinderella story of sorts, Fashion Lala stars a little girl named Miho who doesn't get along with her family. Miho loves to design clothing, but her aunt and three cousins don't believe that such a young girl is capable and mock her designs. Meanwhile, a contest for the new \"Disco Queen\" is coming up, and Miho wants nothing more than to be able to design a dress for someone to wear to the competition, since she's too young to enter herself. With determination and a little bit of magic, Miho's dreams just might come true!",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 48,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 568,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3264,
+          "title": {
+            "userPreferred": "Lemon Angel (1988/II)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3264.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3264.jpg",
+            "color": "#e46b43"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 9,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The sequel of the Lemon Angel (1988).",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 286,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5151,
+          "title": {
+            "userPreferred": "Mahjong Hishou-den Naki no Ryuu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5151-z6Q3MguSsAuP.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5151-z6Q3MguSsAuP.png",
+            "color": "#fe5d50"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 5,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The protagonist, Ryuu or Crying Dragon, is a mysterious man who often plays games with the gang members. He only wins by \"ron\", a move in which one needs to wait for the opponent's tile to complete the win.<br><br>\n* 'Ron' is also called 'Naki' in mahjong, which has the same pronunciation as 'Crying' in Japanese.<br><br>\nMahjong Hishouden Naki no Ryuu is a mahjong anime based on a manga  by Nojo Junichi in 1980s-90s.<br>",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 40,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 374,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6,
+                  "name": "Gainax"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 113332,
+          "title": {
+            "userPreferred": "SONODA Video: Spring / Summer / Fall / Winter"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113332-91yoq6TpTXvz.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113332-91yoq6TpTXvz.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 120,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6067,
+          "title": {
+            "userPreferred": "The Burning Wild Man"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6067-LKRnsiebGOck.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6067-LKRnsiebGOck.jpg",
+            "color": "#5dbbf1"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 14
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 9,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "When Kenichi Kokuho was a small boy, he was lost in the mountains and never found. However, unknown to anyone, Kenichi has been brought up by his foster father in the wild. When Kenichi becomes 15 years old, his foster father tells him the truth about his background. As he finds out, Kenichi decides to go to a civilized society where his parents live. <br><br>\nEverything Kenichi experiences in the town is a series of surprise and wonder. His family is delighted to see their son alive, but shocked at the fact that he has become wild and different from other children. And now, his new life is about to begin. <br><br>\nHis wild attitude and physical toughness cause various problems in the town. Kenichi has his own way to handle things, but it is too different for the most people to understand what he is up to. Can he get used to life in the town? ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 344,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2689,
+          "title": {
+            "userPreferred": "Zillion: Burning Night"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2689-IJZ8PVBAp783.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2689-IJZ8PVBAp783.png",
+            "color": "#f1e4c9"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 6,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 6,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "In the peaceful aftermath of the Nozsa wars, the charismatic heroes known as \"The White Knights\" have changed career paths to becoming music making rockstars. J.J., Dave, Champ and Apple have formed a rock band called, \"The White Nuts\". Their music career would soon be interrupted by a new threat of colonial settlers. Apple is kidnapped by the sadistic ODAMA Clan - a family of ruthless killers. Located in a heavily-fortified mountain retreat, J.J. and company attempt a rescue mission with their laser weapon Zillion. But the former Knights only have a limited supply of Zillium for the Zillion guns. A mysterious stranger named Rick turns out to be an old lover of Apple.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 244,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2003,
+          "title": {
+            "userPreferred": "The Tokyo Project"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2003-azIJOB6ZSPjI.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2003-azIJOB6ZSPjI.jpg",
+            "color": "#d6936b"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 6,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 6,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "One night at a rock concert, a mysterious man dies while leaving a floppy disc with a member of the Rutz Detective Agency. Soon they realize the disk contains information about a deadly new weapon under development. The heroes become involved in a game of political subterfuge and military espionage, hot on the trail of the killer!",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 53,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": 47,
+          "popularity": 503,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 442,
+                  "name": "Minami Machi Bugyousho"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 5920,
+          "title": {
+            "userPreferred": "Xanadu: Legend of Dragonslayer"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5920.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5920.jpg",
+            "color": "#e4d65d"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 1
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5920-JBmTlwWT39pa.jpg",
+          "season": "SPRING",
+          "description": "Based on the role-playing game \"Legend of Xanadu\". <br><br>\nThe evil magician Reichswar has killed the King to gain possession of a magic crystal; now he means to use its power to rule the whole Xanadu. The princess Rieru is kidnapped. One brave young warrior, wielding the magic blade Dragonslayer, goes to her rescue. ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 362,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3259,
+          "title": {
+            "userPreferred": "Lemon Angel (1988)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3259.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3259.jpg",
+            "color": "#f17843"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 2,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 3,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The sequence of the Cream Lemon: Lemon Angel.  ",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 9,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 343,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8451,
+          "title": {
+            "userPreferred": "Donguri to Yamaneko"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8451-4dfrC6UIs9tD.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx8451-4dfrC6UIs9tD.png",
+            "color": "#e4bb5d"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 9,
+            "day": 30
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 9,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The Acorns and the Wildcat is a unique short film in picture-book format from the creator of Night on the Galactic Railroad and Gauche the Cellist. Unusually for an anime, a narrator reads Kenji's story aloud while the action is played out on the screen by a succession of warm and evocative illustrations brought to life by subtle touches of animation. If the film feels somehow familiar yet you can't put your finger on the reason why, it's probably the sumptuously minimalist animation by Yasuhiro Nagura, who was the animation director of Mamoru Oshii's artsy 1986 feature Angel's Egg. That, and Kenji's wildcat is said to have been the inspiration for Miyazaki's Panda/Totoro creature. The idea of reading Kenji's story aloud instead of playing it out as a drama is quite refreshing, and Kenji's magical language and narrative style are entirely sufficient to sustain interest. Combined with the spacey music and breathtaking art, the result is a pleasantly unassuming little gem of a film.<br><br>\n(Source: pelleas.net)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 235,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5926,
+          "title": {
+            "userPreferred": "Gakuen Benriya Series: Antique Heart"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5926-DShB5EiVxxkd.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5926-DShB5EiVxxkd.png",
+            "color": "#d6431a"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 6,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 6,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "There's an old decrepit building at the edge of the school grounds that hasn't been used for years, and it falls apart a little bit more each day. But the little house holds a secret, as Takahiro and his friends are soon to find out...they wind up making contact with a mysterious entity known as Saki. Can Takahiro save Saki's world from destruction.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 29,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mystery",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 363,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6896,
+                  "name": "Animate Film"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 8718,
+          "title": {
+            "userPreferred": "Itsumademo Tabibito"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8718.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8718.jpg",
+            "color": "#1a1a6b"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 16
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A Minna no Uta song from 1988. Animation by Shigeru Tamura.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 142,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103934,
+          "title": {
+            "userPreferred": "Kenka no Ato wa"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103934-HQzDNvaygMql.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103934-HQzDNvaygMql.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the song \"Kenka no Ato wa\" by Shimon Masato featured on the Fuji TV's show \"Hiragana! Ponkikki.\"",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 44,
+          "popularity": 110,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7818,
+          "title": {
+            "userPreferred": "Fairy King"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7818.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7818.jpg",
+            "color": "#d6ae1a"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Sickly high-school student Taka journeys to Hokkaido in search of a magical cure and falls in with Khoo Fu-Ling, the king of the fairies. Ninfidia, the land of the fairies is under attack from the evil Queen Mab, and Taka must save it.<br>\nBased on a manga from 1978 by Ryoko Yamagishi.<br><br>(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 60,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 43,
+          "popularity": 448,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 8647,
+          "title": {
+            "userPreferred": "Kihachiro Kawamoto's Self-Portrait"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8647.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8647.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A stop motion short film by Kihachiro Kawamoto. This short film humorously shows what happens when the artist creates a being that insists on 'creating' the artist.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 42,
+          "popularity": 265,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4966,
+          "title": {
+            "userPreferred": "Self Portrait"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4966-QtXIqDDC2xsQ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4966-QtXIqDDC2xsQ.png",
+            "color": "#a1500d"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "This extremely brief film was Osamu Tezuka's answer to a challenge presented to the leaders of the international animation community to create animated self-portraits.\n<br><br>\n(Source: Anime News Network)\n<br>",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 42,
+          "popularity": 611,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 104427,
+          "title": {
+            "userPreferred": "Devil's circuit"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b104427-n5KxwTOesfBD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b104427-n5KxwTOesfBD.jpg",
+            "color": "#43a1e4"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A film in which the one 60-story skyscraper that soars in the spaces between roofs spins with incredible speed. I centered the circumference with its 400 or 500 meter radius on the skyscraper and divided it into 48 sections, then took photographs from those spots and shot the photographs frame by frame.\n<br><br>\n(Source: Official Site)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 41,
+          "popularity": 180,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 12399,
+          "title": {
+            "userPreferred": "Tooyamazakura Uchuuchou: Yatsu no Na wa Gold"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12399-ivMb94EWXOUo.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12399-ivMb94EWXOUo.png",
+            "color": "#e4a128"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 7,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Based on the life of Kagemoto Tooyama (遠山景元, 1793-1855), a hatamoto and an official of the Tokugawa shogunate during the Edo period.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 59,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 40,
+          "popularity": 192,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140278,
+          "title": {
+            "userPreferred": "Baxian Yu Tiaozao"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140278-pXobM4rfCziT.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140278-pXobM4rfCziT.png",
+            "color": "#f15028"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 13,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 471,
+                  "name": "Shanghai Animation Film Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 136667,
+          "title": {
+            "userPreferred": "Doraemon Eigo Kyoushitsu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136667-cFFTzLSIDGPe.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b136667-cFFTzLSIDGPe.jpg",
+            "color": "#c9a150"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A short film series consisting of mainly of English children songs animated to Doraemon. It consists of three short videos with a few segments that teach viewers to speak English. It was only released in Japan.\n<br><br>\n(Source: Doraemon Wiki)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 31,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6161,
+                  "name": "Shogakukan"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 135462,
+          "title": {
+            "userPreferred": "Sea Roar"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135462-RPlcmUQzQEKW.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135462-RPlcmUQzQEKW.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "In a fishing village, a scrapped boat is cremated. Old fishing boats on the verge of death dream of deep-sea fish running through alleys, fishermen pulling their nets, the crying specter of a young girl... Various imagery appear and retreat like waves on a shore, inviting viewers into a daydream.\n<br>\n<br>\n\nThis poetic film garnered critical acclaim at an international scale, starting at the Oberhausen international short film festival.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 109,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 130366,
+          "title": {
+            "userPreferred": "Funky Fables"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130366-Mt2wCTBrLZhM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130366-Mt2wCTBrLZhM.jpg",
+            "color": "#f1ae5d"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1989,
+            "month": 9,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Classic children's literary works told in a chibi art style.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 38,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 280,
+                  "name": "Studio Junio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 126883,
+          "title": {
+            "userPreferred": "Aikodesho"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126883-DyvGWCZ2KjW2.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126883-DyvGWCZ2KjW2.jpg",
+            "color": "#e45d50"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 9,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 9,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video for the song \"Aikodesho\" by Yuuki Kudou. Aired as part of NHK's Minna no Uta program.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 53,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 406,
+                  "name": "Asahi Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 125204,
+          "title": {
+            "userPreferred": "Uchuu wa Tanoshii Festival"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125204-sxnqT7LcFqtb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125204-sxnqT7LcFqtb.jpg",
+            "color": "#86431a"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": 4,
+            "day": null
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 4,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the song Uchuu wa Tanoshii Festival by singer duo Cherish that was featured on NHK's Minna no Uta program. The video was animated by Taku Furukawa.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 33,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 121880,
+          "title": {
+            "userPreferred": "Ningen no Uta"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121880-eqZqn1z42k1C.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121880-eqZqn1z42k1C.jpg",
+            "color": "#f1865d"
+          },
+          "startDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1988,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "For the first time, 18 year old Mitsuko is facing discrimination as she tries to pursue a career.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 26,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 30,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

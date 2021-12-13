@@ -1,0 +1,2438 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 162,
+        "perPage": 50,
+        "currentPage": 1,
+        "lastPage": 4,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 2150,
+          "title": {
+            "userPreferred": "Moomin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2150.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2150.jpg",
+            "color": "#0daee4"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 4,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 10,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "In the remote and mysterious Moomin Valley live the Moomin trolls, gentle and peaceful creatures. Young Moomin and his family experience many strange adventures, both magical and mundane. Based on the children's stories by Tove Jansson. <br><br>\n(Source: Anime News Network) ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 78,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 76,
+          "popularity": 4130,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 358,
+                  "name": "Telescreen BV"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1289,
+          "title": {
+            "userPreferred": "Mobile Police Patlabor: The New Files"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1289-dWwOLHwIC0gv.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1289-dWwOLHwIC0gv.jpg",
+            "color": "#e47828"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 11,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 4,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1289-wzVOiKkcU8bt.jpg",
+          "season": "FALL",
+          "description": "Special Vehicles Division 2 is back on duty, along with their Ingram Patrol Labor (Patlabor) robots. Using their courage as well as the Ingrams, Captain Goto's motley crew of officers battle crime in Tokyo city. They also deal with their personal lives, as well as the supernatural. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 16,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 73,
+          "popularity": 2209,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1251,
+          "title": {
+            "userPreferred": "Nadia: The Secret of Blue Water"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1251-fir0uALjd3Av.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1251-fir0uALjd3Av.jpg",
+            "color": "#f1ae50"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 4,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 4,
+            "day": 12
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1251-2oEwIJlFWpe3.jpg",
+          "season": "SPRING",
+          "description": "In 1889, the world is on the pinnacle of great discoveries in technology. In mankind's grasp for the future, a sinister foe known only as Gargoyle, obsessed with restoring the former Atlantean empire to the glory it once held, begins his plans to take over the world. Nadia, with the help of a young inventor, Jean Raltique, and the mysterious captain Nemo of the submarine Nautilus, must fight to save the world from Gargoyle and Neo-Atlantis. Based on the Novel '20,000 Leagues Under the Sea' by Jules Verne.<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 39,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 72,
+          "popularity": 11509,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6,
+                  "name": "Gainax"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 986,
+          "title": {
+            "userPreferred": "Dragon Ball Z: Bardock – The Father of Goku"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx986-AaMvLpNQrRzu.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx986-AaMvLpNQrRzu.jpg",
+            "color": "#a16b35"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 10,
+            "day": 17
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 10,
+            "day": 17
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/986-lVmHB2yywXfk.jpg",
+          "season": "FALL",
+          "description": "Bardock, Son Goku's father, is a low-ranking Saiyan soldier who was given the power to see into the future by the last remaining alien on a planet he just destroyed. He witnesses the destruction of his race and must now do his best to stop Freeza's impending massacre.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 47,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 72,
+          "popularity": 14476,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1375,
+          "title": {
+            "userPreferred": "My Daddy Long Legs"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1375-PRblyvQtNgNm.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1375-PRblyvQtNgNm.png",
+            "color": "#e46b28"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 1,
+            "day": 14
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 12,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1375-xY92v5E1lnuZ.jpg",
+          "season": "WINTER",
+          "description": "Daddy Long Legs is based on the novel of the same name by Jean Webster. It chronicles the adventures of Judy Abbott, an orphan in New York. During a meeting for the superintendent, with other important and rich people in attendance, a scholarship is offered to Judy by a mysterious benefactor. Catching only a glimpse of his tall shadow as he leaves, Judy calls him \"Daddy Long Legs\" and writes him letters every month as per his request. While studying at the Lincoln Memorial school, she makes many friends and learns about a world she never knew about before.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 40,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 70,
+          "popularity": 2250,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 22,
+                  "name": "Nippon Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 951,
+          "title": {
+            "userPreferred": "Chibi Maruko-chan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/951.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/951.jpg",
+            "color": "#e4bb43"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 1,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 9,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Momoko Sakura is an elementary school student who likes popular idol Momoe Yamaguchi and mangas. She is often called \"Chibi Maruko-chan\" due to her young age and small size. She lives together with her parents, her grandparents and her elder sister in a little town. In school, she has many friends with whom she studies and plays together everyday, including her close pal, Tama-chan; the student committee members, Maruo-kun and Migiwa-san; and the B-class trio: 'little master' Hanawa-kun, Hamaji-Bu Taro and Sekiguchi-kun. This is a fun-loving and enjoyable anime that portrays the simple things in life.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 142,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 69,
+          "popularity": 1624,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 22,
+                  "name": "Nippon Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1476,
+          "title": {
+            "userPreferred": "City Hunter: Million Dollar Conspiracy"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1476.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1476.jpg",
+            "color": "#f1bb35"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 8,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 8,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1476-p1yNmuWGe9C9.jpg",
+          "season": "SUMMER",
+          "description": "Beautiful American Emily O'Hara offers the City Hunter (Ryo Saeba &amp; Kaori Makimura) one million dollars to protect her from a man named Douglas. Ryo &amp; Kaori take the job, but things are not quite what they seem. The real target just might be Ryo, but it's unclear who wants Saeba dead.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": 68,
+          "popularity": 1148,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1475,
+          "title": {
+            "userPreferred": "City Hunter: Bay City Wars"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1475-uSmxYaXBLBs8.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1475-uSmxYaXBLBs8.jpg",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 8,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 8,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A new island resort has been built in Tokyo bay, and it is run by one of the world's most powerful super computers. The City Hunter gang has been invited to the grand opening party, but only Miki &amp; Kaori have gotten there. Soon, they and the rest of the party goers are taken hostage by an exiled South American dictator called General Gillium. Now it's up to Ryo and Umibozu to free the hostages, and prevent Gillium's daughter from using the super computer to launch a nuclear attack on the USA.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 68,
+          "popularity": 1239,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 207,
+          "title": {
+            "userPreferred": "Record of Lodoss War"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207-1LOVlR0U37wR.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207-1LOVlR0U37wR.png",
+            "color": "#e40d28"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 6,
+            "day": 30
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 11,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207-kn1uKSa5c8Qz.jpg",
+          "season": "SUMMER",
+          "description": "Created from the aftermath of the last great battle of the gods, Lodoss and its kingdoms have been plagued by war for thousands of years. As a quiet peace and unity finally become foreseeable over the land, an unknown evil begins to stir. An ancient witch has awakened, bent on preserving the island of Lodoss by creating political unbalance throughout the many kingdoms and keeping any one from maintaining central control. Only a mixed-race party of six young champions, led by the young warrior Parn, stand between this new threat and Lodoss' descent back into the darkness of war and destruction. <br><br>\n(Source: Anime News Network) ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 68,
+          "popularity": 9898,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1352,
+          "title": {
+            "userPreferred": "Cyber City Oedo 808"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1352-1Sytay3y8ZON.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1352-1Sytay3y8ZON.jpg",
+            "color": "#e4865d"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 6,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 10,
+            "day": 4
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1352-YR39oBZLsbLz.jpg",
+          "season": "SUMMER",
+          "description": "It is the year 2808. Three convicts are recruited as members of the Cyber Police to keep major criminal activity in Oedo (formerly Tokyo) in check. In return, their life sentences will be reduced by a few years for every mission accomplished. However, to ensure that these convicts are doing their job, the police have secured special collars around their necks. If they attempt to remove their collars or fail to meet the time limit of their mission, the collars will self-destruct.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 43,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 68,
+          "popularity": 4522,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2355,
+          "title": {
+            "userPreferred": "Devilman: The Demon Bird"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2355-sVsnQ92jO2VN.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2355-sVsnQ92jO2VN.png",
+            "color": "#f15d43"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 2,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 2,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Demons exist and their power is beyond what humans can fathom. In fact they are so strong that humans do not stand a chance against them in a fight. <br><br>\nThe only thing strong enough to defeat a demon is another demon and it is through this logic that Ryo Asuka hatches the plan to have his good-hearted friend Akira Fudo possessed by a demon. If a person is of pure of heart then he might be able to control the demon that posses him and thereby acquire power equal to a demon. After raising some hell in a club the plan works and Akira is possessed by the powerful demon known as Amon. <br><br>\nNow Akira is humanities sole champion of justice against the hidden demon menace that has plagued humanity since the dawn of time.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 56,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Horror",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 67,
+          "popularity": 4162,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 234,
+                  "name": "Oh! Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 9645,
+          "title": {
+            "userPreferred": "Be-Bop High School"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx9645-Vx2xMtVXdQ5P.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx9645-Vx2xMtVXdQ5P.jpg",
+            "color": "#e4a15d"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 1,
+            "day": 26
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 16
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9645-EPZ6KPWBd1SN.jpg",
+          "season": "WINTER",
+          "description": "For the invincible and basically happy punk lads Hiroshi and Toru, what they care about every day is to get a lot of attention from girls and to win the fights against the lads from other schools. Whenever provoked, they just go out fighting and settle the situation no matter what it costs.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 7,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 67,
+          "popularity": 1744,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2677,
+          "title": {
+            "userPreferred": "Doraemon: Nobita's Animal Planet"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2677.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2677.jpg",
+            "color": "#e49350"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Nobita went to a world of animals through the \"Wherever Gas\", the substance to let you travel anywhere, same as the \"Wherever Door\" Doraemon uses. They came across with Chippo, a boy who looks like a dog and very adventurous. A group called Numiges plans on taking over the animal planet. Doraemon and friends plan to stop them with the animal's help.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 100,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 1035,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1421,
+          "title": {
+            "userPreferred": "Lupin the 3rd: The Hemingway Papers"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1421.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1421.jpg",
+            "color": "#e45093"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A draft of Ernest Hemingway's final novel might hold the secret to an immense hidden treasure, and master thief Lupin the Third is on the hunt! He’ll have the help of his partners and the beautiful bartender Maria, but he'll have to contend with a local civil war, the mercenary Crazy Mash, and his super-wealthy boss Marces to get it.\n<br><br>\n(Source: Discotek Media)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 92,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 1336,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 65,
+                  "name": "Tokyo Movie Shinsha"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2543,
+          "title": {
+            "userPreferred": "The Great Adventures of Robin Hood"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2543.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2543.jpg",
+            "color": "#e4f15d"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 29
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 10,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A variant of Robin Hood in which all the principal characters are teenagers.<br><br>\nSeveral centuries ago in Nottingham County, a cruel and greedy baron by the name of Alwine ordered the destruction of the Huntingtons` castle - from the fire of which Robin and his cousins, Will, Winifred and Barbara, miraculously escaped. The youngsters sought shelter in Sherwood Forest, where, thanks to the wise guidance of the hermit better known as \"Friar Tuck,\" they managed to face the difficulties of a life in the wilderness as as well as they could. However, in the forest there lived a fearless group of young bandits, led by Little John. Their first encounter with Robin and his cousins was at first rather stormy, as the two groups fought for the destiny of a young, noble maiden named Marian who had fallen into the hands of the bandits during an ambush.<br><br>\nTheir bitterness, however, rapidly lead the way to friendship, and Robin and John later realized they were all victims of the same fate. The youngsters thus mutually decided to help one another. Baron Alwine was not merely enemy of the Huntingtons- in fact, a couple years earlier he had forced Little John and his gang to seek protection in the forest to avoid forced labour. He would later seek Marian Lancaster for the secret carved on a cross the girl wore as symbol of her family line.<br><br>\nThe girl was to be adopted by the shady Bishop Herfort - Alwine`s accomplice - who sought to attain the Lancaster`s wealth. With all their strength, Robin and his friends were then compelled to fight against the baron`s troops, led by Gilbert - a dangerous and fearless knight. When Winifred and Marian were then imprisoned in the castle`s dungeons, our heroes tried in every way possible to enter until their ardour was finally rewarded with success. Thanks to his noble heart and heed for danger, Robin became rapidly known as the protector of the poor and oppressed. Beloved and highly esteemed not only by the villagers, but also and especially by the sweet and beautiful Marian he was. The boy who never parted from his loyal, magical bow, endlessly engaged in dangerous and unthinkable missions.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 1053,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 896,
+          "title": {
+            "userPreferred": "Dragon Ball Z: The Tree of Might"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/896.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/896.jpg",
+            "color": "#6b351a"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 7
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/896-WMwj6ze1rcqE.jpg",
+          "season": "SUMMER",
+          "description": "The Saiyajin named Turlus has come to Earth in order to plant a tree that will both destroy the planet and give him infinite strength. Son Goku and the Z Warriors cannot let this happen and duke it out with the invaders for the sake of the planet.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 61,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 16742,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 6713,
+          "title": {
+            "userPreferred": "Ranma ½: Nettou Uta Gassen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6713.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6713.jpg",
+            "color": "#c95078"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 11,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 11,
+            "day": 21
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n6713-iJeF4M5yaOxe.jpg",
+          "season": "FALL",
+          "description": "A two-part music OVA series never released outside of Japan featuring the main Ranma 1/2 characters. They appear to be having a music contest at a local TV station. As everybody knows, these characters can't get along for more than three minutes and hilarity and hijinks ensue. <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 828,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1261,
+          "title": {
+            "userPreferred": "Samurai Pizza Cats"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1261-nsSWUSKoqaDr.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1261-nsSWUSKoqaDr.jpg",
+            "color": "#d6d66b"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 2,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 2,
+            "day": 12
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1261-l8LTuAbNjM4O.jpg",
+          "season": "WINTER",
+          "description": "The setting is a Japanese looking village named `Little Tokyo' where the Pizza Cats run a pizza fastfood business. Little Tokyo is populated by all kinds of animals. The official governor of the town is the Emperor, but since he has gone bananas a council takes care of the well-being of the village. One of the members of this council is called Seymour \"Big\" Cheese, who secretly wishes to take over control of the village. The pizza take away restaurant is merely a cover for their true job... Whenever evil is afoot, the Pizza Cats are launched towards the danger from the gun-lookalike clock tower that emerges from the top of their restaurant.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 54,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 1753,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 103,
+                  "name": "Tatsunoko Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1032,
+          "title": {
+            "userPreferred": "Like the Clouds, Like the Wind"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1032-h4No2tiVaJQU.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1032-h4No2tiVaJQU.png",
+            "color": "#d6a143"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 21
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1032-4uV5O5SZggIH.jpg",
+          "season": "SPRING",
+          "description": "Ginga, a small town girl sets out to become the Emperors Seihi, highest ranked wife, undaunted by the many other women who seek the same title. Her energetic and eccentric ways aid in her in meeting new people, training to be a Lady of the Emperor and dealing with the drama that ensues.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 80,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 1474,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1795,
+          "title": {
+            "userPreferred": "Dirty Pair: Flight 005 Conspiracy"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1795-jCzXyUdnXo84.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1795-jCzXyUdnXo84.jpg",
+            "color": "#f1ae5d"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 1,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 1,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1795-SH6jfwvvXjng.jpg",
+          "season": "WINTER",
+          "description": "It's Chief Gooley's worst nightmare come true. The Lovely Angels are back on the job, but this time the 3WA's Central Computer has assigned them two cases at the same time: investigate a space liner explosion in which three hundred people died, but no one`s come forward to claim any insurance money; and find a missing scientist and his family.<br><br>\nCould the two cases be connected? Only the Central Computer knows and it's not talking. So it's up the Dirty Pair to get down and dirty and solve the puzzle before time runs out for a grieving grandfather, his family and the universe!<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 56,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 854,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 895,
+          "title": {
+            "userPreferred": "Dragon Ball Z: The World's Strongest"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/895-GuuZOIRCBHhI.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/895-GuuZOIRCBHhI.jpg",
+            "color": "#e4bb50"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 10
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/895-cAESC6fP8PzR.jpg",
+          "season": "SPRING",
+          "description": "The evil Dr. Wheelo has resurrected his brain into a robot and now desires to inhabit the body of the world's strongest warrior. This means he must face Son Goku and company in a fight for Goku's life.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 60,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 14035,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3203,
+          "title": {
+            "userPreferred": "Chibi Maruko-chan Movie (1990)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3203-3RzleAJui6zh.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3203-3RzleAJui6zh.jpg",
+            "color": "#e4bb43"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 12,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 12,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Chibi Maruko chan is the nickname of a sweetly obnoxious 9-year-old girl. She tricks her grandfather, ponders for hours over how to spend her allowance, and hates sitting next to ugly boys. She talks, feels and lives just as real kids do.<br><br>\nAs the second term commences, Maruko and her classmates return to their small groups. Maruko&rsquo;s group includes two naughty boys and Maruko is forced to be one of their subordinates. She seems to face a lot of pressure at school.<br><br>\nAs the school&rsquo;s athletic meet approaches, all the classmates are busy exercising. Maruko is no exception, although her laziness means that she is late sometimes. Maruko realizes that the two boys rival each other in everything they do, and that their friendship is deep and strong. <br><br>\n(Source: AnimeNfo)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 93,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 363,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1822,
+          "title": {
+            "userPreferred": "The Hakkenden: Legend of the Dog Warriors"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1822-G2k0PqOAcXZ7.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1822-G2k0PqOAcXZ7.jpg",
+            "color": "#e4865d"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 10,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 3,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "\"During the blood-soaked feudal wars of Japan, the Awa clan faced certain extinction from a rival clan backed by demonic forces. Their clan's salvation becomes a curse when the family dog brings back the head of the enemy warlord but insists upon marrying the lord's daughter! This unnatural union bears fruit, but they are killed; and their eight unborn pups reincarnate as the eight Dog Warriors - The Hakkenden. The eight reincarnated souls travel their separate paths of violence and retribution, but slowly they come together as a formidable group representing the eight virtues of the bushido to slay the demons and redeem their clan!\"<br><br>\n(Source: DVD Complete Series Back Cover)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 1608,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 48,
+                  "name": "AIC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 6031,
+          "title": {
+            "userPreferred": "Osu!! Karate Bu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6031-BInHOWoq97Cr.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6031-BInHOWoq97Cr.jpg",
+            "color": "#f1935d"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 10,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 7,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Osu!! Karate Bu was popular in Japan, but never really caught on in the West. It is still respected and wildly acclaimed as the best 'delinquent shonen manga', and has influenced many other works, and even been parodied by some (Cromartie High School is a loving parody of this particular series).<br><br>\nThe story initially focuses on Matsushita Tadashi, but the supporting character Takagi Yoshiyuki ended up becomign much more popular, so the manga's focus eventually shifted to him becoming the lead character.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 440,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1793,
+          "title": {
+            "userPreferred": "A Wind Named Amnesia"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1793.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1793.jpg",
+            "color": "#5da1e4"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 12,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 12,
+            "day": 22
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1793-aD9cfQhORr2L.jpg",
+          "season": "FALL",
+          "description": "It happened quite suddenly, with no warning - all the memories of all the people on Earth, swept away as if by a sudden wind. In a post-catastrophic Earth populated mostly by savages without memories of their past civilisation, one man travels on a journey of enlightenment and hope, across a devastated America.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 80,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Mecha",
+            "Mystery",
+            "Psychological",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 3360,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1346,
+          "title": {
+            "userPreferred": "A.D. Police Files"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1346-SkXLEWaU1GeI.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1346-SkXLEWaU1GeI.jpg",
+            "color": "#e4a135"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 5,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 11,
+            "day": 22
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1346-3bUAj2aa630X.jpg",
+          "season": "SPRING",
+          "description": "The year is 2027 in MegaTokyo, six years before the Knight Sabers will make their debut. Boomers (artificial humans) are still a relatively new advancement, and the implementation and integration of boomers into society is still a bit buggy -- sometimes fatally so. Whenever a boomer incident occurs, though, there is the Advanced Police, a special force trained to deal with boomer crimes.<br><br>\nLeon McNichol is a rookie in the AD Police, and is just starting to become exposed to the horrors and tragedies one finds every day in MegaTokyo. He and his veteran partner, Gina Marceau, slowly learn about the ever-fading line that separates man from machine. ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 27,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Horror",
+            "Mecha",
+            "Mystery",
+            "Psychological",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 2850,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 48,
+                  "name": "AIC"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 72,
+                  "name": "Artmic"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3448,
+          "title": {
+            "userPreferred": "Mad Bull 34"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3448-p7LePB14kDOV.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3448-p7LePB14kDOV.png",
+            "color": "#ffa143"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 12,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 8,
+            "day": 21
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3448-Y2bE99z7tmaS.jpg",
+          "season": "WINTER",
+          "description": "Daizaburo Edi-Ban, a Japanese-American, joins New York City's toughest precinct, the 34th. On his first day he is partnered up with John Estes, called Sleepy by his friends and Mad Bull by his enemies, a cop who stops crime with his own violent brand of justice. Mad Bull makes no qualms about executing common thieves with shotgun blasts if they even pose a minor threat to him or anyone around them. Mad Bull also often steals from prostitutes and does incredible amounts of property damage while fighting crime. Mad Bull's unpoliceman-like behavior often puts him in hot water with his partner Daizaburo and the 34th precinct. However, despite how reckless or illegal these acts are, a good cause is always revealed (For example, Sleepy uses the money he steals from the prostitutes to fund a venereal disease clinic and a home for battered and raped women). Perrine Valley, a police lieutenant, joins Daizaburo and Sleepy later on to help them tackle more difficult cases involving the mafia and drug-running.<br><br>\nMad Bull 34 is inspired by the high-action buddy cop films of the 70's and 80's.<br><br>\n- Thevinnymac, the badass from Ignition-One",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 2018,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 207,
+                  "name": "Magic Bus"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2468,
+          "title": {
+            "userPreferred": "Nineteen 19"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2468.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2468.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 27
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "19-year-old Kubota is ready to find a girlfriend. The perfect chance arises when he meets Masana Fujisaka, his first love, in a club. She's just broken up with her longtime boyfriend and is surprised to run into Kubota, who sees that the perfect opportunity has just arisen.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 42,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 56,
+          "popularity": 1165,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5585,
+          "title": {
+            "userPreferred": "New Dream Hunter Rem: Yume no Kishitachi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5585-nvcrGxJSy91Y.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5585-nvcrGxJSy91Y.jpg",
+            "color": "#d6861a"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 12,
+            "day": 16
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 12,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Rem is an ordinary woman in our world but, in the world of dreams, she becomes a dream warrior, defending humanity from the evils there. When dream demons reach the waking world, she fights them with the help of her pets which transform into a tiger and wolf.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 628,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2084,
+          "title": {
+            "userPreferred": "NG Knight Lamune & 40"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2084-cL1CcKpdDYV6.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2084-cL1CcKpdDYV6.png",
+            "color": "#e4c928"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 4,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 1,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Lamune is an ordinary 4th grade boy who loves playing video games. He buys one from a peddler girl and helps her sell the rest. At home, he plays the game called \"King Sccasher\" &amp; beats it. The peddler girl then comes out of the TV screen and asks for his help, calling him \"The Blood Relative of the Chosen Hero Lamuness\". She is Princess Milk and takes him to Hara-Hara World where his role is to revive the Guardian Knights. To do this, he had to find an unlock the shrine which held Tama-Q, a robot who became Lamuness' Advisor Robot, and key to freeing the Guardian Knights. All of the Knights are free-thinking mechas except for King Sccasher which is piloted by Lamuness. Opposing Lamuness is Don Harumage and his minions Da Cider and Lesuka.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 38,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 747,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6276,
+          "title": {
+            "userPreferred": "The Curse of Kazuo Umezu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6276.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6276.jpg",
+            "color": "#f14378"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "\"Do not toy with the supernatural.\" <br><br>\nTwo stories of the consequences that descend upon humans who venture beyond the safe confines of their ordinary worlds. <br><br>\nWhen a gorgeous girl named Rima transfers into Masami's class, she's not only jealous, but also deathly frightened of her. While the boys in class are tripping all over themselves to get to Rima, Masami's having nightmares of a ghastly visitor and finding scars on her body come morning. She asks a friend to help her get evidence to confirm her suspicions about the new girl. But if a picture is worth a thousand words, a video must be worth far more. The truth can set you free, but it can also be more terrifying than anything you can imagine. <br><br>\nShy Miko and her more outgoing friend Nanako are enjoying their summer vacation, trying to make the most of their youth. But when horror-movie marathons just aren't thrilling enough, Nanako sets her eyes on a new target: an abandoned mansion at the edge of town, said to be haunted. With two other friends in tow, a reluctant Miko and a gung-ho Nanako enter the mansion. Soon, everything that can go wrong starts going wrong. Only luck or a miracle will allow them manage to escape the mansion with their lives, their sanity, and even their sense of reality. <br><br>\n(Source: Hanako) ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 43,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror",
+            "Psychological",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 1381,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 917,
+                  "name": "Takahashi Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1295,
+          "title": {
+            "userPreferred": "Project A-ko: Uncivil Wars"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1295.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1295.jpg",
+            "color": "#f1935d"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 8,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A-ko and B-ko are bounty hunters in an untamed world. When a young heiress, C-ko, falls out of the sky and into their hair, they find themselves battling space pirates and galactic police. Turns out the high-pitched, hungry C-ko holds a secret &mdash;the spirit of an ancient evil&mdash; and is the center of a plot to destroy the universe! ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 51,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 848,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 24,
+                  "name": "Studio Fantasia"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 5036,
+          "title": {
+            "userPreferred": "Hurricane Live! 2033"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5036-F1iWfR9XBp3w.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5036-F1iWfR9XBp3w.jpg",
+            "color": "#ff931a"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 6,
+            "day": 27
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 6,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Hurricane Live 2033: More Music of the Bubblegum Crisis spotlights the music that helped to make 80's series The Bubblegum Crisis the popular early piece of anime that its become. The hard rock songs of Priss and the Replicants are played amidst a video montage of the series' most exciting action sequences, and rarely seen live footage from the musicians themselves is also included. <br><br>\n(Source: Tracie Cooper, All Movie Guide)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 7,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 401,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1443,
+          "title": {
+            "userPreferred": "Sol Bianca"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1443.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1443.jpg",
+            "color": "#e4a15d"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 7,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Five female pirates pilot the Sol Bianca, a starship with a higher level of technology than any other known. With it, they seek out riches, such as the Gnosis, an legendary item of power, and pasha, the most valuable mineral in the galaxy. Along the way, they must consider a stowaway's quest to save the one he loves, and seek revenge against those that have wronged them.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 60,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 1150,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 48,
+                  "name": "AIC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3325,
+          "title": {
+            "userPreferred": "Brave Exkaiser"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3325-dKd9P6UBvtCR.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3325-dKd9P6UBvtCR.jpg",
+            "color": "#e4a16b"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 2,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 1,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "When aliens plan to invade earth, the young Kouta along with a giant robot from outspace named Exkaiser must team up to save the world and his friends.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 48,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 650,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7169,
+          "title": {
+            "userPreferred": "Briar-Rose or the Sleeping Beauty"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7169-jbysZfQxbGZ0.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7169-jbysZfQxbGZ0.jpg",
+            "color": "#c9e4f1"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1990,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "An alternate retelling of the classic Sleeping Beauty fairy tale.  The story begins in the same way as the original story but our young heroine instead of falling under the mystical spell begins to uncover the mystery of the man who cursed her and his relationship with her mother.  It is a realistic reminder that \"They lived happily ever after...\", may not be as happy as we once envisioned.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 371,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1280,
+          "title": {
+            "userPreferred": "Devil Hunter Yohko"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n1280-th0KSWQBpMN2.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n1280-th0KSWQBpMN2.png",
+            "color": "#e48650"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 12,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 7,
+            "day": 1
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1280-Si2TcPPEUZ9t.jpg",
+          "season": "WINTER",
+          "description": "Yohko Mono is a regular girl making her way through high school--until she learns that she is the 108th successor to a line of warriors charged with defending the earth against demons. Eventually she must fight her ultimate battle against the demon who started it all.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 40,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Horror",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 2305,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3765,
+          "title": {
+            "userPreferred": "Pygmalio"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3765.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3765.jpg",
+            "color": "#e4bb50"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 11,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 9,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Coult, the prince of the kingdom of Loon, is living a happy life with his father King Stephan and many retainers. He is cheerful, bright, tender-hearted, and gifted by the god Aganade. Coult&rsquo;s mother Galatea (the daughter of Aganade) married King Stephan. However, Medusa, the daughter of the evil spirit, was envious of her happiness and turned her into a statue together with many villagers when Coult was still a baby. In order to save the other villagers, Stephan pledged allegiance to Medusa, and was forced to promise to make Coult do the same on his 8th birthday.<br>\nWhen the day arrives, Coult declares that he will defeat Medusa and revive the people who were turned into statues. He sets out on a long journey to search for the daughter of the evil spirit.<br><br>\n(Source : nipponanimation.com)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 39,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 53,
+          "popularity": 251,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 22,
+                  "name": "Nippon Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4640,
+          "title": {
+            "userPreferred": "Maroko"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4640-PJ3p9VGEoVUb.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4640-PJ3p9VGEoVUb.png",
+            "color": "#f1d643"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 19
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Summary for the Gosenzosama Banbanzai! OVA.<br><br>",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 352,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4807,
+          "title": {
+            "userPreferred": "Spirit Hero Wataru 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4807-ev3JlhMtCsn0.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4807-ev3JlhMtCsn0.png",
+            "color": "#e4785d"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 3,
+            "day": 8
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n4807-ZPKNiyqsvu7g.jpg",
+          "season": "SPRING",
+          "description": "This is the sequel to Mashin Eiyuden Wataru first season. <br><br>\nWataru has been lived happily on earth after he defeated Doakudar. When he plays around with his friend, Ryujinmaru appears and ask him to fight again. It appears that the 7 Stars Mountain, the source of Mt. Soukai's rainbow, have been taken over by Doakadar (Doakudar's brother). If all the stars mountain loses their brightness, Mt. Soukai's rainbow will fade and everyone will live in the darkness for eternity. Once again, Wataru has to go through all the 7 stars system and destroy this new stronger enemy. ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 46,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 228,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4855,
+          "title": {
+            "userPreferred": "Fuuma no Kojirou: Seiken Sensou-hen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4855.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4855.jpg",
+            "color": "#866b28"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 9,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 12,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Hakuo Gakuin used to be a prestigious high school, and famous for martial arts. However, because its rival school; Seishikan, has been cowardly luring it's superior students, Hakuo was going to decline. <br><br>\nIn order to recover from the situation, the acting principal of Hakuo; Hojo Himeko, sends Yagyu Ranko to the Fuma Village in search of the famous Fuma ninja clan for assistance. The leader of the Fuma sent Kojiro to Hakuo, there he faces the notorious Yasha clan who fights for Seishikan lead by Asuka Musashi. <br><br>\nSoon Kojiro's comrades arrive and an all-out ninja war postponed for 500 years begins between the 2 clans. (Source: d-addicts)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 348,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9792,
+          "title": {
+            "userPreferred": "Licca-chan Fushigi na Fushigi na Yunia Monogatari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9792.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9792.jpg",
+            "color": "#a12850"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 11,
+            "day": 23
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 11,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Based on the popular Licca doll in Japan. Licca is accidentally transported into the world of Yunia and must find a way to return home.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 27,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 433,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3866,
+          "title": {
+            "userPreferred": "Kuro ga Ita Natsu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3866.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3866.jpg",
+            "color": "#e4bb5d"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 6,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 6,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Japan, summer of 1945. Nobuko, an elementary school girl, saves a little cat from crows. She desparately wants to keep the cat in her home. It is the time everyone suffers shortage of food, so naturally her parents don't like the idea. But Nobuko manages to convince them. She names the cat Kuro (black). Kuro eventually brings laughter to the family. However, the war situation becomes worse and worse...<br><br>\n(Source: sazuma.com)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 65,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 207,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2040,
+          "title": {
+            "userPreferred": "Mahou no Angel Sweet Mint"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2040-cJFzAuOKjMp8.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2040-cJFzAuOKjMp8.jpg",
+            "color": "#5093e4"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 5,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 3,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Mint is a girl who happens to be the princess of the world of dreams and magic. The natural environment of her world is a reflection of the dreams of the people on Earth. It is now in danger as people lose faith in their dreams and let darkness enter their hearts. The environment of Mint's world is starting to wither and die.<br><br>\nOn her 12th birthday, after a gala celebration with her father the King and her mother, she agrees to go to the world of humans to try to preserve people's hopes and dreams, and to prove that she has the qualities necessary to be a wise ruler. Her father arranges for her to stay with his sister, Mint's aunt Herb, who runs a gift shop on Earth called \"Happiness Shop\". <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 47,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 582,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 196,
+                  "name": "Ashi Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 5936,
+          "title": {
+            "userPreferred": "White Fang"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5936.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5936.jpg",
+            "color": "#f1435d"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 4,
+            "day": 28
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 4,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A boy named Lasset who lives on a farm in the rural northern US makes a perilous trek through the wilderness to a sanctuary 300 miles to the north to save the life of a gray wolf that he had raised from a puppy after an incident in which the wolf kills the family dog.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 84,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 282,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6038,
+          "title": {
+            "userPreferred": "Transformers: Zone"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6038.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6038.jpg",
+            "color": "#fef10d"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "In the distant future, an evil entity known as Violenjiger resurrects nine of the most feared generals in Destron history. While saving some inhabitants of a planet destroyed by these Destrons, Cybertron leader Victory Saber is seriously damaged. The leadership of the Cybertron forces is passed on to the heroic robot Dai-Atlas. Together with Sonic Bomber, Dai-Atlas must protect a mysterious crystal on Earth known as the \"Zodiac\" from falling into the hands of Violenjiger.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 396,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17719,
+          "title": {
+            "userPreferred": "Mahou Tsukai Sally (Movie)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17719-DJbHvjLoGwyv.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17719-DJbHvjLoGwyv.png",
+            "color": "#e44328"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Sally the Witch movie.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 235,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4537,
+          "title": {
+            "userPreferred": "Yagami-kun no Katei no Jijou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4537.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4537.jpg",
+            "color": "#e4bba1"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 5,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 5,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Well, in short, the mother looks like she's 14, and the kid is \"openly\" in love with her - loli x motha-con. His teacher, too, is in love with her mother, and so the love rivals duke it out in classroom, as well as plotting the downfall of their common enemy, his father. The father has a secretary who is in love with him. But once she discovered that he has such a \"young\" wife she turned her attention to his son, who is now torn between his own mother and a naive, motorbike riding girlfriend. Later on, the class gets a new student who looks exactly like the mother, whom everybody falls for. Except that the student is a he.... <br><br>\nYagami-kun OAV has a good chance of being the only anime of which the production video (tagged along with some episode) is more interesting than the anime itself. And they weren't kidding about 'Low budget manga spinoff anime aimed at exploiting the existing fan base. <br><br>\nDescription from: <br><a href=\"http://users.skynet.be/mangaguide/au1069.html\" target=\"_blank\">http://users.skynet.be/mangaguide/au1069.html</a> ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 405,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 101183,
+          "title": {
+            "userPreferred": "Space Battle Ship Yamato Pilot Film"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101183-Efs4rDAFDnQF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx101183-Efs4rDAFDnQF.jpg",
+            "color": "#f1a150"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 29
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The pilot film to Uchuu Senkan Yamato, created in August 1974 for Yomiuri Television executives. Released to the public 16 years later on the Uchuu Senkan Yamato LD Box Set. This pilot was included on later releases for DVD/BD but they lack certain sounds/audio due to a copyright issue that came about in the time between the LD and DVD/BD releases.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 296,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2059,
+          "title": {
+            "userPreferred": "Mainichi ga Nichiyoubi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2059-3Ss0TXFqXQ56.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2059-3Ss0TXFqXQ56.png",
+            "color": "#e49335"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 9,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 10,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2059-Q8Hr3uez8E4H.jpg",
+          "season": "FALL",
+          "description": "Yumi Takeshita is a cheerful lady who recently joined the police force of the Tawagoto precinct. When she was still a middle school student, she was saved from being hit by a truck thanks to a stranger. Several years later, she meets her savior once again while performing her first arrest attempt. He is a magician named Tohru Ichidaiji and Yumi is charmed to finally meet him. As a police officer who is assigned to several odd tasks, she will keep asking for the help of the handy Tohru.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 469,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

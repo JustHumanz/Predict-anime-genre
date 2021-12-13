@@ -1,0 +1,806 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 168,
+        "perPage": 50,
+        "currentPage": 4,
+        "lastPage": 4,
+        "hasNextPage": false
+      },
+      "media": [
+        {
+          "id": 9383,
+          "title": {
+            "userPreferred": "Chie-chan Funsenki: Jarinko Chie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9383.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9383.jpg",
+            "color": "#e4bb5d"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 10,
+            "day": 19
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 9,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "An adaptation of the first series, with different characters and an alternate setting.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 39,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 95,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9349,
+          "title": {
+            "userPreferred": "Shizukanaru Don: Yakuza Side Story"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9349.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9349.jpg",
+            "color": "#1a506b"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 4,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 4,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "This manga depicts the life of Shizuya Kondou, a man who designs underwear by day and is \"don\" of a gang at night.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 40,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 110,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9343,
+          "title": {
+            "userPreferred": "Bousou Sengokushi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9343.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9343.jpg",
+            "color": "#28aec9"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 2,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 11,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 91,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9338,
+          "title": {
+            "userPreferred": "Ore no Sora Keiji-hen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9338.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9338.jpg",
+            "color": "#e45d50"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 10,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 5,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 140,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9015,
+          "title": {
+            "userPreferred": "O-bake no... Holly"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9015.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9015.jpg",
+            "color": "#e4ae43"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 1,
+            "day": 28
+          },
+          "endDate": {
+            "year": 1993,
+            "month": 4,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Holly the Ghost is about Holly (Chocola) who wants to be a \"holly ghost\". \"Holly ghost\" is a group of \"monsters\" who spread fear. Their leader is a witch called Majoline. Together with his 4 new friends (Candy, Toreppaa, etc) he learns to be a real \"holly ghost\".",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 200,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 106,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8829,
+          "title": {
+            "userPreferred": "Shounen Ashibe"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8829.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8829.jpg",
+            "color": "#d6c91a"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 4,
+            "day": 11
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 12,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n8829-9AoIiUvLFAbP.jpg",
+          "season": "SPRING",
+          "description": "The anime is based on the 4-panel comic strip drawn by Morishita Hiromi and published in Young Jump. The story describes the daily life of Ashibe (an elementary school boy) and his family and friends, including a pet white sea lion.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 37,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 130,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8753,
+          "title": {
+            "userPreferred": "Ultraman Kids Looking for Mother for 30000000 Light Years"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8753.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8753.jpg",
+            "color": "#e4ae5d"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 11,
+            "day": 17
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 5,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Ultraman Kids go on a journey to search for the parents of a main character.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 121,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8643,
+          "title": {
+            "userPreferred": "Dance Till Tomorrow"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8643.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8643.jpg",
+            "color": "#f18643"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 7,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 10,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Suekichi goes to university and has, as any Japanese university student, time for hobbies. Things change when he attends his great grandfather's funeral and wakes the next morning in his room with a very sexy girl besides him. His great grandfather has left him a *little* inheritance but there are some conditions. Meanwhile, sexy Aya keeps hanging around and refuses to go away. The beginning of a strange relationship which revolves around suspicions and desire.\n",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 42,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Ecchi",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 300,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8215,
+          "title": {
+            "userPreferred": "Story from Genji Agedama"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8215.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8215.jpg",
+            "color": "#e4ae35"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 10,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 9,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Agedama is a small boy going to elementary school and having the usual problems for a boy of his age. He is also secretly a superhero-in-training (called \"Agedaman\"). Along with Wapuro, his floating computer companion, he fights against a criminal organization who can turn humans into monsters of various types. <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 51,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 303,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7405,
+          "title": {
+            "userPreferred": "Jankenman"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7405.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7405.jpg",
+            "color": "#d6ae1a"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": null,
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 51,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 139,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 196,
+                  "name": "Ashi Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 6674,
+          "title": {
+            "userPreferred": "Reporter Blues"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6674.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6674.jpg",
+            "color": "#d6bb1a"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 3,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 12,
+            "day": 31
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The intelligent Antoinette, known to her friends as Tony, moves to Paris where she takes a job as a reporter for the newspaper \"\"La Voix de Paris.\" Together with the photographer Alain and the artist Bricolage she solves unsolved crimes and often crosses the path of the crook Madame Lapin. ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 216,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 65,
+                  "name": "Tokyo Movie Shinsha"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 6384,
+          "title": {
+            "userPreferred": "Ippon Bocho Mantaro"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6384.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6384.jpg",
+            "color": "#f1f1bb"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 6,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Based on the manga by Big Joe, the OVAs retell the adventures of Kazami Mantarou to improve his culinary skills and to prove to his cantankerous father that he’s a worthy chef.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 157,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5628,
+          "title": {
+            "userPreferred": "21 Emon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5628.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5628.jpg",
+            "color": "#ffa143"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 5,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": null,
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 39,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 182,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4504,
+          "title": {
+            "userPreferred": "Emergency Departure Rescue Kids"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4504.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4504.jpg",
+            "color": "#e4d643"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 2,
+            "day": 19
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 2,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "An adventure anime series by Tokyo Movie Shinsha, originally created by mangaka Monkey Punch.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 50,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 171,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3813,
+          "title": {
+            "userPreferred": "Moonlight Pierce"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3813-kdWqlbuMlfWL.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3813-kdWqlbuMlfWL.png",
+            "color": "#e46b5d"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 12,
+            "day": 14
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 12,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Because of a mysterious earring, Yumemi a young japanese student, becomes involved in a mysterious story. She must go to Germany, where she learns that the spirit of an evil prince is haunting her earring...<br>",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 70,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Mystery",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 169,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3691,
+          "title": {
+            "userPreferred": "The Two Lottes"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3691.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3691.jpg",
+            "color": "#e4506b"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 11,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 9,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Outspoken Luise and shy Lotte meet at summer camp and realize they are identical twins who were separated at birth by their divorced parents. The girls become friends and decide to switch places with each other so that they can each learn about the parent they never knew, and perhaps bring together their broken family. ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 29,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 280,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3315,
+          "title": {
+            "userPreferred": "Armored Police Metal Jack"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3315-EFEBXDWJLW2h.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3315-EFEBXDWJLW2h.jpg",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 4,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 12,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3315-gEYMI6udnJlZ.jpg",
+          "season": "SPRING",
+          "description": "Twenty years into the future, a city now called \"Tokyo\" has developed into one of the few world-class high-tech centers, \"Tokyo City\". The main character, Ken Kanzaki, is a young investigator assigned to the criminal investigation section of the Metropolital Police. He is one of the finest sharp shooters in the Police.One day, Ken is ordered to provide security for a party held by for \"Zaizen Konzern\", a world-class plutocracy. <br><br>\nAll of a sudden, spector robots appear and distrupt the party. Zaizen, a commander-in-chief, is killed and both Ken and Jun. Zaizen's son,are fatally injured by the robots. Two of the party's guests, an auto-racer, Ryo Aguri,and a wresler, Go Goda, also receive serious injuries. Three severely injured young men are operated upon by scientists from the Metropolitan Police. Several days later, a robot corp led by a mysterious organization called \"Ido\" appears in the floating-town of the Tokyo Bay. But the Police and the Army have no effective strategies to contain them. <br><br>\nAt that moment, three young men attired in mechanical suits enter. They are the very three young men, Ken, Ryo and Go, who have been turned into the cyborg investigators through the operation. They call themselves \"Armored Police Metal Jacks\". \"Metal Jacks\", dazzlingly switching from \"Jack Suits\" to \"Jack Armors\", completely demolish the robot corp and achieve victory, thus signals the beginning of the battle between the high-tech criminals and \"Metal Jacks\"with a futuristic \"Tokyo City\" in the background.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 37,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 267,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2636,
+          "title": {
+            "userPreferred": "Dorami-chan: Wow, The Kid Gang of Bandits"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2636.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2636.jpg",
+            "color": "#e45dc9"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 3,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 3,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 40,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 93,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1668 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 88,
+        "perPage": 50,
+        "currentPage": 2,
+        "lastPage": 2,
+        "hasNextPage": false
+      },
+      "media": [
+        {
+          "id": 132655,
+          "title": {
+            "userPreferred": "Kaibutsu-kun: Demon no Ken"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132655-Ighur570IsbA.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b132655-Ighur570IsbA.jpg",
+            "color": "#d66ba1"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 3,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 3,
+            "day": 13
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on the shounen manga by Fujiko Fujio.<br>\n<br>\n<i>Note: Screened as a triple feature with Doraemon: Nobita no Daimakyou and Ninja Hattori-kun: Nin Nin Ninpo Enikki no Maki.</i>",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 55,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 43,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 247,
+                  "name": "Shin-Ei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 131325,
+          "title": {
+            "userPreferred": "Tobiuo no Boya wa Byoki desu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131325-hmGIZHTdJnSr.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131325-hmGIZHTdJnSr.png",
+            "color": "#e4a15d"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 9,
+            "day": null
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 9,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131325-q9kMheOKEp6H.jpg",
+          "season": "SUMMER",
+          "description": "Based on a picture book of the same name, inspired by the event in which the crew of a japanese fishing boat was affected by the radiation of the H-Bomb, which was being tested  by the US military on a site nearby, causing them to develop different types of radiaton diseases.<br><br>\nThe film follows the story of a flying fish that becomes unable to fly due to the effects of radiation.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 19,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 13,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6762,
+                  "name": "Tsubasa Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 126437,
+          "title": {
+            "userPreferred": "Hitotsuboshi-ke no Ultra Baasan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126437-HVbAj2mgEOgq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126437-HVbAj2mgEOgq.jpg",
+            "color": "#e4ae43"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 10,
+            "day": 16
+          },
+          "endDate": {
+            "year": 1983,
+            "month": 1,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": null,
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 50,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 121045,
+          "title": {
+            "userPreferred": "Ringo to Shoujo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121045-0Hho3Mpy4Red.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121045-0Hho3Mpy4Red.jpg",
+            "color": "#a13535"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Project an abstract animation with an apple motif on various places of an old rural house and re-shoot it.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 65,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 118046,
+          "title": {
+            "userPreferred": "Asa wo Kitan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118046-1MvsgIW97f7t.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118046-1MvsgIW97f7t.jpg",
+            "color": "#e4e435"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 4,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 4,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video for the song Asa wo Kitan by Shounen Shoujo Gasshoudan Mizuumi that was featured on NHK's Minna no Uta program.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 29,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 117929,
+          "title": {
+            "userPreferred": "Oyayubi hime"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117929-ghapvlUdow7W.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117929-ghapvlUdow7W.png",
+            "color": "#e4351a"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A stop motion puppet animation adaptation of Hans Christian Anderson's Thumbelina.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 61,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 116058,
+          "title": {
+            "userPreferred": "Boku wa Ko Zou no Shouboutai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116058-Gs9fqGSJ0gvn.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116058-Gs9fqGSJ0gvn.jpg",
+            "color": "#f1a15d"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A children's fire prevention education anime with animal firefighters.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 17,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 31,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 113637,
+          "title": {
+            "userPreferred": "People Come and Go"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113637-YD92kNoPeYbC.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113637-YD92kNoPeYbC.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The evolution of man. In 1989, Tadanari Okamoto made a slightly re-edited version.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 21,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 67,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 112137,
+          "title": {
+            "userPreferred": "Screw"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112137-qwFQf2bHqjHf.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112137-qwFQf2bHqjHf.jpg",
+            "color": "#c98643"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Experimental short movie by Takashi Itou.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 98,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 104392,
+          "title": {
+            "userPreferred": "The Gutsy Frog: The Movie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104392-Ings4mo6PWiK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104392-Ings4mo6PWiK.jpg",
+            "color": "#e4ae28"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 5,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 5,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "After Hiroshi daydreams about marrying Kyoko, his chauvinistic behavior puts a strain on his relationship with his closest of friends.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 40,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 109,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103933,
+          "title": {
+            "userPreferred": "Sense Honma ni Honma"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103933-bKIp1IDSpkVM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103933-bKIp1IDSpkVM.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video for the song \"Sense Honma ni Honma\" by Osaka Sumiyoshi Boys & Girls Chorus. Aired as part of NHK's Minna no Uta program.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 87,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102294,
+          "title": {
+            "userPreferred": "Lao Fu Zi Shui Hu Chuan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102294-HWcq8O5Wv0ak.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102294-HWcq8O5Wv0ak.jpg",
+            "color": "#e4e45d"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 7,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 7,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Old Master Q and gang travels to the past.\n",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 72,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 90,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20145,
+          "title": {
+            "userPreferred": "Wagahai wa Neko de Aru"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20145.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20145.jpg",
+            "color": "#e45d6b"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 2,
+            "day": 17
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 2,
+            "day": 17
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Based on Natsume Souseki's comical novel.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 75,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 123,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 19897,
+          "title": {
+            "userPreferred": "Ohayo! Spank (Movie)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19897.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19897.jpg",
+            "color": "#f1bb28"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 3,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 3,
+            "day": 13
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on the shoujo manga by Yukimuro Shun'ichi and Takanashi Shizue serialised in Nakayoshi. <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 95,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 112,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 73,
+                  "name": "TMS Entertainment"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 18273,
+          "title": {
+            "userPreferred": "Thunder Prince"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18273.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18273.jpg",
+            "color": "#d6431a"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/18273-yH0kzaIgB3aF.jpg",
+          "season": null,
+          "description": "A 1982 Korean Martial Arts film.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 70,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 114,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17439,
+          "title": {
+            "userPreferred": "Kyojin no Hoshi (1982)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17439-A0Rwg9XuLE1F.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17439-A0Rwg9XuLE1F.png",
+            "color": "#e4ae1a"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 8,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 8,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Based on the novel \"Kyojin no Hoshi\" by Kajiwara Ikki (Story), Kawasaki Noboru (Art), published in the year 1982.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 110,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 130,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 65,
+                  "name": "Tokyo Movie Shinsha"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 17313,
+          "title": {
+            "userPreferred": "Pro Golfer Saru"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17313.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17313.jpg",
+            "color": "#d6ae78"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 10,
+            "day": 19
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 10,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "First TV adaptation of manga \"Pro Golfer Saru\"  by Motoo Abiko, serialised in Shonen Sunday and CoroCoro Comic.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 120,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 90,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16806,
+          "title": {
+            "userPreferred": "Super Titans 15"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16806.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16806.jpg",
+            "color": "#f1a150"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A group of kids try to save the galaxy with their giant robot.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 70,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 77,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16804,
+          "title": {
+            "userPreferred": "Solar I.II.III"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16804.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16804.jpg",
+            "color": "#e4e41a"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 12,
+            "day": 16
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 12,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 75,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 86,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16790,
+          "title": {
+            "userPreferred": "Super Three Musketeers"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16790.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16790.jpg",
+            "color": "#938628"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A Korean animated movie about three kids protecting humanity along with their giant robot.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 63,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16784,
+          "title": {
+            "userPreferred": "Marin X"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16784.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16784.jpg",
+            "color": "#e48643"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A Korean animated movie mixing Mecha with anti-communist themes.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 80,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 69,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16752,
+          "title": {
+            "userPreferred": "Haedori Daemoheom"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16752.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16752.jpg",
+            "color": "#d6861a"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A Korean anti-communist animated movie.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 60,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16568,
+          "title": {
+            "userPreferred": "Syupeo Taegwon V"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16568.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16568.jpg",
+            "color": "#d61a28"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 7,
+            "day": 30
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 7,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The sixth movie in the popular Korean movie series Robot Taekwon V.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 80,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 88,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 14529,
+          "title": {
+            "userPreferred": "Super Majingga 3"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14529.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14529.jpg",
+            "color": "#a13543"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 12,
+            "day": 18
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 12,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 65,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 118,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 12903,
+          "title": {
+            "userPreferred": "Tsushima Maru: Sayounara Okinawa"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12903.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12903.jpg",
+            "color": "#f1d6c9"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 10,
+            "day": 24
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 10,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Based on the same-named book by Ooshiro Tatsuhiro. <br><br>\nA documentary anime retelling the shipwreck of the freight boat Tsushima Maru, which was carrying a class of schoolchildren home in July 1944 when it was attacked and sunk by an American submarine. Produced by the surviving family members of the Tsushima Maru. A highly realistic and carefully crafted film in which the realism is thrown into contrast by the deformed character designs by Kiyomizu Kazutoshi. <br><br>\n(Source: pelleas.net) ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 70,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 110,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 12243,
+          "title": {
+            "userPreferred": "Game Center Arashi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12243.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12243.jpg",
+            "color": "#e4a150"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 5,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 9,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Arashi Ishino is Japan's \"Space invaders\" champion. He must use his skills to beat others at different video games.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 178,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 11097,
+          "title": {
+            "userPreferred": "Zou no Inai Doubutsuen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11097.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11097.jpg",
+            "color": "#e49343"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 3,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 3,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "From a children's book written by Ren Saito for his daughter based off of true events, which tells the story of two children being told of what happened to the animals of Ueno Zoo during World War II and later witnessing the arrival of Indira an elephant that was a gift from the prime mister of India in 1949. ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 79,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 82,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10820,
+          "title": {
+            "userPreferred": "Sengoku Majin Goushougun (Movie)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10820.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10820.jpg",
+            "color": "#d6431a"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 4,
+            "day": 24
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 4,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Compilation movie of the eponymous TV series.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 65,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 185,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10285,
+          "title": {
+            "userPreferred": "Manga Nippon Mukashibanashi (Movie)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10285.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10285.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 3,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 3,
+            "day": 13
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 94,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8285,
+          "title": {
+            "userPreferred": "Ai no Senshi Rainbowman"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8285.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8285.jpg",
+            "color": "#f17835"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 10,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1983,
+            "month": 3,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "In the mountains of India, a man named Takeshi Yamato gains the abilities of the legendary Rainbow Warrior, allowing him to transform into Rainbowman. With this power, he has to stop aliens from invading the earth.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 22,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 173,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8239,
+          "title": {
+            "userPreferred": "Call of the wild"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8239.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8239.jpg",
+            "color": "#e45d35"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 5,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 9,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "This anime is loosely based on Jack London's novel \"Call of the wild\". ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 22,
+          "duration": 40,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 104,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7956,
+          "title": {
+            "userPreferred": "Robby the Rascal"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7956.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7956.jpg",
+            "color": "#f1a15d"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 10,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1983,
+            "month": 6,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Apparently inspired largely by Akira Toriyama's popular Dr. Slump, Cybot Robocchi is the story of Robocchi, a fun-loving, mischievous robot with a TV set in his stomach.<br><br>\nRobocchi lives in a peaceful village with various other robots, all created by the eccentric and somewhat lecherous Dr. Art Deko. Although he is an android, Robocchi has a warm, kind heart and is always willing to help out a friend in need. With his human girlfriend Kurumi, he gets into a variety of wacky adventures.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 39,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 118,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6730,
+          "title": {
+            "userPreferred": "Tonde Mon Pe"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6730.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6730.jpg",
+            "color": "#5daee4"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 6,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1983,
+            "month": 4,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Fifteen-year-old country girl Mon-Mon dreams of being a fashion designer and gets a job as an au pair to a rising star designer, Mrs. Kano, her baby girl PePe, and her silly writer husband. <br><br>\nBut PePe can make toys and animals do very odd things. Mon's employers don't seem to notice anything odd is going on, and she finds her dream job turning into a chaotically cute trial of wits she has no chance of winning. She's a sweet girl, hardworking and kind, but very unsophisticated and simply not used to walking teddy bears and talking stuffed animals. <br><br>\nShe eventually decides to leave her job and go home, but psychic baby PePe, who has come to love her, finds a way to make sure she stays.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 42,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 83,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6630,
+          "title": {
+            "userPreferred": "Super Gal Asari: The Dreaming Girl in Fairy World"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6630.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6630.jpg",
+            "color": "#1a5d93"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 3,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 3,
+            "day": 13
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Movie produced by Toei Animation after the anime series, Super Gal Asari and by the original manga by Mayumi Muroyama. Asari and her family go through more unlucky happenings.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 108,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6629,
+          "title": {
+            "userPreferred": "Super Gal Asari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6629.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6629.jpg",
+            "color": "#f10d86"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 1,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1983,
+            "month": 2,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Produced by Toei Animation and directed by Kazumi Fukushima after the manga series by Muroyama Mayumi, this anime follows Asari, a normal fourth-grade girl. One day, while bargain shopping, she wins the lucky ticket at a lottery for a one-person trip to Hawaii. Chaos reigns as her family, the Beach's, fight over who should go. The ticket is lost in a bonfire, ironically. Other circumstances follow when the family finds out that the travel agency offered to \"give the equal amount of half the travel expenses in cash for the ticket\" from an employee of the supermarket Asahi had shopped at. What will happen to the unlucky Beach family as more elements of despair pelt them?",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 54,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 181,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5013,
+          "title": {
+            "userPreferred": "Adrift in the Pacific"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5013.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5013.jpg",
+            "color": "#f1a135"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 8,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 8,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Fifteen young students embark on the boat that should lead them to their families on the coasts of New Zealand. Unfortunately the boat loses its anchor and heads to the open sea in the middle of the night without sailors on it. In the morning, a violent storm prevents the children from sailing back to the harbor. A few days later boat grounds on a deserted island in the Pacific ocean. During 20 months the fifteen children will be left alone and will have to get organized in order to survive. they manage to store up food for the cold winter that will be soon there. Briant, Doniphan, and Gordon lead the group of children who find out that a sailor has lived and died on the island 20 years before.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 85,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 179,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4242,
+          "title": {
+            "userPreferred": "Galactic Gale Baxingar"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4242.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4242.jpg",
+            "color": "#e4865d"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": 7,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1983,
+            "month": 3,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "600 years after Ginga Senpuu Braiger, Jupiter has been destroyed, and many planets have come from it, bringing about more colonization. To combat the increasing lawless activity, Don Diego Condor gathers Billy the Shot, Samanosuke Dodi, Layla Minesato, and Shuteken Radcliffe, a.k.a. J9-II. They pilot Cosmo Bikes, which combine into the robot Baxingar.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 39,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 334,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4220,
+          "title": {
+            "userPreferred": "Okonjoururi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4220.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4220.jpg",
+            "color": "#e4a1bb"
+          },
+          "startDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1982,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The 25 minute film tells the tale of an ailing elderly woman named Itako who encounters a fox named Okon. <br><br>\nThe story opens with Itako lying bedridden, as she has for a long time. Okon enters her home and Itako tells the fox that he is welcome to take anything that he wants, for she has no use for anything anymore. Okon is delighted and in order to return the favour (the act of ongaeshi), Okon performs a magic jy&#333;ruri (a ballad with shamisen accompaniment) that heals Itako so that she is fit enough to walk again. Everyone is surprised by Itako's sudden recovery. She then hears of a hunter who has been badly injured and is near death. Itako hides Okon in the back of her shirt and has the fox sing the song while she plays shamisen in order to heal the man. This act of kindness is repeated for others until Itako's good fortune leads some to be suspicious of her. <br>\n(Source: Nishikata Film Review)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 131,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

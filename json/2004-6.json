@@ -1,0 +1,1723 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 289,
+        "perPage": 50,
+        "currentPage": 6,
+        "lastPage": 6,
+        "hasNextPage": false
+      },
+      "media": [
+        {
+          "id": 120871,
+          "title": {
+            "userPreferred": "Mr. Empty"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120871-2Vs8nyByf8kS.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120871-2Vs8nyByf8kS.jpg",
+            "color": "#0043f1"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 12,
+            "day": 22
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "An animated music video for Denki Groove's song \"Mr.EMPTY\".",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 79,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 116586,
+          "title": {
+            "userPreferred": "Tegami"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116586-vu8KZNMhAds4.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116586-vu8KZNMhAds4.jpg",
+            "color": "#e4e4a1"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A young boy lives with his grandfather who survived WW2. When a letter comes in the mail, the grandfather begins to weep. He then tells his grandson the story behind this letter his friend wrote.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 18,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 76,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6410,
+                  "name": "Liberty Animation Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 116032,
+          "title": {
+            "userPreferred": "Ganbare!! Tabuchi-kun!! (ONA)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116032-QF3VUCU0saLa.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116032-QF3VUCU0saLa.jpg",
+            "color": "#00ffa1"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 5,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 5,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The shorts were animated in Flash and streamed by BBit-Japan, a now-defunct distribution website. The first episode was made available for free, and the following episodes cost 200 yen each.\n",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 10,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 46,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6397,
+                  "name": "Opera House"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 114423,
+          "title": {
+            "userPreferred": "Moonflowers"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114423-p7FIdoheTOXg.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114423-p7FIdoheTOXg.jpg",
+            "color": "#286b86"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video directed by Hideaki Motoki for the original mix of the song Moonflowers by Rays.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 66,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 114343,
+          "title": {
+            "userPreferred": "Papa no March"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114343-TTrl1FXNoqGG.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114343-TTrl1FXNoqGG.png",
+            "color": "#e48635"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 7,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 7,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Official music video directed by Mitsuyuki Ishibashi for Papa no March by PE'Z from their album \"Suzumushi.\"",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 76,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 114299,
+          "title": {
+            "userPreferred": "Jack Nicholson"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114299-43oL3gwg5DzJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114299-43oL3gwg5DzJ.jpg",
+            "color": "#e4a11a"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video directed by Mitsuyuki Ishibashi for the song Jack Nicholson by Japanese rock band Bloodthirsty Butchers in their album \"birdy.\"",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 77,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 113335,
+          "title": {
+            "userPreferred": "Minna no Tonio-chan: Fuck the World"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113335-2EyJhUx1yxBS.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113335-2EyJhUx1yxBS.png",
+            "color": "#e4c943"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "One day, Tonio was caught and confined by a mad scientist's trap...",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 73,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 109066,
+          "title": {
+            "userPreferred": "MAGICAL DEATH"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109066-NC3ZJJzTeBAR.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109066-NC3ZJJzTeBAR.jpg",
+            "color": "#f1c935"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for ZAMAGI's music MAGICAL DEATH, animated and directed by Ac-Bu.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 65,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 108750,
+          "title": {
+            "userPreferred": "Aqua Kids"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108750-zvQO3ZkYSFLK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108750-zvQO3ZkYSFLK.jpg",
+            "color": "#5daef1"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 9,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The polar ice caps have melted due to global warming. The human race has been stuck on one island as the marine life begins to evolve. Kids use a submarine and the help of their robot companions to explore the depths and come upon an ancient secret underwater civilization with treasure. It's a new hope for the human race to live under water but a money hungry real-estate tycoon stands in their way of peace.\n",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 26,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 108,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 108744,
+          "title": {
+            "userPreferred": "Akuei to Gacchinpo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108744-bg9vLptpAxn9.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108744-bg9vLptpAxn9.jpg",
+            "color": "#e4c950"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 10,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 12,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Surreal gag-packed story about a Japanese boy named Takeshi who, after having immense toilet troubles, takes a bathroom break from class and ends up sucked down the toilet into an underwater world. There he meets a spunky girl named Jasmine and is dragged into her organization, UNCO, tasked with fighting the evil PIPS, a group bent on destroying the world. \n<br><br>\nBoth Takeshi and Jasmine often use the underwater world to travel into Springtown, Taiwan, to team up with their fellow UNCO member and good friend, Akuei, in order to take down the evil menace or deal with whatever wacky hijinks stand in their way.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 117,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 108279,
+          "title": {
+            "userPreferred": "Liang Shan Po yu Zhu Ying Tai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108279-h3IU5RPnENcr.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108279-h3IU5RPnENcr.jpg",
+            "color": "#f1ae35"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 1,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 1,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The Butterfly Lovers is an animated re-telling of the classical Chinese story of two lovers, Liang Shanbo and Zhu Yingtai. Zhu Yingtai was a girl born into an upper-class family during China's Eastern Jin Dynasty. Since women were not allowed to attend school, she begged her family to let her go, and they consented as long as she pretended to be a young man. There she met a handsome young upper-class man named Liang Shanbo. They instantly became friends and vowed to be sworn brothers forever. Yingtai hid her real identity from \"Brother Liang\" through the three years they studied together at Hangzhou. Her love for him grew to consume her, and she thought of nothing else but spending all of her days with Brother Liang.\n<br></br>(Source: IMDB)\n",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 95,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 36,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 107302,
+          "title": {
+            "userPreferred": "Fuichin-san"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107302-MhnCeEAlrDnb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107302-MhnCeEAlrDnb.jpg",
+            "color": "#f1c943"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 3,
+            "day": 20
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 3,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The story is about Fuichin, a young tomboy girl living in Manchuria. Based on Toshiko Ueda's experience.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 60,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 82,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 386,
+                  "name": "Animaruya"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 106504,
+          "title": {
+            "userPreferred": "Sky Kids BooBy"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106504-lK0FdHnVxsMm.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106504-lK0FdHnVxsMm.png",
+            "color": "#e44335"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 11,
+            "day": null
+          },
+          "endDate": {
+            "year": 2009,
+            "month": 3,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A heartwarming story of a acrobatic jet-plane, BooBy and his friends climbing up the height of stardom. Currently adopted as a official character of Kansai International Airport.<br><br>\n(Source: Tatsunoko Production)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 23,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 103,
+                  "name": "Tatsunoko Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104123,
+          "title": {
+            "userPreferred": "Sheep in the Island"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104123-sVFvlXZ2wwkZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104123-sVFvlXZ2wwkZ.jpg",
+            "color": "#0daee4"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A boat sinks leaving a sheep and a duck-dinosaur-fish hybrid stranded on an island.\n",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 84,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103434,
+          "title": {
+            "userPreferred": "Dancer of Vermicular"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103434-8rSyq3DBsWt6.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103434-8rSyq3DBsWt6.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Based on a poem by Kenji Miyazawa.\n<br><br>\nA worm in this river looks shiny to me. \n<br>\n8 γ e 6 α\n<br><br>\n(Source: Official website)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 105,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103332,
+          "title": {
+            "userPreferred": "Scary"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103332-QB9xy8oquvZS.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103332-QB9xy8oquvZS.jpg",
+            "color": "#1aa1e4"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video for The Mad Capsule Markets' song \"Scary.\"",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 92,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103176,
+          "title": {
+            "userPreferred": "Feng Ji Yun Nu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103176-goZsFEwiTiIB.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103176-goZsFEwiTiIB.png",
+            "color": "#d6351a"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 8,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 8,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 13,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 96,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103168,
+          "title": {
+            "userPreferred": "Hakuchuu Meikyuu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103168-6xWoLutn3GSx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103168-6xWoLutn3GSx.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Short animation by Taro Shinkai.",
+          "type": "ANIME",
+          "format": "ONA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 105,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102771,
+          "title": {
+            "userPreferred": "Kashikokimono"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102771-Rv90ZnODzf7h.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102771-Rv90ZnODzf7h.jpg",
+            "color": "#d61a1a"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A combination of hand-drawn animation and computer-based generative animation exploring music and animation as a form of organic expression. Animated by Takahiro Hayakawa.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 90,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20476,
+          "title": {
+            "userPreferred": "Goannai Shimasu Another World e"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20476-W80hHERWtGc8.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20476-W80hHERWtGc8.png",
+            "color": "#50aee4"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 16,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 60,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 68,
+                  "name": "Mushi Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 19547,
+          "title": {
+            "userPreferred": "Beompeoking Jaepeo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19547.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19547.jpg",
+            "color": "#f1c943"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Bumper King Zapper is a 3D animation series about bumper car battles of the future.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 67,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 228,
+                  "name": "Daewon Media"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 19311,
+          "title": {
+            "userPreferred": "Turuturutu Narongi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19311.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19311.jpg",
+            "color": "#e4a10d"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 12,
+            "day": 16
+          },
+          "endDate": {
+            "year": 2006,
+            "month": 1,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Somewhere in this world, there is a town named Lala in a forest called Lulu. This is the home of Nalong and many other furry little creatures.<br>\nNalong lives with his father and 10 brothers, and attends elementary school. His friends are an otter named Ukkya, an ostrich named Tajori, and the Mandu brothers, who were accidentally made by the famous inventor Professor Penguil.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 69,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18823,
+          "title": {
+            "userPreferred": "Hello Kitty no Kieta Santa-san no Okurimono"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18823.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18823.jpg",
+            "color": "#e4d65d"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The Christmas Event came, Kitty and Mimi were exciting about Santa's coming.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 126,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18315,
+          "title": {
+            "userPreferred": "Nareuneun Dwaeji - Haejeok Mateo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18315.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18315.jpg",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 7,
+            "day": 24
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 7,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A 2004 Korean CG film about an anthropomorphic pig being a sky pirate.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 53,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16988,
+          "title": {
+            "userPreferred": "Sore Ike! Anpanman: Anpanman to Christmas no Hoshi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16988.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16988.jpg",
+            "color": "#f1bb50"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 12,
+            "day": 24
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 12,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "A special Christmas episode. ",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 48,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 85,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 12981,
+          "title": {
+            "userPreferred": "Kono Shihai kara no Sotsugyou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12981.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12981.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A compilation OVA of 5 stories portrayed on the life of Ozaki Yutaka, a famous Japanese musician in the 80s and early 90s that died young in his career. ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 33,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 211,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 12613,
+          "title": {
+            "userPreferred": "Morizo to Kikkoro"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12613.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12613.jpg",
+            "color": "#e45d86"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 3
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 9,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Morizo and Kikkoro are the official mascot characters of EXPO 2004 Aichi, Japan. They are fairies of forest, they teach us the strength and beauty of nature that we tend to forget. The EXPO will be held on Kasho Forest in Seto, where Morizo and Kikkoro, the fairies of forest, are living. Morizo is an old and knowledgeable creature that has been living for thousands years. Kikkoro was a child of forest born little before, and he likes Kikkoro very much He is curious about everything he sees, and his daily lives are full of wonders.<br>",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 69,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 11497,
+          "title": {
+            "userPreferred": "Sore Ike! Zukkoke Sannin-gumi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11497.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11497.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 10,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on Nasu Masamoto's Zukkoke Sannin-gumi juvenile novels series.<br><br>\nThe main characters are 6 grade boys, Hachibei, Hakase, and Mo-chan. This anime shows their adventures.<br><br>\n(Source: AnimeNfo)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 88,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10987,
+          "title": {
+            "userPreferred": "Zettai Zetsumei Dangerous Jiisan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10987.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10987.jpg",
+            "color": "#ffe400"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2005,
+            "month": 3,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Grandpa Danger is a world where the great protector is Grandpa Danger! He's an expert at falling off of cliffs, dealing with a principal who suffers from a severe inferiority complex, and escaping the hidden dangers of sleep! He's a nonsensical, utterly disgusting, relentless prankster. Grandpa Danger's excessive phlegm and farts frustrate Grandson to hilarious extremes, and make you laugh until your stomach splits!<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 51,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 99,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 101,
+                  "name": "Studio Hibari"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 10953,
+          "title": {
+            "userPreferred": "Pants Pankurou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10953.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10953.jpg",
+            "color": "#fee428"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 16
+          },
+          "endDate": {
+            "year": 2008,
+            "month": 3,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A series of minute-long animated shorts that aired on Japanese public television. Aimed at toddlers and young children, the comedic series is mostly about toilet training.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 85,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 61,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10242,
+          "title": {
+            "userPreferred": "Ton-Ton Atta to Niigata no Mukashi Banashi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10242.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10242.jpg",
+            "color": "#f1935d"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 10,
+            "day": 3
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 12,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": null,
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 52,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9818,
+          "title": {
+            "userPreferred": "McDull"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9818.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9818.jpg",
+            "color": "#e4bb5d"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 6,
+            "day": 24
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 6,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "McDull, Prince de la Bun is a 2004 animated Hong Kong film directed by Yuen Toe. Telling the life a the fictional pig McDull, it is a sequel to My Life as McDull (2001) and it was followed by McDull, the Alumni (2006).<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 73,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 70,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8999,
+          "title": {
+            "userPreferred": "Origami Warriors"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8999.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8999.jpg",
+            "color": "#d6bb1a"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 2004,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Wang Ji-Cheol and his four friends are strong and brave Origami Warriors. He and the others are planning to save the whole entire world with the power he and his friends have. Join Ji-Cheol and his four friends in their adventure to save the Earth. <br><br>\nWith the help of many people, Ji-Cheol feels more strong. One day, the end of the world came and Ji-Cheol himself transform into a strong dragon for his sake to save the world. His friends also help him. And at last, they became the heroes of the world because of their courage.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 87,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7955,
+          "title": {
+            "userPreferred": "The Marshmallow Times"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7955.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7955.jpg",
+            "color": "#d6931a"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2005,
+            "month": 3,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The series focuses on 7 children and a sheep-like character. Together, they work together as a team and hang out together. They wear various fashion through the series. They also have different colored hair. Sandy, a girl who has a pet sheep-like character named Cloud and 6 other children, Jasmine, Lime, Basil, Clove, Nattsu and Cinnamon became friends, they become a news reporter team. Each episode has the children dressed in various clothes.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 136,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6524,
+          "title": {
+            "userPreferred": "Pororo to the Cookie Castle"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6524-qxFKDp0HuFej.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6524-qxFKDp0HuFej.jpg",
+            "color": "#fee40d"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 11,
+            "day": 24
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 11,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "It's a freezing winter morning and Christmas is just around the corner.\nPororo the penguin and his beloved friends return from the woods where they have cut a Christmas tree, ready to celebrate the festivity. They’ve just finished decorating the tree, when they receive a shocking message directly from Santa Claus!\n\nSanta caught a bad cold, and he can’t bring his special Xmas glaze to the Candy Castle, where under the oversight of King Cream Puff the cookies for children all over the world are made. A Christmas without cookies will be quite sad!\nPororo and his friends decide to protect the Christmas spirit, and they leave for Santa Claus village to pick up the Christmas glaze and carry it to the Candy Castle.\n\nBut along the way, they met their old acquaintance: the wicked Witch of Winter who aims to steal the precious glaze and use it for her nasty schemes....\nWill our heroes be able to carry out their important missions and save Christmas?\n\nFollow with us the adventurous journey of Pororo and his friends to the magical Candy Castle!\n\n(Source: theanimationband.com)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 72,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 95,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5343,
+          "title": {
+            "userPreferred": "Monkey Punch Manga Katsudou Dai Shashin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5343-6Q6cOyRsgBFn.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5343-6Q6cOyRsgBFn.png",
+            "color": "#e4a15d"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 7,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2005,
+            "month": 6,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A TV series from Monkey Punch with a 1-hour premiere episode. Mankatsu will feature standard \"Monkey characters\" and ecchi-gags found in all Monkey Punch series.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 369,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 73,
+                  "name": "TMS Entertainment"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2741,
+          "title": {
+            "userPreferred": "Monkey Turn V"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2741.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2741.jpg",
+            "color": "#e4d650"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 7,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 12,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 25,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 179,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1656,
+          "title": {
+            "userPreferred": "PostPet Momobin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1656.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1656.jpg",
+            "color": "#e45d93"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 7,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2005,
+            "month": 1,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Momo and Komomo can deliver mail from anyone, to anyone. To anywhere in the world, the galaxy, or the universe. Under the sea, high up in the clouds, and around the corner. To the past, the present, or the future. They both work tirelessly to insure that the important letters of people are delivered, while Komomo also works hard to keep the ever distracted Momo on task.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 92,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1574,
+          "title": {
+            "userPreferred": "AM Driver"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1574.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1574.jpg",
+            "color": "#f1e435"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2005,
+            "month": 3,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "In the future, human beings are attacked by beings called the Bug-chine, which appeared a few years back. No normal human weapon can defeat the Bug-chine, but there is hope. It is the AMDrivers that will save the earth. They are solders using the latest \"AM Technology\". With overwhelming power, they will beat the Bug-chine one after another and become heroes, as well as capture the hearts of their fans.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 51,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 288,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

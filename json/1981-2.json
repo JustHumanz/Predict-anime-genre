@@ -1,0 +1,1333 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 80,
+        "perPage": 50,
+        "currentPage": 2,
+        "lastPage": 2,
+        "hasNextPage": false
+      },
+      "media": [
+        {
+          "id": 128021,
+          "title": {
+            "userPreferred": "Kaibutsu-kun: Kaibutsu Land e no Shoutai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b128021-eO0SySfwAGqS.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b128021-eO0SySfwAGqS.jpg",
+            "color": "#2886e4"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 3,
+            "day": 14
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 3,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on the shounen manga by Fujiko Fujio. \n<br><br>\n<i>Note: Screened as a double feature with Doraemon: Nobita no Uchuu Kaitakushi.</i>",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 75,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 20,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 126865,
+          "title": {
+            "userPreferred": "Shin Dokonjou Gaeru"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126865-1bQOEHkKKbwq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126865-1bQOEHkKKbwq.jpg",
+            "color": "#f1c91a"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 9,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 3,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": null,
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 30,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 50,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 65,
+                  "name": "Tokyo Movie Shinsha"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 113848,
+          "title": {
+            "userPreferred": "White Elephant"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113848-Q0y6z3OE1kXX.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113848-Q0y6z3OE1kXX.jpg",
+            "color": "#86431a"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1981,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A Tadanari Okamoto film about the White Elephant story which originated in Southeast Asia.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 70,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 113846,
+          "title": {
+            "userPreferred": "Frypan Jiisan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113846-oGdgOUEdzbmh.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113846-oGdgOUEdzbmh.jpg",
+            "color": "#865028"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1981,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "An old frying pan accidentally gets tossed out and ends up encountering many animals in his journey.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 21,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 88,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102460,
+          "title": {
+            "userPreferred": "Xiongmao Monogatari TaoTao"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102460-n0DBAfy37Oy9.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102460-n0DBAfy37Oy9.jpg",
+            "color": "#d6931a"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 12,
+            "day": 28
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 12,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "TaoTao is an anime series about the eponymous Taotao, a small panda. In the stories, Taotao has adventures with his animal friends and listens to the stories of his mother, the mommy panda.\n<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 113,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102151,
+          "title": {
+            "userPreferred": "Color Old Master Q"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102151-V632CQ16YIXX.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102151-V632CQ16YIXX.jpg",
+            "color": "#e4e450"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 7,
+            "day": 16
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 7,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Adaptation of popular chinese manhua Old Master Q.\n",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 80,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 113,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20241,
+          "title": {
+            "userPreferred": "Manga Hana no Kakarichou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20241.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20241.jpg",
+            "color": "#f1d628"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 11,
+            "day": 28
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 11,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Based on the comedy manga by Sonoyama Shunji.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 60,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 73,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20109,
+          "title": {
+            "userPreferred": "Bokura Mangaka: Tokiwasou Monogatari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20109.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20109.jpg",
+            "color": "#d6c91a"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 10,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 10,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Tokiwa was the apartment complex where a group of stellar artists lived in 1953. <br><br>\nHiro Terada, Motoo Abiko and Hiroshi Fujimoto, Shotaro Ishinomori and Fujio Akatsuka shared the trials and tribulations of being struggling young artists and writers with no money and no luck with editors or girls, with a spirit of insane youthful enthusiasm that enabled them to survive the lean years and emerge as stars of the manga firmament.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 72,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 83,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20093,
+          "title": {
+            "userPreferred": "Furiten-kun"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20093.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20093.jpg",
+            "color": "#f1bb50"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 4,
+            "day": 11
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 4,
+            "day": 11
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on the yonkoma manga by Ueda Masashi.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 75,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 131,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 19177,
+          "title": {
+            "userPreferred": "Chiisana Love Letter: Mariko to Nemunoki no Kodomo-tachi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19177.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19177.jpg",
+            "color": "#ffe435"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 12,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 12,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "A follow-up to the same studio's Helen Keller anime, A Little Love Letter kept the handicapped theme but focused on a wholly Japanese story. During the 1970s, actress Mariko Miyagi became heavily involved in the Silk Tree Academy (Nemunoki Gakuen), a rehabilitation center for disabled children. She appeared in several live-action films to promote the project, including The Silk Tree Ballad, Mariko-Mother, and Children Drawing Rainbows. This anime charts the 14-year period of Miyagi's stewardship of the academy and her relationships with several of the children. Divided into four seasonal chapters, the film uses highly realistic character designs based on the actual people involved and features storyboarding from the versatile Star Blazers-director Noboru Ishiguro.<br><br>\n(Source: AnimeVice)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 84,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 85,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18759,
+          "title": {
+            "userPreferred": "Captain Gekijouban"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b18759-0ALLOAr7e9DA.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b18759-0ALLOAr7e9DA.jpg",
+            "color": "#f1c91a"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 7,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 7,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The movie focuses on a game between Sumiya 2 and Aoba Gakuin. ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 98,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 113,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 191,
+                  "name": "Eiken"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 18303,
+          "title": {
+            "userPreferred": "Sonyeon 007 Jihajeguk"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18303.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18303.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1981,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1981,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A 1981 movie from 007 franchise.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 70,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 65,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16828,
+          "title": {
+            "userPreferred": "Planet Robot Thunder-A"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16828.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16828.jpg",
+            "color": "#e47843"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1981,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "In the year 2100 the Earth is once again in danger. The group of brave teenagers set out in their giant robot to save humanity.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 91,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16780,
+          "title": {
+            "userPreferred": "One Million Year Dinosaur Dddli"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16780.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16780.jpg",
+            "color": "#e45d43"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1981,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The movie is about a caveman tribe struggling against the mighty tyrannosaurus and a family from the modern times which gets sent back in time because of the Bermuda Triangle.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 75,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 85,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16730,
+          "title": {
+            "userPreferred": "Ojamanga Yamada-kun (Movie)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16730.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16730.jpg",
+            "color": "#d6ae1a"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 3,
+            "day": 14
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 3,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 27,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 101,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 11625,
+          "title": {
+            "userPreferred": "Donbe Monogatari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11625.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11625.jpg",
+            "color": "#e40d5d"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 4,
+            "day": 26
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 4,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Researcher Mutsugoro takes his family to a remote and uninhabited island near Hokkaido, to study the local population of wild bears. Nearby poachers make his life difficult, and he \"inherits\" an orphaned bear cub, whom the family call Donbe and raise as one of their own.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 96,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10755,
+          "title": {
+            "userPreferred": "Lupin tai Holmes"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10755.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10755.jpg",
+            "color": "#d66b50"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 5,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 5,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on a story by Maurice Leblanc.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 65,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 208,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9416,
+          "title": {
+            "userPreferred": "The Monkey King and the Fruit of Immortality"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9416.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9416.jpg",
+            "color": "#fff135"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1981,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The second part of the trilogy about adventures of the Monkey King.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 44,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 111,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 471,
+                  "name": "Shanghai Animation Film Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 8729,
+          "title": {
+            "userPreferred": "Omoide no Album"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8729.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8729.jpg",
+            "color": "#2893fe"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 2,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 2,
+            "day": 15
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "This is a song meant for a kindergartener's graduation ceremony. Many tears will be shed this season for the students moving up to Junior high school, leaving 6 years of fun, frolic and memories behind. But the circle begins again for the fresh faced, cute little 6 year olds to start the journey that each child must inevitably travel. <br><br>\n(Source: dandelionjp - YouTube)<br>",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 113,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8598,
+          "title": {
+            "userPreferred": "Yuki: Snow Fairy"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8598.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8598.jpg",
+            "color": "#1a5d6b"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 8,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 8,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Up in Heaven, Yuki&rsquo;s grandparents decide that, having turned thirteen years old, she must go down to Earth to a village that is torn by bandits and intervene to save its people. However if she does not succeed within one year she will become as insubstantial as the wind. Down in the village, Yuki is befriended by a group of orphans whose parents have all been killed by the bandits and who now subsist by begging. Yuki amazes them by taming the wild horse Blizzard. She is instrumental in getting the orphans and farmers to stand up to first the warring bandits and then Goemon, the greedy lord that owns the region. But Yuki must face her greatest challenge yet when the displeased Demon God that lives in the volcano emerges to destroy those who live beneath.<br><br>\n(Source: moria.co.nz/fantasy/yuki.htm)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 89,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 287,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7473,
+          "title": {
+            "userPreferred": "Rennyo and His Mother"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7473.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7473.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 10,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 10,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Rennyo was the key figure responsible for the restoration of Shin Buddhism in Japan, in particular the Honganji lineage, during a slump in its fortunes during the Middle Ages. According to legend, his motivation was a pivotal childhood incident at the age of just six when his mother summoned him and informed him of his destiny to revive the fortunes of the Honganji school to which he was the next in line. She then mysteriously disappeared from the temple. Taking her words to heart, from a background of great poverty and hardship, at the age of 16 he set out to spread the word across the land. <br>",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 93,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 101,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6728,
+          "title": {
+            "userPreferred": "The Story of Hellen Keller: Angel of Love and Light"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6728.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6728.jpg",
+            "color": "#e4ae43"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 5,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 5,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on Hellen Keller's (1880-1968) autobiography.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 72,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 179,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6727,
+          "title": {
+            "userPreferred": "Mechanical Boy Dotakon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6727-xOFEGdPtbKbO.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6727-xOFEGdPtbKbO.png",
+            "color": "#1a356b"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 10,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Geeky genius Michiru has already got her Ph.D. in atomic physics (from California university) by the age of 11. <br>\nBut she still longs for a little brother, so she builds her own. Robot boy Dotakon is soon joined by their little robot sister, Chopiko, and the trio embarks on a series of fantastic adventures fueled by Michiru's inventions. ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 28,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 107,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6124,
+          "title": {
+            "userPreferred": "Toshishun"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6124.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6124.jpg",
+            "color": "#355dae"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 12,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 12,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The chinese tale of the poor young man. His mother married with cruel king of the state and he want to take his mother back. One old man come from the heaven and make his three wishes come true.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 89,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6073,
+          "title": {
+            "userPreferred": "21 Emon Uchuu e Irasshai!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6073.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6073.jpg",
+            "color": "#e4a135"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 8,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 8,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 92,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 118,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5594,
+          "title": {
+            "userPreferred": "Dorataro the Balloon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5594.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5594.jpg",
+            "color": "#e4ae43"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 4,
+            "day": 11
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 8,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": null,
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 83,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4574,
+          "title": {
+            "userPreferred": "Saikyou Robot Daioja"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4574-Glm3px9KudCB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4574-Glm3px9KudCB.jpg",
+            "color": "#e47843"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 1,
+            "day": 31
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 1,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "This is the story of Mito Mitsukuni in mecha style. Prince of the Edon Star, Edward Mito begins a trip to the galaxy with his servant Baron Kalkus, Duke Skead and the ninja girl Shinobu. Under the false identity of Bocchan, Suke and Kaku they help the oppressed people and fight with the super robot Daioja. ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 50,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 255,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4440,
+          "title": {
+            "userPreferred": "Judo Story"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4440.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4440.jpg",
+            "color": "#ae1a43"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 6,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1981,
+            "month": 6,
+            "day": 8
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "In the year 1882, Sanshirou comes to Tokyo seeking for a worthy martial arts teacher. There, he meets Yano - a judo master who single-handedly defeats 39 jujitsu practitioners. Extremely impressed by his skill, Sanshirou decides to become his disciple. Later, Sanshirou falls for Sayo Murai - a girl whose father is a martial arts instructor at the local police department; and he also has to face Higaki Gennosuke, a skilled jujitsu fighter and his greatest rival.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 70,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 181,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 73,
+                  "name": "TMS Entertainment"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3947,
+          "title": {
+            "userPreferred": "Jarinko Chie (TV)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3947-afrILJfBvzVz.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3947-afrILJfBvzVz.png",
+            "color": "#e46b5d"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 10,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1983,
+            "month": 3,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Jarinko Chie is a movie directed by Takahata in 1981. Based on the very popular manga by Etsumi HARUKI, it is about ten year old Chie, \"the most unfortunate girl in Japan\", who manages her family diner while her unemployed yakuza father and her mother are separated. This sounds really depressing, but it's actually a very funny comedy. <br><br>\nThe story is set in Osaka, which has a totally different culture from Tokyo. After the success of the movie, a TV series was made, and Takahata worked as the chief director.<br><br>\n(Source: nausicaa.net)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 64,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 282,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3873,
+          "title": {
+            "userPreferred": "Honey Honey's Wonderful Adventures"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3873.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3873.jpg",
+            "color": "#e4ae43"
+          },
+          "startDate": {
+            "year": 1981,
+            "month": 10,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1982,
+            "month": 5,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Glamorous Paris, entrancing Venice, romantic Rome and irresistible Vienna... These alluring cities of enchantment invite you to witness the story of a young girl who unexpectedly becomes entangled in daring adventures and rollicking romance.<br>\nVienna, 1907. Princess Flora, the one and only idol of the entire nation, is celebrating her birthday. Flora is young, beautiful, single and the object of all the men`s desire.<br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 29,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 208,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

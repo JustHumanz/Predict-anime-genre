@@ -1,0 +1,2490 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 178,
+        "perPage": 50,
+        "currentPage": 2,
+        "lastPage": 4,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 115,
+          "title": {
+            "userPreferred": "Ijigen no Sekai El Hazard"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115-tHn79Q8ITmBN.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115-tHn79Q8ITmBN.jpg",
+            "color": "#28bbf1"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 1,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 3,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Miz plans to retire as a Great Priestess of Water to married life with her darling Fujisawa and as replacement the young Qawoor Towles arrives to Floristica. Jinnai sees Qawoor's initiation ceremony as a chance to infiltrate Makoto's laboratory but accidentally activates a mysterious thingy that sends them all through the dimensions to a grey industrial city protected by a huge castle in an alternative world.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 1153,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 48,
+                  "name": "AIC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 219,
+          "title": {
+            "userPreferred": "Martian Successor Nadesico: The Prince of Darkness"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx219-zuElTO2hrJEZ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx219-zuElTO2hrJEZ.jpg",
+            "color": "#3578a1"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 8,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 8,
+            "day": 1
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/219-YJYY8XHvAS3K.jpg",
+          "season": "SUMMER",
+          "description": "Two years have passed since the end of the \"Martian Successor Nadesico\" . Akito and Yurika have dissapeared. The Jovians and the Earthlings have joined forces and Ruri is now captain of Nadesico B. As the popularity of Boson Jumping grows, a vast transportation network has been developed. Dubbed the Hisago Plan, this network of Chulip portals holds the answers to the mysteries behind Bose particles and their power. If those secrets should fall into the wrong hands, it could mean big trouble. And big trouble there is. A Martian splinter group has launched an offensive, leaving the United Forces befuddled and desperate. So much so, in fact, that the former crew of the Nadesico is called back to active duty for a special unsanctioned mission-to save us all. Does this menagerie of misfits have what it takes? Who will win the race for the Boson technology? And what the heck happened to Akito and Yurika?",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 79,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 2249,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 27,
+                  "name": "Xebec"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 10,
+                  "name": "Production I.G"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 8503,
+          "title": {
+            "userPreferred": "Fushigi Mahou Fun Fun Pharmacy"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8503-XauC6VH8R0Lq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8503-XauC6VH8R0Lq.jpg",
+            "color": "#e49350"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 2,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1999,
+            "month": 2,
+            "day": 6
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8503-0XTk8JbVWUc1.jpg",
+          "season": "WINTER",
+          "description": "In a small town, there is a small pharmacy called Fun Fun Pharmacy. Popuri, a girl who recently moved in downtown, discovers this pharmacy and meets Miss Fukiko, who is actually a witch. Miss Fukiko gives Popuri a mysterious bottle that can create magic spirits.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 48,
+          "duration": 11,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 1078,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2651,
+          "title": {
+            "userPreferred": "Doraemon Comes Back"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n2651-zJdyYzEfzi9d.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n2651-zJdyYzEfzi9d.jpg",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 3,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 3,
+            "day": 7
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n2651-FB83DGHrYpQs.jpg",
+          "season": "SPRING",
+          "description": "N/A",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 27,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 499,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 678,
+          "title": {
+            "userPreferred": "Shadow Skill: Eigi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/678.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/678.jpg",
+            "color": "#e4780d"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 7,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "In the land of Kuruda, warriors with magical powers and incredible fighting skills battle for the ultimate prize: the title of Sevaar, the strongest warrior in the land. Elle Ragu, nicknamed Shadow Skill, is the newest Sevaar to emerge, but that doesn't make her life any easier. Teaching her \"little brother,\" Gau, how to be a warrior, fending off assassins from other kingdoms and thwarting enemy invasions is hard enough, but her biggest challenge will be paying off her drinking debts.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 1501,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3734,
+          "title": {
+            "userPreferred": "Glass no Kamen: Sen no Kamen wo Motsu Shoujo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3734.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3734.jpg",
+            "color": "#1a6b50"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 16
+          },
+          "endDate": {
+            "year": 1999,
+            "month": 4,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "An OVA depicting the early events of the Glass no Kamen series.<br><br>\nKitajima Maya is a young girl from a poor background with no talents of use to school or her widowed mother. However, she is obsessed with movies, theatrical plays and TV dramas-to the point of remembering every line from a movie she's seen once, and dramatically acting out the stories, including every character, for anyone who will listen. One day, she encounters an old woman with a scarred face who claims that Maya is the girl she's been looking for-for the old woman has spent years protecting the rights to a 'legendary' play.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 473,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 65,
+                  "name": "Tokyo Movie Shinsha"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3602,
+          "title": {
+            "userPreferred": "Galaxy Express 999: Eternal Fantasy"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3602-uA6eNxVDPKzp.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3602-uA6eNxVDPKzp.png",
+            "color": "#e49328"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 3,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 3,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on the story by manga master Leiji Matsumoto (The Cockpit, Queen Emeraldas), the 55 minute featurette picks up one year after the events of Galaxy Express 999 in which a young boy named Tetsuro and his motherly companion Matel worked to rid the universe on the Mechanized Empire who had taken over Earth.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 54,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 989,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1163,
+          "title": {
+            "userPreferred": "Neo Ranga"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1163-PshZGMZytTxI.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1163-PshZGMZytTxI.jpg",
+            "color": "#ae4328"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1999,
+            "month": 9,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1163-kMOMVvvVBMfg.jpg",
+          "season": "SPRING",
+          "description": "An ancient God called Ranga awakens on an isolated island in the South Pacific where it has been slumbering forgotten by mankind. Three sisters living in Tokyo&mdash;Minami, Ushio, and Yuuhi Shimabara&mdash;discover they have inherited this Island Kingdom, along with the huge God. When Ranga shows up in Tokyo, it soon becomes a source of wonder and conflict for the three sisters that control Ranga, the people who want to destroy it, and ones who want to use it. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 48,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Horror",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 2812,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2067,
+          "title": {
+            "userPreferred": "Gekiganger 3"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2067.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2067.jpg",
+            "color": "#e4ae50"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 2,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 2,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Ken, Joe, and Akira, three high school students, must combine their three mecha into Gekiganger III to defeat the evil Prince Akara and Emperor Hyperion. The OAV is a compilation of the scenes from Nadesico, a new \"movie\", and is a parody of many mecha series from the 80s.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 908,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4874,
+          "title": {
+            "userPreferred": "Pokémon: Pikachu's Winter Vacation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4874.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4874.jpg",
+            "color": "#e4bb50"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Pikachu's Winter Vacations are three series of videos, each composed of several Pikachu shorts. All shorts deal with winter and Christmas. This is the first series and contains Christmas Night &amp; Kanga Games.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 2521,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 28,
+                  "name": "OLM"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1540,
+          "title": {
+            "userPreferred": "Touch: Miss Lonely Yesterday - Are kara, Kimi wa..."
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1540.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1540.jpg",
+            "color": "#f1a128"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Unsure of Tatsuya's feelings, Minami ponders.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Romance",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 724,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1517,
+          "title": {
+            "userPreferred": "Silent Möbius"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1517-3tAWkkT5qob1.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1517-3tAWkkT5qob1.png",
+            "color": "#d6c91a"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 1,
+            "day": 29
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 7
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1517-uZi00ydI1vNA.jpg",
+          "season": "WINTER",
+          "description": "The year is 2023 and Alien Beings known as \"Lucifer Hawks\" have begun invading earth from another dimension. All that stands between them and the enslavement of the human race is the Attacked Mystification Police Department - a special division of the Tokyo Police staffed by women with amazing paranormal abilities.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Horror"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 1932,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 81,
+                  "name": "Radix"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1599,
+          "title": {
+            "userPreferred": "Eat-Man '98"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1599-56pYExqn2mxs.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1599-56pYExqn2mxs.jpg",
+            "color": "#283578"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1599-t8jdKGQ6WLqa.jpg",
+          "season": "FALL",
+          "description": "The continuing adventures of Bolt Crank, the World's Greatest Mercenary, who has the ability to eat any object, mostly metal and weapons. When the time comes, Bolt can then reproduce those weapons and items in his right hand.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 59,
+          "popularity": 835,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1022,
+          "title": {
+            "userPreferred": "Generator Gawl"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1022-1GV26I8THCF0.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1022-1GV26I8THCF0.jpg",
+            "color": "#e4865d"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Ryo, Gawl and Koji are 3 young boys who travel back into the past with only 1 objective: change history. In their time they discover that their country, Kubere, uses genetically enhanced persons called generators as a military tool. These generators are the cause for the Third War which kills most of the human population. Now Koji, Ryo and Gawl are there to change all the events.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 59,
+          "popularity": 1344,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 103,
+                  "name": "Tatsunoko Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 365,
+          "title": {
+            "userPreferred": "FAKE"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/365.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/365.jpg",
+            "color": "#78aed6"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 21
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/365-oP1boDnL65I7.jpg",
+          "season": "SPRING",
+          "description": "Dee Laytner and Randy \"Ryo\" Maclane are two New York cops taking a needed vacation in England. Dee has very strong feelings for Ryo and wants to take this chance to advance their relationship (and if he's lucky, maybe seduce Ryo). Ryo doesn't understand his own feelings for Dee, and doesn't know if he wants to (or should) acknowledge them. Their vacation and relationship is suddenly disturbed when murders and missing person reports keep surfacing around their hotel. The only common tie the cases have is that all of the victims were Japanese or Japanese descent. Dee and Ryo have to solve the case before Ryo, who is half Japanese, becomes the next victim.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 55,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mystery",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 2265,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2703,
+          "title": {
+            "userPreferred": "Super YoYo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2703-8dt4G5QU1JXS.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2703-8dt4G5QU1JXS.jpg",
+            "color": "#e40d43"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 11,
+            "day": 30
+          },
+          "endDate": {
+            "year": 1999,
+            "month": 9,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Shunichi Domoto is a talented, sportive 5th grade boy who is used to help sport teams in his school. He enters a Yoyo duel against a bully boy called Benkei to help his friend, Beso, to get back his Yoyo which was stolen by the bully. He beated him, but after that, he meets the exceptionally gifted Yoyoer, Seito Hojoin, who beated him while he ridiculed the Yoyo game. So, Shunichi enters Japan's Yoyo championship to get his revenge from his loss with Seito. Throughout this Championship, he earns new Yoyoing Skills and meets powerful rivals.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 22,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 872,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 27,
+                  "name": "Xebec"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 626,
+          "title": {
+            "userPreferred": "Protect Me"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/626.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/626.jpg",
+            "color": "#e4d65d"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 17
+          },
+          "endDate": {
+            "year": 1999,
+            "month": 4,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Tasuke Shichiri is the envy of his friends because since his parents are always traveling he can do as he pleases. It's a surprise present from his father that keeps him from being lonely: an odd ring known as the shitenrin. From it comes a moon goddess named Shaorin, dedicated to protecting her \"master\" -- no matter how much of a mess she makes doing it!",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 22,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mahou Shoujo",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 1196,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2709,
+          "title": {
+            "userPreferred": "Bakusou Kyoudai Let's & Go MAX"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2709.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2709.jpg",
+            "color": "#d6931a"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 1,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "The story follows the life of Retsuya and Gouki, two brothers with the same objective as Go and Retsu, to race and win championships!<br><br>\nThe two new brothers are faced with various traps set by an evil organization...together, along with other friends, they try to enjoy their races as much as possible, showing off their competitive spirit and taking down any kind of evil that might put the sport they love so much at risk!",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 51,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 530,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 375,
+          "title": {
+            "userPreferred": "All Purpose Cultural Cat Girl Nuku Nuku TV"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx375-bY7XEqX2oCIl.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx375-bY7XEqX2oCIl.png",
+            "color": "#d69378"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 1,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 3,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/375-Fv1UnMsti1m2.jpg",
+          "season": "WINTER",
+          "description": "Each episode centers on Nuku Nuku's adventures and mishaps in high school, and her relationship to students, the overall series plot centers on the evil Mishima Industries' scheme to dominate the world through its products. In opposition to this plan are the slightly nutty Kyuusaku Natsume and Nuku Nuku, the android who acts as a companion to his young son. Nuku Nuku's classmates are all eccentrics, Futaba, the class president, is a domineering control-freak, who cannot leave her authority in school. Chieko Shirakaba is the rich snob with the two yes-girls who always take her side. There is a bookworm, a mystic, a scientist, and a pop singer. All of these are true to their descriptions: the mystic is always foretelling doom via tarot cards, spirits, or some other occult technique. The pop singer never says anything except as a song. The bookworm always has her nose in a book. These eccentricities add to the series' humor.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 1163,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 196,
+                  "name": "Ashi Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4191,
+          "title": {
+            "userPreferred": "Popolocrois Monogatari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4191-PbtyRheA1Rno.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4191-PbtyRheA1Rno.jpg",
+            "color": "#e4d65d"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1999,
+            "month": 3,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Prince Pietro is the half-human, half-dragon prince of the kingdom of Popolocrois.  After the evil GamiGami tries (unsuccessfuly, as ever) to take over the Kingdom, a mysterious girl named Hyuu appears in the forest near Popolocrois Castle, which is the beginning of an adventure for Pietro, his witch friend Narcia, and all their friends.  Set following the events of the first Popolocrois game.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 25,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 621,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2281,
+          "title": {
+            "userPreferred": "Flint the Time Detective"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2281-WgsNAdQZCVvW.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2281-WgsNAdQZCVvW.jpg",
+            "color": "#e4c95d"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1999,
+            "month": 6,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "It is the 25th century. The dark lord has 'infected' history with time-devices that could damage history beyond repair. Flint and his father lived in the prehistorics when they got turned into fossiles. They are discovered and Flint ges turned back to his original state. With the help of his father, a boy Tony and a girl Sara he has to travel trough time to bring the time-devices back to the land of time so history will be saved.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 39,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Mystery",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 1262,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 86,
+                  "name": "Group TAC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2288,
+          "title": {
+            "userPreferred": "Akihabara Dennou Gumi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2288-PJpJetRD4YjM.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2288-PJpJetRD4YjM.png",
+            "color": "#e4bb50"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 9,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2288-ItVb96VACqNG.jpg",
+          "season": "SPRING",
+          "description": "A \"patapi\" is a cute mechanical creature which is like a cyber pet. It can eat, sleep, play, and even help out its owners with some stuff. When Hibari Hanakoganei receives a patapi from a prince in her dreams, she is thrilled and names it \"Densuke\". When mysterious forces try to steal Densuke, Hibari discovers that Densuke is not just an ordinary patapi. Densuke has magical powers that allows it to transform into a powerful cyber-fighter who looks like Hibari. Hibari's friends also receive similar patapis, and together they form the Cyber Team in Akihabara.<br><br>\n(Source: AnimeNfo)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 1213,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 406,
+                  "name": "Asahi Production"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 718,
+          "title": {
+            "userPreferred": "If I See You in My Dreams"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx718-PsV5iR29nAiz.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx718-PsV5iR29nAiz.png",
+            "color": "#ffc935"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 11,
+            "day": 30
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Fuguno Matsuo has never had a girlfriend all his 22 years in life and what makes things worse is that a fortune teller predicted that he never will. However, when he laid his eye on Nagisa-sensei he fell in-love right away and began earnestly wooing her. Along comes Hamaoka, a co-worker who is smitten with Fuguno, and a love-triangle ensues.<br>",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 16,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 1095,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 447,
+          "title": {
+            "userPreferred": "Knight Hunters"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/447.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/447.jpg",
+            "color": "#f18643"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 1
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/447-xubBCwh5o62a.png",
+          "season": "SPRING",
+          "description": "Aya, Yoji, Ken, and Omi are the four young men who comprise Weiss Kreuz (WK), an assassin group who eliminates certain menaces to society. Each member has his own trademark fighting style. Aya is adept at fighting with a katana, Yoji has mastered the art of strangulation via strings, Ken is lethal with his metal claws, while Omi specializes in a wide array of projectiles. Under the command of a mysterious man known only as \"Persia\", the WK is dispatched to take care of drug rings, terrorist factions, and the like. But as things go along, they discover that most, if not all, the bad elements they have dealt with are somehow connected to the Takatori family. The Takatori family is rich, powerful, and influential. It seems if the problem is to be nipped in the bud, the WK would have to put an end to one of Japan's most prominent clans. <br><br>\n(Source: AniDB) ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 25,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 1884,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 207,
+                  "name": "Magic Bus"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 107,
+                  "name": "Plum"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1660,
+          "title": {
+            "userPreferred": "Kurogane Communication"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1660-YUEKCzxBrvic.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1660-YUEKCzxBrvic.jpg",
+            "color": "#e46b28"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1999,
+            "month": 3,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "In the near future, Earth has been devastated by an immense war. Haruka, one of the few survivors, lives in the ruins of Japan. Knowing no other survivors, she lives with five robots. Spike, the youngest robot, serves as her best friend, Cleric advises her, and Angela destroys her enemies.<br><br>\nWith Toriga, the world's angriest and least effective combat robot, and Reeves, the meanest-looking machine ever to wear a frilly pink apron, they protect her and search for other survivors.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 977,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2416,
+          "title": {
+            "userPreferred": "Grander Musashi RV"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2416-E27vXe8Y4ie7.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2416-E27vXe8Y4ie7.png",
+            "color": "#3578f1"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Sequel to Grander Musashi. A young but experienced fisherman named Musashi Kazama and his two friends travel around the world in search of seven mysterious objects of fantastic power called \"Legenders\", each one in the form of a fish. Legenders are said to grant anyone who catches them the power to change the world. Unfortunately, Musashi ends up competing with several other fishermen who share his ambition of capturing a Legender.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 39,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 56,
+          "popularity": 334,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 22,
+                  "name": "Nippon Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 677,
+          "title": {
+            "userPreferred": "Sentimental Journey"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/677.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/677.jpg",
+            "color": "#f1e4bb"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 7,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Sentimental Journey is a collection of twelve short stories about twelve different girls. Though unrelated, there is one common theme that binds the episodes together: each girl's bittersweet experience of first love.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 56,
+          "popularity": 741,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 715,
+          "title": {
+            "userPreferred": "If I See You in My Dreams"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx715-KP3czCDX5lgW.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx715-KP3czCDX5lgW.png",
+            "color": "#f1d6ae"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Yume de Aetara is a story about one guy Fuguno Masuo (a complete loser when it comes to relationship with women) and two girls: Shiozaki Nagisa and Hamaoka Miho. Since the story is pretty simple (and hilariously funny), further explanation will spoil everything (take the hint: watch it yourself!)<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Ecchi",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 56,
+          "popularity": 1003,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2766,
+          "title": {
+            "userPreferred": "Super Doll Licca-Chan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2766-n160fy24Mm4X.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2766-n160fy24Mm4X.png",
+            "color": "#e450c9"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1999,
+            "month": 9,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Licca is in grave danger once she finds out that she is the princess of the Doll Kingdom. Now, the evil Dr. Scarecrow is after her and her throne. So Licca's grandmother gives her a set of dolls. When needed, the dolls will transform into larger versions known as the Doll Knights. Together, they will protect Licca.<br><br>\n(Source: AnimeNfo)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 56,
+          "popularity": 705,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 79,
+                  "name": "Genco"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 86,
+                  "name": "Group TAC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2626,
+          "title": {
+            "userPreferred": "The Doraemons: The Great Operation of Springing Insects"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2626.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2626.jpg",
+            "color": "#e4a150"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 3,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 3,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "N/A",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 16,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 56,
+          "popularity": 247,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 810,
+          "title": {
+            "userPreferred": "Android Announcer Maico 2010"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/810.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/810.jpg",
+            "color": "#e48650"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 9,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "In the year 2010, the Japanese radio industry is in decline. To reverse their flagging ratings, a station staffed with perennial losers makes a daring gamble: to hire the industry's first android on-air host. Maico is cute, but it will take more than novelty to win over the fickle audience -- especially with a crew as inept as this one. ",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 14,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 56,
+          "popularity": 586,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 86,
+                  "name": "Group TAC"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6257,
+                  "name": "Ekura Animal"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2704,
+          "title": {
+            "userPreferred": "Steam Detectives"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2704-BWsQpPd1U99b.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2704-BWsQpPd1U99b.jpg",
+            "color": "#f1ae1a"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1999,
+            "month": 3,
+            "day": 31
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2704-xByagxbH3hEx.jpg",
+          "season": "FALL",
+          "description": "The scene is Steam City, a London-ish city which represents an entire civilization run by coal and steam power. Because of steam, the city is sometimes covered in a mist. Villains take advantage of the steamy mist to hide and execute their evil plans. Only a few dare venture into what's beyond the steamy mist. They are known as the Steam Detectives: Narutaki (and his convertible all-purpose pistol), his nurse-assistant Lingling, and his Megamaton robot Gohliki.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 937,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 27,
+                  "name": "Xebec"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 21486,
+          "title": {
+            "userPreferred": "LET'S Nupu Nupu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21486-ZpMlQMZfXRzq.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21486-ZpMlQMZfXRzq.png",
+            "color": "#ae7835"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 11,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "With four-frame comic origins, this animated title preserves the same quick pace by following the regular cast of colorful characters through separate but interwoven story lines in every episode. From Ms. Shitara's relentless but always ineffective sexual pursuit of young Takagi to the adventures of the heroicly stupid but cute Sushi Cat, you will be mystified at the silliness of it all but find yourself laughing for the same reason!",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 16,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 987,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 86,
+                  "name": "Group TAC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4591,
+          "title": {
+            "userPreferred": "Yoiko"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4591.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4591.jpg",
+            "color": "#e4505d"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 11,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1999,
+            "month": 3,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Her name is Esumi Fuuka. Standing tall at 163 cm with a slender bodyline, she must be a university undergraduate. However, in reality, she is only an elementary school student. With a body figure of an adult and the mentality of a small child, she creates many misunderstandings around her.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 20,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 989,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1542,
+          "title": {
+            "userPreferred": "Brain Powerd"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1542-eLsUHJ89RESM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1542-eLsUHJ89RESM.jpg",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 11,
+            "day": 11
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1542-7dUOsQhnAZ39.jpg",
+          "season": "SPRING",
+          "description": "In the not so distant future much of the earth has been submerged under the sea or destroyed by earthquakes. At the center of the turmoil is the mysterious Orphan. Orphan may or may not be the original cause of the cataclysms. Orphan`s goal is to raise a ship hidden deep beneath the sea to the surface, but doing so would result in the destruction of all humans except for the small number which are loyal to Orphan.<br><br>\nOrphan`s agents pilot mysterious mecha known as Grand Cheres, and search the world for mysterious, giant disks which occasionally appear, flying at high speeds and wrecking much of the countryside, or cities, when they hit the ground. After a dying disc almost kills Hime, a Brain Powerd is born from the disc. Brain Powerds are another type of Mecha, similar to but not the same as Grand Cheres.<br><br>\nHime becomes the Brain Powerd`s pilot, forming a symbiotic relationship with the living mecha and joins an International Organization dedicated to stopping Orphan, or at the very least saving humanity should Orphan succeed.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 2154,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1892,
+          "title": {
+            "userPreferred": "YAT Anshin! Uchuu Ryokou 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1892.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1892.jpg",
+            "color": "#ffc935"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 11
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The space travelling company, YAT, is thrown into the unknown realms of the outer space. At the same time, the group encounters the psychic, Maron, and scientist, Note. Subsequently, the two of them are attacked by the evil monarch, Ganon. Note was captured and taken away after suffering an attack from one of Ganon's followers, Baras. In order to rescue Note, the group had to use the instantenoeous portable machine which Note invented so as to travel to Ganon's planet. However, no one knows where the planet is...\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 25,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 53,
+          "popularity": 188,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 374,
+          "title": {
+            "userPreferred": "All Purpose Cultural Cat Girl Nuku Nuku Dash!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/374.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/374.jpg",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 9,
+            "day": 23
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "It's in the not too distant future. One day Nuku-Nuku dropped in and began to live with the Natsume family. Having lost her memory, Nuku-Nuku assumed the identity of a beautiful girl named Atsuko Higuchi. She was so beautiful and gentle, and besides, she was such a great cook that Ryunosuke, 14, was all smiles. However, after her arrival in town, a series of mysterious incidents started to happen in Maneki City - Experimental machines running haywire, roaring fighter aircraft flying low, mass destruction in the city. In every case, a mysterious girl was spotted at the scene of the incident.<br><br>\n(Source: AnimeNfo)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Ecchi",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 53,
+          "popularity": 765,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 196,
+                  "name": "Ashi Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1672,
+          "title": {
+            "userPreferred": "Bomber Man & Marbleman's Explosive Side Story"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1672.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1672.jpg",
+            "color": "#f1ae1a"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 2,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1999,
+            "month": 1,
+            "day": 31
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "* Based on the Hudson Soft game. <br><br>\n1000 years ago, the beautiful B-da City was attacked by the Dark B-da in their quest to control the entire Blue Solar System. The heroic B-Daman, drawing on their legendary power and ingenious technology, were able to restore peace to the universe. But, it is only a matter of time before evil forces strike again&hellip;Our hero, SHIRO BOM with his friends continue to patrol the Kingdom, fight against Dark B-da, always alert to danger, always ready for fun.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 48,
+          "duration": 26,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 53,
+          "popularity": 413,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2019,
+          "title": {
+            "userPreferred": "DNA Sights 999.9"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2019.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2019.jpg",
+            "color": "#f1c928"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 18
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "After a meteor hits Earth, traitor forces have (for all intents and purposes) taken over, and the people are suffering. In the chaos, a boy named Tetsuro Daiba, who had lost his parents in the meteor hit, is paid a visit by Mello, a mysterious woman appearing in a bright light. When Daiba comes to, he finds itself in a spaceship infirmary under observation. Stealing a fighter that he didn`t know how to pilot (until he tried it), he breaks out, flying like a total pro.<br><br>\nHe was able to remember how to pilot from his DNA memory... and to find out more, his doctor friend takes him to his secret underground lab, in which he acts as a professor to find out ways to stop the traitor regime. When the forces invade to take him back, a girl named Rei Yuuki mysteriously shoots down their entire carrier with only a fighter jet! Apparently, both have mysterious powers that the enemies want, which may or may not be connected to their being the only two known survivors of the meteor impact.<br><br>\nWhile looking for a third survivor (which turned out to be a cat), the two are taken by force to Queen Photon (ruler of the traitor regime), who claims that she is out to SAVE the Earth from those who sent the Meteor. The two don't know whether to believe her or Mello until the (telepathic) cat breaks them out of the Queen's sealed chamber, and Mello comes to straighten things out. That's when the two (er, three) of them make a choice... Stay on a planet that can't support their advanced race, or strike out into the unknown of space?<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 53,
+          "popularity": 636,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5070,
+          "title": {
+            "userPreferred": "Beast Wars Second Chou Seimeitai Transformers"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5070.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5070.jpg",
+            "color": "#e49350"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1999,
+            "month": 1,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Beast Wars II tells the story of a battle waging between Lio Convoy's team of Cybertrons (Maximals) and Galvatrons army of Destrons (Predacon) on the planet Gaia. As LioConvoy and Galvatron fight over the mysterious energy source known as Angolmois energy, many strange occurrences and mysterious properties of Angolmois begin to arise.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 43,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 53,
+          "popularity": 411,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 661,
+          "title": {
+            "userPreferred": "Kakyuusei: Elf Version"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx661-qyqoZu7PhXr4.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx661-qyqoZu7PhXr4.png",
+            "color": "#d6a11a"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 1,
+            "day": 24
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 9,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "High school students Mizuho Yuuki and Miko Kamiyama are best friends. Miko likes fellow classmate Tohru Nagase. Mizuho is determined not to get in the way of their budding relationship. But underclassmate Ai Minamizato also likes Tohru. Tohru must decide which girl he likes the most. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Ecchi",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 53,
+          "popularity": 628,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7643,
+          "title": {
+            "userPreferred": "Domo-kun"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7643.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7643.jpg",
+            "color": "#e49350"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2008,
+            "month": 1,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "A strange monster hatches from a mysterious egg. He befriends various animals, and takes residence in Osajii's burrow. He discovers new and exciting things about every day life.<br><br>\nAs of 2008, there are at least 37 regular TV spot episodes of Domo-kun.  These 37 episodes were released on DVD in Japan in July of 2009.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 37,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 363,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6179,
+                  "name": "dwarf"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4420,
+          "title": {
+            "userPreferred": "Vampiyan Kids: Pilot"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4420.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4420.jpg",
+            "color": "#d61a50"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1998,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A young boy ends up at a castle belonging to a vampire and his daughter.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 18,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 300,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1245,
+          "title": {
+            "userPreferred": "Twilight of the Dark Master"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1245-lWqKmj0uHCD9.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1245-lWqKmj0uHCD9.jpg",
+            "color": "#f16b5d"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 1,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 1,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Since the beginning of time, monstrous Demons and noble Guardians have battled for Earth - the everlasting gift of the one great Mother, creator of all life. A deep hatred burns between Demon and Guardian; the Guardians prevented the Demons from destroying humanity and the world itself.<br><br>\nEons later, Neo-Shinjuku City: few Demons or Guardians remain to continue their epic war. Humans rule the Earth, with no real memory of either Demons or Guardians. Yet deep within the dark underworld of the city, one supreme Demon is alive and plotting to subjugate mankind. Only one Guardian is left to do battle, and the fate of the human race is at stake.<br><br>\n(Source: DVD Back Cover)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 1471,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2716,
+          "title": {
+            "userPreferred": "Urayasu Tekkin Kazoku"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2716.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2716.jpg",
+            "color": "#e48643"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 6,
+            "day": 30
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 8,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Join the madcap adventures of the Osawagi family. Little Kotetsu, arguably the most energetic boy in the town of Urayasu, is always getting into mischief with his band of quirky friends. Features unique, well-drawn characters and fast-paced action and humor.<br><br>\n(Source: TBS)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 33,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 450,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1158,
+          "title": {
+            "userPreferred": "Geobreeders: (File-X) Get Back The Kitty"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1158-E5ptpiJZVYJV.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1158-E5ptpiJZVYJV.jpg",
+            "color": "#f1bb35"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 5,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Taba and the Girls of Kagura Total Security Inc. specialize in jobs where their enemy are \"Phantom Cats\". They have a few run ins with the various Government agencies, as well as a gang of Phantom Cats; blowing up a lot of stuff along the way. When one of their own is kidnapped, they have to get her back.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 552,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4718,
+          "title": {
+            "userPreferred": "AIKa: Special Trial"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx4718-EqCSJ3terh0q.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx4718-EqCSJ3terh0q.jpg",
+            "color": "#e49335"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 5,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 5,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4718-UNZX6tm6OC7m.jpg",
+          "season": "SPRING",
+          "description": "A bonus ep about Aika and company moving to a new office. ",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 1158,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 24,
+                  "name": "Studio Fantasia"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3685,
+          "title": {
+            "userPreferred": "Four Day Weekend"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3685.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3685.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 18
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 12,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the song Four Day Weekend by Bluetones.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 4,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 652,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1314,
+          "title": {
+            "userPreferred": "DT Eightron"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1314-ggrpdbkiUT7D.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1314-ggrpdbkiUT7D.jpg",
+            "color": "#f1a143"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 4,
+            "day": 18
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 11,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Shu is from Datania, a country that makes young children work. He and his friends were trying to escape when they met the Returners. The Returners are some kind of rebels to Datania. Shu goes with the Returners to fight Zero, Nines, and his men who are after DT, a special substance inside humans.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 449,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1188,
+          "title": {
+            "userPreferred": "Momoiro Sisters"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1188.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1188.jpg",
+            "color": "#e45d93"
+          },
+          "startDate": {
+            "year": 1998,
+            "month": 8,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1998,
+            "month": 10,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Momoko is a high school student, trying to live up to her older sister Sakura. Sakura works in an office along with many other co-workers. The two sisters, and their friends, experience the everyday hardships and situations of being a woman.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 526,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

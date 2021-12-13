@@ -1,0 +1,2481 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 106,
+        "perPage": 50,
+        "currentPage": 1,
+        "lastPage": 3,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 1065,
+          "title": {
+            "userPreferred": "Touch"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1065-Gga7D9IhqkLN.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1065-Gga7D9IhqkLN.jpg",
+            "color": "#e4d628"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 3,
+            "day": 24
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 3,
+            "day": 22
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1065-4tE9AuI1vAKX.jpg",
+          "season": "SPRING",
+          "description": "The story centers around three characters - Uesugi Kazuya, his twin older brother Tatsuya, and Asakura Minami. Kazuya is the darling of his town as he's talented, hardworking, and the ace pitcher for his middle school baseball team. Tatsuya is a hopeless slacker who's been living the life of giving up the spotlight to Kazuya, despite the fact that he may be more gifted than him. Minami is the beautiful childhood girlfriend and for all intents, sister from next door who treats both of them as equals. Society largely assumes Kazuya and Minami will become the perfect couple, including Tatsuya. Yet as time progresses, Tatsuya grows to realize that he's willing to sacrifice anything for the sake of his brother, except at the expense of giving up Minami to Kazuya. And thus the story is told of Tatsuya trying to prove himself over his established younger brother, how it affects the relationship between the three, and both brothers' attempts to make Minami's lifelong dreams come true.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 101,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 77,
+          "popularity": 6387,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 86,
+                  "name": "Group TAC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 85,
+          "title": {
+            "userPreferred": "Mobile Suit Zeta Gundam"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx85-Ds1SJjiy7kfw.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx85-Ds1SJjiy7kfw.jpg",
+            "color": "#d6501a"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 3,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1986,
+            "month": 2,
+            "day": 22
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/85-DcFgPYUElRVu.jpg",
+          "season": "SPRING",
+          "description": "The year is Universal Century 0087. Seven years have passed since the end of the One Year War. In its zeal to stamp out any remaining opposition, the Earth Federation has organized the Titans, an elite fighting force. However, the Titans soon get out of hand, committing atrocities on par with the worst the Principality of Zeon had to offer during the war. In response, dissatisified citizens, former Zeon soldiers, and even members of the Earth Federal Forces form a resistance group known as the Anti-Earth Union Group, or AEUG. As the next war is brewing, a small AEUG group arrives at Side 7 to investigate the new Gundam Mk. II...\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 50,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 77,
+          "popularity": 11961,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 885,
+          "title": {
+            "userPreferred": "Angel's Egg"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx885-ygZlVjqs18Cy.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx885-ygZlVjqs18Cy.png",
+            "color": "#e4bba1"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 15
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/885-T7WYeSNHEile.jpg",
+          "season": "WINTER",
+          "description": "In a desolate and dark world full of shadows, lives one little girl who seems to do nothing but collect water in jars and protect a large egg she carries everywhere. A mysterious man enters her life... and they discuss the world around them. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 71,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": 75,
+          "popularity": 27053,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1488,
+          "title": {
+            "userPreferred": "Area 88"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1488.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1488.jpg",
+            "color": "#e4c943"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 2,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1986,
+            "month": 6,
+            "day": 15
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1488-Bz8ogaW5FPHs.jpg",
+          "season": "WINTER",
+          "description": "Shin Kazama, tricked and forced into flying for the remote country of Aslan, can only escape the hell of war by earning money for shooting down enemy planes or die trying. Through the course of the series, Shin must deal with the consequences of killing and friends dying around him as tries to keep his mind on freeing himself from this nightmare.\n<br><br>\n(Source: Anime News Network)\n<br>",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 67,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 72,
+          "popularity": 3887,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2547,
+          "title": {
+            "userPreferred": "A Little Princess Sara"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2547-Dci8i6x272NR.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2547-Dci8i6x272NR.png",
+            "color": "#f1c95d"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 1,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 29
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2547-wyFxZUpWJf3J.jpg",
+          "season": "WINTER",
+          "description": "Sara, a pretty girl born into a rich British family in India, is treated like a little princess at a dormitory school in London. Sara’s sweet school life turns to tragedy when she learns of her father’s death and the family’s bankruptcy. However, Sara endures her hard luck with kindness and imagination and escapes from her misery through fantasies. <br><br>\n(Source: Nippon Animation) <br><br>\nBased on the novel \"A Little Princess\" by Frances Hodgson Burnett.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 46,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 72,
+          "popularity": 3056,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 22,
+                  "name": "Nippon Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1441,
+          "title": {
+            "userPreferred": "Night on the Galactic Railroad"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1441-HkDUAaCnl3JE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1441-HkDUAaCnl3JE.jpg",
+            "color": "#e4ae1a"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 13
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1441-9SX2Pe0i02uK.jpg",
+          "season": "SUMMER",
+          "description": "Based on a short story by the popular children`s writer Kenji Miyazawa, Galactic Railroad offers viewers a slow-paced, dreamlike journey through space and time. When Giovanni, a lonely boy in a hill town, goes to get milk for his ailing mother, he finds himself crossing the Milky Way on a faster-than-light steam railroad. The stations he visits in various constellations, like the planets explored by St. Exupery`s Little Prince, offer curious adventures and an assortment of human \"types.\" Reality and fantasy blur aboard the train, and its travels across the light-years sometimes suggests the journey through life. The characters are depicted as cats, presumably to avoid the problems of animating humans. <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 108,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Fantasy",
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": 70,
+          "popularity": 5599,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 86,
+                  "name": "Group TAC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 424,
+          "title": {
+            "userPreferred": "Dirty Pair"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx424-glWcP372XnPT.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx424-glWcP372XnPT.jpg",
+            "color": "#f1c943"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/424-cGUOv5F7l3Fj.jpg",
+          "season": "SUMMER",
+          "description": "If you're in big trouble, call the World Welfare Work Association or WWWA for short. They will send out a team of highly trained and capable agents called Trouble Consultants who can solve your problems. But if the team they send you is the Dirty Pair, solving your problems could come at the cost of a lot of collateral damage.<br><br>\n",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 69,
+          "popularity": 6230,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1919,
+          "title": {
+            "userPreferred": "Urusei Yatsura OVA"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1919-i8bCgrlfEEll.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1919-i8bCgrlfEEll.jpg",
+            "color": "#e4ae5d"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 9,
+            "day": 24
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 6,
+            "day": 21
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1919-zJnzuWMASEAv.jpg",
+          "season": "FALL",
+          "description": "The adventures of Lum, Ataru, Ten, and all the gang from Tomobiki continue in an assortment of new &ndash; but no less weird &ndash; stories. <br><br>\nWatch as Lum, Ataru, and Shinobu encounter a rabbit-clad youth, enter the Room of Destiny, and get a glimpse into their futures in \"Inaba the Dreammaker,\" or see Ran's plans to use a sherbet cone-producing bird to open a sherbet shop one hot Tokyo summer go terribly awry in &ldquo;Raging Sherbet.&rdquo; Ataru has yet another bad experience with Lum's cooking in \"I Howl at the Moon\".\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 11,
+          "duration": 32,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 68,
+          "popularity": 1150,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 207,
+                  "name": "Magic Bus"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2583,
+          "title": {
+            "userPreferred": "Armored Trooper Votoms: The Last Red Shoulder"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2583.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2583.jpg",
+            "color": "#d6281a"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 8,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 8,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Released in 1985, this OVA tells a critical part of the story between the TV show's Uoodo and Kummen arcs. Although the TV series covered the Red Shoulders in some detail, we didn't get to see much of Chirico's time there or the people involved, and we get both of those here.<br><br>\n(Source: mahq.net)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 54,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 67,
+          "popularity": 832,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1922,
+          "title": {
+            "userPreferred": "Urusei Yatsura Movie 3: Remember My Love"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1922-GFf90uJYHSUr.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1922-GFf90uJYHSUr.jpg",
+            "color": "#e4280d"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 1,
+            "day": 26
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 1,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1922-ou3dESwi2jWW.jpg",
+          "season": "WINTER",
+          "description": "It seems that when Lum was born, a postal screwup resulted in a witchy friend of the family not getting an invitation to the celebration. The witch put a curse on Lum, that she would never be happy with her True Love. <br><br>\nIn the present, a new Amusement Park has been built in Tomobiki, and opening day finds the whole gang sampling its pleasures. At a magic show, however, Ataru gets turned into a large pink hippo-potamus, FOR REAL! <br><br>\nWhen Lum attempts to track down the magician that transformed her Darling, things start to get very weird, very fast! <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 95,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 1370,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2118,
+          "title": {
+            "userPreferred": "Captain Tsubasa: Europe Daikessen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2118.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2118.jpg",
+            "color": "#d6bb1a"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 13
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The first Captain Tsubasa movie is about a match between an \"All Europe Boy Soccer Team\" and an \"All Japan Boy Soccer Team\" and takes place at the end of the first TV series. When the Japanese team arrives in Europe they meet incredible players with skills and strength they never had to face before. Shortly after the beginning of the match the Tachibana brothers shoot a goal with their \"acrobatic soccer\", but the Europeans have a supreme organisation and their legendary captain Karl-Heinz Schneider from Germany seems to be undefeatable. For Wakashimazu is totally overcharged with Schneider, the injured goalkeeper genius Wakabayashi takes his place and manages to stop Schneider's \"fire shots\". After that Japan finally manages to win the match 3:2.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 42,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 943,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1935,
+          "title": {
+            "userPreferred": "Megazone 23"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1935-rEaYG766b8tp.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1935-rEaYG766b8tp.jpg",
+            "color": "#f19350"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 3,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 3,
+            "day": 9
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1935-ddvQgQjOTTeJ.jpg",
+          "season": "WINTER",
+          "description": "Motorcycle enthusiast Shogo mistakenly comes into possession of a government prototype bike. Pursued by ruthless goverment agents he plans to save himself by exposing the bike to the public on a live TV show hosted by a popular singing star. But, even the lovely Eve has secrets of her own and the government has much more to hide than just a transforming military motorcycle. As Shogo begins to unravel the mystery of the bike, he discovers a reality-shattering secret about the city and the world he thought he knew.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 81,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Mystery",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 4190,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 72,
+                  "name": "Artmic"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 8,
+                  "name": "Artland"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 16434,
+          "title": {
+            "userPreferred": "Penguin's Memory: Shiawase Monogatari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16434-TB6BGLuXkCnJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16434-TB6BGLuXkCnJ.jpg",
+            "color": "#e4bb0d"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 6,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 6,
+            "day": 22
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16434-FOD5xtw2gn9d.jpg",
+          "season": "SUMMER",
+          "description": "Mike is a penguin soldier who returns home after being injured during combat. Estranged from his family and friends, he leaves his hometown and starts to roam adrift through the country.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 100,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 1136,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6305,
+                  "name": "Animation Staff Room"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 732,
+          "title": {
+            "userPreferred": "Vampire Hunter D"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx732-dksIxsja9LX7.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx732-dksIxsja9LX7.png",
+            "color": "#786b28"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/732-us0j3KVEjWMe.jpg",
+          "season": "FALL",
+          "description": "10,000 years in the future, the world has become a very different place; monsters roam the land freely, and people, although equiped with high tech weapons and cybernetic horses, live a humble life more suited to centuries past. The story focuses on a small hamlet plagued by monster attacks and living under the shadow of rule by Count Magnus Lee, a powerful vampire lord who has ruled the land for thousands of years. When a young girl is bitten by the Count and chosen as his current plaything, she seeks out help of a quiet wandering stranger, D. It so happens that D is one of the world`s best vampire hunters, and he takes it upon himself to cut through Magnus Lee`s many minions, and put an end to the Count`s rule.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 80,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Horror",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 10059,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 196,
+                  "name": "Ashi Productions"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6460,
+                  "name": "Studio Live"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3079,
+          "title": {
+            "userPreferred": "Blue Comet SPT Layzner"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3079-JDUaluzPIDps.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3079-JDUaluzPIDps.jpg",
+            "color": "#5086e4"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 9,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1986,
+            "month": 7,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3079-uqMaDfmNrtfA.jpg",
+          "season": "FALL",
+          "description": "The Story takes place in an alternate reality based in the year 1996, where humanity is advanced enough to develop long-range space travel, as well as bases on both the Moon and Mars. However, the Cold War tensions between the United States and the Soviet Union have not ended; rather, they've escalated as both sides build military facilities in space, and the shadow of nuclear conflict looms over humanity, both on and off Earth.<br><br>\nMeanwhile, on the Red Planet, an exchange program created by the United Nations to promote peace and understanding is about to begin; the \"Cosmic Culture Club\", consisting of 16 boys and girls, as well as their instructor Elizabeth, arrives at the UN Mars base, and are being welcomed by the staff. Among the passengers is Anna a 14 year old girl who serves as the narrator for the story.<br><br>\nSuddenly, four unidentified humanoid robots classified as Super Powered Tracers are detected, engaged in fierce combat with each other. The UN base is caught in the crossfire and quickly destroyed, killing all but six members of the \"Cosmic Culture Club\"--Elizabeth, Arthur, Roan, David, Simone and Anna, and leaving them stranded on an inhospitable planet that has suddenly become a battlefield. As the battle ends, the lone SPT standing lands next to the terrified group and opens up revealing a pilot, who simply announces to them, \"Earth is at stake\".<br><br>\nThe robots who destroyed the UN base were the creation of the Grados, an alien race, from the Udoria system, who came to the Sol system for the purpose of conquest, seeing an easy victory as the two superpowers raged against each other to exaustion--however, this could also be described as an act of pre-emptive self-defense; the Gradosian supercomputers have determined that humanity will eventually cease its infighting and become powerful enough to spread through the galaxy, posing a destructive threat to even the far off Grados.<br><br>\nHowever, there were two Grados opposed to the plan: human astronaut Ken Asuka, assumed lost during a deep space mission but discovered by the Grados, and his son Null Albarto (his \"human\" name being Eiji). As the Grados prepared their invasion fleet, Eiji stows away on board one of the ships and steals their most powerful and advanced weapon, the SPT-LZ-00X Layzner before fleeing, seeking to warn humanity of its impending invasion. It was here where he was attacked. Aside from the Layzner, the surviving humans have now become very important to the Grados; as the only human eyewitnesses to the aliens and their power, the six are the only ones who can convince the warring powers to stand down from destroying each other, and focus on the greater threat.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 38,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 1936,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2550,
+          "title": {
+            "userPreferred": "Broken Down Film"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2550.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2550.jpg",
+            "color": "#f1ae0d"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 8,
+            "day": 17
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 8,
+            "day": 17
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "A scene from an American animated piece called \"Dudley Do Right\" shows a scene in which a queen is tied to a railroad track with ropes and shouting, \"Help!\" This image was often used in serial action films of the silent comedy period. In this short film, a western-style hero fights a villain and saves a beautiful woman in the same situation. This classical scene, however, is marred, blurred and smudged because the film itself is very old. Not only does the hero have to fight the villain, but he also has to struggle hard against the bad condition of the film.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": 61,
+          "popularity": 726,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2119,
+          "title": {
+            "userPreferred": "Captain Tsubasa: Ayaushi! Zen Nihon Jr."
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2119.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2119.jpg",
+            "color": "#e49343"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The second movie is about the return match between the All Europe Soccer Team and Japan. At the beginning Hyuga denies to join the team due to his 3. defeat against Nankatsu. He practices hard with Kyra to perfect his Tiger Shot. Misaki can't come and Wakabayashi isn't allowed to play for he normally plays for a German team. With those lacks and Schneider's (the European's captain) improved skills, Tsubasa and the Japanese team have grave problems. Despite the new rules, Schneider finally want's to beat his rival Wakabayashi with his new \"illusion shot\", thus he injures Wakashimazu and Murisaki (the second and third goal keeper) with brutal face shots until Wakabayashi is finally allowed to play. In the course of the match Hyuga manages to perfect his Tiger Shot and joins the team. With those legendary players united and Hyugas new power they manage to defeat their opponent 4:3 in the last minutes.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 60,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 746,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1433,
+          "title": {
+            "userPreferred": "Lupin the 3rd: The Legend of the Gold of Babylon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1433.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1433.jpg",
+            "color": "#e4c928"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 13
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The adventurous, treasure-loving master thief Lupin the Third is at it again. This time, Lupin’s after the long-lost Gold of Babylon! With the aid of his partners Jigen and Goemon, Lupin treks the globe unraveling clues and dodging the violent New York Mafia, all while escaping the cuffs of the tenacious Interpol Inspector Zenigata and his team of five beautiful and determined policewomen. But what does the enigmatic and flirtatious old booze hound named Rosetta have to do with the fabled Babylonian gold deposit? Co-directed by the cult favorite film director Seijun Suzuki and matched with Yuji Ohno’s infectious breed of jazz, this animated romp is a bizarre and colorful adventure that whisks viewers from New York to the Middle East (and back!) in search of a fabulous treasure inspired by the biblical Tower of Babel.<br>\n<br>\n(Source: Discotek Media)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 100,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 1681,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 65,
+                  "name": "Tokyo Movie Shinsha"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2511,
+          "title": {
+            "userPreferred": "GoShogun: The Time Étranger"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2511-9zPafXsGPuTJ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2511-9zPafXsGPuTJ.jpg",
+            "color": "#f14386"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 4,
+            "day": 27
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 4,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "In Goshogun the Time Etranger, forty years after the events of the TV series, Remy Shimada, ex-pilot of the GoShogun, suffers a terrible accident while on her way to a meeting with her former robot-piloting comrades. While they rush to the hospital, Remy floats between life and death. She sees visions of her life when she was young, and stranger still, experiences a hallucination of being with her friends, all of them young again, in a mysterious city filled with hostile fanatics.<br><br>Far from being the reunion Remy hoped for, a ghastly letter arrives for each member of the team that predicts their gruesome deaths. Slated to die in two days, both in reality and in her dream, Remy struggles to find a way out of the City of Fate, relying on the memories of her friends to see her through, even as they surround her death bed in the waking world. <br><br>\n(Source: RightStuff)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 88,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 60,
+          "popularity": 806,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 714,
+          "title": {
+            "userPreferred": "High School! Kimengumi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b714-J770J3curufA.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b714-J770J3curufA.jpg",
+            "color": "#35c9f1"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 10,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 10,
+            "day": 3
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/714-sGTnNvhT8wmf.jpg",
+          "season": "FALL",
+          "description": "A group of 5 male high school students that call themselves the funny-face group cause trouble at school with their crazy antics. <br><br>\r\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 86,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 59,
+          "popularity": 727,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 126,
+                  "name": "Studio Comet"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3807,
+          "title": {
+            "userPreferred": "Alpen Rose"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3807-uRtS1pueVvmG.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3807-uRtS1pueVvmG.png",
+            "color": "#f16b0d"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 4,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1986,
+            "month": 4,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "While Randy was walking through the Swiss countryside he finds a small girl, who seemed to be the only survived person from an airplane crash. The little girl didn&rsquo;t remember anything, and Randy decided to take care of her and he called her Judy. The both go their childhood together. A few years later, Judy, now 16 years old, wants to find her past. With the help of Randy, she leaves to research her origins. Her single clue is a song that she keeps hearing in her head, the song is called Alpine Rose. At a time of world war, these two young people will have to overcome many obstacles to arrive at their goal in this time of war, with having only each other to comfort and support. the depth of their love.<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 20,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 59,
+          "popularity": 769,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2255,
+          "title": {
+            "userPreferred": "Dancouga: Super Beast Machine God"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2255.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2255.jpg",
+            "color": "#e4c950"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 4,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Emperor Muge Zarbados and his Empire of Death decide that their next conquest will be the faraway planet of Earth. Muge becomes even more fearsome because of Shapiro Keats, a power-hungry Earthling-turned-traitor. It's up to Shinobu, Sara (Shapiro's old girldfriend), Masato, and Ryo of the Jyusenkitai/Cyber Beast Force to pilot the four Jyusenki/Beast Mecha (Eagle Fighter, Land Cougar, Land Liger, and Big Moth [a mammoth mecha]), which can combine into the giant mech Dancougar.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 38,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 59,
+          "popularity": 1224,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 196,
+                  "name": "Ashi Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 496,
+          "title": {
+            "userPreferred": "The Dagger of Kamui"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx496-8nSr61EBRxA6.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx496-8nSr61EBRxA6.jpg",
+            "color": "#e45d0d"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 9,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 9,
+            "day": 3
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n496-qsMo8XSuiKKG.jpg",
+          "season": "FALL",
+          "description": "A young boy named Jiro finds his mother and sister murdered in his home. Falsely accused of the crime, he flees from his village and meets a priest named Tenkai, who has him kill a rogue ninja named Tarouza. After fulfilling that task, Jiro undergoes training to become a master assassin. Many years later, Jiro finds out that he was an orphan and his real father was Tarouza, who had worked for Tenkai until he aborted his mission when he fell in love with an Ainu woman. The young ninja discovers that the Shogunate was to retrieve the lost treasure of Captain Kidd and use it to once again isolate Japan from the rest of the world. Using the clues that Tarouza had kept secret, Jiro - along with the female ninja Oyuki and a slave named Sam - travels to Russia and America to search for the treasure in hopes of using it to extract revenge from Tenkai. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 132,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 59,
+          "popularity": 1484,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2272,
+          "title": {
+            "userPreferred": "Magical Princess Minky Momo: La Ronde in my Dream"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2272.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2272.jpg",
+            "color": "#f1e400"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 28
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2272-3RMwpgTiadVU.jpg",
+          "season": "SUMMER",
+          "description": "Minky Momo travels to an island where she finds a land of children and gets tangled up in an absurd, no-holds-barred standoff against the world's nations. Has \"Dr. Strangelove\" references.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 80,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 526,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 196,
+                  "name": "Ashi Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2196,
+          "title": {
+            "userPreferred": "Leda: The Fantastic Adventure of Yohko"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2196-VxPEMgvBEx3c.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2196-VxPEMgvBEx3c.jpg",
+            "color": "#e41a0d"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 3,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 3,
+            "day": 1
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2196-OQqBDWerI1D5.jpg",
+          "season": "SPRING",
+          "description": "Asagiri Yohko is an ordinary high school student, and she is in love with a boy who does not know it. To help things along, she has written a song to explain how she feels but that song has quite a bit more than a couple of good bridges. <br><br>\nYohko learns that while she is listening to her song, she is transported to Earth's other-dimensional sister world \"Ashanti.\" This song has the potential to open a gateway between Earth and Ashanti wide enough for a conquering force to invade and take over. And it is exactly why it was forbidden eons ago by the legendary warrior Leda who saw this coming.<br><br>\nThis Leda warrior's duty now falls to Yohko and some newfound friends to stop the onslaught and return the 2 worlds in balance. <br><br>\nMaybe Yohko is not so ordinary after all. <br><br>\n(Source: AnimeNfo)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 70,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Mahou Shoujo",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 1829,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 288,
+                  "name": "Kaname Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2038,
+          "title": {
+            "userPreferred": "Mahou no Star Magical Emi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2038-8pQpYgitKQyB.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2038-8pQpYgitKQyB.png",
+            "color": "#e4a143"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 6,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1986,
+            "month": 2,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2038-fFel8KYMktSM.jpg",
+          "season": "SUMMER",
+          "description": "Kozuki Mai is an elementary student who wants to be a magician and perform in her family's \"Magicarat\" magical act. However, she is too young, and her magic skills are not very good. Then one day, she encounters a ball of light that was put into a stuffed doll of flying squirrel, bringing it to life and somehow giving her the power to turn in to the 18 year-old magician \"Magical Emi.\" As Emi, Mai was able to join the magic act. But she must keep her identity a secret from her family and from her crush. ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 38,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": 58,
+          "popularity": 963,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3394,
+          "title": {
+            "userPreferred": "Kimagure Orange Road TV Pilot"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3394-J7dk90coaMTc.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3394-J7dk90coaMTc.jpg",
+            "color": "#e49343"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 11,
+            "day": 23
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 11,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3394-eBIOlDAXVDkd.jpg",
+          "season": "FALL",
+          "description": "A special made before the rest of the KOR anime to test the possibility of making more. Essentially an alternate TV version of episode 46, Kyousuke and Madoka go to the beach only to be trapped alone together.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 862,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1794,
+          "title": {
+            "userPreferred": "Dirty Pair: Affair of Nolandia"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1794-VGc1ALHcorz4.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx1794-VGc1ALHcorz4.jpg",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 20
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1794-3RCqUUl7aV9S.jpg",
+          "season": "FALL",
+          "description": "The Dirty Pair are travelling to the planet of Ookbar in search of a missing girl. Kei and Yuri have traced Missinie to the forest of Nolandia, but their investigations have stalled thanks to the less-than-helpful Chief of Security. But the Dirty Pair have never let a little bureaucracy stand in their way.<br><br>\r\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 55,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 951,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2973,
+          "title": {
+            "userPreferred": "Fire Tripper"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2973.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2973.jpg",
+            "color": "#f19350"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 16
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 16
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2973-GRcdEOJyCBD9.jpg",
+          "season": "WINTER",
+          "description": "It was just another ordinary afternoon for our heroine Suzuko when she suddenly got caught in a giant gas explosion. Instead of getting killed, Suzuko wakes up some 500 years in the past during the Civil War era of Japan. <br><br>\nAfter being saved from a fate worse than death by a handsome, somewhat overbearing young man, Suzuko learns to adapt to the strange realm where she now resides. Along the way, Suzuko finds out more about her mysterious and spotty past. As clues begin to click into place, though, the village is attacked, and Suzuko finds herself travelling through time AGAIN, this time to the present. Will she solve the mystery regarding her origin and where she belongs?",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 57,
+          "popularity": 1029,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3059,
+          "title": {
+            "userPreferred": "Ninja Senshi Tobikage"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3059-CKnm3o7jfDz2.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3059-CKnm3o7jfDz2.jpg",
+            "color": "#f1a150"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 10,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1986,
+            "month": 7,
+            "day": 14
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Ninja Senshi Tobikage tells the story of a boy named Joe Maya. One day, Joe, who lives on Mars, witnesses a battle between aliens. Those from Planet Zaboom are attacking the princess of Planet Radorio, she has escaped from the emperor of Zaboom who is scheming to conquer the universe and has crash landed on mars. Joe stumbles aboard the princesses ship, this starts a chain reaction of events that will alter their lives. Joe and his friends wield three powerful mecha beasts against the emperor of Zaboom and his forces, but the odds are stacked heavily against them. When all hope seems to be lost a mysterious ninja robot named Tobikage appears as if from nowhere to provide assitance, able to combine with the 3 mechanical beasts provides Tobikage with unmatched power, with his aide Joe fights the forces of Zaboom...\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 43,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 723,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4943,
+          "title": {
+            "userPreferred": "A Journey Through Fairyland"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4943-VkdINm8ZCIOT.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4943-VkdINm8ZCIOT.png",
+            "color": "#5daee4"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 10,
+            "day": 26
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 10,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A gentle and talented boy named Michael played beautiful music on his oboe, and his greatest love was to play for and tend to the flowers in the greenhouse at the school of music where he attended. Unfortunately, his gardening made him constantly late for orchestra practice and resulted in his dismissal from the school. When Michael fell asleep that same night, he was awakened by a dainty Flower Fairy named Florence, who would take him on an enchanted journey to a land where flowers came alive, treble notes were mischievous, and adventure beckoned. There, he would soon come to realize that his love of flowers and desire to become a great musician could go hand-in-hand and help him to become focused in life and discover himself. <br><br>\n(Source: Wikipedia) ",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 91,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Music",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 500,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7307,
+          "title": {
+            "userPreferred": "Gegege no Kitarou (1985)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7307.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7307.jpg",
+            "color": "#e47850"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 10,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1988,
+            "month": 2,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "As civilization advances, people are beginning to lose the consideration and kindliness for Nature. This has incurred the wrath of the ghosts who are becoming increasingly unhappy with the selfishness of the human kind. However, there is a conflict of interests within the ghosts in which one extreme opposes the humans completely while another extreme desires the co-existence of humans and ghosts. Kitaro and his family belongs to the latter category and yearns to seek mutual understanding between the humans and ghosts. Kitaro's fight for love and hope continues.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 108,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 55,
+          "popularity": 479,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4003,
+          "title": {
+            "userPreferred": "Dream Hunter REM"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4003-xMtkztIcvQEa.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4003-xMtkztIcvQEa.jpg",
+            "color": "#e4a150"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 2,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Rem is an ordinary woman in our world, but in the world of dreams, she becomes a dream warrior, defending humanity from the evils there. When dream demons reach the waking world, she fights them with the help of her pets which transform into a tiger and wolf.<br></br>\n\n<i>Note: This series was originally produced as a single episode OVA, which featured explicit sexual content. After the release of the first episode, the production of the OVA changed and the first episode was re-released with another episode bundled together, while also replacing all the sexual content with new scenes. The second and third episodes followed suite and contains no sexual content either.</i>",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 53,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Ecchi",
+            "Horror",
+            "Mystery",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 1694,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 971,
+                  "name": "Anime R"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3120,
+          "title": {
+            "userPreferred": "Bobby ni Kubittake"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3120-BulW2go7PrrW.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3120-BulW2go7PrrW.jpg",
+            "color": "#e4a15d"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 3,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 3,
+            "day": 9
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3120-lXYqNANlaulo.jpg",
+          "season": "SPRING",
+          "description": "\"Bobby really does little else but work on his bike. He cleans his bike. He tunes up his bike. He rides his bike. One would call him a motorcycle otaku. His most recent achievement seems to have been getting photos of himself on a road trip printed in a motorcyclist hobby magazine. This leads to an unexpected result: a girl his age, who picked up that issue on a whim, decides to write him a letter. A long, rambling letter, but dreamily romantic just the same. Bobby admits to his sister that he's never gotten a letter from a girl before. He writes back, \"I got your letter. I'm happy cause it was from a girl.\"<br><br>\nThe \"Bobby\" referred to in the title is actually 17-year-old Akihiko Nomura, an underachieving high school kid with a deep love for motorcycles. His grades are failing, and his father &ndash; traditional and strict (but who must have also at some point gave in and allowed him to have a motorcycle) is trying everything he can think of to get the kid to apply for college. His mother is so silent, she might as well not even exist. Really, his support system lies entirely in his twinkle-toed little sister, who's nosy but cheers him on in her own way.\"\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 44,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 1046,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2291,
+          "title": {
+            "userPreferred": "Fight!! Iczer-1"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2291-G4dH1dq06cnA.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2291-G4dH1dq06cnA.jpg",
+            "color": "#febb28"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 10,
+            "day": 19
+          },
+          "endDate": {
+            "year": 1987,
+            "month": 3,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Nagisa is a schoolgirl with schoolgirl tendencies, waking up late, rushing off to school and meeting up with friends upon the way. One morning Nagisa comes across a woman dressed in a strange uniform who seems to stare at her, unnerving Nagisa. Later that day, whilst staring out the window, Nagisa becomes aware of a ball bouncing by itself which flings itself towards her window seat, shattering the glass yet not harming her... Turning back to the front she finds a gaping mouth bristling with teeth inches from her face and no-one else about. She screams and the world returns to normal with her standing and the centre of curiosity of her class... why did she scream? ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Ecchi",
+            "Horror",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 54,
+          "popularity": 1844,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 48,
+                  "name": "AIC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3671,
+          "title": {
+            "userPreferred": "Genesis Climber Mospeada: Love"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3671.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3671.jpg",
+            "color": "#f1bb43"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 9,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 9,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "After the original run of the television series, an OAV music video titled Genesis Climber Mospeada: Love Live Alive was specially (mostly due to demands of hardcore Mospeada fans) released in Japan in September 1985. The music video consisted of both old and new footage. The story of Love Live Alive chronicled the events after the ending of the original Mospeada, featuring Yellow Belmont as the main character. The music video focused on Yellow's concert and also on his flashback of past events.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 53,
+          "popularity": 332,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4062,
+          "title": {
+            "userPreferred": "Musashi no Ken"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4062-ZTXTQygLAbau.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4062-ZTXTQygLAbau.jpg",
+            "color": "#e4350d"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 4,
+            "day": 18
+          },
+          "endDate": {
+            "year": 1986,
+            "month": 9,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Musashi no Ken is the story of a boy named Musashi who aims to be the Kendo champion.  Part of the anime is him as a child, and part is of him as an adult.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 72,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 53,
+          "popularity": 413,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8547,
+          "title": {
+            "userPreferred": "Dr. Slump and Arale-chan: Hoyoyo! Dream Metropolitan Mecha Police"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8547.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8547.jpg",
+            "color": "#f1bb5d"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 13
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Dr. Slump movie 5.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 38,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 53,
+          "popularity": 273,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 7273,
+          "title": {
+            "userPreferred": "The Death Lullaby"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7273-yuFGm7xkGuwd.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7273-yuFGm7xkGuwd.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1985,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1985,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7273-AsgWylDIsh4W.jpg",
+          "season": null,
+          "description": "An animated film describing the bullying of a Japanese child.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 27,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 851,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 98129,
+          "title": {
+            "userPreferred": "Area 88 Movie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98129-thueGScDFCCf.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98129-thueGScDFCCf.jpg",
+            "color": "#d66b5d"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 7,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Kazama Shin, tricked and forced into fighting for the remote country of Arslan, can only escape the hell of war by earning money for shooting down enemy planes or die trying. As the war rages on, Shin has to deal with the consequences of killing and friends dying around him as he tries to keep his mind on freeing himself from this nightmare.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 99,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 358,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 8972,
+          "title": {
+            "userPreferred": "Minky Momo vs. Creamy Mami"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8972-rOrCMhcSuPWm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8972-rOrCMhcSuPWm.jpg",
+            "color": "#e4bb35"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 8,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 8,
+            "day": 3
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n8972-I8W4O40Ah2Oe.jpg",
+          "season": "SUMMER",
+          "description": "Shown as a bonus movie with the theatrical screening of Mahou no Tenshi Creamy Mami: Long Goodbye and Mahou no Princess Minky Momo: Yume no Naka no Rondo. <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 3,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 407,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2046,
+          "title": {
+            "userPreferred": "Mahou no Tenshi Creamy Mami: Long Goodbye"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2046-oUtWxaM6LjSk.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx2046-oUtWxaM6LjSk.jpg",
+            "color": "#e4ae93"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 6,
+            "day": 15
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 6,
+            "day": 15
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n2046-LH3ELAOrf1oq.jpg",
+          "season": "SUMMER",
+          "description": "Shingo is planning the film \"A Story of Two Worlds\" starring Megumi. Yuu's transformation into Creamy Mami is happening without her wanting it. She is asked to star in the film too. But the magic doesn't last...",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 55,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Mahou Shoujo",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 52,
+          "popularity": 368,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 9389,
+          "title": {
+            "userPreferred": "Ginga Hyouryuu Vifam: Kieta 12-nin"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx9389-Olo8AQkPN5wH.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx9389-Olo8AQkPN5wH.jpg",
+            "color": "#f1e443"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 2,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 2,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "This episode is a sidestory and can be inserted somewhere between episodes #18 and #21. This is a \"mystery\" and so the present writer does not tell the whole story. The Janus is sailing towards Taut when something unexpected happens.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 57,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 161,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 9390,
+          "title": {
+            "userPreferred": "Ginga Hyouryuu Vifam: Keito no Kioku - Namida no Dakkai Sakusen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9390-xFtBinzqAveH.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9390-xFtBinzqAveH.png",
+            "color": "#e49350"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 9,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 9,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The story takes place in Kukto in D.C. 2060 - a year after VIFAM. Ypserlon has been restored to peace, though there still remains occasional skirmishes. The Thirteen are invited there for a ceremony by the new Kukto government (its members are formerly the rebels). As two unexpected people appear, they develop a new story. It is a quest for memory.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 57,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 51,
+          "popularity": 179,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2805,
+          "title": {
+            "userPreferred": "Onegai! Samia Don"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2805.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2805.jpg",
+            "color": "#ffe443"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 4,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1986,
+            "month": 2,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "In england, in the mid-80s, three kids encouter the last genie of the sands, who can grant one, and only one wish per day. But the magic does not last, at the sunset, everything disappears. Each episode follows a typical day where the three kids are wishing for every kind of wacky stuff that usually ends in a mess at the end.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 39,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 50,
+          "popularity": 198,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 14247,
+          "title": {
+            "userPreferred": "Lunn wa Kaze no Naka"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14247.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14247.jpg",
+            "color": "#f16b35"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 4,
+            "day": 13
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 4,
+            "day": 13
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "This is the third episode in the Lion Books Series, in which a boy who has fallen in love with a girl on a poster on the wall starts to look for her. This story depicts the heartache of adolescent first love in a low-key manner.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 369,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 200,
+                  "name": "Tezuka Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 8677,
+          "title": {
+            "userPreferred": "Sangokushi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8677-luDOmZo7bRb1.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8677-luDOmZo7bRb1.png",
+            "color": "#a1281a"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 3,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 3,
+            "day": 20
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8677-DNB7wU40SlOV.jpg",
+          "season": "SPRING",
+          "description": "An anime special based on the Romance of the Three Kingdoms novel. Aired on NTV. ",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 94,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 304,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 247,
+                  "name": "Shin-Ei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4126,
+          "title": {
+            "userPreferred": "Creamy Mami: Lovely Serenade"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4126.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4126.jpg",
+            "color": "#e4a15d"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1985,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "An anime music video with songs from the anime series.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 29,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 49,
+          "popularity": 233,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5878,
+          "title": {
+            "userPreferred": "Love Position Halley Densetsu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5878.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5878.jpg",
+            "color": "#e44350"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 16
+          },
+          "endDate": {
+            "year": 1985,
+            "month": 12,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "This is the very first original animated video produced by Tezuka Productions, about an agent who was sent riding on Halley's comet to the earth. He was actually given an order to destroy the earth. Captivated by planet's beauty, however, he is no longer able to destroy the planet. Seventy-six years later, another agent from Halley's comet is sent to the earth to liquidate this traitor, who is now disguised as a girl named Lamina in Vietnam. Tezuka Osamu oversaw only the original story.<br><br>\n(Source: AniDB) ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 93,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 375,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103775,
+          "title": {
+            "userPreferred": "Rainbow Signal: Hi-Fi Set"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103775-QIwTfCf0Hh2O.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103775-QIwTfCf0Hh2O.jpg",
+            "color": "#3586a1"
+          },
+          "startDate": {
+            "year": 1985,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1985,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "These are six loosely-related anime/live-action music videos from the band Hi-Fi Set. For the most part, they form a story about the love life of two cute dragons who live in a high-tech future city. This disc was released in 1985, right in the middle of Hi-Fi Set's career (1974-1994), and features songs from that era (from their 1984 and 1985 albums Pasadena Park and Indigo).\n<br><br>\n(Source: Piyo-Piyo Productions)",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 29,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy",
+            "Music",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 48,
+          "popularity": 163,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

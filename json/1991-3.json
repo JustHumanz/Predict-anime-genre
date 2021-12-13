@@ -1,0 +1,2246 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 168,
+        "perPage": 50,
+        "currentPage": 3,
+        "lastPage": 4,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 20385,
+          "title": {
+            "userPreferred": "Eguchi Hisashi no Kotobuki Gorou Show"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20385-8vbZByj1CB9v.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20385-8vbZByj1CB9v.jpg",
+            "color": "#1a93d6"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 5,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 11,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on the gag manga by Hisashi Eguchi.<br><br>\nEpisode 1 is about the vulgar family trying to get their daughter married. Episode 2 is about the vulgar family and the hardships of married life. Episode 3 is about a boxer who can only loose weight by abstaining from sex. Episode 4 is about giant monsters.<br><br>\n<i>Note: Originally released as a feature part of Studio Pierrot's video magazine show Anime V Comic Rentaman (&#12450;&#12491;&#12513;&#12539;V&#12539;&#12467;&#12511;&#12483;&#12463; &#12524;&#12531;&#12479;&#12510;&#12531;) along with Abashiri Ikka, Yumemakura Baku Twilight Gekijou and Akai Hayate.</i> <br><br>\n(Source: AniDB) ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 7,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": 38,
+          "popularity": 458,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 100110,
+          "title": {
+            "userPreferred": "Dragon Fist"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b100110-rZ4oRMIErl50.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b100110-rZ4oRMIErl50.jpg",
+            "color": "#c9350d"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 3,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 3,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The story follows Ling Fei-long, a Chinese transfer student living in Japan. Ling is the son of the leader of the White Dragon clan, one of four clans who live in the mountains of China and are descended from mythical beasts. After killing an ordinary human, Ling is banished to Japan so that he might learn about humanity and how to control his powers around them.\n",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 40,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 37,
+          "popularity": 473,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6110,
+                  "name": "Agent 21"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4531,
+          "title": {
+            "userPreferred": "Dark Cat"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4531-rQVvInZEeenm.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4531-rQVvInZEeenm.jpg",
+            "color": "#e48635"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 11,
+            "day": 28
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 11,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Hyoi and Ryoi, two brothers with the power to take the form of cats, must unravel the mystery of a creeping, tenticled, demon plauge before it consumes them and their classmates. Ultimately, they must confront their old Dark Cat master Jukokubo, though whether they can put an end to the evil he has released remains a mystery.<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Horror",
+            "Romance",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 27,
+          "popularity": 1100,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6110,
+                  "name": "Agent 21"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 154,
+                  "name": "E&G Films"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1345,
+          "title": {
+            "userPreferred": "Psychic Wars"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1345.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1345.jpg",
+            "color": "#e49350"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 2,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 2,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Ukyo Rettsu, a surgeon, treats a mysterous old woman for a mysterious \"cancer.\" The growth turns out to be a messenger from the ancient past of Japan heralding a demonic invasion of the Earth. Ukyo must go back in time and fight the race of ancient demons. <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": 25,
+          "popularity": 958,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 141057,
+          "title": {
+            "userPreferred": "Sore Ike! Anpanman: Dokin-chan no Dokidoki Calendar"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141057-nhRp7YdV7xdJ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141057-nhRp7YdV7xdJ.png",
+            "color": "#e4bb43"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 7,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 7,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Dokin-chan is finally the star of the show, watch as they sing and dance on the big stage! Baikinman joins in on the fun of the variety show, and the two look back on Soreike! Anpanman's past episodes.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 8,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140846,
+          "title": {
+            "userPreferred": "Gum Shaara"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140846-mCpI5k06VqqQ.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140846-mCpI5k06VqqQ.png",
+            "color": "#785d1a"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 8,
+            "day": null
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 8,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Official Minna no Uta music video for Gum Shaara sung by Kobayashi Katsuya.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 12,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140233,
+          "title": {
+            "userPreferred": "Watashi to Piano"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140233-W0EYY5TPJYWx.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140233-W0EYY5TPJYWx.png",
+            "color": "#5d6b1a"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 4,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 4,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for a song by Junko Yagami that was featured on NHK's Minna no Uta program. Originally released in April 1991 as Watashi to Piano, the title was changed to Piano to Watashi when it was rebroadcast in August that same year. The video features illustrations by Seiichi Hayashi which were animated by Yumiko Kanaumi.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 11,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 139295,
+          "title": {
+            "userPreferred": "Kaitou Yumenosuke"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139295-nvvchk0qLmwf.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139295-nvvchk0qLmwf.png",
+            "color": "#a16b28"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 6,
+            "day": null
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 6,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Kaitou Yumenosuke is a dream magician who loves eating the happy dreams of people.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 21,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 138871,
+          "title": {
+            "userPreferred": "Bakabon to Osomatsu no Curry"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138871-n9d10hxflBlK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138871-n9d10hxflBlK.jpg",
+            "color": "#e49328"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 10,
+            "day": 19
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 10,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Bakabon's dad's journey in search of a delicious curry.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 17,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 129816,
+          "title": {
+            "userPreferred": "Kumo ni Noru"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129816-DZcQaHz5zYsl.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129816-DZcQaHz5zYsl.png",
+            "color": "#e47835"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 3,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 6,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "In a Buddhist heaven where saints fight over turf in the clouds, Nio-maru searches for the younger sister torn from him in an aircraft accident back in the human world.\n<br><br>\n(Source: The Anime Encyclopedia)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 44,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 126620,
+          "title": {
+            "userPreferred": "Oh! My Konbu"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126620-bhQTtsCeVNX2.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126620-bhQTtsCeVNX2.jpg",
+            "color": "#e4a128"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 5,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 9,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Fifth-grader Nabeyama Konbu is the son of a cook in a slice-of-life gourmet comedy that tries to add an element of adventure to slaving in the kitchen. Konbu helps his father solve problems in the world through the judicious use of seasonings, the right choice of menu, and the pleasing of fickle customers.\n<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 22,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 36,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 119958,
+          "title": {
+            "userPreferred": "Chou Bakumatsu Shounen Seiki Takamaru"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119958-9NEXJDFDCftx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119958-9NEXJDFDCftx.jpg",
+            "color": "#e46b50"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 11,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 12,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 59,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6460,
+                  "name": "Studio Live"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 118135,
+          "title": {
+            "userPreferred": "Te no Naka no Mahou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118135-3KHS6mv3dR5U.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118135-3KHS6mv3dR5U.jpg",
+            "color": "#e43593"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 8,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 8,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Hands are magical. You can draw with them, grasp the reigns of a carousal, and reach out to be called up.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 61,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 113180,
+          "title": {
+            "userPreferred": "BE-BOP Kaizokuban"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113180-0Ssx0UeDayDe.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113180-0Ssx0UeDayDe.jpg",
+            "color": "#e45d78"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 3,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1993,
+            "month": 6,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A parody spin-off of Be-Bop Highschool. Based on the official parody manga.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 35,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 166,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 107010,
+          "title": {
+            "userPreferred": "Dororonpa!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107010-daO2s57ZuVmN.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107010-daO2s57ZuVmN.png",
+            "color": "#e41a35"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 4,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 9,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Komachi is a little ghost who died during the Meiji Era and has hung around earth as a wandering spirit girl for over a hundred years. Komachi appears in the room of a young girl named Anko and the two get wrapped up in all sorts of adventures involving other ghosts and demons.\n<br><br>\n(Source: TV Asahi)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 115,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 87,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 247,
+                  "name": "Shin-Ei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 106457,
+          "title": {
+            "userPreferred": "Mahjong Hishou-den Naki no Ryuu: Hiryuu no Shou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106457-3THIiXY7oJQM.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx106457-3THIiXY7oJQM.png",
+            "color": "#e46b5d"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 8,
+            "day": 23
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 8,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "An OVA released in 1991. Unlike the previous OVA series, this episode was produced separately by Toshiba.\n\nThe protagonist, Ryuu or Crying Dragon, is a mysterious man who often plays games with the gang members. He only wins by \"ron\", a move in which one needs to wait for the opponent's tile to complete the win.\n\n* 'Ron' is also called 'Naki' in mahjong, which has the same pronunciation as 'Crying' in Japanese.\n\nMahjong Hishouden Naki no Ryuu is a mahjong anime based on a manga by Nojo Junichi in 1980s-90s.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 134,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 105194,
+          "title": {
+            "userPreferred": "Magical Taruruuto-kun: Moero! Yuujou no Mahou Taisen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n105194-hq7afoKxRQdM.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n105194-hq7afoKxRQdM.jpg",
+            "color": "#f1c943"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 7,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 7,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Fifth grader Edojou Honmaru is one of the most trodden upon losers in his class, untuil he meets Magical Taruruuto-kun. Taruruuto's powers help him deal with all his hardships, such as girls, bullies, and numerous other challenges.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 41,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 98,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 105193,
+          "title": {
+            "userPreferred": "Magical★Taruruuto-kun (1991)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b105193-CmTbggm5m5Ih.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b105193-CmTbggm5m5Ih.jpg",
+            "color": "#e4c91a"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 3,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 3,
+            "day": 9
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Fifth grader Edojou Honmaru is one of the most trodden upon losers in his class, untuil he meets Magical Taruruuto-kun. Taruruuto's powers help him deal with all his hardships, such as girls, bullies, and numerous other challenges.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 51,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 118,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 104569,
+          "title": {
+            "userPreferred": "Trusty Ginjiro"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104569-m2OnMycnEsxx.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104569-m2OnMycnEsxx.jpg",
+            "color": "#e49328"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 5,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 11,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "After the death of his elder brother, Ginjiro Yamazaki appoints himself his parents' protector. After transferring to a new school, he gets into a lot of fights.\n\n(Source: The Anime Encyclopedia)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 89,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 104067,
+          "title": {
+            "userPreferred": "Fushigi no Umi no Nadia: Nautilus Story"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104067-1rKBXWoPothn.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104067-1rKBXWoPothn.png",
+            "color": "#50bbfe"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 6,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 6,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A shorter, more streamlined version of Nadia called \"The Nautilus Story\", which all but eliminates the filler arc and concentrates on the struggle between Nemo and Gargoyle. Some scenes in the more pivotal episodes are cut as well. The compilation series was made by Hideaki Anno, who was said to have been dissatisfied with the final result of the TV show. The Nautilus Story was only released in Japan on VHS and laserdisc.\n<br><br>\n(Source: TV Tropes, edited)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 100,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 155,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103436,
+          "title": {
+            "userPreferred": "Sonna Boku ga Suki"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103436-eEnHjygkbeTF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103436-eEnHjygkbeTF.jpg",
+            "color": "#e49343"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1991,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A music video for the song by Tama that was featured on NHK's Minna no Uta program.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 70,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20175,
+          "title": {
+            "userPreferred": "Gamba to Kawauso no Bouken"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20175.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20175.jpg",
+            "color": "#a15d35"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 7,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 7,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 75,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 129,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 19957,
+          "title": {
+            "userPreferred": "Huckleberry no Bouken (Movie)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19957.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19957.jpg",
+            "color": "#e4ae5d"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 8,
+            "day": 16
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 8,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Movie version of the TV series Huckleberry no Bouken.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 86,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 91,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 19873,
+          "title": {
+            "userPreferred": "Marude Dameo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19873.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19873.jpg",
+            "color": "#e4bb28"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 11,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 9,
+            "day": 26
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "The series stars an elementary school boy named Dameo Marude, who has little success with anything he tries, and a robot named Borot, which is good with housekeeping.\n<br><br>\nBased on the same name manga by Morita Kenji, serialized in Weekly Shounen Magazine.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 47,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 100,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 19831,
+          "title": {
+            "userPreferred": "Ore wa Chokkaku"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19831.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19831.jpg",
+            "color": "#ff436b"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 1,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 10,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": null,
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 36,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 110,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 19705,
+          "title": {
+            "userPreferred": "Meitantei Hangyodon: Kaitou Ruzu Arawaruno-kan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19705.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19705.jpg",
+            "color": "#0d35ae"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1991,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Sanrio's Hangyodon starring as a detective in the case of the mysterious thief.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 53,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 19583,
+          "title": {
+            "userPreferred": "Ishii Hisaichi no Dai Seikai"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19583.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19583.jpg",
+            "color": "#f1bb43"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 9,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 9,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Based the same name gag manga by Hisaichi Ishii.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 43,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 54,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 19517,
+          "title": {
+            "userPreferred": "Taabou no Ryuuguusei Daitanken"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19517.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19517.jpg",
+            "color": "#f1ae1a"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 7,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 7,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 36,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 63,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 19063,
+          "title": {
+            "userPreferred": "Judo-bu Monogatari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19063.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19063.jpg",
+            "color": "#f1935d"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 3,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 6,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on the same name manga by Kobayashi Makoto.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 88,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 19059,
+          "title": {
+            "userPreferred": "UFO Nitsukamatta Kodomo-tachi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19059.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19059.jpg",
+            "color": "#2878f1"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1991,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Educational video that teaches kids about the value of money and the consequences of overconsumption.<br><br>\n*Part of the series of films produced with cooperation of: Japan's Central Council for Financial Services Information and Bank of Japan Public Relations Department.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 68,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18743,
+          "title": {
+            "userPreferred": "Money Wars: Nerawareta Waterfront Keikaku"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18743.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18743.jpg",
+            "color": "#e4780d"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 9,
+            "day": 27
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 9,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Money Wars: Nerawareta Waterfront Keikaku is a story about a battlefield in the stock market. ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 120,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18323,
+          "title": {
+            "userPreferred": "Jangdokdae"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18323.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18323.jpg",
+            "color": "#e4bb35"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1991,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A 1991 Korean Historical movie.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 54,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17615,
+          "title": {
+            "userPreferred": "Kyoufu Shinbun"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17615.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17615.jpg",
+            "color": "#d6431a"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 7,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 9,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "For reasons unknown to him, Rei receives the Kyoufu Shinbun every morning, a newspaper which foresees deaths and catastrophes...<br><br>\nBased on Tsunoda Jirou's classic horror manga \"Kyoufu Shinbun\", serialized in Weekly Shounen Champion.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 189,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17473,
+          "title": {
+            "userPreferred": "Jungle Wars"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17473.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17473.jpg",
+            "color": "#5daee4"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 6,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 6,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Based on the RPG game series \"Jungle Wars\", released on Game Boy and Super Famicom.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 40,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 115,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17307,
+          "title": {
+            "userPreferred": "Dr. Typhoon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17307.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17307.jpg",
+            "color": "#4393e4"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 4,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 4,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on a seinen manga written by Takahashi Michitsuna and illustrated by Kazama Eiji, serialised in Weekly Manga Action.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 110,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16970,
+          "title": {
+            "userPreferred": "Nyuuin Bokki Monogatari: Odaijini!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16970.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16970.jpg",
+            "color": "#f1a150"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 12,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 12,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Yamashita and Negishi end up in the hospital with broken legs and arms. It's summer vacation and they are very bored, so they start picking on the cute nurse Miyuki.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 105,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16586,
+          "title": {
+            "userPreferred": "Michitekuru Toki no Mukou ni"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16586.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16586.jpg",
+            "color": "#f1bb86"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 6,
+            "day": 16
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 6,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Based on Suzuki Kouji's novel Paradise, which won the Japan Fantasy Novel Award in 1991.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 80,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 96,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16021,
+          "title": {
+            "userPreferred": "Miracle Psychicer Seizan"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16021.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16021.jpg",
+            "color": "#e45d43"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 11,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1993,
+            "month": 7,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 5,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 79,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 13047,
+          "title": {
+            "userPreferred": "Anime Koukyoushi: Jungle Taitei"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13047.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13047.jpg",
+            "color": "#e4785d"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 1,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 1,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Actually, that 1991 date is misleading. The Symphonic Poem originated with the music Isao Tomita wrote for Jungle Emperor in 1965. He re-worked his music into a long form which tells a story by itself. (This form of music was termed \"symphonic poem\" or \"tone poem\" by composers in the late Romantic era.) So music that was written originally to enhance visual story telling became the story teller.<br><br>\nTomita's symphonic poem was recorded in the mid-60s and issued on LP in Japan. More than once, in fact. It has also been on CD more than once.<br><br>\nIn 1991, Tezuka Productions turned the process upside down and created new animation to illustrate the symphonic poem. The story is basically that of the first Kimba episode. We see the peaceful animal kingdom under Panja, the coming of the hunters, Eliza's capture and Panja's death. Kimba is born and escapes back to Africa. All this told without a single word spoken. The style of the Symphonic Poem's animation is unique. It draws heavily on the style of the 1989 TV series, but Kimba looks different from the way he looked in any other production.<br><br>\n(Source: kimbawlion.com/verspage.htm)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 51,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 165,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 12899,
+          "title": {
+            "userPreferred": "Ucchare Goshogawara"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12899.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12899.jpg",
+            "color": "#e4505d"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 10,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 10,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 99,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 12833,
+          "title": {
+            "userPreferred": "Ushiro no Hyakutarou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12833.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12833.jpg",
+            "color": "#f1bb0d"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 8,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 10,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Horror OVA based on the manga by Jirou Tsunoda. The title roughly means \"Hyakutarou behind\". <br><br>\nA boy named Ichitarou Ushiro deals with various horrifying phenomena with the help of his guardian spirit Hyakutarou. <br><br>\n2 episodes: \"Kokkuri Satsujin Jiken\", \"Yuutai Ridatsu\". <br><br>\n(Source: AniDB) ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 60,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 85,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10741,
+          "title": {
+            "userPreferred": "Jingi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10741.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10741.jpg",
+            "color": "#e43550"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 12,
+            "day": 4
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 4,
+            "day": 8
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 112,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10481,
+          "title": {
+            "userPreferred": "Princess Connection"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10481.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10481.jpg",
+            "color": "#5d86f1"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 12,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 12,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Special based on the manga by Ooya Kazumi, published in Betsukomi Flower Comics.<br><br>\nAn all-male pop group doubles as a detective agency. The cute girl member of the agency is kidnapped when one of the men's past returns to trouble them all in the present.<br><br>\n(Source: sandg-anime)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 209,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10353,
+          "title": {
+            "userPreferred": "Okama Report"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10353.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10353.jpg",
+            "color": "#43aee4"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 4,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 2,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Okama is a man who has some problems. First off, his name means 'gay' in Japanese. Next, he has the hots for himself dressed as a girl. Finally, he ends up working at a transvestite bar where he has befriended a girl named Miki. This is not an easy matter to solve, because she only knows him as his female counterpart named Catherine. So how is a guy dressed as a girl supposed to come out to a girl as a heterosexual male? To make matters worse, she has a boyfriend who is trying everything in the book to get with her. Enter the exciting world of Okama Hakusho where love comes in many different flavors!",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 173,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10113,
+          "title": {
+            "userPreferred": "Yokohama Meibutsu: Otoko Katayama-gumi!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10113.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10113.jpg",
+            "color": "#f1e443"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 8,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The city of Yokohama has become a lawless district for biker gangs. One particular gang, the \"Crazy Babies\", have a 17 year old leader called Hiromi Katayama that is famous throughout the entire Kanagawa alliance as being a strong fighter with a devout sense of morality. However, when a young rookie by the name of Toshi Ikeda wants in, he swears to Katayama that he will uphold the ideals of the Crazy Babies and vows to not fight with anybody for his first probationary month within the gang or else forfeit his chance to join the gang.<br><br>\nIkeda being the fiery young man he is, soon finds himself caught in the middle of a fight and unintentionally sparks off a feud between the gangs of Kanagawa and the dangerous Nagoya based group, The Dragon Star Crew, who have their eye on taking the whole of Kanto.<br><br>\nCan Katayama defend Yokohama from the encroaching hoodlums?",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 46,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 113,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 10057,
+          "title": {
+            "userPreferred": "Sore Ike! Anpanman: Tobe! Tobe! Chibigon"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10057.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10057.jpg",
+            "color": "#f19350"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 7,
+            "day": 20
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 7,
+            "day": 20
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 40,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 83,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9993,
+          "title": {
+            "userPreferred": "Samuraider"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9993.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9993.jpg",
+            "color": "#ae5035"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 2,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 2,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "In a weak combination of samurai movie and Bomber Bikers of Shonan, Tokyo street-punk Masao buys a treas-ured FZR \"katana\" motorcycle and becomes a knight of the road, attacking criminals with a genuine katana sword. Based on the manga by Shinichi Sugimura in Young Magazine.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 150,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9965,
+          "title": {
+            "userPreferred": "Soukou Kyoshin Z-Knight"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9965.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9965.jpg",
+            "color": "#f1f15d"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 12,
+            "day": 30
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 12,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "A promotional video tape with a short Z-Knight anime and other clips sold with a Z-Knight douple pack including colour variations of two Z-Knights.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 78,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9882,
+          "title": {
+            "userPreferred": "High School Mystery: Gakuen Nanafushigi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9882.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9882.jpg",
+            "color": "#f1935d"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 4,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 3,
+            "day": 13
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": null,
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 41,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror",
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 212,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9879,
+          "title": {
+            "userPreferred": "Shougakusei no Yuukai Boushi: Yumi-chan Abunai yo!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9879.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9879.jpg",
+            "color": "#f15d1a"
+          },
+          "startDate": {
+            "year": 1991,
+            "month": 5,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 5,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A video for kids shown in japanese schools to prevent against kid abduction.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 93,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

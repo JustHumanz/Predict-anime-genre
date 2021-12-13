@@ -1,0 +1,554 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 162,
+        "perPage": 50,
+        "currentPage": 4,
+        "lastPage": 4,
+        "hasNextPage": false
+      },
+      "media": [
+        {
+          "id": 7836,
+          "title": {
+            "userPreferred": "Notari Matsutarou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7836.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7836.jpg",
+            "color": "#d65d1a"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 11,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 4,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 10,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 148,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7374,
+          "title": {
+            "userPreferred": "100%"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7374.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7374.jpg",
+            "color": "#50a1e4"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 9,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 9,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A pretty 22-year-old girl leaves university and gets her dream job as a TV newscaster, only to discover that life is tough at the top. Adaptation of the \"Young Action\" manga by Michio Yanagisawa.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 53,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 162,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7090,
+          "title": {
+            "userPreferred": "Madou King Granzort: Saigo no Magical Taisen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7090.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7090.jpg",
+            "color": "#f1bb5d"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 8,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 9,
+            "day": 8
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 130,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 6065,
+          "title": {
+            "userPreferred": "Lemon Angel YJ Ban"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6065.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6065.jpg",
+            "color": "#f1e435"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 6
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 8,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Adaptation of the Lemon Angel manga serialized in Young Jump magazine. ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 173,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5986,
+          "title": {
+            "userPreferred": "Tengai Makyou: Jiraiya Oboro-hen"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5986.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5986.jpg",
+            "color": "#fec950"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 27
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 7,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Based on the first Tengai Makyou game, that initially came out in 1989 as one of the first titles for NEC's PC Engine CD-ROM.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 100,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 76,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5931,
+          "title": {
+            "userPreferred": "Camelot"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5931.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5931.jpg",
+            "color": "#e4d650"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 8,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 8,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Marina meets beautiful boys in a SF Fantasy based in Medieval England. ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 137,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 196,
+                  "name": "Ashi Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 5922,
+          "title": {
+            "userPreferred": "Tenjouhen: Utsunomiko"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5922.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5922.jpg",
+            "color": "#f1501a"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 9,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 9,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Prequel of Utsunomiko.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 71,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 219,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5895,
+          "title": {
+            "userPreferred": "Tistou the Green Thumb"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5895.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5895.jpg",
+            "color": "#e49350"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 24
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 3,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A very nice story about a child who has an unusual ability.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 74,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 166,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5274,
+          "title": {
+            "userPreferred": "Magical★Taruruuto-kun"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5274-VhXAIiX3fF7L.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5274-VhXAIiX3fF7L.jpg",
+            "color": "#f1c90d"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 9,
+            "day": 9
+          },
+          "endDate": {
+            "year": 1992,
+            "month": 5,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Magical Taruruto-kun is a magical boy, fighting, and comedy TV show based on the manga of the same name by Tatsuya Egawa which ran in Weekly Shounen Jump.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 87,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 298,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4928,
+          "title": {
+            "userPreferred": "Idol Angel Welcome Yoko"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4928.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4928.jpg",
+            "color": "#e48628"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 4,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 2,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A young girl and her flying squirrel goes to Tokyo in hopes of becoming an idol singer. On the way, she meets another girl who wants to become an actress, and together they work to achieve their dreams. \n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 43,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 324,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 196,
+                  "name": "Ashi Productions"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2712,
+          "title": {
+            "userPreferred": "I am THE Shiratori Reiko!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2712-rhzvkJhSOrZR.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2712-rhzvkJhSOrZR.jpg",
+            "color": "#f15d86"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 4,
+            "day": 25
+          },
+          "endDate": {
+            "year": 1990,
+            "month": 4,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "19-year old Reiko is a rich, arrogant, material girl, who refuses to admit her feelings for classmate Tetsuya Akimoto before it's almost too late. Reiko pursues him to Tokyo and enrolls at his university in an attempt to win him back.<br><br>\n(Source: Anime News Network) ",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 44,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 110,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2073,
+          "title": {
+            "userPreferred": "Hengentai Mayakou Karura Mau! Sendai Kokeshi Enka"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2073.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2073.jpg",
+            "color": "#e46b1a"
+          },
+          "startDate": {
+            "year": 1990,
+            "month": 9,
+            "day": 14
+          },
+          "endDate": {
+            "year": 1991,
+            "month": 3,
+            "day": 8
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Shoko and Maiko Ougi are apparently two ordinary schoolgirls in pursuit of graduating and having fun. Shii-chan is the more serious while Mai-chan is more fun-loving. In reality, the two sisters are powerful exorcists from the Karura temple. Each wields half the power... Shii-chan can \"see\" the spirits, and Mai-chan can banish them. This is a spooky series with heavy emphasis on traditionally Japanese occult themes. <br><br>\n(Source: AnimeNfo)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 208,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2050 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 146,
+        "perPage": 50,
+        "currentPage": 3,
+        "lastPage": 3,
+        "hasNextPage": false
+      },
+      "media": [
+        {
+          "id": 7450,
+          "title": {
+            "userPreferred": "Kipling Jr."
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7450.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7450.jpg",
+            "color": "#e4a143"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1995,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A short film by Koji Yamamura.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 14,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 46,
+          "popularity": 186,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1338,
+          "title": {
+            "userPreferred": "Tokyo Revelation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1338-l0Vph5GHlxAg.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1338-l0Vph5GHlxAg.jpg",
+            "color": "#e4c943"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 4,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 6,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "A satanic program is activated aboard a crowded commercial flight headed for Tokyo. It releases a swarm of invisible demons that send the aircraft plunging to a fiery doom. Everyone aboard is killed instantly - except Akito Kobayashi - owner of the devilish program and sworn ally of hell itself.<br><br>\nKojiro Soma, an old elementary school friend of Akito`s, is surprised to see him enroll back in school. Kojiro notices how this once lonely boy has grown into a suave and arrogant teenager. Later, when his classmates are attacked and legendary demons return to stalk to streets of Tokyo, Kojiro begins to truly understand what his old friend has become.<br><br>\nAkito has plans for the human race. The plans revolve around magnetite, the mysterious element that forms the living essence of every human soul. Combined with his demonic software, a strong enough source of magnetite would release a plague of devils upon the Earth. That source exists in Kojiro`s class, but when the evil plan expands beyond even Akito`s grasp, it is Kojiro who must find the ultimate power within himself, and go head-to-head with the greatest demon of all!<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Horror",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 1281,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6958,
+                  "name": "Sanctuary"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2714,
+          "title": {
+            "userPreferred": "Graduation"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2714.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2714.jpg",
+            "color": "#f14328"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 1,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 2,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Regardless of how students handle the many academic challenges facing them, they all know that there will come a day when they will leave all the hurdles of scholastic achievement behind and tackle the triumphs and sorrows of true adulthood. One thing that many young people don`t realize is that this often means leaving behind the friends that have been with them through their youth.<br><br>\n(Source: AnimeNfo)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 326,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 5237,
+          "title": {
+            "userPreferred": "Compiler 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5237-lWgYFpUtDX6B.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5237-lWgYFpUtDX6B.jpg",
+            "color": "#e4c95d"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 12,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 12,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Compiler and Assembler have been given 3 days to return the the 2-D world. If they do not return the council has sworn to destroy it. How will the they spend their last days on earth. Will they be able to confess their love. If only things were that simple. Now a mysterious character is eliminating other individuals from the 2-D world. Can Compiler and Assembler stop this new fiend and be together with those they love. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 269,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2528,
+          "title": {
+            "userPreferred": "Megami Tengoku"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2528-v4NwzZHIL6wk.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2528-v4NwzZHIL6wk.png",
+            "color": "#e4865d"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 6,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 8,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Mama Megami, the mother goddess and ruler of paradise is retiring. Her successor appoints a young mage named Lilith to be one of her guardians. Lilith's first assignment is to recruit two more worthy guardians for the new Mama Megami. Not an easy task, as Stashia, the first candidate on Lilith's short list is not interested. Lilith didn't even have a chance to ask the second person on the list, a warrior named Juliana due to a misunderstanding caused by Stashia's little sister Rurubell. Rurubell wants to be a guardian, but Lilith turned her down due to her very young age and lack of experience. Meanwhile, Paradise is under attack by an evil goddess who wants to dominate it, and it's up to Lilith, Stashia, Rurubell, and Juliana to thwart the attackers.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 45,
+          "popularity": 663,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 6896,
+                  "name": "Animate Film"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2737,
+          "title": {
+            "userPreferred": "Kouryuu no Mimi: Mina no Shou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2737-KLtvEnG2azDj.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2737-KLtvEnG2azDj.png",
+            "color": "#e4c950"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 4,
+            "day": 26
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 6,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on the manga by Inoue Noriyoshi, which has also had a Super Famicom game spinoff.<br><br>\nNatsume Kiroemon, the protagonist, was the 45th leader of the Natsume family, and inherit the \"Kiryuu no Mimi \", a tool which gave its bearer easy access to wealth and women. As a result of his father's death, he left the Italian monastery where he'd been training and rightfully took the name \"Natsume Kiroemon\" as well as the power of the Kiryuu no Mimi. Upon his return to Japan, he fell fatally in love with Kanako, one of the members of the rival Mina family. However, the evil hand of the Mina family attacked Natsume constantly and abducted Kanako. Now Natsume has unlocked the seal, making the Kiryuu's power surge, and he's striking back at the Mina family.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Ecchi",
+            "Fantasy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 43,
+          "popularity": 320,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 28,
+                  "name": "OLM"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2610,
+          "title": {
+            "userPreferred": "First Loves"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2610-ZfSE4UBQB00q.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2610-ZfSE4UBQB00q.png",
+            "color": "#d6866b"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 6,
+            "day": 16
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 11,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "This is an older four episode light hentai anime that was originally released in 1995. The first two episodes were brought out in English under the title of \"First Loves\" and bears no relationship to the \"Elf version Kakyuusei OAV\" and \"Kakyuusei TV series\" that were released in 1997-1998 and 1999 respectively. <br><br>\nFirst Loves/Kakyuusei OAV (1995) is mainly centered on Kakeru and his relationship with four girls from his high school. It focuses on one girl per episode - the cute and friendly Urara in the first, the forsaken tennis girl Rie in the second, the dog-owning painter Hikari in the third and the tough-fighting motorcycle girl in the final episode. Which girl will Kakeru choose to be with by the end of the fourth episode? <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Ecchi",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 42,
+          "popularity": 384,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1776,
+          "title": {
+            "userPreferred": "Red Hawk - Weapon Of Death"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1776.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1776.jpg",
+            "color": "#e4a143"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 8,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 8,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Gang terror and chaos reign in the land of Chungwon. The Camelia Blossoms are the most powerful of the warring gangs and they use this time of unrest to wrestle control of the country from the ailing peoples government, while also producing counterfeit gold coins to cripple the struggling economy. The only hope of freedom lies with the enigmatic Red Hawk.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 86,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 42,
+          "popularity": 200,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1528,
+          "title": {
+            "userPreferred": "Battle Skipper: The Movie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1528.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1528.jpg",
+            "color": "#e4785d"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 8,
+            "day": 23
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 12,
+            "day": 16
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Despite the title, this is not a feature but the three-part OAV Battle Skipper (1995), which Takashi Watanabe directed before going on to Slayers. <br><br>\r\nWhen the members of the Etiquette Club at St. Ignacio's School for Girls go down the tubes--literally--they acquire the skimpy outfits they wear to pilot the unfortunately named BSs or Battle Skippers, state-of-the-art military mecha. As \"Extars,\" the Etiquette Club members fight to eliminate evil from the world, which means the bizarre schemes of Sayaka, the nasty, super-rich president of the rival Debutante Club, and her flunky, Todo. <br><br>\r\nThe series was created to promote a line of robot toys from Tomy, and viewers who are willing to accept high school girls' quarrels escalating into battles involving satellite weaponry may enjoy these silly adventures.<br><br>\r\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 27,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 41,
+          "popularity": 430,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 72,
+                  "name": "Artmic"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 7811,
+          "title": {
+            "userPreferred": "A Rule Of Dreams"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7811.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7811.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1995,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1995,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "\"Yoru no Okite\" takes us to the sky (or to hell) to accompany the delirium of a man who is assassinated. A different take on a spirit who is adrift after being murdered. This restless spirit takes us on a surreal journey through death, the after life, and back to the land of the living again.<br>",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 6,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": 36,
+          "popularity": 427,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 104127,
+          "title": {
+            "userPreferred": "Meccano"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104127-GAJpqRD06Qoy.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104127-GAJpqRD06Qoy.jpg",
+            "color": "#f1e4bb"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 9,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 9,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Three 10-minute videos present a trippy view into the minds of their creators. Brought together by Pierre Taki of Denki Groove, Mechano: Scientific Attack Force features three shorts done in very different styles.\n<br><br>\nThe three short films are:\n<br><br>\n\"Plastic Gun Man\" - a 3D Western spoof <br>\n\"World Meccano Triangle\" - a music video reminiscent of '90s era screensavers <br>\n\"Haiirogaoka no Soridaijin\" (translated as \"Prime Minister of Gray Hill\") - an anime-style animated video parody of Akira Mochizuki's famous 1977 manga, Yuuhi ga Oka no Souri Daijin\n",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 10,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Horror",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 32,
+          "popularity": 124,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 141266,
+          "title": {
+            "userPreferred": "Ningen Kakumei"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141266-2f6z4PbjL7Qg.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141266-2f6z4PbjL7Qg.png",
+            "color": "#e49350"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 1,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 11,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Based on Daisaku Ikeda's \"The Human Revolution\" novels.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 20,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 17,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 140735,
+          "title": {
+            "userPreferred": "Ohirune no Yurikago"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140735-vmPXQOBW6J3l.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140735-vmPXQOBW6J3l.png",
+            "color": "#f1d650"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 12,
+            "day": null
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 12,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the song Ohirune no Yurikago by Youko Ishida that was featured on NHK's Minna no Uta program. The video features artwork by Tetsuko Takahashi that was animated by Three-d.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 13,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 140022,
+          "title": {
+            "userPreferred": "Yamiyo no Jidaigeki (OVA)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140022-mvsAM1cX7nDb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140022-mvsAM1cX7nDb.jpg",
+            "color": "#1a50a1"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 8,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 8,
+            "day": 2
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 8,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 140020,
+          "title": {
+            "userPreferred": "HISTORICAL DRAMA IN A MOONLESS NIGHT"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140020-6MwTBvycyi8t.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140020-6MwTBvycyi8t.jpg",
+            "color": "#e41a1a"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 2,
+            "day": 19
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 2,
+            "day": 19
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Tensho 10 (1582) during the Warring States period. Akechi Mitsuhide heads to Saigoku for the reinforcement of Hideyoshi Hashiba at the behest of Nobunaga Oda, and meets the ghost of Shuten-doji, a demon who was once exterminated by his ancestors, at Oenosaka on the way.",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 12,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 13,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 139775,
+          "title": {
+            "userPreferred": "Akai Hoshi Aoi Hoshi: Tenmon Carat no Hoshi kara"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139775-flxC02iUXq8a.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139775-flxC02iUXq8a.png",
+            "color": "#283586"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 6,
+            "day": null
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 6,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Music video for the song <i>Akai Hoshi Aoi Hoshi: Tenmon Carat no Hoshi kara</i> by Saori Yuki that was featured on NHK's Minna no Uta program.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 20,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 139175,
+          "title": {
+            "userPreferred": "Chiisana Kinomi (1995)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139175-f5ymdppDrFqE.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b139175-f5ymdppDrFqE.png",
+            "color": "#a17828"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 10,
+            "day": null
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 10,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "The second animated Minna no Uta adaptation of the song <i>Chiisana Kinomi</i>. This rendition was sung by Fumiko Kanbara and this 1995 version was the third release of the song as the original from 1971 was a live-action music video.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 19,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 138982,
+          "title": {
+            "userPreferred": "Zukkoke Sannin-gumi: Kusunoki Yashiki no Guruguru-sama"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138982-Oo7nvoNCko5Q.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138982-Oo7nvoNCko5Q.jpg",
+            "color": "#d6c91a"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 11,
+            "day": 11
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 11,
+            "day": 11
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Based on Nasu Masamoto's Zukkoke Sannin-gumi young adult novels series.\nThe main characters are 6 grade boys, Hachibei, Hakase, and Mo-chan. ",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 8,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 7,
+                  "name": "J.C. Staff"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 129158,
+          "title": {
+            "userPreferred": "Bad Badtz-Maru no Ore wa Yuutousei"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129158-BsdS7EoQT1jl.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129158-BsdS7EoQT1jl.jpg",
+            "color": "#e49343"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 10,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 10,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": null,
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 19,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 126890,
+          "title": {
+            "userPreferred": "Private Eye Dol"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126890-VIjz4bSa7HrB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126890-VIjz4bSa7HrB.jpg",
+            "color": "#e4bb5d"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 8,
+            "day": 12
+          },
+          "endDate": {
+            "year": 1996,
+            "month": 4,
+            "day": 5
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Concurrent with an ADV game by HuneX/NEC-HE, the title is a pun about its detective and idol protagonist. It was released on issues 1 to 3 of NEC's Anime Freak FX, a CD-ROM magazine resembling a game for the PC-FX platform.\n<br><br>\nThe hacker Idol King is targeting idols, exposing awkward scenes of their private lives. Now, the next is the popular May Star...",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 44,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 121825,
+          "title": {
+            "userPreferred": "Sore Ike! Anpanman: Anpanman to Happy Otanjoubi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121825-F0jNQ4CNFHcD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121825-F0jNQ4CNFHcD.jpg",
+            "color": "#ffe435"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 7,
+            "day": 29
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 7,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "An animated short movie about Anpanman and his friends preparing for celebrating a birthday.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 29,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 43,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 121063,
+          "title": {
+            "userPreferred": "Miminari"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121063-4h0K6TrSAUy3.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121063-4h0K6TrSAUy3.jpg",
+            "color": "#d68678"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1995,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A colorful psychedelic animation developed by drawing motifs of each part of the ear and body.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 46,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 118675,
+          "title": {
+            "userPreferred": "Donguri to Yamaneko (1995)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118675-DkXoZpKT4PHG.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b118675-DkXoZpKT4PHG.jpg",
+            "color": "#f1c95d"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A retelling of Miyazawa Kenji's story of The Acorns and the Wildcat.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 56,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 115360,
+          "title": {
+            "userPreferred": "Kawa wa Dare no Mono?"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115360-DQUJZOkbeNi4.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115360-DQUJZOkbeNi4.png",
+            "color": "#2886bb"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 12,
+            "day": null
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 12,
+            "day": null
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/115360-TNAIgrlkcsXS.jpg",
+          "season": null,
+          "description": "A song about how the rain becomes rivers, how the rivers give life, and how the rivers become wide open seas.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 78,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 104942,
+          "title": {
+            "userPreferred": "Kekkon Soudan Sho"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104942-Hk3fZ4iS0EaR.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104942-Hk3fZ4iS0EaR.jpg",
+            "color": "#1a8693"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 7,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 7,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Official music video for Kojima Mayumi's Kekkon Soudan Sho single.",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 68,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103978,
+          "title": {
+            "userPreferred": "Apron Hero"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103978-w1o6kdL1Z2xK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103978-w1o6kdL1Z2xK.jpg",
+            "color": "#a18635"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 10,
+            "day": 1
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 10,
+            "day": 1
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A song about a father who is scatterbrained but is a real \"apron hero.\" He's able to cook up so many delicious meals and grandiose bentous.\n",
+          "type": "ANIME",
+          "format": "MUSIC",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 66,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 103549,
+          "title": {
+            "userPreferred": "Nanumu no Ie"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103549-I8oKfZbeOMiy.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103549-I8oKfZbeOMiy.jpg",
+            "color": "#e4935d"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1995,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "A documentary anime covering the lives of Korean comfort women used as sexual slaves for Japanese soldiers during WWII.\n",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 96,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 43,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102509,
+          "title": {
+            "userPreferred": "Oni no Ko to Yuki Usagi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102509-Ugdovu6OhADI.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102509-Ugdovu6OhADI.jpg",
+            "color": "#3578ae"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": null,
+            "day": null
+          },
+          "endDate": {
+            "year": 1995,
+            "month": null,
+            "day": null
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "One night a Goblin father came home gave his son a red handball. But the boy was shocked to hear that his father picked it up in front of the house of a girl called Yuki\nThe boy decided to return it to her.\n<br><br>\nNext morning, he ran in the snow to a village and saw many boys and girls singing cheerfully. When he came to a small house, he saw a girl sitting alone on the veranda. She said, \"I am Yuki. Who are you?\" He handed a ball to her without an answer. She was very glad and said \" I was looking for it. My sickly mother made this for me. Thank you very much.\" That gave him relief and they become friends.\n<br><br>\n(Source: Kyowa Film)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 22,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 121,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 102094,
+          "title": {
+            "userPreferred": "Suna Asobi"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102094-o4viDn4m7LB9.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102094-o4viDn4m7LB9.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 1,
+            "day": 10
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 1,
+            "day": 10
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Stop-motion animation using sand. Depicts a child going outside to play and exploring nature, rough-housing with friends, and using the full extent of his imagination.\n",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 77,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20353,
+          "title": {
+            "userPreferred": "Gakkou no Yuurei"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20353.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20353.jpg",
+            "color": "#ae4335"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 10,
+            "day": 21
+          },
+          "endDate": {
+            "year": 1997,
+            "month": 12,
+            "day": 12
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "This OVA is a live-action/animation mixed collection of short school ghost stories.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 32,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Horror"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 251,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 20143,
+          "title": {
+            "userPreferred": "Kazu & Yasu Hero Tanjou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20143.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20143.jpg",
+            "color": "#5daee4"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 7,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 7,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Based on the real life events. Biography animation depicting the football careers of Kazuyoshi Miura and his elder brother Yasutoshi.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 92,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 86,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 19049,
+          "title": {
+            "userPreferred": "Tobe! Pegasus Kokoro no Goal ni Shoot"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19049.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19049.jpg",
+            "color": "#e4ae28"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 6,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 6,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The movie is about the soccer team Pegasus created from the visually impaired children studying in the Chiba Prefectural School for the Blind.<br><br>\n(Source: allcinema)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 74,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 63,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18819,
+          "title": {
+            "userPreferred": "Alice Tantei Kyoku"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18819.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18819.jpg",
+            "color": "#ffd600"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 4,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1997,
+            "month": 1,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": null,
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 56,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 89,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 18573,
+          "title": {
+            "userPreferred": "Noobow (TV)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18573.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18573.jpg",
+            "color": "#e4c950"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 10,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1996,
+            "month": 3,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": null,
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 91,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 17649,
+          "title": {
+            "userPreferred": "Udauda Yatteru Hima wa Nee!"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17649.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17649.jpg",
+            "color": "#e4436b"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 4,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 8,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Anime adaptation of the manga \"Udauda Yatteru Hima wa Nee!\" by Hideyuki Yonehara, serialized in Weekly Shounen Champion.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 50,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 103,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16552,
+          "title": {
+            "userPreferred": "Heong-geuli Beseuteu 5"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16552.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16552.jpg",
+            "color": "#e4931a"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 12,
+            "day": 23
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 12,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": null,
+          "description": "Kim Youngwoong is a highschool basketball player. He participates in the junior Asian Cup competition help in Hong King, and plays the final match against the Chinese team. His last dramatic shot brings victory for the Korean team. Chae Yo omi, the Korean consul's daughter can't forget his last impressive shot. Back home, Youngwoong is sought after by every university which has a basketball team. However, Youngwoong decides to join the least famous team because his very first coach, Kim In, advises him to.<br><br>\n(Source: KoreaFilm)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 74,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 16263,
+          "title": {
+            "userPreferred": "Konchuu Tsurezuregusa"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16263.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16263.jpg",
+            "color": "#5daee4"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 8,
+            "day": 3
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 8,
+            "day": 3
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "This animated film is comprised of five themes chosen from Tezuka Osamu's collection of essays \"Essay in Idleness of Insects\" in which he had compiled studies on insects. Although this collection contains mainly academic studies, it also includes records of insect observation that lead to literary conclusions with mysterious or mythical imagery. The five essays are done in different animation techniques, and each episode is followed by a scene with the boy Tezuka Osamu and a swallow-tailed butterfly called \"Oomurasaki.\" The film depicts the boy Tezuka Osamu desperately chasing Oomurasaki with his butterfly net, together with what he saw in his dreams. This work was screened at the show \"Tezuka Osamu: Images of the Past and Future\". <br><br>\n(Source: tezukaosamu.net)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 15,
+          "chapters": null,
+          "volumes": null,
+          "genres": [],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 108,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 12793,
+          "title": {
+            "userPreferred": "Yanbo Ninbo Tonbo"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12793.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12793.jpg",
+            "color": "#d6ae6b"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 4,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1996,
+            "month": 1,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on (and updated from) a 1950s NHK radio drama.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 39,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 72,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 11197,
+          "title": {
+            "userPreferred": "Kuma no Puutarou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11197.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11197.jpg",
+            "color": "#e4ae28"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 4,
+            "day": 19
+          },
+          "endDate": {
+            "year": 1996,
+            "month": 3,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The series depicts Puutarou's peculiar encounters with his bizarre neighbors.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 30,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 71,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9812,
+          "title": {
+            "userPreferred": "Bit the Cupid"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9812.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9812.jpg",
+            "color": "#e4a15d"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 4,
+            "day": 26
+          },
+          "endDate": {
+            "year": 1996,
+            "month": 3,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Comedy about a character who shoots arrows that cause pairs of people to fall madly in love and float about in an ecstasy of emotion.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 48,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 81,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 9376,
+          "title": {
+            "userPreferred": "Yamato Takeru: After War"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9376-mNgCp1iA8DSI.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9376-mNgCp1iA8DSI.jpg",
+            "color": "#e45d1a"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 11,
+            "day": 22
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 11,
+            "day": 22
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Three years have passed after the decisive battle at the end of Yamato Takeru  and peace has return to the land. Takeru, Oto and their friends return to the village and continue living their days in bliss until one night Shuranoo, piloted by Mikazuchi, marks a return and appears in the village to wreak havoc. Takeru is left without any choice and is forced to reactivate the sealed Susanoo from his slumber. However, this is just the beginning of a new threat, and Takeru has to overcome himself if he wants to rescue Oto from the impending danger.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 2,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 162,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 7245,
+          "title": {
+            "userPreferred": "The World's Most Famous Tales"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7245.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7245.jpg",
+            "color": "#f1d65d"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 4,
+            "day": 7
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 9,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Based on Western tales from the usual suspects: 1001 Nights, C. Perrault , Beaumont , J. &amp; W. Grimm , H. C. Andersen , C. Collodi , English fairytale , H. Pyle , L. Carrol , J. Swift , A. Dumas , E. T. A Hoffman , L. F. Baum , J. Spyri <br><br>\nOnly 21 stories were broadcast with the last 5 being released on VHS.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 175,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 4782,
+          "title": {
+            "userPreferred": "Mama Loves the Poyopoyo-Saurus"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4782.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4782.jpg",
+            "color": "#f1ae35"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 9,
+            "day": 2
+          },
+          "endDate": {
+            "year": 1996,
+            "month": 8,
+            "day": 31
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "This is the story of a young couple who struggle with their children.<br><br>\nMiki is the mother of two kids, Hyoga and Jura. Hyoga is a 4-year-old boy and Jura is a 2-year-old girl. Miki writes children's books at home. Miki wants to be a gentle and kind mother, but it is difficult to be patient with the kids. Her husband Gendai tries to be as cooperative as he can and helps her to attend to the kids. But sometimes he only makes her even angrier.<br><br>\n(Source: animenfo)<br><br>",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 52,
+          "duration": 20,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 171,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2980,
+          "title": {
+            "userPreferred": "Fantascience World Gulliver Boy"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2980-7Fsum1nJflpK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2980-7Fsum1nJflpK.jpg",
+            "color": "#355da1"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 1,
+            "day": 8
+          },
+          "endDate": {
+            "year": 1995,
+            "month": 12,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Gulliver, a boy born with the ability to use magic was forced against his will to attend a magician school to improve his abilities to protect his city. He manages to escape just to find out that his home town was destroyed by the evil Judau's army. Judau personally kills his father and oaths to kill Gulliver as well. Meanwhile Gulliver and his friend Eddison rescue a girl named Misty who is running away from Judau. Along with a fairy named Phoebe, a lone wolf ninja named Gecko and an ancient ship; Gulliver and his friends set out on an adventure to defeat Judau and to discover the secrets of Atlantis.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 50,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 279,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2366,
+          "title": {
+            "userPreferred": "Fighting Devil Divinity Oni"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2366.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2366.jpg",
+            "color": "#d6a11a"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 10,
+            "day": 5
+          },
+          "endDate": {
+            "year": 1996,
+            "month": 3,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Shuramaru is hated and feared by the villagers for his unusual powers. He thinks he is human, but... is he?<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 25,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 154,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1850,
+          "title": {
+            "userPreferred": "Lord of Lords Ryu Knight: Adeu's Legend II"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1850-fqWiQpI6ZWQB.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1850-fqWiQpI6ZWQB.jpg",
+            "color": "#f1d650"
+          },
+          "startDate": {
+            "year": 1995,
+            "month": 12,
+            "day": 18
+          },
+          "endDate": {
+            "year": 1996,
+            "month": 4,
+            "day": 25
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1850-IIYLqqTSekrw.jpg",
+          "season": "WINTER",
+          "description": "Continuation of the series.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy",
+            "Mecha"
+          ],
+          "isAdult": false,
+          "averageScore": null,
+          "popularity": 176,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

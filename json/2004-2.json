@@ -1,0 +1,2497 @@
+{
+  "data": {
+    "Page": {
+      "pageInfo": {
+        "total": 289,
+        "perPage": 50,
+        "currentPage": 2,
+        "lastPage": 6,
+        "hasNextPage": true
+      },
+      "media": [
+        {
+          "id": 603,
+          "title": {
+            "userPreferred": "Pretty Cure"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx603-Ivgyjo8ZMuzT.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx603-Ivgyjo8ZMuzT.jpg",
+            "color": "#50a1f1"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 2,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2005,
+            "month": 1,
+            "day": 30
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n603-FPlAxroSkLw5.jpg",
+          "season": "WINTER",
+          "description": "Nagisa Misumi and Honoka Yukishiro couldn't be more different. Nagisa is sporty and Honoka bookish, and while they attend the same school, they have very little in common - until one day, a shower of shooting stars brings two very unlikely visitors into their lives: Mipple and Mepple, refugees from the Garden of Light, which has been conquered by Darkness. Endowed with new and startling powers, Nagisa and Honoka become Cure Black and Cure White, magical defenders of the light - together, they are Pretty Cure. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 49,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Mahou Shoujo"
+          ],
+          "isAdult": false,
+          "averageScore": 68,
+          "popularity": 8791,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 18,
+                  "name": "Toei Animation"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 226,
+          "title": {
+            "userPreferred": "Elfen Lied"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx226-vqteB2impeYH.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx226-vqteB2impeYH.png",
+            "color": "#e45d93"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 7,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 10,
+            "day": 17
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/226.jpg",
+          "season": "SUMMER",
+          "description": "The Diclonius, a mutated homosapien that is said to be selected by God and will eventually become the destruction of mankind, possess two horns on their heads and have a \"sixth sense\" which gives them telekinetic abilities. Due to this dangerous power, they have been captured and isolated in laboratories by the government. Lucy, a young and psychotic Diclonius, manages to break free of her confines and brutally murders most of the guards in the laboratory where she is being held, only to be shot in the head as she makes her escape. She survives, falling off a cliff into the ocean and manages to drift along to a beach where two teenagers, Kouta and Yuka, discover her. Having lost her memories, she was named after the only thing that she can now say, \"Nyuu,\" and the two allow her to stay at Kouta's home. However, it appears that the psychotic side of Lucy is not dead just yet... <br><br>\r\n(Source: ANN - Revised)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Ecchi",
+            "Horror",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 68,
+          "popularity": 141331,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 38,
+                  "name": "Arms"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 25,
+          "title": {
+            "userPreferred": "Desert Punk"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx25-H1etX7IgfFtQ.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx25-H1etX7IgfFtQ.jpg",
+            "color": "#e4785d"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 10,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2005,
+            "month": 3,
+            "day": 30
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/25-F2qEJ3hvFzHj.jpg",
+          "season": "FALL",
+          "description": "In the future, Japan is a wasteland. In the Great Kantou Desert, scattered humans eke out a living in the hot sand. Among them, a short-statured man they call \"Sunabouzu\" makes a living as a bounty hunter. Like a demon of the sand, he seems unbeatable. Yet, like all men, he has a particular weakness for the opposite sex... <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 68,
+          "popularity": 15226,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 3,
+                  "name": "GONZO"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 131,
+          "title": {
+            "userPreferred": "Saiyuki Gunlock"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/131.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/131.jpg",
+            "color": "#6b351a"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 9,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The Sanzo Ikkou continues its westward journey, on a mission to prevent a demonic resurrection. As Genjo Sanzo, Cho Hakkai, Sha Gojyo, and Son Goku fight their way to their goal, their path is fraught with internal strife. When they encounter a formidable pair of adversaries from the west, the cohesion of the group -- and the fate of the mission -- may be at stake.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 68,
+          "popularity": 2309,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 844,
+          "title": {
+            "userPreferred": "Zatch Bell! 101st Devil"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/844.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/844.jpg",
+            "color": "#f1e428"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 8,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 8,
+            "day": 7
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "During the Summer holidays, Gash and gang decide to head for Fuji Mountain for a picnic gathering. There, they encounter a girl with a white magical book. Her name is Kotoha and her book has a message saying that Gash's mother is located a cave in the forest. However, when they eventually found the cave, there was already a blond-haired youth by the name of Wiseman. In order to rescue Wiseman, Gash and the others attempt to proceed into the depths of the cave and stumble upon the entrance to another world. Soon enough, the strongest warrior, the Black Knight, appeared before them. Thinking that Gash was the one who stole the 101st magical book, the Black Knight started to attack them. Gash and Kiyomaro have to find the real criminal in exactly 24 hours, or else they will be stuck in the alternative world forever.",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 84,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 67,
+          "popularity": 1294,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2656,
+          "title": {
+            "userPreferred": "Doraemon: Nobita's Wannyan Space-Time Legend"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2656.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2656.jpg",
+            "color": "#f1c928"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 3,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 3,
+            "day": 6
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "One day, Nobita finds a stray dog drowning in a river while playing by the river side. Feeling sorry for the dog, he decides to take it home by hiding it in a \"kennel on the wall\" and names it Ichi (originated from \"One\", which sounds similar to \"wan\", the sound a dog makes according to the Japanese language), and secretly feeds it and plays with Ichi with his Kendama to find. Soon after, he also adopts a stray cat named Zubu (or wet in Japanese, due to the discovery of it in a rainstorm)... and many other stray cats and dogs. With so many stray cats and dogs, Nobita, along with his friends, decide to send them back in time, 300 million years ago, where there was no other living beings around. After using the Ray of Evolution to allow them to operate a food-making machine, they depart, with a promise to return to the present.<br><br>\nHowever, when they try to visit them the next day (from their point of view), they encountered a time-space anomaly, sending them crash landing 1,000 years before their original time-destination&mdash; to their surprise, They found out the dogs and cats have evolved enough to form a civilized society that rivaled those of Future Society. As the time machine is broken, they try to find help to repair it so they can continue their chrono-journey, only to learn of a bigger issue &mdash; a cluster of asteroids are going to Collide with Earth.<br><br>\nWill Nobita finally reunite with Ichi, as he promised? More over, what's with Hachi, a dog who resembles Ichi greatly? The 300 million years of time and space adventure begins.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 80,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 67,
+          "popularity": 956,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1259,
+          "title": {
+            "userPreferred": "Saint Seiya: The Heaven Chapter - Overture"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1259.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1259.jpg",
+            "color": "#e4d650"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 2,
+            "day": 14
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 2,
+            "day": 14
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1259-HIOmnwoJPrme.jpg",
+          "season": "WINTER",
+          "description": "After the Saints' victory against Hades, Seiya is left wounded and motionless in a wheel chair with no possible chance of recovery. Athena's sister Artemis, the Virgin Goddess of the Moon and twin sister of Apollo, makes an elaborate proposal - to restore Seiya's physical health in exchange for the supremacy of Sanctuary. Athena accepts and Artemis and her \"Knights of the Sky\" swiftly take control of Sanctuary. Now Seiya and his fellow Bronze Saints combat the forces of Zeus to regain their homeland but it will not be so easy. Bronze Saints Hydra Ichi and Unicorn Jabu, and Silver Saint Ophiuchus Shaina have join forces with Artemis and Apollo.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 80,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 67,
+          "popularity": 3365,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 442,
+          "title": {
+            "userPreferred": "Naruto the Movie: Ninja Clash in the Land of Snow"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx442-VJbmIVTgmne3.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx442-VJbmIVTgmne3.png",
+            "color": "#e46b50"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 8,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 8,
+            "day": 21
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/442-Mi9O1QwTaXqQ.jpg",
+          "season": "SUMMER",
+          "description": "Kakashi orders Naruto, Sasuke, and Sakura to watch a movie before their next mission. Naruto is a big fan of the lead actress. After the movie, they see the heroine in person and being chased. They help her and Naruto asks for an autograph but she wouldn't give him one. When the three returns, Kakashi tells them about their mission: to escort the actress to the Snow Country to film a new movie.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 90,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 67,
+          "popularity": 30221,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 1,
+                  "name": "Studio Pierrot"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 463,
+          "title": {
+            "userPreferred": "One Piece: The Curse of the Sacred Sword"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx463-QDnETPoHp9oD.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx463-QDnETPoHp9oD.jpg",
+            "color": "#e45078"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 3,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 3,
+            "day": 6
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/463-zgU5XjUCR7Kv.jpg",
+          "season": "SPRING",
+          "description": "Luffy and crew go to an island searching for a legendary sword, said to be the most expensive in the world. Soon attacking marines and beautiful maidens split the crew. Zoro betrays the crew to help an old friend, Luffy and Usopp wander through a cave, and the rest help a village fight marines. When Zoro defeats Sanji he takes the sacred pearls that are the only defense against the evil sword that will plunge the world into darkness. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 95,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 67,
+          "popularity": 9681,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3468,
+          "title": {
+            "userPreferred": "Maria Watches Over Us"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3468-rJcX7lhOjgt7.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3468-rJcX7lhOjgt7.jpg",
+            "color": "#d6bb78"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 10,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3468-xCvKatXUskD6.jpg",
+          "season": "SPRING",
+          "description": "A series of specials included on the Maria-sama ga Miteru DVD releases.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 7,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 67,
+          "popularity": 1457,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 634,
+          "title": {
+            "userPreferred": "Koi Kaze"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx634-gziccUWhJQBB.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx634-gziccUWhJQBB.png",
+            "color": "#d61a78"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 6,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Saeki Koushirou works as a wedding planner, but his own love life is a shambles. His background makes it difficult for him to commit himself wholeheartedly to love. The child of a divorced couple, he lives with his father. He has a mother and a sister, but he has not seen them in years. After being dumped by his girlfriend, a chance encounter with a female high school student shakes Koushirou's calm and awakens new feelings in him - but he learns that the girl is in fact his sister, who will now be staying with his father and him. Yet, the feelings in Koushirou's heart... <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 67,
+          "popularity": 12846,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 179,
+                  "name": "A.C.G.T."
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2337,
+          "title": {
+            "userPreferred": "Tetsujin 28"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2337-5bWtfDud2VHi.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2337-5bWtfDud2VHi.png",
+            "color": "#e4ae5d"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 8
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 9,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "In post-WWII Japan, Prof. Shikishima has built up Shikishima Industries to be a technological powerhouse, working on developing robots. However, at the heart of their success lurks a dark secret from the war, something that cost the life of Prof. Kaneda, the mentor of Prof. Shikishima. Now Kaneda's son, Shoutarou, is about to learn the truth, and it will change him forever.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 66,
+          "popularity": 1308,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 455,
+                  "name": "Palm Studio"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1122,
+          "title": {
+            "userPreferred": "Pokémon: Destiny Deoxys"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1122-HCkAs0hqlJwK.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1122-HCkAs0hqlJwK.jpg",
+            "color": "#e47850"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 7,
+            "day": 17
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 7,
+            "day": 17
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1122-hGrRYfEr0Nrd.jpg",
+          "season": "SUMMER",
+          "description": "Satoshi and his friends travel to LaRousse, where they meet a boy named Tooi who is afraid of Pokemon due to an incident that happened four years earlier. Meanwhile, Deoxys, a Pokemon from space, has reappeared, putting a barrier around the city and kidnapping people. Rayquaza, a Pokemon that lives in the atmosphere, comes to fight it.<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 98,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 66,
+          "popularity": 16879,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 28,
+                  "name": "OLM"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 483,
+          "title": {
+            "userPreferred": "Kurau Phantom Memory"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx483-huW3GD9cUqSi.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx483-huW3GD9cUqSi.png",
+            "color": "#e4d693"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 6,
+            "day": 24
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 12,
+            "day": 15
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/483-E8FpGnzxTDdI.jpg",
+          "season": "SUMMER",
+          "description": "It is the year 2100, and on the colonized Moon, a project is under way to explore new aspects of energy. Amami Kurau is the daughter of the chief scientist on the project, and on her 12th birthday, she accompanies her father to the lab to observe the experiments. Then something goes awry, and Kurau is struck by twin bolts of light. In the aftermath, her father is dismayed to find that his daughter is no longer his daughter. Rather, her body is now home to two energy entities with fantastic powers.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 66,
+          "popularity": 3889,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 4,
+                  "name": "bones"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 5967,
+          "title": {
+            "userPreferred": "Kinnikuman II Sei: Ultimate Muscle"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5967.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5967.jpg",
+            "color": "#d6861a"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 6,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The Chojin Crown, the tournament which Mantaro (Kid Muscle) reluctantly participates in. After going along with the obstacles (most of which were created to try and eliminate him), he qualified.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Sci-Fi",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 66,
+          "popularity": 1187,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3469,
+          "title": {
+            "userPreferred": "Maria Watches Over Us: Printemps"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3469-Qhg8rOtTvQsF.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3469-Qhg8rOtTvQsF.jpg",
+            "color": "#1aa1d6"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 10,
+            "day": 22
+          },
+          "endDate": {
+            "year": 2005,
+            "month": 5,
+            "day": 23
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3469-ZI5bWAlIzqN1.jpg",
+          "season": "FALL",
+          "description": "Specials of <i>Maria-sama ga Miteru: Haru</i> released on the DVDs only.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 6,
+          "duration": 2,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 66,
+          "popularity": 1246,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1203,
+          "title": {
+            "userPreferred": "NITABOH: Tsugaru Shamisen Shiso Gaibun"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1203.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1203.jpg",
+            "color": "#e46b5d"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 2,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 2,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "At a young age, Nitaroh is stricken with an illness that leaves him blind. He inherits the shamisen guitar once used by his mother and is taught its basics by a blind travelling shamisen player. In time with the help of friends old and new, he walks the paths that leads to his ultimate fate - that of founder of the Tsugaru style of shamisen play.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 99,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Music"
+          ],
+          "isAdult": false,
+          "averageScore": 66,
+          "popularity": 1742,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 318,
+                  "name": "WAO World"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 173,
+          "title": {
+            "userPreferred": "Tactics"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/173.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/173.jpg",
+            "color": "#784328"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 10,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2005,
+            "month": 3,
+            "day": 30
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173-z8dfMlhPkd6M.jpg",
+          "season": "FALL",
+          "description": "Ichinomiya Kantarou grew up with the ability to see demons, but was isolated and bullied by others who did not share the same gift. Instead, he became being friends with the demons, gaining a great attachment to their existence. One day, Kantarou was told about the strongest demon, the one known as the ogre-eating Tengu. Amazed by the news of his strength, Kantarou vowed to find this demon who was far stronger then any other, deciding to call him Haruka when he did so. Since this time, Kantarou searched far and wide for the ogre-eating Tengu with no luck, making his living by becoming a folklore writer and demon-buster. On a particularly job, Kantarou had finally found news of a nearby shrine supposedly the place where the ogre-eating Tengu was sealed.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 25,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Mystery"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 3386,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              },
+              {
+                "isMain": true,
+                "node": {
+                  "id": 135,
+                  "name": "MediaNet"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 54,
+          "title": {
+            "userPreferred": "Appleseed (Movie)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx54-EIMIUlH3FuJb.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx54-EIMIUlH3FuJb.jpg",
+            "color": "#0d786b"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 17
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 17
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Growing out of the chaos of a global war, the city of Utopia is populated by humans and bioroids (artificial humans). On the surface, everything is harmonious, but tensions lurk. Into this seemingly perfect society comes a survivor of the wars, Deunan Knute, who carries a legacy that will turn out to be of critical importance to the future of humanity. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 105,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 6462,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 486,
+                  "name": "Digital Frontier"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1086,
+          "title": {
+            "userPreferred": "Mars Daybreak"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1086-k0AG8q8C4134.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1086-k0AG8q8C4134.jpg",
+            "color": "#28a1e4"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 1
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 9,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Mars is now almost entirely covered in water. Humanity exists in large city-ships that float through the open seas. But life is hard for those who live on Mars&mdash;the economy is in bad shape, work is scarce, and food is expensive and highly prized. Gram and his friends try to do the best they can, but the work keeps drying up. Some have taken to a life of piracy to combat the corruption in the government; one such group is the pirates of the feared Ship of Aurora. And the Earth government, which rules Mars, has dispatched a new team of military pilots to combat them. In their specialized mecha called Round Bucklers, they must make the seas of Mars safe for humanity. Caught in the wrong place at the wrong time, Gram finds himself on the run with the most notorious pirates on Mars. But here's the thing&mdash;he's starting to like them!<br><br>\n(Source: Bandai Entertainment)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 2537,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 4,
+                  "name": "bones"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 252,
+          "title": {
+            "userPreferred": "Madlax"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx252-VPLN6O7v18RC.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx252-VPLN6O7v18RC.png",
+            "color": "#f1a150"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 9,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/252-VhuaDuAJowmp.jpg",
+          "season": "SPRING",
+          "description": "In the country of Gazth-Sonika, civil war rages. There, a mercenary called Madlax plies her trade, with almost supernatural skill. In the seemingly peaceful country of Nafrece, Margaret Burton lives a tranquil life. As separate as their lives may seem, the two are connected by ties of mystery, and by a holy book that is also sought by the shadowy organisation, Anfan. As Margaret and Madlax follow the path of their destiny, they come ever closer to uncovering the truth - with no guarantee that it is a truth they can bear to learn.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 5114,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 5,
+                  "name": "Bee Train"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 94,
+          "title": {
+            "userPreferred": "Mobile Suit Gundam Seed Destiny"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/94.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/94.jpg",
+            "color": "#e45d78"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 10,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2005,
+            "month": 10,
+            "day": 1
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/94-RuejO7P6dcrm.jpg",
+          "season": "FALL",
+          "description": "C.E. 73: While the second battle of Yachin Due brought the war between the Naturals and Coordinators to a close, tensions between the two races are at an all-time high. During a meeting between PLANT Chairman Gilbert Dullindal and Orb Representative Cagalli Yula Athha, a unit of soldiers hijack ZAFT's newly developed Gundams. ZAFT soldier Shinn Asuka along with his friends at the ZAFT ship Minerva sortie in attempt to deter this hijacking. With the assistance of Cagalli's bodyguard, Athrun Zala, the Minerva chases after the unknown ship that hijacked the Gundams until an even greater problem occurs leading to the start of the second Bloody Valentine war.",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 50,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 10252,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1429,
+          "title": {
+            "userPreferred": "Lupin III:  Nusumareta Lupin - Copy Cat wa Manatsu no Cho"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1429.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1429.jpg",
+            "color": "#e45d35"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 7,
+            "day": 30
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 7,
+            "day": 30
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "In the middle of an airborne heist, Lupin goes from stealing to stolen as he's carted off and forced to do a job for a mysterious man identifiable only by the brand of cigarette he smokes. Lupin's mission: to steal the infamous \"Bull's Eye\", a small green jewel best-known for the fact that everyone who's ever stolen it has ended up dead. Along with the challenge of alternately evading and pursuing a young thief with a competitive streak, Lupin and the gang must unravel the mystery of the Bull's Eye before its curse - or their mysterious taskmaster - gets the better of them.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 91,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 1375,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 3485,
+          "title": {
+            "userPreferred": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Tachikomatic Days"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3485.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3485.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 9,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2006,
+            "month": 9,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Tachikomatic Days is a series of comedic shorts attached to the end of every episode of Ghost in the Shell: Stand Alone Complex 2nd GIG. The shorts feature the antics of the Tachikoma think tanks of Section 9 and usually involve plot points. The average short time is a little over a minute.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 26,
+          "duration": 1,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 2485,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 872,
+          "title": {
+            "userPreferred": "Tweeny Witches"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b872-6KgaLK9RoUA4.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b872-6KgaLK9RoUA4.png",
+            "color": "#f19350"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2005,
+            "month": 3,
+            "day": 4
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/872-l4LGoKGrRPOG.jpg",
+          "season": "SPRING",
+          "description": "Alice believes in magic. With all her heart, she believes that magic is possible and that it can be used for good deeds and fun games. But suddenly, she finds herself transported into another world, ruled by a mysterious elite of witches - and these witches don't seem to be in it for the fun. They're hard at work capturing sprites, the native magical beings of the world, and forcing them into slavery. Once Alice realizes that her new surroundings aren't just a dream, she sets out to change things.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV_SHORT",
+          "status": "FINISHED",
+          "episodes": 40,
+          "duration": 9,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 4833,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 13,
+                  "name": "Studio 4°C"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 655,
+          "title": {
+            "userPreferred": "Galaxy Angel X"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b655-7QFJtVvdu0Hq.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b655-7QFJtVvdu0Hq.jpg",
+            "color": "#50bbe4"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 7,
+            "day": 7
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 9,
+            "day": 29
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Starting out with the new Galaxy Angel, Chitose Karasuma, the Angel Troupe continue their search for The Lost Technology while running into different kinds of mishaps.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 1144,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 108,
+          "title": {
+            "userPreferred": "Jing: King of Bandits - Seventh Heaven"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/108.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/108.jpg",
+            "color": null
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 1,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Jing, the infamous King of Bandits, finds himself and his feathered partner Kir behind bars in Seventh Heaven, the most notorious prison complex in the world. There, they seek to steal the Dream Orb from the convict Campari. But before doing so, they must escape from the prison of dreams that Campari has conjured for them. <br>",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 1535,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 37,
+                  "name": "Studio DEEN"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2109,
+          "title": {
+            "userPreferred": "Rockman.EXE Stream"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2109.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2109.jpg",
+            "color": "#f1d61a"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 10,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2005,
+            "month": 9,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "A comet burns in the sky, its brilliant light shining down upon the people of Earth. At that time, a giant army of viruses invade the real world, crushing everything in their path. Netto and Enzan use cross fusion to intervene, but are whisked away to an unknown location, only to be confronted by the one responsible for the attack - Duo! <br><br>\n(Source: Official Site)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 51,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 65,
+          "popularity": 1544,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 395,
+          "title": {
+            "userPreferred": "Gantz: Second Stage"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/395.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/395.jpg",
+            "color": "#c9350d"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 8,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 11,
+            "day": 18
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Kurono Kei and his ex-elementary school classmate, Kato Masaru have survived the first two ordeals that the unknown black sphere Gantz has sent them through. Exploding body parts, struggling to stay alive till the last seconds and seeing your fellow comrades fall in a pile of blood and gore are norm to them now. They are aware now that Gantz can call them up along with any new deeds, at any time for another confrontation with aliens.<br><br>\nWill Kato's experiences in the Gantz world give him the same courage in the real world? With fellow veteran Gantzer Kei Kishimoto currently staying at Kurono's home as his \"adopted pet\", can Kurono stave off his growing lust for her mammaries?<br><br>\nWhat the heck is Gantz?<br><br>\n(Source: anime-source.com)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Ecchi",
+            "Horror",
+            "Psychological",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 15110,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 3,
+                  "name": "GONZO"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 229,
+          "title": {
+            "userPreferred": "Ninja Nonsense"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx229-9pnfDQ6gYzMr.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx229-9pnfDQ6gYzMr.png",
+            "color": "#43aee4"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 7,
+            "day": 10
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 9,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "Kaede is a normal school girl who was studying for her exams for school when suddenly she is interrupted by Shinobu, a girl who is a ninja-in-training, attempting to complete her exam. The problem is, in order for her to successfully complete her exam, she must steal one of Kaede's panties!<br><br>\r\nIn Kaede's attempt to stop Shinobu from stealing her panties, an unexpected friendship is forged between the two. Kaede soon becomes engrossed in Shinobu's world, surrounded by partying ninjas and a yellow pac-man like thing by the name of Onsokumaru, who claims to be the master of all ninjas!<br><br>\r\n[Written by MAL Rewrite]",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 4511,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 43,
+                  "name": "ufotable"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2490,
+          "title": {
+            "userPreferred": "ONE PIECE: Mezase! Kaizoku Yakyuu Ou"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2490-AL4WmnCJ5zvE.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2490-AL4WmnCJ5zvE.jpg",
+            "color": "#ffbb43"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 3,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 3,
+            "day": 6
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2490-jegXMmYxDYd6.jpg",
+          "season": "SPRING",
+          "description": "Luffy and crew takes on Arlong's crew in baseball. Announced by Bon Clay and Buggy.<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Sports"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 4661,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 2269,
+          "title": {
+            "userPreferred": "Mobile Suit Gundam Seed Special Edition"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2269-SIy7CZiOnDSs.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2269-SIy7CZiOnDSs.png",
+            "color": "#e48650"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 8,
+            "day": 27
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 10,
+            "day": 22
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2269-5Pev74Bhsgt4.jpg",
+          "season": "SUMMER",
+          "description": "Three TV movies made from Mobile Suit Gundam Seed series.<br><br>\n1. The Empty Battlefield (Kokuu no Senjou)<br>\n2. The Far-Away Dawn (Harukanaru Akatsuki)<br>\n3. The Rumbling Sky (Meidou no Sora)<br><br>\n\nThe year is CE 70. The tragedy of \"Bloody Valentine\" has escalated the war between the Naturals of the Earth Alliance and genetically-enhanced Coordinators of PLANT to new heights. ZAFT, PLANT's military, has a considerable advantage due to their mobile suits, which the mobile armors of the EA stand no chance against. Kira Yamato is a Coordinator living in Heliopolis, a neutral colony. However, during a surprise attack by ZAFT, Kira stumbles onto the EA's secret project, the powerful mobile suits which Kira calls Gundam. Now forced to fight against his own kinds to protect his Natural friends aboard the EA battleship Archangel, he must choose whether he should fight on, or leave the Archangel defenseless against the four other Gundam that ZAFT has stolen.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 95,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 1493,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 514,
+          "title": {
+            "userPreferred": "Le Portrait de Petit Cossette"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx514-CSCx3ZyVnNV6.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx514-CSCx3ZyVnNV6.jpg",
+            "color": "#e4ae50"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 11
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 12,
+            "day": 22
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/514-B6Ml1EvwzFvn.jpg",
+          "season": "SPRING",
+          "description": "The anime is about art student Eiri Kurahashi, who works in an antique shop. One day, he sees the image of a girl in an antique glass. To his shock, she appears to be moving and living out her life before his eyes. He becomes infatuated with the girl, and one night at midnight, somehow makes contact with her. He learns her name is Cossette, and that she was an aristocrat's daughter during the 18th century.<br><br>\nShe reveals to him that her spirit has been entrapped within the glass by her murder, which was perpetrated by her betrothed, the artist Marcelo Orlando. To set her free, she tells Eiri, a man must be willing to take upon himself punishment for the sins Marcelo committed.<br><br>\n(Source: Wikipedia)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 3,
+          "duration": 36,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Drama",
+            "Horror",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 10225,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 39,
+                  "name": "Daume"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 343,
+          "title": {
+            "userPreferred": "MoonPhase"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx343-Wt1cBNgyjPzU.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx343-Wt1cBNgyjPzU.jpg",
+            "color": "#6b5de4"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 10,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2005,
+            "month": 3,
+            "day": 28
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/343-pZMdmb5u33dB.jpg",
+          "season": "FALL",
+          "description": "Morioka Kouhei wants to become a photographer. Unfortunately, he has the tendency to unintentionally capture the images of ghosts on film.<br><br>\nOne day, he visits an old castle in Germany where he meets a vampire girl, Hazuki. It turns out that Hazuki is confined in the castle against her will. She tries to turn Kouhei into her slave by sucking his blood, with the intent to have him break the device sealing her in the castle. Although Kouhei proves to be immune to the vampire's curse, he is eventually forced to help her. Hazuki successfully escapes from the castle and leaves for Japan to look for her mother.<br><br>\nWhen she arrives in Japan, she goes to Kohei's house where he lives with his grandfather, who agrees to take in the girl. Due to his own childhood experiences, the sympathetic Kouhei agrees to aid Hazuki in her quest.<br><br>\nHowever, other vampires, including Elfried and Count Kinkell, manage to track Hazuki to Japan. They will stop at nothing to retrieve her.<br><br>\n(Source: AnimeNfo)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 25,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 8995,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 44,
+                  "name": "Shaft"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1798,
+          "title": {
+            "userPreferred": "Animation Runner Kuromi 2"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1798.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1798.jpg",
+            "color": "#fe9328"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 1,
+            "day": 28
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 1,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "Following Studio Petit's popularity for Time Journey's, the crew is now faced with 3 anime at the same time. Rushing to fill the quotas, the owner of Studio Petit hires Takashimadaira, a veteran producer to help Kuromi. However, all Takashimadaira cares about is making deadlines, severely hurting the quality of the images. Shihonmatsu, who has been helping Kuromi, gets angry at the new producer and leaves, leaving Kuromi with a difficult choice: to choose between the quality or the deadline.<br>\nStudio Petit managed to survive the production of \"Time Journeys,\" but now that show's finished, and in its place they've got no less than three series to animate, with just four artists, one manager and one director - not to mention one very bedraggled animation runner. And it doesn't help that Shihonmatsu picked this week to quit smoking. As the staff starts to fall behind their crushing deadlines, the owner calls in an old \"pro,\" Takashimadaira, to get production back on track. But once he starts putting speed above quality, the Petit team has to choose between following orders and doing their jobs right.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 45,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 935,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 524,
+          "title": {
+            "userPreferred": "Please☆Twins!: The Summer Never Ends"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/524.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/524.jpg",
+            "color": "#e46b35"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 28
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 28
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Two weeks have passed since the dilemma between Maiku, Karen and Miina was resolved, but their lives are more hectic than ever. Karen has become possessed in her newly discovered brother and Miina is desperate for attention as well, which leaves little time for Maiku to concentrate on his work. Therefore he decides to head out in the woods and set up a camp, where he can be work in peace. But, as always, we have Morino who is up to no good. To make things a bit more interesting, she organizes a field trip to Maiku's camp site, and encourages everyone to make some good summer memories.",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 3056,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 384,
+          "title": {
+            "userPreferred": "Gantz"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-lQAVKHazrxDc.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx384-lQAVKHazrxDc.jpg",
+            "color": "#933528"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 12
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 6,
+            "day": 22
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/384-cPVc0l550dsW.jpg",
+          "season": "SPRING",
+          "description": "Thought your life was bad? Sometimes, death is worse. There is no salvation, peace, nor god waiting to receive you into their care. But wait, a god? Maybe you are talking about that big black ball stuck in the room with you. Now you are thrown into a game, fighting green aliens and robot monsters for the chance to survive.<br><br>\nWhen Kei Kurono is killed, he thus finds himself caught in such a game; a test of his skills, morals and will to survive. His life is not his own, his death spat and trampled upon over and over again. What happens if he does not listen? God knows.<br><br>\nA word of warning: Gantz is not for the faint-hearted, but neither is it as simple as it looks. Gore, rape and violence is rampant, as are portrayals of greed, violence, and all the ugliness that one sees in society today. <br><br>\n[Written by MAL Rewrite]",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Ecchi",
+            "Horror",
+            "Psychological",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 33007,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 3,
+                  "name": "GONZO"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2298,
+          "title": {
+            "userPreferred": "Mobile Suit Gundam Seed: After-Phase Between the Stars"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2298-zhSqhUyGbmBn.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2298-zhSqhUyGbmBn.png",
+            "color": "#f1d6c9"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 3,
+            "day": 26
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 3,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2298-ctg0ohuCOoMz.jpg",
+          "season": "SPRING",
+          "description": "Takes place after the final battle in Gundam Seed.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 5,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 2408,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 14,
+                  "name": "Sunrise"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 8364,
+          "title": {
+            "userPreferred": "Crayon Shin-chan: Arashi wo Yobu! Yuuhi no Kasukabe Boys"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8364.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8364.jpg",
+            "color": "#feae0d"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 17
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 17
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "Shin-chan and his friends discover an abandoned movie theater where some sort of western film is being displayed to an empty room. Shinnosuke's friends mysteriously disappear thus making the Nohara family start searching for them at the location they were last seen. While looking for the other kids, the Noharas inexplicably find themselves taken into the movie being exhibited.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 97,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Slice of Life"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 728,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 284,
+          "title": {
+            "userPreferred": "Area 88 (TV)"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/284.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/284.jpg",
+            "color": "#e4ae5d"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 1,
+            "day": 9
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 3,
+            "day": 26
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/284-aWFTdXqk9KLi.jpg",
+          "season": "WINTER",
+          "description": "Deep in the sandy plains of the Middle Eastern kingdom of Asran, Japanese photojournalist Makoto Shinjou travels to the remote airbase Area 88 to document the activities of the mercenaries who destroy the country's enemies for a living. Among their ranks is Shin Kazama, a Japanese ace pilot who was tricked by his former best friend into signing a contract with the Asran's fighter squad. Because of this, he lost his career as an airline pilot and the chance to marry his fiancee Ryoko Tsugumo. Now, Shin has three choices in order to leave Area 88 and return to Japan: serve the mercenary group for three years, earn US$1.5 million, or desert the base, risking imminent death.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 12,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 64,
+          "popularity": 1866,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 86,
+                  "name": "Group TAC"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 174,
+          "title": {
+            "userPreferred": "Tenjho Tenge"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174-s2PpkrK9X3Rw.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174-s2PpkrK9X3Rw.jpg",
+            "color": "#d6861a"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 2
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 9,
+            "day": 17
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174-r8BOv8sOHWR5.jpg",
+          "season": "SPRING",
+          "description": "Souchirou Nagi and Bob Makihara are two delinquents who arrive at Toudou Academy with the objective of ruling over the school with their strength. But on their first day, they encountered the Jyuukenbu, a martial arts group of the school. Members of the group, Maya Natsume, her sister Aya, and Masataka Takayanagi easily overpowered Souchirou and Bob. And what's more, due to what was assumed to be their \"connections\" with the Jyuukenbu, the two were attacked by members of the Enforcement Group, which oversees the martial arts groups of the school. Drawn into the personal conflicts between the Jyuukenbu and the Enforcement Group, Souchirou and Bob have no choice but to join up with Maya Natsume's group and to hone their skills to become even stronger.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Ecchi"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 17684,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 11,
+                  "name": "MADHOUSE"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1104,
+          "title": {
+            "userPreferred": "Shinkon Gattai Godannar 2nd Season"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1104.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1104.jpg",
+            "color": "#e4ae50"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 4,
+            "day": 5
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 6,
+            "day": 27
+          },
+          "bannerImage": null,
+          "season": "SPRING",
+          "description": "The history is placed right after the -cliffhanger- end of Godannar when Anna looks surprised to see Mira driving the Neo Okusaer.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 1047,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1246,
+          "title": {
+            "userPreferred": "Yugo the Negotiator"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1246.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1246.jpg",
+            "color": "#e4d6a1"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 2,
+            "day": 24
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 5,
+            "day": 25
+          },
+          "bannerImage": null,
+          "season": "WINTER",
+          "description": "\"Negotiation means, you turn words into weapons\"<br><br>\nThis is the realization of the popular comic Yu-go that was published in Kondasha Afternoon Magazine over a period of 10 years.<br><br>\nBeppu Yuugo is the world`s most successful negotiator. His only weapons are \"words\". Yuugo doesn`t kill people. Neither does he threaten them with brute violence. With rich knowledge and a calm judgement, he believes in the humans inside them. Doing only that he has managed many dangerous negotiations successfully until now. Now two of the many episodes have been chosen very carefully, one taking place in Russia, the other one in Pakistan. In the burning desert and the freezing Siberia Yuugo begins his negotiations.<br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 24,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Drama",
+            "Mystery",
+            "Psychological"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 2032,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 642,
+          "title": {
+            "userPreferred": "Strawberry 100%"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/642.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/642.jpg",
+            "color": "#f1a143"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 9,
+            "day": 23
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 9,
+            "day": 23
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Continues from where Ichigo 100% TV leaves off and revolves around the filming of the movie based off Toujou's script. (Best if viewed after Ichigo 100% TV series and before the DVD Animation OVAs, although it was produced the year before the series came out.)",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Ecchi",
+            "Romance"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 2260,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 109,
+          "title": {
+            "userPreferred": "Burst Angel"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109-WfAppfDHUpBf.png",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx109-WfAppfDHUpBf.png",
+            "color": "#f1ae35"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 5,
+            "day": 6
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 9,
+            "day": 14
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109-U0Tax5wf87m1.jpg",
+          "season": "SPRING",
+          "description": "In a crime-ridden future Japan, Kyohei Tachibana is a peaceful student at a culinary school, dreaming of going to France for advanced study as a patissier (pastry chef). To afford the trip, he accepts a part-time job as private cook to a strange group of women - Sei, Meg, Jo and Amy. To Kyohei's astonishment, they turn out to be a band of violent mercenaries, and he finds himself in the line of fire. ",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 24,
+          "duration": 23,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Mecha",
+            "Sci-Fi"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 6722,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 3,
+                  "name": "GONZO"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2248,
+          "title": {
+            "userPreferred": "Hidden Leaf Village Grand Sports Festival"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2248.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2248.jpg",
+            "color": "#2886e4"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 8,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 8,
+            "day": 21
+          },
+          "bannerImage": null,
+          "season": "SUMMER",
+          "description": "The genin of Kohona are having a sports day filled with races, obstacle courses and of course the relay and the prize is a paid vacation for the winner. Unfortunately Naruto and his stomach are getting him into trouble again.",
+          "type": "ANIME",
+          "format": "SPECIAL",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 11,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 63,
+          "popularity": 7058,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 1894,
+          "title": {
+            "userPreferred": "Yu-Gi-Oh! The Movie: Pyramid of Light"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1894.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1894.jpg",
+            "color": "#f15d0d"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 8,
+            "day": 13
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 8,
+            "day": 13
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1894-h1wdlOMVyVBT.png",
+          "season": "SUMMER",
+          "description": "Anubis, an ancient Egyptian evil that was defeated by Yugi's alter ego centuries ago, has returned to exact revenge. Wielding the power of the Eighth Millennium Item, Anubis is determined to destroy Yugi and take over the world.\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 101,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 10978,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 36,
+                  "name": "Studio Gallop"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 884,
+          "title": {
+            "userPreferred": "Blade of the Phantom Master"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/884.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/884.jpg",
+            "color": "#43bbe4"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 12,
+            "day": 4
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 12,
+            "day": 4
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "After wandering through the desert for days, a bitter warrior named Munsu is lost and unable to continue. His life is unexpectedly saved by Mon-ryon, a young man who dreams of becoming a secret agent for Jushin, a once-great country that was recently destroyed. Mon-ryon's goal is to save his girlfriend, Chunhyan, a born fighter who is held captive by the evil Lord Byonand. Then, from out of nowhere, blood begins trickling from his chest. He has been fatally wounded by the Sarinjas, a cannibalistic breed of desert goblin. The quick-thinking Munsu convinces these beasts to spare his life, in exchange for the peaceful handover of Mon-ryon's appetizing corpse. Although skeptical of Mon-ryon's motives, Munsu sets out to continue the mission that the young idealist described. Accompanied by an army of ghost troops, unleashed using the powers of Angyo Onshi, Munsu liberates Chunhyan. After visiting her boyfriend's final resting place, she declares herself Munsu's bodyguard and, together, they set out on a mission to punish those who stripped Jushin of its original glory. <br><br>\n(Source: AniDB)",
+          "type": "ANIME",
+          "format": "MOVIE",
+          "status": "FINISHED",
+          "episodes": 1,
+          "duration": 85,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 2086,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": [
+              {
+                "isMain": true,
+                "node": {
+                  "id": 28,
+                  "name": "OLM"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 1371,
+          "title": {
+            "userPreferred": "Phoenix"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1371.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1371.jpg",
+            "color": "#e4bb50"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 3,
+            "day": 21
+          },
+          "endDate": {
+            "year": 2004,
+            "month": 6,
+            "day": 27
+          },
+          "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1371-ZhVmE5Lkcy52.jpg",
+          "season": "SPRING",
+          "description": "Hi no Tori is a collection of stories that all have something in common. The Phoenix, whose blood is believed to give an eternal life to one who drinks it. Therefore many seek to kill it, but as the Phoenix of the tale, it's reborn from the ashes. Stories take place in future and the past, where humans fight with each other as always, and everyone is afraid to die. But still, every story teaches a lesson: Life is beginning of an eternity, an never-ending cycle. <br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "TV",
+          "status": "FINISHED",
+          "episodes": 13,
+          "duration": 25,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 1760,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        },
+        {
+          "id": 391,
+          "title": {
+            "userPreferred": "Tales of Phantasia"
+          },
+          "coverImage": {
+            "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/391.jpg",
+            "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/391.jpg",
+            "color": "#5d93e4"
+          },
+          "startDate": {
+            "year": 2004,
+            "month": 11,
+            "day": 25
+          },
+          "endDate": {
+            "year": 2006,
+            "month": 2,
+            "day": 24
+          },
+          "bannerImage": null,
+          "season": "FALL",
+          "description": "Cless Alvein, a young swordsman from the town of Totus, along with his friend Mint Adnade, a healer with the talent of Mana, are sent back in time to defeat Dhaos, a sorcerer imprisoned by their parents decades ago. Along with the help of the archer Chester Barklight, the summoner Klarth F. Lester and the half-elf Arche Klaine, they seek to right the wrongs of Dhaos and return peace to the land. Based on the 1995 Super Famicom Game by NAMCO, \"Tales of Phantasia.\"\n<br><br>\n(Source: Anime News Network)",
+          "type": "ANIME",
+          "format": "OVA",
+          "status": "FINISHED",
+          "episodes": 4,
+          "duration": 30,
+          "chapters": null,
+          "volumes": null,
+          "genres": [
+            "Adventure",
+            "Fantasy"
+          ],
+          "isAdult": false,
+          "averageScore": 62,
+          "popularity": 2839,
+          "nextAiringEpisode": null,
+          "mediaListEntry": null,
+          "studios": {
+            "edges": []
+          }
+        }
+      ]
+    }
+  }
+}
