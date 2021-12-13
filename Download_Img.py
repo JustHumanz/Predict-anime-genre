@@ -34,9 +34,11 @@ for file_name in [file for file in os.listdir(path_to_json) if file.endswith('.j
   with open(path_to_json + file_name) as json_file:
     data = json.load(json_file)
     for i in data['data']['Page']['media']:
+        if i["status"] != "FINISHED": #skip ongoing 
+            continue
+
         newData = dictData.copy()
         AnimeName = i['title']['userPreferred'].strip()
-        Rating = i['averageScore']
 
         for z in ['/',' ','-',',',';','\'']:
             AnimeName = AnimeName.replace(z, "_")      
@@ -58,6 +60,17 @@ for file_name in [file for file in os.listdir(path_to_json) if file.endswith('.j
             newData["Image"] = ImageName
             newData["Year"] = i['startDate']['year']
             newData["Genres"] = i['genres']
+            newData["Type"] = i["type"]
+            newData["Format"] = i["format"]
+            if i["studios"] != None:
+                std = []
+                for k in i["studios"]:
+                    if k["isMain"]:
+                        std.append(k["node"]["name"])
+                newData["Studios"] = std
+            else:
+                newData["Studios"] = []
+
             if i['averageScore']!= None:
                 newData["Rating"] = i['averageScore']
             else:
