@@ -64,7 +64,7 @@ for file_name in [file for file in os.listdir(path_to_json) if file.endswith('.j
             newData["Format"] = i["format"]
             if i["studios"] != None:
                 std = []
-                for k in i["studios"]:
+                for k in i["studios"]["edges"]:
                     if k["isMain"]:
                         std.append(k["node"]["name"])
                 newData["Studios"] = std
